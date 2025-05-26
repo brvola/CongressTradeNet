@@ -14,6 +14,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
     filename="logs/scrape_log.txt",
     level=logging.INFO,
@@ -26,7 +27,6 @@ RATE_LIMIT_DELAY = 0.5
 MAX_WORKERS = 3
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-os.makedirs("logs", exist_ok=True)
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
