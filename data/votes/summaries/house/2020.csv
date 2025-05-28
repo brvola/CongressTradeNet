@@ -1,0 +1,254 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+House,116,2,1,1,2020-01-07,,Call of the House,Passed,0,0,384,47
+House,116,2,2,2,2020-01-08,"Providing for consideration of the bill (H.R. 535) to require the Administrator of the Environmental Protection Agency to designate per- and polyfluoroalkyl substances as hazardous substances under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980",On Ordering the Previous Question,Passed,225,193,0,12
+House,116,2,3,3,2020-01-08,"Providing for consideration of the bill (H.R. 535) to require the Administrator of the Environmental Protection Agency to designate per- and polyfluoroalkyl substances as hazardous substances under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980",On Agreeing to the Resolution,Passed,217,199,0,14
+House,116,2,4,4,2020-01-08,Secure 5G and Beyond Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,413,3,0,14
+House,116,2,5,5,2020-01-09,"Providing for consideration of H. Con. Res. 83, directing the President pursuant to section 5(c) of the War Powers Resolution to terminate the use of United States Armed Forces to engage in hostilities in or against Iran",On Ordering the Previous Question,Passed,227,191,0,12
+House,116,2,6,6,2020-01-09,"Providing for consideration of H. Con. Res. 83, directing the President pursuant to section 5(c) of the War Powers Resolution to terminate the use of United States Armed Forces to engage in hostilities in or against Iran",On Agreeing to the Resolution,Passed,226,193,0,11
+House,116,2,7,7,2020-01-09,Directing the President pursuant to section 5(c) of the War Powers Resolution to terminate the use of United States Armed Forces to engage in hostilities in or against Iran,On Agreeing to the Resolution,Passed,224,194,0,13
+House,116,2,8,8,2020-01-09,Prison to Proprietorship Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,370,41,0,19
+House,116,2,9,9,2020-01-10,,On Agreeing to the Amendment,Failed,161,247,0,28
+House,116,2,10,10,2020-01-10,,On Agreeing to the Amendment,Failed,170,239,0,27
+House,116,2,11,11,2020-01-10,,On Agreeing to the Amendment,Agreed to,242,168,0,26
+House,116,2,12,12,2020-01-10,PFAS Action Act,On Motion to Recommit with Instructions,Failed,187,219,0,24
+House,116,2,13,13,2020-01-10,PFAS Action Act,On Passage,Passed,247,159,0,24
+House,116,2,14,14,2020-01-13,8-K Trading Gap Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,384,7,0,39
+House,116,2,15,15,2020-01-13,Veteran HOUSE Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,362,31,0,37
+House,116,2,16,16,2020-01-14,"Providing for consideration of H.R. 1230, the Protecting Older Workers Against Discrimination Act; H. J. Res. 76, providing for congressional disapproval under chaper 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Borrower Defense Institutional Accountability”",On Ordering the Previous Question,Passed,226,191,0,12
+House,116,2,17,17,2020-01-14,"Providing for consideration of H.R. 1230, the Protecting Older Workers Against Discrimination Act; H. J. Res. 76, providing for congressional disapproval under chaper 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Borrower Defense Institutional Accountability”",On Agreeing to the Resolution,Passed,216,200,0,13
+House,116,2,18,18,2020-01-15,"Appointing and authorizing managers for the impeachment trial of Donald John Trump, President of the United States",On Agreeing to the Resolution,Passed,228,193,0,9
+House,116,2,19,19,2020-01-15,,On Agreeing to the Amendment,Failed,163,257,0,15
+House,116,2,20,20,2020-01-15,Protecting Older Workers Against Discrimination Act,On Motion to Recommit with Instructions,Failed,196,220,0,13
+House,116,2,21,21,2020-01-15,Protecting Older Workers Against Discrimination Act,On Passage,Passed,261,155,0,13
+House,116,2,22,22,2020-01-16,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Borrower Defense Institutional Accountability”",On Passage,Passed,231,180,0,18
+House,116,2,23,23,2020-01-27,Never Again Education Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,393,5,0,32
+House,116,2,24,24,2020-01-27,Advancing Research to Prevent Suicide Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,385,8,0,36
+House,116,2,25,25,2020-01-28,"Providing for consideration of the bill (H.R. 3621) Student Borrower Credit Improvement Act, and providing for consideration of the Senate amendment to the bill (H.R. 550) Merchant Mariners of World War II Congressional Gold Medal Act",On Ordering the Previous Question,Passed,227,184,0,18
+House,116,2,26,26,2020-01-28,"Providing for consideration of the bill (H.R. 3621) Student Borrower Credit Improvement Act, and providing for consideration of the Senate amendment to the bill (H.R. 550) Merchant Mariners of World War II Congressional Gold Medal Act",On Agreeing to the Resolution,Passed,223,189,0,17
+House,116,2,27,27,2020-01-28,Tibetan Policy and Support Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,392,22,0,16
+House,116,2,28,28,2020-01-29,,On Agreeing to the Amendment,Agreed to,231,185,0,19
+House,116,2,29,29,2020-01-29,,On Agreeing to the Amendment,Agreed to,376,38,0,21
+House,116,2,30,30,2020-01-29,Student Borrower Credit Improvement Act,On Motion to Recommit with Instructions,Failed,201,208,0,20
+House,116,2,31,31,2020-01-29,Student Borrower Credit Improvement Act,On Passage,Passed,221,189,0,19
+House,116,2,32,32,2020-01-29,Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act,On Motion to Suspend the Rules and Pass,Passed,320,88,0,21
+House,116,2,33,33,2020-01-30,Merchant Mariners of World War II Congressional Medal Act,On Concurring in the Senate Amdt with Amdt Specified in Section 4(a) of H. Res. 811,Passed,228,175,0,26
+House,116,2,34,34,2020-01-30,Merchant Mariners of World War II Congressional Medal Act,On Concurring in the Senate Amdt with Amdt Specified in Section 4(b) of H. Res. 811,Passed,236,166,0,27
+House,116,2,35,35,2020-02-05,Protect and Restore America’s Estuaries Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,355,62,0,12
+House,116,2,36,36,2020-02-05,GLRI Act,On Motion to Suspend the Rules and Pass,Passed,373,45,0,11
+House,116,2,37,37,2020-02-05,USPS Fairness Act,On Motion to Suspend the Rules and Pass,Passed,309,106,0,14
+House,116,2,38,38,2020-02-06,Raising a question of the privileges of the House,On Motion to Table,Passed,224,193,0,12
+House,116,2,39,39,2020-02-06,"Providing for consideration of H.Res. 826, expressing disapproval of the Trump administration’s harmful actions towards Medicaid; H.R. 2474, the Protecting the Right to Organize Act of 2019; and H.R. 5687, making emergency supplemental appropriations for the fiscal year ending September 30, 2020, and for other purposes",On Ordering the Previous Question,Passed,224,194,0,11
+House,116,2,40,40,2020-02-06,"Providing for consideration of H.Res. 826, expressing disapproval of the Trump administration’s harmful actions towards Medicaid; H.R. 2474, the Protecting the Right to Organize Act of 2019; and H.R. 5687, making emergency supplemental appropriations for the fiscal year ending September 30, 2020, and for other purposes",On Agreeing to the Resolution,Passed,220,194,0,15
+House,116,2,41,41,2020-02-06,,On Agreeing to the Amendment,Agreed to,241,178,0,16
+House,116,2,42,42,2020-02-06,,On Agreeing to the Amendment,Failed,190,229,0,16
+House,116,2,43,43,2020-02-06,,On Agreeing to the Amendment,Failed,187,235,0,13
+House,116,2,44,44,2020-02-06,,On Agreeing to the Amendment,Agreed to,242,178,0,15
+House,116,2,45,45,2020-02-06,,On Agreeing to the Amendment,Failed,187,232,0,16
+House,116,2,46,46,2020-02-06,,On Agreeing to the Amendment,Failed,186,235,0,14
+House,116,2,47,47,2020-02-06,,On Agreeing to the Amendment,Agreed to,404,18,0,13
+House,116,2,48,48,2020-02-06,,On Agreeing to the Amendment,Agreed to,249,173,0,13
+House,116,2,49,49,2020-02-06,Protecting the Right to Organize Act,On Motion to Recommit with Instructions,Failed,195,223,0,11
+House,116,2,50,50,2020-02-06,Protecting the Right to Organize Act,On Passage,Passed,224,194,0,12
+House,116,2,51,51,2020-02-06,Expressing disapproval of the Trump administration’s harmful actions towards Medicaid,On Agreeing to the Resolution,Passed,223,190,0,16
+House,116,2,52,52,2020-02-07,,On Agreeing to the Amendment,Agreed to,257,149,0,29
+House,116,2,53,53,2020-02-07,Emergency Supplemental Appropriations for Disaster Relief and Puerto Rico Disaster Tax Relief Act,On Motion to Recommit,Failed,178,223,0,28
+House,116,2,54,54,2020-02-07,Emergency Supplemental Appropriations for Disaster Relief and Puerto Rico Disaster Tax Relief Act,On Passage,Passed,237,161,0,31
+House,116,2,55,55,2020-02-10,Homeland Security for Children Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,374,11,0,44
+House,116,2,56,56,2020-02-10,DHS Acquisition Reform Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,380,4,0,45
+House,116,2,57,57,2020-02-11,"Providing for consideration of the bill (H.R. 2546) the Colorado Wildnerness Act, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 79) removing the deadline for the ratification of the equal rights amendment; and for other purposes",On Ordering the Previous Question,Passed,222,186,0,21
+House,116,2,58,58,2020-02-11,"Providing for consideration of the bill (H.R. 2546) the Colorado Wildnerness Act, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 79) removing the deadline for the ratification of the equal rights amendment; and for other purposes",On Agreeing to the Resolution,Passed,222,185,0,22
+House,116,2,59,59,2020-02-11,Smithsonian Women’s History Museum Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,374,37,0,19
+House,116,2,60,60,2020-02-12,,On Agreeing to the Amendment,Agreed to,229,189,0,17
+House,116,2,61,61,2020-02-12,,On Agreeing to the Amendment,Failed,181,239,0,15
+House,116,2,62,62,2020-02-12,,On Agreeing to the Amendment,Failed,182,236,0,17
+House,116,2,63,63,2020-02-12,,On Agreeing to the Amendment,Agreed to,406,12,0,17
+House,116,2,64,64,2020-02-12,,On Agreeing to the Amendment,Failed,193,228,0,14
+House,116,2,65,65,2020-02-12,,On Agreeing to the Amendment,Failed,188,233,0,14
+House,116,2,66,66,2020-02-12,,On Agreeing to the Amendment,Agreed to,419,1,0,15
+House,116,2,67,67,2020-02-12,,On Agreeing to the Amendment,Failed,183,234,0,18
+House,116,2,68,68,2020-02-12,Protecting America’s Wilderness Act,On Motion to Recommit with Instructions,Failed,199,215,0,15
+House,116,2,70,70,2020-02-13,Removing the deadline for the ratification of the equal rights amendment,On Passage,Passed,232,183,0,15
+House,116,2,71,71,2020-02-26,Emmett Till Antilynching Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,4,0,16
+House,116,2,69,69,2020-02-12,Protecting America’s Wilderness Act,On Passage,Passed,231,183,0,15
+House,116,2,72,72,2020-02-26,GIVE Act,On Motion to Suspend the Rules and Pass,Passed,412,0,0,17
+House,116,2,73,73,2020-02-26,"To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Chief Standing Bear National Historic Trail, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,402,10,0,17
+House,116,2,74,74,2020-02-27,"Providing for consideration of the bill (H.R. 2339) to amend the Federal Food, Drug, and Cosmetic Act with respect to the sale and marketing of tobacco products, and for other purposes",On Ordering the Previous Question,Passed,224,189,0,16
+House,116,2,75,75,2020-02-27,"Providing for consideration of the bill (H.R. 2339) to amend the Federal Food, Drug, and Cosmetic Act with respect to the sale and marketing of tobacco products, and for other purposes",On Agreeing to the Resolution,Passed,210,200,0,19
+House,116,2,76,76,2020-02-28,Gold Star Mothers Families National Monument Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,407,0,0,22
+House,116,2,77,77,2020-02-28,Reversing the Youth Tobacco Epidemic Act of 2019,On Motion to Recommit with Instructions,Failed,187,220,0,22
+House,116,2,79,79,2020-03-02,Fair Debt Collection Practices for Servicemembers Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,355,0,0,74
+House,116,2,78,78,2020-02-28,Reversing the Youth Tobacco Epidemic Act of 2019,On Passage,Passed,213,195,0,22
+House,116,2,80,80,2020-03-02,Ensuring Chinese Debt Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,356,0,0,73
+House,116,2,82,82,2020-03-03,Malala Yousafzai Scholarship Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,374,16,0,39
+House,116,2,81,81,2020-03-03,Condemning continued violence against civilians by armed groups in the Central African Republic and supporting efforts to achieve a lasting political solution to the conflict,"On Motion to Suspend the Rules and Agree, as Amended",Passed,378,7,0,44
+House,116,2,83,83,2020-03-04,"Providing for consideration of the bill (H.R. 1140) the Rights for Transportation Security Officers Act, and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions",On Ordering the Previous Question,Passed,219,194,0,16
+House,116,2,85,85,2020-03-04,TAIPEI Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,415,0,0,14
+House,116,2,84,84,2020-03-04,"Providing for consideration of the bill (H.R. 1140) the Rights for Transportation Security Officers Act, and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions",On Agreeing to the Resolution,Passed,220,192,0,17
+House,116,2,86,86,2020-03-04,"Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020",On Motion to Suspend the Rules and Pass,Passed,415,2,0,13
+House,116,2,87,87,2020-03-05,,On Agreeing to the Amendment,Agreed to,399,1,0,35
+House,116,2,88,88,2020-03-05,,On Agreeing to the Amendment,Agreed to,403,0,0,32
+House,116,2,89,89,2020-03-05,Rights for Transportation Security Officers Act,On Motion to Recommit with Instructions,Passed,227,175,0,27
+House,116,2,90,90,2020-03-05,Rights for Transportation Security Officers Act,On Passage,Passed,230,171,0,28
+House,116,2,91,91,2020-03-09,Encouraging reunions of divided Korean-American families,"On Motion to Suspend the Rules and Agree, As Amended",Passed,391,0,0,38
+House,116,2,92,92,2020-03-09,Divided Families Reunification Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,391,0,0,38
+House,116,2,93,93,2020-03-10,Implementing the recommendations adopted by the Select Committee on the Modernization of Congress,"On Motion to Suspend the Rules and Agree, As Amended",Passed,395,13,0,21
+House,116,2,94,94,2020-03-10,,On Approving the Journal,Passed,212,185,2,30
+House,116,2,95,95,2020-03-11,"Providing for consideration of S.J. Res. 68, to direct the removal of US Armed Forces from hostilities against the Islamic Republic of Iran; the Senate amendment to H.R. 2486, the FUTURE Act; and H.R. 6172, the USA FREEDOM Reauthorization Act of 2020; and for other purposes",On Ordering the Previous Question,Passed,226,186,0,17
+House,116,2,96,96,2020-03-11,"Providing for consideration of S.J. Res. 68, to direct the removal of US Armed Forces from hostilities against the Islamic Republic of Iran; the Senate amendment to H.R. 2486, the FUTURE Act; and H.R. 6172, the USA FREEDOM Reauthorization Act of 2020; and for other purposes",On Agreeing to the Resolution,Passed,223,188,0,18
+House,116,2,97,97,2020-03-11,Support for Veterans in Effective Apprenticeships Act of 2019,On Motion to Suspend the Rules and Pass,Passed,412,0,0,17
+House,116,2,98,98,2020-03-11,USA FREEDOM Reauthorization Act,On Passage,Passed,278,136,0,15
+House,116,2,99,99,2020-03-11,USA FREEDOM Reauthorization Act,On Agreeing to the Buck of Colorado Amendment to the Title,Failed,35,376,0,18
+House,116,2,100,100,2020-03-11,To direct the removal of United States Armed Forces from hostilities against the Islamic Republic of Iran that have not been authorized by Congress,On Motion to Commit with Instructions,Failed,198,212,1,18
+House,116,2,101,101,2020-03-11,To direct the removal of United States Armed Forces from hostilities against the Islamic Republic of Iran that have not been authorized by Congress,On Passage,Passed,227,186,0,16
+House,116,2,102,102,2020-03-14,Families First Coronavirus Response Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,363,40,1,26
+House,116,2,103,103,2020-04-23,Providing for the adoption of the resolution (H.Res. 935) establishing a Select Subcommittee on the Coronavirus Crisis as a select investigative subcommittee of the Committee on Oversight and Reform,On Agreeing to the Resolution,Passed,212,182,0,35
+House,116,2,104,104,2020-04-23,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,388,5,1,35
+House,116,2,105,105,2020-05-15,"Providing for consideration of H. Res. 965; providing for consideration of the bill (H.R. 6800) making emergency supplemental appropriations for the fiscal year ending September 30, 2020, and for other purposes; providing for proceedings during the period from May 19, 2020, through July 21, 2020; and for other purposes",On Ordering the Previous Question,Passed,219,182,0,29
+House,116,2,106,106,2020-05-15,"Providing for consideration of H. Res. 965; providing for consideration of the bill (H.R. 6800) making emergency supplemental appropriations for the fiscal year ending September 30, 2020, and for other purposes; providing for proceedings during the period from May 19, 2020, through July 21, 2020; and for other purposes",On Agreeing to the Resolution,Passed,207,199,0,24
+House,116,2,107,107,2020-05-15,"Authorizing remote voting by proxy in the House of Representatives and providing for official remote committee proceedings during a public health emergency due to a novel coronavirus, and for other purposes",On Agreeing to the Resolution,Passed,217,189,0,24
+House,116,2,109,109,2020-05-15,HEROES Act,On Passage,Passed,208,199,0,23
+House,116,2,108,108,2020-05-15,HEROES Act,On Motion to Recommit with Instructions,Failed,198,209,0,23
+House,116,2,110,110,2020-05-27,Uyghur Human Rights Policy Act,On Motion to Suspend the Rules and Pass,Passed,413,1,0,17
+House,116,2,112,112,2020-05-27,"Providing for consideration of the Senate amendments to the bill (H.R. 6172) to amend the Foreign Intelligence Surveillance Act of 1978 to prohibit the production of certain business records, and for other purposes",On Agreeing to the Resolution,Passed,228,189,0,14
+House,116,2,111,111,2020-05-27,"Providing for consideration of the Senate amendments to the bill (H.R. 6172) to amend the Foreign Intelligence Surveillance Act of 1978 to prohibit the production of certain business records, and for other purposes",On Ordering the Previous Question,Passed,232,182,0,16
+House,116,2,113,113,2020-05-28,TRUTH Act,"On Motion to Suspend the Rules and Pass, as Amended",Failed,269,147,0,15
+House,116,2,114,114,2020-05-28,Paycheck Protection Program Flexibility Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,417,1,0,13
+House,116,2,115,115,2020-05-28,USA FREEDOM Reauthorization Act,On Motion to Disagree to the Senate Amendments and Request a Conference,Passed,284,122,0,25
+House,116,2,116,116,2020-06-25,"Providing for consideration of the bill (H.R. 51), the bill (H.R. 1425), the bill (H.R. 5332), the bill (H.R. 7120), the bill (H.R. 7301), the joint resolution (H.J. Res. 90), and for other purposes",On Ordering the Previous Question,Passed,231,176,0,23
+House,116,2,117,117,2020-06-25,"Providing for consideration of the bill (H.R. 51), the bill (H.R. 1425), the bill (H.R. 5332), the bill (H.R. 7120), the bill (H.R. 7301), the joint resolution (H.J. Res. 90), and for other purposes",On Agreeing to the Resolution,Passed,230,180,0,20
+House,116,2,118,118,2020-06-25,George Floyd Justice in Policing Act,On Motion to Recommit with Instructions,Failed,180,236,0,14
+House,116,2,119,119,2020-06-25,George Floyd Justice in Policing Act,On Passage,Passed,236,181,0,14
+House,116,2,120,120,2020-06-26,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Borrower Defense Institutional Accountability”","Passage, Objections of the President Not Withstanding",Failed,238,173,0,19
+House,116,2,121,121,2020-06-26,"Washington, D.C. Admission Act",On Motion to Recommit with Instructions,Failed,182,227,0,21
+House,116,2,122,122,2020-06-26,"Washington, D.C. Admission Act",On Passage,Passed,232,180,0,19
+House,116,2,123,123,2020-06-29,State Health Care Premium Reduction Act,On Motion to Recommit with Instructions,Failed,187,223,0,20
+House,116,2,124,124,2020-06-29,State Health Care Premium Reduction Act,On Passage,Passed,234,179,0,18
+House,116,2,125,125,2020-06-29,Protecting Your Credit Score Act,On Motion to Recommit with Instructions,Failed,184,228,0,18
+House,116,2,126,126,2020-06-29,Protecting Your Credit Score Act,On Passage,Passed,234,179,0,17
+House,116,2,127,127,2020-06-29,Emergency Housing Protections and Relief Act,On Motion to Recommit with Instructions,Failed,191,219,0,20
+House,116,2,128,128,2020-06-29,Emergency Housing Protections and Relief Act,On Passage,Passed,232,180,0,19
+House,116,2,129,129,2020-06-29,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to “Community Reinvestment Act Regulations”",On Passage,Passed,230,179,0,21
+House,116,2,130,130,2020-06-30,"Providing for consideration of the bill (H.R. 2) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",On Ordering the Previous Question,Passed,230,180,0,20
+House,116,2,131,131,2020-06-30,"Providing for consideration of the bill (H.R. 2) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",On Agreeing to the Resolution,Passed,222,183,0,25
+House,116,2,132,132,2020-06-30,,On Agreeing to the Amendment,Agreed to,229,189,0,12
+House,116,2,133,133,2020-06-30,,On Agreeing to the Amendment,Agreed to,234,178,0,18
+House,116,2,134,134,2020-07-01,,On Agreeing to the Amendment,Failed,179,241,0,10
+House,116,2,135,135,2020-07-01,,On Agreeing to the Amendment,Failed,147,274,0,9
+House,116,2,136,136,2020-07-01,,On Agreeing to the Amendment,Agreed to,240,181,0,9
+House,116,2,137,137,2020-07-01,INVEST in America Act,On Motion to Recommit with Instructions,Passed,224,193,0,13
+House,116,2,138,138,2020-07-01,INVEST in America Act,On Passage,Passed,233,188,0,10
+House,116,2,139,139,2020-07-20,Providing for consideration of the bill H.R. 6395- William M. (Mac) Thornberry National Defense Authorization Act for FY 2021; H.R. 7027- Child Care Is Essential Act; H.R. 7327- Child Care for Economic Recovery Act and consideration of Senate Adts to H.R. 1957,On Ordering the Previous Question,Passed,220,162,0,47
+House,116,2,140,140,2020-07-20,Providing for consideration of the bill H.R. 6395- William M. (Mac) Thornberry National Defense Authorization Act for FY 2021; H.R. 7027- Child Care Is Essential Act; H.R. 7327- Child Care for Economic Recovery Act and consideration of Senate Adts to H.R. 1957,On Agreeing to the Resolution,Passed,224,166,0,39
+House,116,2,141,141,2020-07-20,,On Agreeing to the Amendment,Agreed to,215,190,0,24
+House,116,2,142,142,2020-07-20,,On Agreeing to the Amendment,Agreed to,227,179,0,23
+House,116,2,143,143,2020-07-20,,On Agreeing to the Amendment,Agreed to,336,71,0,22
+House,116,2,144,144,2020-07-21,,On Agreeing to the Amendment,Failed,129,284,0,17
+House,116,2,145,145,2020-07-21,,On Agreeing to the Amendment,Failed,173,241,0,16
+House,116,2,146,146,2020-07-21,,On Agreeing to the Amendment,Agreed to,234,179,0,17
+House,116,2,147,147,2020-07-21,,On Agreeing to the Amendment,Agreed to,234,181,0,15
+House,116,2,148,148,2020-07-21,,On Agreeing to the Amendment,Failed,93,324,0,13
+House,116,2,149,149,2020-07-21,,On Agreeing to the Amendment,Agreed to,217,198,0,15
+House,116,2,150,150,2020-07-21,,On Agreeing to the Amendment,Agreed to,232,184,0,14
+House,116,2,151,151,2020-07-21,William M. (Mac) Thornberry National Defense Authorization Act,On Motion to Recommit with Instructions,Failed,201,219,0,10
+House,116,2,152,152,2020-07-21,William M. (Mac) Thornberry National Defense Authorization Act,On Passage,Passed,295,125,0,10
+House,116,2,153,153,2020-07-22,FUTURE Act,On Concurring in the Senate Amdt with Amdt Specified in Section 4(a) of H. Res. 891,Passed,233,183,0,14
+House,116,2,154,154,2020-07-22,FUTURE Act,On Concurring in the Senate Amdt with Amdt Specified in Section 4(b) of H. Res. 891,Passed,231,184,0,15
+House,116,2,155,155,2020-07-22,Great American Outdoors Act,On Motion to Concur in the Senate Amendments,Passed,310,107,0,13
+House,116,2,156,156,2020-07-22,"To direct the Architect of the U.S. Capitol to replace the bust of Roger Brooke Taney with a bust of Thurgood Marshall, to remove certain statues from areas of the Capitol which are accessible to the public, to remove all statues of individuals who voluntarily served Confederate States of America displayed in Capitol.","On Motion to Suspend the Rules and Pass, as Amended",Passed,305,113,0,13
+House,116,2,157,157,2020-07-23,"Providing for consideration of the bill (H.R. 7608) making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2021, and for other purposes",On Ordering the Previous Question,Passed,230,189,0,11
+House,116,2,158,158,2020-07-23,"Providing for consideration of the bill (H.R. 7608) making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2021, and for other purposes",On Agreeing to the Resolution,Passed,230,188,0,12
+House,116,2,159,159,2020-07-23,,On Agreeing to the Amendment,Failed,88,329,0,13
+House,116,2,160,160,2020-07-23,,On Agreeing to the Amendment,Agreed to,223,194,0,13
+House,116,2,161,161,2020-07-23,,On Agreeing to the Amendment,Failed,187,230,0,13
+House,116,2,162,162,2020-07-24,,On Agreeing to the Amendment,Failed,117,292,0,21
+House,116,2,163,163,2020-07-24,,On Agreeing to the Amendment,Agreed to,233,176,0,21
+House,116,2,164,164,2020-07-24,,On Agreeing to the Amendment,Failed,155,256,0,19
+House,116,2,165,165,2020-07-24,"Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2021, and for other purposes",On Motion to Recommit with Instructions,Failed,183,228,1,18
+House,116,2,166,166,2020-07-24,"Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2021, and for other purposes",On Passage,Passed,224,189,0,17
+House,116,2,167,167,2020-07-27,Commission on the Social Status of Black Men and Boys Act,On Motion to Suspend the Rules and Pass,Passed,368,1,0,61
+House,116,2,168,168,2020-07-29,"Providing for consideration of the bill (H.R. 7617) making appropriations for the Department of Defense for the fiscal year ending September 30, 2021, and for other purposes",On Ordering the Previous Question,Passed,230,181,0,19
+House,116,2,169,169,2020-07-29,"Providing for consideration of the bill (H.R. 7617) making appropriations for the Department of Defense for the fiscal year ending September 30, 2021, and for other purposes",On Agreeing to the Resolution,Passed,229,182,0,19
+House,116,2,170,170,2020-07-29,"Making additional supplemental appropriations for disaster relief requirements for the fiscal year ending September 30, 2020, and for other purposes",On Motion to Recommit with Instructions,Failed,195,212,0,23
+House,116,2,171,171,2020-07-29,"Making additional supplemental appropriations for disaster relief requirements for the fiscal year ending September 30, 2020, and for other purposes",On Passage,Passed,249,163,0,18
+House,116,2,172,172,2020-07-29,Child Care for Economic Recovery Act,On Passage,Passed,250,161,0,19
+House,116,2,173,173,2020-07-30,,On Agreeing to the Amendment,Failed,126,292,0,12
+House,116,2,174,174,2020-07-30,,On Agreeing to the Amendment,Agreed to,254,163,0,13
+House,116,2,175,175,2020-07-30,,On Agreeing to the Amendment,Agreed to,234,181,0,15
+House,116,2,176,176,2020-07-31,,On Agreeing to the Amendment,Failed,123,292,0,15
+House,116,2,177,177,2020-07-31,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2021, and for other purposes",On Motion to Recommit with Instructions,Failed,197,219,0,14
+House,116,2,178,178,2020-07-31,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2021, and for other purposes",On Passage,Passed,217,197,0,16
+House,116,2,179,179,2020-08-22,"Providing for consideration of the bill (H.R. 8015) to maintain prompt and reliable postal services during the COVID-19 health emergency, and for other purposes.",On Ordering the Previous Question,Passed,230,171,0,29
+House,116,2,180,180,2020-08-22,"Providing for consideration of the bill (H.R. 8015) to maintain prompt and reliable postal services during the COVID-19 health emergency, and for other purposes.",On Agreeing to the Resolution,Passed,230,171,0,29
+House,116,2,181,181,2020-08-22,Delivering for America Act,On Motion to Recommit with Instructions,Failed,182,223,0,25
+House,116,2,182,182,2020-08-22,Delivering for America Act,On Passage,Passed,257,150,0,24
+House,116,2,183,183,2020-09-14,Congressional Budget Justification Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,402,1,0,27
+House,116,2,184,184,2020-09-14,CHARGE Act,On Motion to Suspend the Rules and Pass,Passed,403,2,0,25
+House,116,2,185,185,2020-09-15,Providing for consideration of the Equity and Inclusion Enforcement Act (H.R. 2574); providing for consideration of the Strength in Diversity Act (H.R. 2639); providing for consideration of the Pregnant Workers Fairness Act (H.R. 2694); providing for consideration of H. Res. 908; and for other purposes,On Ordering the Previous Question,Passed,219,170,0,41
+House,116,2,186,186,2020-09-15,Providing for consideration of the Equity and Inclusion Enforcement Act (H.R. 2574); providing for consideration of the Strength in Diversity Act (H.R. 2639); providing for consideration of the Pregnant Workers Fairness Act (H.R. 2694); providing for consideration of H. Res. 908; and for other purposes,On Agreeing to the Resolution,Passed,216,157,0,57
+House,116,2,187,187,2020-09-15,,On Agreeing to the Amendment,Failed,171,243,0,16
+House,116,2,188,188,2020-09-15,,On Agreeing to the Amendment,Agreed to,379,34,0,17
+House,116,2,189,189,2020-09-15,Strength in Diversity Act,On Passage,Passed,248,167,0,15
+House,116,2,190,190,2020-09-16,Ensuring Children and Child Care Workers Are Safe Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,387,33,0,10
+House,116,2,191,191,2020-09-16,Equity and Inclusion Enforcement Act,On Motion to Recommit with Instructions,Passed,255,164,0,11
+House,116,2,192,192,2020-09-16,Equity and Inclusion Enforcement Act,On Passage,Passed,232,188,0,10
+House,116,2,193,193,2020-09-17,Condemning all forms of anti-Asian sentiment as related to COVID-19,On Agreeing to the Resolution,Passed,243,164,1,23
+House,116,2,194,194,2020-09-17,Pregnant Workers Fairness Act,On Motion to Recommit with Instructions,Failed,177,226,0,27
+House,116,2,195,195,2020-09-17,Pregnant Workers Fairness Act,On Passage,Passed,329,73,0,28
+House,116,2,196,196,2020-09-22,Uyghur Forced Labor Prevention Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,406,3,0,22
+House,116,2,197,197,2020-09-22,Leveraging Information on Foreign Traffickers Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,414,0,0,16
+House,116,2,198,198,2020-09-22,"Continuing Appropriations Act, 2021",On Motion to Suspend the Rules and Pass,Passed,359,57,1,14
+House,116,2,199,199,2020-09-23,"Providing for consideration of the Expanding Access to Sustainable Energy Act (H.R. 4447); providing for consideration of the Uyghur Forced Labor Disclosure Act (H.R. 6270); and providing for consideration of the Continuing Appropriations Act, 2021 and Other Extensions Act (H.R. 8319)",On Ordering the Previous Question,Passed,231,190,0,9
+House,116,2,200,200,2020-09-23,"Providing for consideration of the Expanding Access to Sustainable Energy Act (H.R. 4447); providing for consideration of the Uyghur Forced Labor Disclosure Act (H.R. 6270); and providing for consideration of the Continuing Appropriations Act, 2021 and Other Extensions Act (H.R. 8319)",On Agreeing to the Resolution,Passed,229,187,0,14
+House,116,2,201,201,2020-09-23,Don’t Break Up the T-Band Act of 2020,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,5,0,15
+House,116,2,203,203,2020-09-24,,On Agreeing to the Amendment,Agreed to,235,173,0,22
+House,116,2,202,202,2020-09-24,,On Agreeing to the Amendment,Agreed to,235,172,0,23
+House,116,2,204,204,2020-09-24,,On Agreeing to the Amendment,Agreed to,273,132,0,25
+House,116,2,205,205,2020-09-24,Expanding Access to Sustainable Energy Act,On Motion to Recommit with Instructions,Failed,193,214,0,23
+House,116,2,206,206,2020-09-24,Expanding Access to Sustainable Energy Act,On Passage,Passed,220,185,0,25
+House,116,2,207,207,2020-09-29,Raising a question of the privileges of the House,On Motion to Table,Passed,223,176,0,31
+House,116,2,208,208,2020-09-29,"Reaffirming the House of Representatives’ commitment to the orderly and peaceful transfer of power called for in the Constitution of the United States, and for other purposes",On Motion to Suspend the Rules and Agree,Passed,397,5,0,29
+House,116,2,209,209,2020-09-30,Uyghur Forced Labor Disclosure Act of 2020,On Motion to Recommit with Instructions,Failed,184,229,0,17
+House,116,2,210,210,2020-09-30,Uyghur Forced Labor Disclosure Act,On Passage,Passed,253,163,0,14
+House,116,2,212,212,2020-09-30,Providing for consideration of the Senate amendments to the bill (H.R. 925) to extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024,On Ordering the Previous Question,Passed,229,185,0,16
+House,116,2,211,211,2020-09-30,Timely ReAuthorization of Necessary Stem-cell Programs Lends Access to Needed Therapies Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,414,0,0,16
+House,116,2,213,213,2020-09-30,Providing for consideration of the Senate amendments to the bill (H.R. 925) to extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024,On Agreeing to the Resolution,Passed,225,188,0,17
+House,116,2,214,214,2020-10-01,America’s Conservation Enhancement Act,On Motion to Concur in the Senate Amendments with an Amendment,Passed,214,207,0,10
+House,116,2,215,215,2020-10-01,"Providing for consideration of the resolution (H.Res. 1153) condemning unwanted, unnecessary medical procedures on individuals without their full, informed consent, and providing for consideration of the resolution (H.Res. 1154) condemning QAnon and rejecting the conspiracy theories it promotes",On Ordering the Previous Question,Passed,226,187,0,17
+House,116,2,216,216,2020-10-01,"Providing for consideration of the resolution (H.Res. 1153) condemning unwanted, unnecessary medical procedures on individuals without their full, informed consent, and providing for consideration of the resolution (H.Res. 1154) condemning QAnon and rejecting the conspiracy theories it promotes",On Agreeing to the Resolution,Passed,226,186,0,18
+House,116,2,217,217,2020-10-02,"Condemning unwanted, unnecessary medical procedures on individuals without their full, informed consent",On Agreeing to the Resolution,Passed,232,157,4,37
+House,116,2,218,218,2020-10-02,Condemning QAnon and rejecting the conspiracy theories it promotes,On Agreeing to the Resolution,Passed,371,18,1,40
+House,116,2,219,219,2020-11-16,Wounded Veterans Recreation Act,On Motion to Suspend the Rules and Pass,Passed,401,0,0,28
+House,116,2,220,220,2020-11-16,Improving Safety and Security for Veterans Act,On Motion to Suspend the Rules and Pass,Passed,394,0,0,35
+House,116,2,221,221,2020-11-17,Ocean Pollution Reduction Act II,"On Motion to Suspend the Rules and Pass, as Amended",Passed,395,4,0,30
+House,116,2,222,222,2020-11-18,William M. (Mac) Thornberry National Defense Authorization Act,On Closing Portions of the Conference,Passed,396,8,0,25
+House,116,2,223,223,2020-11-19,"Providing for consideration of the bill (H.R. 8294) National Apprenticeship Act of 2020, and for other purposes",On Ordering the Previous Question,Passed,227,169,0,33
+House,116,2,224,224,2020-11-19,"Providing for consideration of the bill (H.R. 8294) National Apprenticeship Act of 2020, and for other purposes",On Agreeing to the Resolution,Passed,229,170,0,30
+House,116,2,225,225,2020-11-20,,On Agreeing to the Amendment,Agreed to,236,152,0,41
+House,116,2,226,226,2020-11-20,,On Agreeing to the Amendment,Failed,142,243,0,44
+House,116,2,227,227,2020-11-20,National Apprenticeship Act,On Passage,Passed,246,140,0,43
+House,116,2,228,228,2020-12-02,Coin Metal Modification Authorization and Cost Savings Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,343,41,0,45
+House,116,2,229,229,2020-12-03,,On Motion to Adjourn,Failed,5,220,0,205
+House,116,2,230,230,2020-12-03,Providing for consideration of the bill (H.R. 3884) Marijuana Opportunity Reinvestment and Expungement Act,On Ordering the Previous Question,Passed,225,160,0,45
+House,116,2,231,231,2020-12-03,Providing for consideration of the bill (H.R. 3884) Marijuana Opportunity Reinvestment and Expungement Act,On Agreeing to the Resolution,Passed,225,160,0,45
+House,116,2,232,232,2020-12-03,Big Cat Public Safety Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,272,114,0,44
+House,116,2,233,233,2020-12-04,National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act,On Motion to Suspend the Rules and Pass,Passed,265,124,0,41
+House,116,2,234,234,2020-12-04,MORE Act,On Motion to Recommit with Instructions,Failed,174,218,1,37
+House,116,2,235,235,2020-12-04,MORE Act,On Passage,Passed,228,164,0,38
+House,116,2,236,236,2020-12-07,"Calling for the global repeal of blasphemy, heresy, and apostasy laws","On Motion to Suspend the Rules and Agree, as Amended",Passed,386,3,1,39
+House,116,2,237,237,2020-12-07,HBCU PARTNERS Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,388,6,0,35
+House,116,2,239,239,2020-12-08,Servicemembers and Veterans Initiative Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,400,1,0,28
+House,116,2,238,238,2020-12-08,William M. (Mac) Thornberry National Defense Authorization Act,On Agreeing to the Conference Report,Passed,335,78,1,16
+House,116,2,240,240,2020-12-09,"Further Continuing Appropriations Act, 2021, and Other Extensions Act",On Motion to Suspend the Rules and Pass,Passed,343,67,0,19
+House,116,2,241,241,2020-12-09,Ceiling Fan Improvement Act,On Motion to Suspend the Rules and Pass,Passed,396,2,0,31
+House,116,2,243,243,2020-12-10,AIR Safety Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,382,6,0,41
+House,116,2,242,242,2020-12-10,Driftnet Modernization and Bycatch Reduction Act,On Motion to Suspend the Rules and Pass,Passed,283,105,0,41
+House,116,2,244,244,2020-12-16,TEAM Veteran Caregivers Act,On Motion to Suspend the Rules and Pass,Passed,380,0,0,49
+House,116,2,245,245,2020-12-17,Julius Rosenwald and the Rosenwald Schools Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,387,5,0,37
+House,116,2,247,247,2020-12-18,"Making further continuing appropriations for fiscal year 202, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,320,60,0,49
+House,116,2,246,246,2020-12-18,FACE Act,On Motion to Suspend the Rules and Pass,Passed,386,1,0,42
+House,116,2,248,248,2020-12-20,"Extension of Continuing Appropriations Act, 2021",On Motion to Suspend the Rules and Pass,Passed,329,65,0,35
+House,116,2,249,249,2020-12-21,Providing for consideration of the Senate amendment to the bill (H.R. 133) to promote economic partnership and cooperation between the US and Mexico; providing for disposition of the Senate amendment to the bill (H.R. 1520),On Agreeing to the Resolution,Passed,227,180,0,22
+House,116,2,250,250,2020-12-21,United States-Mexico Economic Partnership Act,"On Concurring in Senate Amdt with Portion of Amdt Comprising of Divisions B, C, E, and F",Passed,327,85,0,18
+House,116,2,251,251,2020-12-21,United States-Mexico Economic Partnership Act,"On Concurring in Senate Amdt with Amdt (Except Divisions B, C, E, and F)",Passed,359,53,0,17
+House,116,2,252,252,2020-12-28,CASH Act,On Motion to Suspend the Rules and Pass,Passed,275,134,0,21
+House,116,2,253,253,2020-12-28,William M. (Mac) Thornberry National Defense Authorization Act,"On Passage, Objections of the President to the Contrary Notwithstanding",Passed,322,87,0,21

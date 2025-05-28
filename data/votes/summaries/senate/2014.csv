@@ -1,0 +1,367 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+Senate,113,2,2,2,2014-01-07,Motion to Invoke Cloture on the Motion to Proceed to S. 1845,On Cloture on the Motion to Proceed S. 1845,Cloture on the Motion to Proceed Agreed to,60,37,0,3
+Senate,113,2,3,3,2014-01-09,Motion to Table the Motion to Commit S.1845 to the Committee on Finance,On the Motion to Table S. 1845,Motion to Table Failed,42,54,0,4
+Senate,113,2,1,1,2014-01-06,"Confirmation Janet L. Yellen, to be Chairman of the Board of Governors of the Federal Reserve System",On the Nomination PN921,Nomination Confirmed,56,26,0,18
+Senate,113,2,4,4,2014-01-09,"Motion to Proceed to the Motion to Reconsider the Motion to Invoke Cloture on the Nomination of Robert Wilkins, to be U.S. Circuit Judge",On the Motion to Proceed PN529,Motion to Proceed Agreed to,53,41,0,6
+Senate,113,2,5,5,2014-01-09,"Motion to Reconsider the Motion to Invoke Cloture on the Nomination of Robert Wilkins, to be U.S. Circuit Judge",On the Motion to Reconsider PN529,Motion to Reconsider Agreed to,54,40,0,6
+Senate,113,2,6,6,2014-01-09,Upon Reconsideration Motion to Invoke Cloture on the Nomination of Robert Wilkins to be U.S. Circuit Judge for the D.C. Circuit,On the Cloture Motion PN529,Cloture Motion Agreed to,55,38,1,6
+Senate,113,2,7,7,2014-01-13,"Confirmation Robert Leon Wilkins, of D.C., to be U.S. Circuit Judge for the D.C. Circuit",On the Nomination PN529,Nomination Confirmed,55,43,0,2
+Senate,113,2,8,8,2014-01-14,Motion to Table the Motion to Commit S. 1845 to the Committee on Finance with Instructions,On the Motion to Table S. 1845,Motion to Table Failed,45,55,0,0
+Senate,113,2,9,9,2014-01-14,Motion to Invoke Cloture on Amdt. No. 2631 to S. 1845,On the Cloture Motion S.Amdt. 2631 to S. 1845 (Emergency Unemployment Compensation Extension Act),Cloture Motion Rejected,52,48,0,0
+Senate,113,2,10,10,2014-01-14,Motion to Invoke Cloture on S. 1845,On the Cloture Motion S. 1845,Cloture Motion Rejected,55,45,0,0
+Senate,113,2,12,12,2014-01-16,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to Senate Amendment to H.R. 3547,On the Cloture Motion H.R. 3547,Cloture Motion Agreed to,72,26,0,2
+Senate,113,2,11,11,2014-01-15,H.J.Res. 106,On the Joint Resolution H.J.Res. 106,Joint Resolution Passed,86,14,0,0
+Senate,113,2,13,13,2014-01-16,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3547,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3547),Motion Agreed to,72,26,0,2
+Senate,113,2,15,15,2014-01-29,Motion to Waive All Applicable Budgetary Discipline Re: S. 1926,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: S. 1926),Motion Agreed to,64,35,0,1
+Senate,113,2,14,14,2014-01-27,Motion to Invoke Cloture on the Motion to Proceed to S.1926,On Cloture on the Motion to Proceed S. 1926,Cloture on the Motion to Proceed Agreed to,86,13,0,1
+Senate,113,2,16,16,2014-01-30,Toomey Amdt. No. 2707 As Modified,On the Amendment S.Amdt. 2707 to S. 1926 (No short title on file),Amendment Rejected,34,65,0,1
+Senate,113,2,18,18,2014-01-30,Heller Amdt. No. 2700,On the Amendment S.Amdt. 2700 to S. 1926 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,113,2,17,17,2014-01-30,Coburn Amdt. No. 2697,On the Amendment S.Amdt. 2697 to S. 1926 (No short title on file),Amendment Rejected,24,75,0,1
+Senate,113,2,19,19,2014-01-30,S. 1926 As Amended,On Passage of the Bill S. 1926,Bill Passed,67,32,0,1
+Senate,113,2,21,21,2014-02-04,Conference Report to Accompany H.R. 2642,On the Conference Report H.R. 2642,Conference Report Agreed to,68,32,0,0
+Senate,113,2,20,20,2014-02-03,Motion to Invoke Cloture on the Conference Report to Accompany H.R. 2642,On the Cloture Motion H.R. 2642,Cloture Motion Agreed to,72,22,0,6
+Senate,113,2,22,22,2014-02-04,Motion to Table Amdt. No. 2631,On the Motion to Table S.Amdt. 2631 to S. 1845 (Emergency Unemployment Compensation Extension Act),Motion to Table Agreed to,98,0,0,2
+Senate,113,2,23,23,2014-02-06,Motion to Invoke Cloture on Amdt. No. 2714 to S.1845,On the Cloture Motion S.Amdt. 2714 to S. 1845 (Emergency Unemployment Compensation Extension Act),Cloture Motion Rejected,58,40,0,2
+Senate,113,2,24,24,2014-02-06,Motion to Invoke Cloture on S.1845,On the Cloture Motion S. 1845,Cloture Motion Rejected,55,43,0,2
+Senate,113,2,25,25,2014-02-06,"Confirmation Max Sieben Baucus, of Montana, to be Ambassador to the People's Republic of China",On the Nomination PN1295,Nomination Confirmed,96,0,1,3
+Senate,113,2,26,26,2014-02-10,Motion to Invoke Cloture on the Motion to Proceed to S.1963,On Cloture on the Motion to Proceed S. 1963,Cloture on the Motion to Proceed Agreed to,94,0,0,5
+Senate,113,2,27,27,2014-02-11,"Confirmation Richard Stengel, of New York, to be Under Secretary of State",On the Nomination PN1096,Nomination Confirmed,90,8,0,2
+Senate,113,2,28,28,2014-02-11,"Confirmation Sarah Sewall, of Massachusetts, to be an Under Secretary of State",On the Nomination PN1097,Nomination Confirmed,97,1,0,2
+Senate,113,2,29,29,2014-02-11,"Confirmation Charles Hammerman Rivkin, of DC, to be an Assistant Secretary of State",On the Nomination PN1100,Nomination Confirmed,92,6,0,2
+Senate,113,2,30,30,2014-02-12,"Confirmation Tina S. Kaidanow, of D.C., to be Coordinator for Counterterrorism",On the Nomination PN1114,Nomination Confirmed,98,0,0,2
+Senate,113,2,31,31,2014-02-12,"Confirmation Daniel Bennett Smith, of Virginia, to be an Assistant Secretary of State",On the Nomination PN1178,Nomination Confirmed,98,0,0,2
+Senate,113,2,32,32,2014-02-12,"Confirmation Catherine Ann Novelli, of VA, to be United States Alternate Governor of the International Bank for Reconstruction and Development",On the Nomination PN1119,Nomination Confirmed,97,0,0,3
+Senate,113,2,33,33,2014-02-12,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S.540,On the Cloture Motion S. 540,Cloture Motion Agreed to,67,31,0,2
+Senate,113,2,34,34,2014-02-12,Motion to Concur in the House Amendment to S.540,On the Motion (Motion to Concur in the House Amendment to S.540),Motion Agreed to,55,43,0,2
+Senate,113,2,35,35,2014-02-12,Motion to Concur in the House Amendment to S.25,On the Motion (Motion to Concur in the House Amendment to S.25),Motion Agreed to,95,3,0,2
+Senate,113,2,36,36,2014-02-24,"Motion to Invoke Cloture on the Nomination of Jeffrey Meyer, of CT, to be U.S. District Judge",On the Cloture Motion PN1192,Cloture Motion Agreed to,55,37,1,7
+Senate,113,2,37,37,2014-02-24,"Confirmation Jeffrey Alker Meyer, of Connecticut, to be U.S. District Judge for the District of Connecticut",On the Nomination PN1192,Nomination Confirmed,91,2,0,7
+Senate,113,2,38,38,2014-02-24,"Motion to Invoke Cloture on the Nomination of James MAxwell Moody, Jr., of Arkansas, to be U.S. District Judge for the Eastern District of Arkansas",On the Cloture Motion PN1203,Cloture Motion Agreed to,58,34,1,7
+Senate,113,2,39,39,2014-02-25,"Confirmation James Maxwell Moody, Jr., of Arkansas, to be U.S. District Judge for the Eastern District",On the Nomination PN1203,Nomination Confirmed,95,4,0,1
+Senate,113,2,40,40,2014-02-25,"Motion to Invoke Cloture on the Nomination of James Donato, of California, to be U.S. District Judge",On the Cloture Motion PN1193,Cloture Motion Agreed to,55,42,1,2
+Senate,113,2,41,41,2014-02-25,"Confirmation James Donato, of California, to be U.S. District Judge for the Northern District",On the Nomination PN1193,Nomination Confirmed,90,5,0,5
+Senate,113,2,43,43,2014-02-25,"Confirmation Beth Labson Freeman, of California, to be U.S. District Judge for the Northern District",On the Nomination PN1194,Nomination Confirmed,91,7,0,2
+Senate,113,2,42,42,2014-02-25,"Motion to Invoke Cloture on the Nomination of Beth Labson Freeman, of California, to be U.S. District Judge",On the Cloture Motion PN1194,Cloture Motion Agreed to,56,42,1,1
+Senate,113,2,44,44,2014-02-25,Motion to Invoke Cloture on the Motion to Proceed to S. 1982,On Cloture on the Motion to Proceed S. 1982,Cloture on the Motion to Proceed Agreed to,99,0,0,1
+Senate,113,2,45,45,2014-02-27,Motion to Table the Motion to Commit S. 1982 to the Committee on Veterans' Affairs,On the Motion to Table S. 1982,Motion to Table Failed,44,52,0,4
+Senate,113,2,46,46,2014-02-27,Motion to Waive All Applicable Budgetary Discipline Re: S.1982,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: S.1982),Motion Rejected,56,41,0,3
+Senate,113,2,47,47,2014-02-27,"Confirmation, Michael L. Connor, of New Mexico, to be Deputy Secretary of the Interior",On the Nomination PN1079,Nomination Confirmed,97,0,0,3
+Senate,113,2,48,48,2014-03-05,"Motion to Invoke Cloture on the Nomination of Debo P. Adegbile, of New York, to be Assistant Attorney General",On the Cloture Motion PN1241,Cloture Motion Rejected,47,52,0,1
+Senate,113,2,49,49,2014-03-05,"Motion to Invoke Cloture on the Nomination of Pedro A. Delgado Hernandez, of Puerto Rico, to be United States District Judge",On the Cloture Motion PN1196,Cloture Motion Agreed to,57,41,1,1
+Senate,113,2,50,50,2014-03-05,"Confirmation Pedro A. Hernandez, of Puerto Rico, to be U.S. District Judge",On the Nomination PN1196,Nomination Confirmed,98,0,0,2
+Senate,113,2,51,51,2014-03-05,"Motion to Invoke Cloture on the Nomination of Pamela L. Reeves, of TN, to be U.S. District Judge",On the Cloture Motion PN1190,Cloture Motion Agreed to,62,37,0,1
+Senate,113,2,52,52,2014-03-05,Confirmation Pamela L. Reeves of Tennessee to be U.S. District Judge,On the Nomination PN1190,Nomination Confirmed,99,0,0,1
+Senate,113,2,53,53,2014-03-05,"Motion to Invoke Cloture on the Nomination of Timothy L. Brooks, of Arkansas, to be U.S. District Judge",On the Cloture Motion PN1191,Cloture Motion Agreed to,59,41,0,0
+Senate,113,2,54,54,2014-03-05,"Confirmation Timothy L. Brooks, of Arkansas, to be U.S. District Judge",On the Nomination PN1191,Nomination Confirmed,100,0,0,0
+Senate,113,2,55,55,2014-03-05,"Motion to Invoke Cloture on the Nomination of Vince Girdhari Chhabria, of California, to be U.S. District Judge",On the Cloture Motion PN1199,Cloture Motion Agreed to,57,43,0,0
+Senate,113,2,56,56,2014-03-05,"Confirmation Vince Girdhari Chhabria, of California, to be U.S. District Judge",On the Nomination PN1199,Nomination Confirmed,58,41,0,1
+Senate,113,2,57,57,2014-03-05,"Motion to Invoke Cloture on the Nomination of Rose E. Gottemoeller, of Virginia, to be Under Secretary of State",On the Cloture Motion PN1106,Cloture Motion Agreed to,55,45,0,0
+Senate,113,2,58,58,2014-03-06,"Confirmation Rose Eilene Gottemoeller, of Virginia, to be Under Secretary of State for Arms Control and International Security",On the Nomination PN1106,Nomination Confirmed,58,42,0,0
+Senate,113,2,60,60,2014-03-06,Motion to Invoke Cloture on S. 1917,On the Cloture Motion S. 1917,Cloture Motion Agreed to,100,0,0,0
+Senate,113,2,59,59,2014-03-06,Motion to Invoke Cloture on S. 1752,On the Cloture Motion S. 1752,Cloture Motion Rejected,55,45,0,0
+Senate,113,2,61,61,2014-03-10,"Motion to Invoke Cloture on the Nomination of Carolyn B. McHugh, of Utah, to be U.S. Circuit Judge",On the Cloture Motion PN1181,Cloture Motion Agreed to,62,34,0,4
+Senate,113,2,62,62,2014-03-10,S. 1917,On Passage of the Bill S. 1917,Bill Passed,97,0,0,3
+Senate,113,2,63,63,2014-03-11,"Motion to Invoke Cloture on the Nomination of Matthew Leitman, of Michigan, to be U.S. District Judge",On the Cloture Motion PN1200,Cloture Motion Agreed to,55,43,0,2
+Senate,113,2,64,64,2014-03-11,"Motion to Invoke Cloture on the Nomination of Judith Ellen Levy, of Michigan, to be U.S. District Judge",On the Cloture Motion PN1201,Cloture Motion Agreed to,56,42,0,2
+Senate,113,2,65,65,2014-03-11,"Motion to Invoke Cloture on the Nomination of Laurie J. Michelson, of Michigan, to be U.S. District Judge",On the Cloture Motion PN1202,Cloture Motion Agreed to,56,43,0,1
+Senate,113,2,66,66,2014-03-11,"Motion to Invoke Cloture on the Nomination of Linda Vivienne Parker, of Michigan, to be U.S. District Judge",On the Cloture Motion PN1204,Cloture Motion Agreed to,56,42,0,2
+Senate,113,2,67,67,2014-03-12,"Confirmation Carolyn B. McHugh, of Utah, to be U.S. Circuit Judge for the Tenth Circuit",On the Nomination PN1181,Nomination Confirmed,98,0,0,2
+Senate,113,2,68,68,2014-03-12,"Confirmation Matthew Frederick Leitman, of Michigan, to be U.S. District Judge for the Eastern District of Michigan",On the Nomination PN1200,Nomination Confirmed,98,0,0,2
+Senate,113,2,69,69,2014-03-12,"Confirmation Judith Ellen Levy, of Michigan, to be U.S. District Judge for the Eastern District of Michigan",On the Nomination PN1201,Nomination Confirmed,97,0,0,3
+Senate,113,2,70,70,2014-03-12,"Confirmation Laurie J. Michelson, of Michigan, to be U.S. District Judge for the Eastern District of Michigan",On the Nomination PN1202,Nomination Confirmed,98,0,0,2
+Senate,113,2,71,71,2014-03-12,"Confirmation Linda Vivienne Parker, of Michigan, to be U.S. District Judge for the Eastern District of Michigan",On the Nomination PN1204,Nomination Confirmed,60,37,0,3
+Senate,113,2,72,72,2014-03-12,Enzi Amdt. No. 2812,On the Amendment S.Amdt. 2812 to S. 1086 (Child Care and Development Block Grant Act of 2014),Amendment Agreed to,98,0,0,2
+Senate,113,2,73,73,2014-03-12,Franken Amdt. No. 2822,On the Amendment S.Amdt. 2822 to S. 1086 (Child Care and Development Block Grant Act of 2014),Amendment Agreed to,93,6,0,1
+Senate,113,2,74,74,2014-03-12,Landrieu Amdt. No. 2818,On the Amendment S.Amdt. 2818 to S. 1086 (Child Care and Development Block Grant Act of 2014),Amendment Agreed to,98,0,0,2
+Senate,113,2,75,75,2014-03-13,"Coburn Amendment No. 2830, As Modified",On the Amendment S.Amdt. 2830 to S. 1086 (Child Care and Development Block Grant Act of 2014),Amendment Agreed to,100,0,0,0
+Senate,113,2,76,76,2014-03-13,"Confirmation Caroline Diane Krass, of the District of Columbia, to be General Counsel of the Central Intelligence Agency",On the Nomination PN1179,Nomination Confirmed,95,4,0,1
+Senate,113,2,77,77,2014-03-13,S. 1086 As Amended,On Passage of the Bill S. 1086,Bill Passed,96,2,0,2
+Senate,113,2,78,78,2014-03-13,H.R. 3370,On Passage of the Bill H.R. 3370,Bill Passed,72,22,0,6
+Senate,113,2,79,79,2014-03-24,Motion to Invoke Cloture on the Motion to Proceed to S.2124,On Cloture on the Motion to Proceed S. 2124,Cloture on the Motion to Proceed Agreed to,78,17,0,5
+Senate,113,2,80,80,2014-03-26,"Motion to Invoke Cloture on the Nomination of Christopher Reid Cooper, of D.C., to be U.S. District Judge",On the Cloture Motion PN1205,Cloture Motion Agreed to,56,43,0,1
+Senate,113,2,81,81,2014-03-26,"Motion to Invoke Cloture on the Nomination of M. Douglas Harpool, of Missouri, to be U.S. District Judge",On the Cloture Motion PN1207,Cloture Motion Agreed to,56,43,0,1
+Senate,113,2,82,82,2014-03-26,"Motion to Invoke Cloture on the Nomination of Gerald McHugh, Jr., of Pennsylvania, to be U.S. District Judge",On the Cloture Motion PN1209,Cloture Motion Agreed to,56,43,0,1
+Senate,113,2,83,83,2014-03-26,"Motion to Invoke Cloture on the Nomination of Edward G. Smith, of Pennsylvania, to be U.S. District Judge",On the Cloture Motion PN1210,Cloture Motion Agreed to,75,23,0,2
+Senate,113,2,85,85,2014-03-26,"Confirmation M. Douglas Harpool, of Missouri, to be U.S. District Judge",On the Nomination PN1207,Nomination Confirmed,93,5,0,2
+Senate,113,2,84,84,2014-03-26,"Confirmation Christopher Reid Cooper, of D.C., to be U.S. District Judge for the District of Columbia",On the Nomination PN1205,Nomination Confirmed,100,0,0,0
+Senate,113,2,87,87,2014-03-26,"Confirmation Edward G. Smith, of Pennsylvania, to be U.S. District Judge",On the Nomination PN1210,Nomination Confirmed,69,31,0,0
+Senate,113,2,86,86,2014-03-26,"Confirmation Gerald Austin McHugh, Jr., of Pennsylvania, to be U.S. District Judge",On the Nomination PN1209,Nomination Confirmed,59,41,0,0
+Senate,113,2,88,88,2014-03-27,Menendez Amdt. No. 2867,"On the Amendment S.Amdt. 2867 to H.R. 4152 (Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014)",Amendment Agreed to,98,2,0,0
+Senate,113,2,90,90,2014-03-27,Motion to Invoke Cloture on the Motion to Proceed to H.R. 3979,On Cloture on the Motion to Proceed H.R. 3979,Cloture on the Motion to Proceed Agreed to,65,34,0,1
+Senate,113,2,89,89,2014-03-27,"Motion to Invoke Cloture on the Nomination of John B. Owens, of California, to be U.S. District Judge",On the Cloture Motion PN1184,Cloture Motion Agreed to,54,44,0,2
+Senate,113,2,91,91,2014-03-31,"Confirmation John B. Owens, of California, to the U.S. Cirguit Judge for the Ninth Circuit",On the Nomination PN1184,Nomination Confirmed,56,43,0,1
+Senate,113,2,94,94,2014-04-01,"Kevin Whitaker, of Virginia, to be Ambassador Extraordinary and Plenipotentiary to the Republic of Colombia",On the Nomination PN1122,Nomination Confirmed,99,0,0,1
+Senate,113,2,93,93,2014-03-31,H.R. 4302,On Passage of the Bill H.R. 4302,Bill Passed,64,35,0,1
+Senate,113,2,92,92,2014-03-31,Motion to Waive All Applicable Budgetary Discipline Re: H.R. 4302,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 4302),Motion Agreed to,64,35,0,1
+Senate,113,2,97,97,2014-04-02,Motion to Table Reid Amdt. No. 2878,On the Motion to Table S.Amdt. 2878 to S.Amdt. 2877 to H.R. 3979 (Emergency Unemployment Compensation Extension Act of 2014),Motion to Table Failed,46,50,0,4
+Senate,113,2,96,96,2014-04-02,Motion to Invoke Cloture on Amdt. No. 2874 to H.R. 3979,On the Cloture Motion S.Amdt. 2874 to H.R. 3979 (Emergency Unemployment Compensation Extension Act of 2014),Cloture Motion Agreed to,61,38,0,1
+Senate,113,2,95,95,2014-04-01,"Confirmation John P. Carlin, of New York, to be Assistant Attorney General",On the Nomination PN1243,Nomination Confirmed,99,1,0,0
+Senate,113,2,98,98,2014-04-02,Motion to Table the Motion to Appeal the Ruling of the Chair,On the Motion to Table H.R. 3979,Motion to Table Agreed to,67,29,0,4
+Senate,113,2,99,99,2014-04-03,Motion to Waive All Applicable Budgetary Discipline Re: Amdt. No. 2874,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Amdt. No. 2874),Motion Agreed to,60,36,0,4
+Senate,113,2,100,100,2014-04-03,Motion to Invoke Cloture on H.R. 3979,On the Cloture Motion H.R. 3979,Cloture Motion Agreed to,61,35,0,4
+Senate,113,2,101,101,2014-04-07,H.R. 3979 As Amended,On Passage of the Bill H.R. 3979,Bill Passed,59,38,0,3
+Senate,113,2,102,102,2014-04-08,"Confirmation Neil Gregory Kornze, of Nevada, to be Director of the Bureau of Land Management",On the Nomination PN1074,Nomination Confirmed,71,28,0,1
+Senate,113,2,103,103,2014-04-09,Motion to Invoke Cloture on the Motion to Proceed to S. 2199,On Cloture on the Motion to Proceed S. 2199,Cloture on the Motion to Proceed Rejected,53,44,0,3
+Senate,113,2,104,104,2014-04-09,"Confirmation Wanda Felton, of New York, to be First Vice President of the Export-Import Bank of the United States",On the Nomination PN1056,Nomination Confirmed,75,21,0,4
+Senate,113,2,105,105,2014-04-09,"Confirmation Terrell McSweeny, of the District of Columbia, to be a Federal Trade Commissioner",On the Nomination PN1063,Nomination Confirmed,95,1,0,4
+Senate,113,2,106,106,2014-04-10,"Motion to Invoke Cloture on the Nomination of Michelle T. Friedland, of California, to be U.S. Circuit Judge",On the Cloture Motion PN1182,Cloture Motion Agreed to,56,41,0,3
+Senate,113,2,107,107,2014-04-10,Motion to Instruct the Sgt. at Arms,On the Motion for Attendance PN1182,Motion for Attendance Agreed to,55,37,0,8
+Senate,113,2,108,108,2014-04-28,"Confirmation Michelle T. Friedland, of California, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN1182,Nomination Confirmed,51,40,0,9
+Senate,113,2,109,109,2014-04-28,"Motion to Invoke Cloture on the Nomination of David Weil, to be Administrator of the Wage and Hour Division",On the Cloture Motion PN1156,Cloture Motion Agreed to,51,42,0,7
+Senate,113,2,110,110,2014-04-28,"Confirmation David Weil, to be Administrator of the Wage and Hour Division, Department of Labor",On the Nomination PN1156,Nomination Confirmed,51,42,0,7
+Senate,113,2,111,111,2014-04-29,"Motion to Invoke Cloture on the Nomination of Sheryl H. Lipman, of TN, to be U.S. District Judge",On the Cloture Motion PN1208,Cloture Motion Agreed to,58,39,0,3
+Senate,113,2,112,112,2014-04-29,"Motion to Invoke Cloture on the Nomination of Stanley Bastian, of WA, to be U.S. District Judge",On the Cloture Motion PN1212,Cloture Motion Agreed to,55,41,0,4
+Senate,113,2,113,113,2014-04-29,"Motion to Invoke Cloture on the Nomination of Manish S. Shah, of IL, to be U.S. District Judge",On the Cloture Motion PN1217,Cloture Motion Agreed to,57,40,0,3
+Senate,113,2,114,114,2014-04-29,"Motion to Invoke Cloture on the Nomination of Daniel D. Crabtree, of Kansas, to be U.S. District Judge",On the Cloture Motion PN1206,Cloture Motion Agreed to,57,39,0,4
+Senate,113,2,115,115,2014-04-29,"Motion to Invoke Cloture on the Nomination of Cynthia Ann Bashant, of California, to be U.S. District Judge",On the Cloture Motion PN1211,Cloture Motion Agreed to,56,41,0,3
+Senate,113,2,116,116,2014-04-29,"Motion to Invoke Cloture on the Nomination of Jon David Levy, of Maine, to be U.S. District Judge",On the Cloture Motion PN1214,Cloture Motion Agreed to,63,34,0,3
+Senate,113,2,117,117,2014-04-30,Motion to Invoke Cloture on the Motion to Proceed to S. 2223,On Cloture on the Motion to Proceed S. 2223,Cloture on the Motion to Proceed Rejected,54,42,0,4
+Senate,113,2,119,119,2014-04-30,"Confirmation Stanley Allen Bastian, of Washington, to be U.S. District Judge for the Eastern District of Washington",On the Nomination PN1212,Nomination Confirmed,95,0,0,5
+Senate,113,2,118,118,2014-04-30,"Confirmation Sheryl H. Lipman, of Tennessee, to be U.S. District Judge for the Western District of Tennessee",On the Nomination PN1208,Nomination Confirmed,95,0,0,5
+Senate,113,2,120,120,2014-04-30,"Confirmation Manish S. Shah, of Illinois, to be U.S. District Judge for the Northern District of Illinois",On the Nomination PN1217,Nomination Confirmed,95,0,0,5
+Senate,113,2,121,121,2014-04-30,"Confirmation Daniel D. Crabtree, of Kansas, to be U.S. District Judge for the District of Kansas",On the Nomination PN1206,Nomination Confirmed,94,0,0,6
+Senate,113,2,122,122,2014-04-30,"Confirmation Cynthia Ann Bashant, of California, to be U.S. District Judge for the Southern District of California",On the Nomination PN1211,Nomination Confirmed,94,0,0,6
+Senate,113,2,123,123,2014-04-30,"Confirmation Jon David Levy, of Maine, to be U.S. District Judge for the District of Maine",On the Nomination PN1214,Nomination Confirmed,75,20,0,5
+Senate,113,2,124,124,2014-05-01,"Motion to Invoke Cloture on Theodore David Chuang, of Maryland, to be U.S. District Judge for the District of Maryland",On the Cloture Motion PN1221,Cloture Motion Agreed to,54,43,0,3
+Senate,113,2,125,125,2014-05-01,"Motion to Invoke Cloture on George Jarrod Hazel, of Maryland, to be U.S. District Judge for the District of Maryland",On the Cloture Motion PN1222,Cloture Motion Agreed to,55,42,0,3
+Senate,113,2,126,126,2014-05-01,"Motion to Invoke Cloture on Nancy L. Moritz, to be U.S. Circuit Judge for the Tenth Circuit",On the Cloture Motion PN1183,Cloture Motion Agreed to,60,38,0,2
+Senate,113,2,128,128,2014-05-01,"Confirmation George Jarrod Hazel, of Maryland, to be U.S. District Judge for the District of Maryland",On the Nomination PN1222,Nomination Confirmed,95,0,0,5
+Senate,113,2,129,129,2014-05-01,"Confirmation Janice Marion Schneider, of New York, to be an Assistant Secretary",On the Nomination PN1071,Nomination Confirmed,64,32,0,4
+Senate,113,2,127,127,2014-05-01,"Confirmation Theodore David Chuang, of Maryland, to be U.S. District Judge for the District of Maryland",On the Nomination PN1221,Nomination Confirmed,53,42,0,5
+Senate,113,2,130,130,2014-05-05,"Confirmation Nancy L. Moritz, of Kansas, to be U.S. Circuit Judge for the Tenth Circuit",On the Nomination PN1183,Nomination Confirmed,90,3,0,7
+Senate,113,2,131,131,2014-05-06,Motion to Invoke Cloture on the Motion to Proceed to S. 2262,On Cloture on the Motion to Proceed S. 2262,Cloture on the Motion to Proceed Agreed to,79,20,0,1
+Senate,113,2,132,132,2014-05-07,Motion to Table Reid Amdt. No. 3023,On the Motion to Table S.Amdt. 3023 to S.Amdt. 3012 to S. 2262 (Energy Savings and Industrial Competitiveness Act of 2014),Motion to Table Failed,45,52,0,3
+Senate,113,2,133,133,2014-05-07,Motion to Table Reid Amdt. No. 3025,On the Motion to Table S.Amdt. 3025 to S. 2262 (Energy Savings and Industrial Competitiveness Act of 2014),Motion to Table Failed,45,51,0,4
+Senate,113,2,134,134,2014-05-08,"Motion to Invoke Cloture on the Nomination of Indira Talwani, of Massachusetts, to be U.S. District Judge",On the Cloture Motion PN1220,Cloture Motion Agreed to,55,41,0,4
+Senate,113,2,135,135,2014-05-08,"Motion to Invoke Cloture on the Nomination of James D. Peterson, of Wisconsin, to be U.S. District Judge",On the Cloture Motion PN1223,Cloture Motion Agreed to,56,40,0,4
+Senate,113,2,136,136,2014-05-08,"Motion to Invoke Cloture on the Nomination of Nancy J. Rosenstengel, of Illinois, to be U.S. District Judge",On the Cloture Motion PN1224,Cloture Motion Agreed to,54,42,0,4
+Senate,113,2,137,137,2014-05-08,"Confirmation Indira Talwani, of Massachusetts, to be U.S. District Judge",On the Nomination PN1220,Nomination Confirmed,94,0,0,6
+Senate,113,2,138,138,2014-05-08,"Confirmation James D. Peterson, of Wisconsin, to be U.S. District Judge",On the Nomination PN1223,Nomination Confirmed,70,24,0,6
+Senate,113,2,139,139,2014-05-08,"Confirmation Nancy J. Rosenstengel, of Illinois, to be U.S. District Judge",On the Nomination PN1224,Nomination Confirmed,95,0,0,5
+Senate,113,2,140,140,2014-05-08,"Motion to Invoke Cloture on the Nomination of Robin S. Rosenbaum, of Florida, to be U.S. Circuit Judge",On the Cloture Motion PN1186,Cloture Motion Agreed to,57,37,0,6
+Senate,113,2,141,141,2014-05-12,"Confirmation of Robin S. Rosenbaum of Florida, to be U.S. Circuit Judge for the Eleventh Circuit",On the Nomination PN1186,Nomination Confirmed,91,0,0,9
+Senate,113,2,142,142,2014-05-12,Motion to Invoke Cloture on S. 2262,On the Cloture Motion S. 2262,Cloture Motion Rejected,55,36,0,9
+Senate,113,2,143,143,2014-05-13,Motion to Invoke Cloture on the Motion to Proceed to H.R. 3474,On the Cloture Motion H.R. 3474,Cloture Motion Agreed to,96,3,0,1
+Senate,113,2,144,144,2014-05-14,"Motion to Invoke Cloture on the Nomination of Steven Paul Logan, of Arizona, to be U.S. District Judge for the District of Arizona",On the Cloture Motion PN1215,Cloture Motion Agreed to,58,37,0,5
+Senate,113,2,145,145,2014-05-14,"Motion to Invoke Cloture on the Nomination of John Joseph Tuchi, of Arizona, to be U.S. District Judge for the District of Arizona",On the Cloture Motion PN1218,Cloture Motion Agreed to,62,35,0,3
+Senate,113,2,146,146,2014-05-14,"Motion to Invoke Cloture on the Nomination of Diane J. Humetewa, of Arizona, to be U.S. District Judge for the District of Arizona",On the Cloture Motion PN1213,Cloture Motion Agreed to,64,34,0,2
+Senate,113,2,147,147,2014-05-14,"Confirmation Steven Paul Logan, of Arizona, to be U.S. District Judge for the District of Arizona",On the Nomination PN1215,Nomination Confirmed,96,0,0,4
+Senate,113,2,148,148,2014-05-14,"Confirmation John Joseph Tuchi, of Arizona, to be U.S. District Judge for the District of Arizona",On the Nomination PN1218,Nomination Confirmed,96,0,0,4
+Senate,113,2,150,150,2014-05-15,"Motion to Invoke cloture on Rosemary Marquez, of Arizona, to be U.S. District Judge for the District of Arizona",On the Cloture Motion PN1189,Cloture Motion Agreed to,58,35,0,7
+Senate,113,2,149,149,2014-05-14,"Confirmation Diane J. Humetewa, of Arizona, to be U.S. District Judge for the District of Arizona",On the Nomination PN1213,Nomination Confirmed,96,0,0,4
+Senate,113,2,152,152,2014-05-15,"Motion to Invoke Cloture on James Alan Soto, of Arizona, to be U.S. District Judge for the District of Arizona",On the Cloture Motion PN1233,Cloture Motion Agreed to,61,35,0,4
+Senate,113,2,153,153,2014-05-15,"Confirmation Rosemary Marquez, of Arizona, to be U.S. District Judge for the District of Arizona",On the Nomination PN1189,Nomination Confirmed,81,15,0,4
+Senate,113,2,151,151,2014-05-15,"Motion to Invoke Cloture on Douglas L. Rayes, of Arizona, to be U.S. District Judge for the District of Arizona",On the Cloture Motion PN1216,Cloture Motion Agreed to,59,35,0,6
+Senate,113,2,154,154,2014-05-15,"Confirmation Douglas L. Rayes, of Arizona, to be U.S. District Judge for the District of Arizona",On the Nomination PN1216,Nomination Confirmed,77,19,0,4
+Senate,113,2,156,156,2014-05-15,"Motion to Invoke Cloture of Gregg Jeffrey Costa, of Texas, to be U.S. Circuit Judge for the Fifth Circuit",On the Cloture Motion PN1188,Cloture Motion Agreed to,58,36,0,6
+Senate,113,2,155,155,2014-05-15,"Confirmation James Alan Soto, of Arizona, to be U.S. District Judge for the District of Arizona",On the Nomination PN1233,Nomination Confirmed,93,1,0,6
+Senate,113,2,159,159,2014-05-20,"Motion to Invoke Cloture on the Nomination of Stanley Fischer, of New York, to be a Member of the Board of Governors",On the Cloture Motion PN1343,Cloture Motion Agreed to,62,35,0,3
+Senate,113,2,158,158,2014-05-20,"Confirmation Gregg Jeffrey Costa, of Texas, to be U.S. Circuit Judge for the Fifth Circuit",On the Nomination PN1188,Nomination Confirmed,97,0,0,3
+Senate,113,2,157,157,2014-05-15,Motion to Invoke Cloture on Amdt. No. 3060 to H.R. 3474,On the Cloture Motion S.Amdt. 3060 to H.R. 3474 (Hire More Heroes Act of 2014),Cloture Motion Rejected,53,40,0,7
+Senate,113,2,161,161,2014-05-21,"Motion to Invoke Cloture Re: David Jeremiah Barron, of Massachusetts, to be United States Circuit Judge for the First Circuit",On the Cloture Motion PN1185,Cloture Motion Agreed to,52,43,0,5
+Senate,113,2,160,160,2014-05-21,"Confirmation Stanley Fischer, of New York, to be a Member of the Board of Governors, Federal Reserve System",On the Nomination PN1343,Nomination Confirmed,68,27,0,5
+Senate,113,2,162,162,2014-05-22,"Confirmation David Jeremiah Barron, of Massachusetts, to be U.S. Circuit Judge for the First Circuit",On the Nomination PN1185,Nomination Confirmed,53,45,0,2
+Senate,113,2,163,163,2014-05-22,Conference Report to Accompany H.R. 3080,On the Conference Report H.R. 3080,Conference Report Agreed to,91,7,0,2
+Senate,113,2,164,164,2014-06-02,"Motion to Invoke Cloture on the Nomination of Keith M. Harper, of Maryland, for the rank of Ambassador as U.S. Representative to UN Human Rights Counsel",On the Cloture Motion PN1108,Cloture Motion Agreed to,51,37,0,12
+Senate,113,2,165,165,2014-06-03,"Confirmation Keith M. Harper, of Maryland, for the Rank of Ambassador as U.S. Representative to the U.N. Human Rights Council",On the Nomination PN1108,Nomination Confirmed,52,42,0,6
+Senate,113,2,166,166,2014-06-03,"Motion to Invoke Cloture on the Nomination of Sharon Y. Bowen, of New York, to be Commissioner of the Commodity Futures Trading Commission",On the Cloture Motion PN1289,Cloture Motion Agreed to,50,44,0,6
+Senate,113,2,167,167,2014-06-03,"Confirmation Sharon Y. Bowen, of New York, to be Commissioner of the Commodity Futures Trading Commission",On the Nomination PN1289,Nomination Confirmed,48,46,1,5
+Senate,113,2,168,168,2014-06-03,"Motion to Invoke Cloture on the Nomination of Mark G. Mastroianni, of Massachusetts, to be U.S. District Judge",On the Cloture Motion PN1219,Cloture Motion Agreed to,56,39,0,5
+Senate,113,2,169,169,2014-06-03,"Motion to Invoke Cloture on the Nomination of Bruce Hendricks, of South Carolina, to be U.S. District Judge",On the Cloture Motion PN1197,Cloture Motion Agreed to,59,35,0,6
+Senate,113,2,170,170,2014-06-03,"Motion to Invoke Cloture on the Nomination of Tanya S. Chutkan, of the District of Columbia, to be U.S. District Judge",On the Cloture Motion PN1227,Cloture Motion Agreed to,54,40,0,6
+Senate,113,2,171,171,2014-06-04,Confirmation Mark G. Mastroianni to be U.S. District Judge for the District of Massachusetts,On the Nomination PN1219,Nomination Confirmed,92,2,0,6
+Senate,113,2,172,172,2014-06-04,Confirmation Bruce Howe Hendricks to be U.S. District Judge for the District of South Carolina,On the Nomination PN1197,Nomination Confirmed,95,0,0,5
+Senate,113,2,173,173,2014-06-04,Confirmation Tanya S. Chutkan to be U.S. District Judge for the District of Columbia,On the Nomination PN1227,Nomination Confirmed,95,0,0,5
+Senate,113,2,175,175,2014-06-05,"Confirmation Sylvia Mathews Burwell, of West Virginia, to be Secretary of Health and Human Services",On the Nomination PN1612,Nomination Confirmed,78,17,0,5
+Senate,113,2,174,174,2014-06-04,Motion to Invoke Cloture on the Nomination of Sylvia Mathews Burwell to be Secretary of Health and Human Services,On the Cloture Motion PN1612,Cloture Motion Agreed to,67,28,0,5
+Senate,113,2,176,176,2014-06-09,"Motion to Invoke Cloture on the Nomination of M. Hannah Lauck, of Virginia, to be United States District Judge for the Eastern District",On the Cloture Motion PN1229,Cloture Motion Agreed to,52,32,0,16
+Senate,113,2,178,178,2014-06-09,"Motion to Invoke Cloture on the Nomination of Richard Franklin Boulware II, of  Nevada, to be U.S. District Judge",On the Cloture Motion PN1346,Cloture Motion Agreed to,53,34,0,13
+Senate,113,2,177,177,2014-06-09,"Motion to Invoke Cloture on the Nomination of Leo T. Sorokin, of Massachusetts, to be U.S. District Judge",On the Cloture Motion PN1232,Cloture Motion Agreed to,52,33,0,15
+Senate,113,2,179,179,2014-06-10,"Confirmation of M. Hannah Lauck, of Virginia, to be United States District Judge for the Eastern District",On the Nomination PN1229,Nomination Confirmed,90,0,0,10
+Senate,113,2,181,181,2014-06-10,"Confirmation of Richard Franklin Boulware II, of Nevada, to be United States District Judge for the District of Nevada",On the Nomination PN1346,Nomination Confirmed,58,35,0,7
+Senate,113,2,180,180,2014-06-10,"Confirmation of Leo T. Sorokin, of Massachusetts, to be United States District Judge for the District of Massachusetts",On the Nomination PN1232,Nomination Confirmed,91,0,0,9
+Senate,113,2,182,182,2014-06-10,"Motion to Invoke Cloture on the Nomination of Lael Brainard, of the District of Columbia, to be a Member of the Board of Governors of the Federal Reserve System",On the Cloture Motion PN1344,Cloture Motion Agreed to,59,35,0,6
+Senate,113,2,184,184,2014-06-10,"Motion to Invoke Cloture on the Nomination of Stanley Fischer, of New York, to be Vice Chairman of the Board of Governors of the Federal  Reserve System",On the Cloture Motion PN1342,Cloture Motion Agreed to,56,38,0,6
+Senate,113,2,183,183,2014-06-10,"Motion to Invoke Cloture on the Nomination of Jerome H. Powell, of Maryland, to be a Member of the Board of Governors of the Federal Reserve System",On the Cloture Motion PN1350,Cloture Motion Agreed to,58,36,0,6
+Senate,113,2,185,185,2014-06-11,Motion to Invoke Cloture on the Motion to Proceed to S.2432,On Cloture on the Motion to Proceed S. 2432,Cloture on the Motion to Proceed Rejected,56,38,0,6
+Senate,113,2,186,186,2014-06-11,Motion to Waive All Applicable Budgetary Discipline Re: H.R. 3230,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 3230),Motion Agreed to,75,19,0,6
+Senate,113,2,187,187,2014-06-11,"H.R. 3230, As Amended",On Passage of the Bill H.R. 3230,Bill Passed,93,3,0,4
+Senate,113,2,188,188,2014-06-12,"Confirmation Crystal Nix-Hines, of California, to be Ambassador United Nations Educational, Scientific, and Cultural Organization",On the Nomination PN1111,Nomination Confirmed,52,41,0,7
+Senate,113,2,190,190,2014-06-12,"Confirmation Jerome H. Powell, of Maryland, to be a Member of the Board of Governors of the Federal Reserve System",On the Nomination PN1350,Nomination Confirmed,67,24,0,9
+Senate,113,2,189,189,2014-06-12,"Confirmation Lael Brainard, of the District of Columbia, to be a Member of the Board of Governors of the Federal Reserve System",On the Nomination PN1344,Nomination Confirmed,61,31,0,8
+Senate,113,2,191,191,2014-06-12,"Confirmation Stanley Fischer, of New York, to be Vice Chairman of the Board of Governors of the Federal Reserve System",On the Nomination PN1342,Nomination Confirmed,63,24,0,13
+Senate,113,2,192,192,2014-06-16,"Motion to Invoke Cloture on the Nomination of Salvador Mendoza, Jr., of Washington, to be U.S. District Judge",On the Cloture Motion PN1347,Cloture Motion Agreed to,55,37,0,8
+Senate,113,2,193,193,2014-06-16,"Motion to Invoke Cloture on the Nomination of Staci Michelle Yandle, of Illinois, to be U.S. District Judge",On the Cloture Motion PN1348,Cloture Motion Agreed to,55,37,0,8
+Senate,113,2,194,194,2014-06-16,"Motion to Invoke Cloture on the Nomination of Darrin P. Gayles, of Florida, to be U.S. District Judge",On the Cloture Motion PN1400,Cloture Motion Agreed to,55,37,0,8
+Senate,113,2,195,195,2014-06-17,"Confirmation Salvador Mendoza, Jr., of Washington, to be U.S. District Judge",On the Nomination PN1347,Nomination Confirmed,92,4,0,4
+Senate,113,2,196,196,2014-06-17,"Confirmation Staci Michelle Yandle, of Illinois, to be U.S. District Judge",On the Nomination PN1348,Nomination Confirmed,52,44,0,4
+Senate,113,2,197,197,2014-06-17,"Confirmation Darrin P. Gayles, of Florida, to be U.S. District Judge",On the Nomination PN1400,Nomination Confirmed,98,0,0,2
+Senate,113,2,198,198,2014-06-17,"Motion to Invoke Cloture on the Nomination of Peter Kadzik, of New York, to be Assistant Attorney General",On the Cloture Motion PN1244,Cloture Motion Agreed to,54,43,0,3
+Senate,113,2,199,199,2014-06-17,"Confirmation Peter Joseph Kadzik, of New York, to be an Assistant Attorney General",On the Nomination PN1244,Nomination Confirmed,55,43,0,2
+Senate,113,2,200,200,2014-06-17,Motion to Invoke Cloture on the Motion to Proceed to H.R. 4660,On the Cloture Motion H.R. 4660,Cloture Motion Agreed to,95,3,0,2
+Senate,113,2,201,201,2014-06-19,"Confirmation Gustavo Velasquez Aguilar, to be Assistant Secretary of HUD",On the Nomination PN1349,Nomination Confirmed,54,38,0,8
+Senate,113,2,202,202,2014-06-23,"Motion to Invoke Cloture on the Nomination of Paul G. Byron, of Florida, to be U.S. District Judge",On the Cloture Motion PN1399,Cloture Motion Agreed to,53,30,0,17
+Senate,113,2,203,203,2014-06-23,"Motion to Invoke Cloture on the Nomination of Carlos Mendoza, of Florida, to be U.S. District Judge",On the Cloture Motion PN1401,Cloture Motion Agreed to,53,31,0,16
+Senate,113,2,204,204,2014-06-23,"Motion to Invoke Cloture on the Nomination of Beth Bloom, of Florida, to be U.S. District Judge",On the Cloture Motion PN1398,Cloture Motion Agreed to,53,31,0,16
+Senate,113,2,206,206,2014-06-24,"Confirmation Paul G. Byron, of Florida, to be U.S. District Judge",On the Nomination PN1399,Nomination Confirmed,94,0,0,6
+Senate,113,2,205,205,2014-06-23,"Motion to Invoke Cloture on the Nomination of Geoffrey Crawford, of Vermont, to be U.S. District Judge",On the Cloture Motion PN1717,Cloture Motion Agreed to,52,32,0,16
+Senate,113,2,207,207,2014-06-24,"Confirmation Carlos Eduardo Mendoza, of Florida, to be U.S. District Judge",On the Nomination PN1401,Nomination Confirmed,94,0,0,6
+Senate,113,2,209,209,2014-06-24,"Confirmation Geoffrey W. Crawford, of Vermont, to be U.S. District Judge",On the Nomination PN1717,Nomination Confirmed,95,0,0,5
+Senate,113,2,208,208,2014-06-24,"Confirmation Beth Bloom, of Florida, to be U.S. District Judge",On the Nomination PN1398,Nomination Confirmed,95,0,0,5
+Senate,113,2,210,210,2014-06-24,"Motion to Invoke Cloture on the Nomination of Leon Rodriguez, of Maryland, to be Director of the U.S. Citizenship Immigration Services, Department of Homeland Security",On the Cloture Motion PN1298,Cloture Motion Agreed to,52,44,0,4
+Senate,113,2,212,212,2014-06-25,Flake Amdt. No. 3379,On the Amendment S.Amdt. 3379 to S.Amdt. 3378 to H.R. 803 (SKILLS Act),Amendment Rejected,33,63,0,4
+Senate,113,2,211,211,2014-06-24,"Confirmation Leon Rodriguez, of Maryland, to be Director of the United States Citizenship and Immigration Services",On the Nomination PN1298,Nomination Confirmed,52,44,0,4
+Senate,113,2,213,213,2014-06-25,Lee Amdt. No. 3380,On the Amendment S.Amdt. 3380 to S.Amdt. 3378 to H.R. 803 (SKILLS Act),Amendment Rejected,40,58,0,2
+Senate,113,2,214,214,2014-06-25,"H.R. 803, As Amended",On Passage of the Bill H.R. 803,Bill Passed,95,3,0,2
+Senate,113,2,215,215,2014-06-26,"Motion to Invoke Cloture on Cheryl Ann Krause, of New Jersey, to be U.S. Circuit Judge for the Third Circuit",On the Cloture Motion PN1397,Cloture Motion Agreed to,57,39,0,4
+Senate,113,2,216,216,2014-06-26,"Confirmation Stuart E. Jones, of Virginia, to be Ambassador of U.S.A. to the Republic of Iraq",On the Nomination PN1704,Nomination Confirmed,93,0,0,7
+Senate,113,2,217,217,2014-07-07,"Confirmation Cheryl Ann Krause, of New Jersey, to be United States Circuit Judge for the Third Circuit",On the Nomination PN1397,Nomination Confirmed,93,0,0,7
+Senate,113,2,218,218,2014-07-07,Motion to Invoke Cloture on the Motion to Proceed to S. 2363,On Cloture on the Motion to Proceed S. 2363,Cloture on the Motion to Proceed Agreed to,82,12,0,6
+Senate,113,2,219,219,2014-07-09,"Confirmation Julian Castro, of Texas, to be Secretary of Housing and Urban Development",On the Nomination PN1736,Nomination Confirmed,71,26,0,3
+Senate,113,2,220,220,2014-07-10,Motion to Invoke Cloture on S. 2363,On the Cloture Motion S. 2363,Cloture Motion Rejected,41,56,0,3
+Senate,113,2,221,221,2014-07-10,"Confirmation Shaun L. S. Donovan, of New York, to be Director of the Office of Management and Budget",On the Nomination PN1737,Nomination Confirmed,75,22,0,3
+Senate,113,2,222,222,2014-07-15,"Motion to Invoke Cloture on the Nomination of Norman C. Bay, of New Mexico, to be a Member of FERC",On the Cloture Motion PN1368,Cloture Motion Agreed to,51,45,0,4
+Senate,113,2,223,223,2014-07-15,"Motion to Invoke Cloture on the Nomination of Cheryl A. LaFleur, of Massachusetts, to be a Member of FERC",On the Cloture Motion PN1643,Cloture Motion Agreed to,85,10,0,5
+Senate,113,2,224,224,2014-07-15,"Confirmation Norman C. Bay, of New Mexico, to be a Member of FERC",On the Nomination PN1368,Nomination Confirmed,52,45,0,3
+Senate,113,2,225,225,2014-07-15,"Confirmation Cheryl A. LaFleur, of Massachusetts, to be a Member of FERC",On the Nomination PN1643,Nomination Confirmed,90,7,0,3
+Senate,113,2,226,226,2014-07-16,"Motion to Invoke Cloture on the Nomination of Ronnie L. White, of Missouri, to be U.S. District Judge for the Eastern District of Missouri",On the Cloture Motion PN1225,Cloture Motion Agreed to,54,43,0,3
+Senate,113,2,227,227,2014-07-16,"Confirmation Ronnie L. White, of Missouri, to be U.S. District Judge for the Eastern District of Missouri",On the Nomination PN1225,Nomination Confirmed,53,44,0,3
+Senate,113,2,228,228,2014-07-16,Motion to Invoke Cloture on the Motion to Proceed to S.2578,On Cloture on the Motion to Proceed S. 2578,Cloture on the Motion to Proceed Rejected,56,43,0,1
+Senate,113,2,229,229,2014-07-17,Motion to Waive All Applicable Budgetary Discipline re: Coburn Amdt. No. 3549,On the Motion (Motion to Waive All Applicable Budgetary Discipline re: Coburn Amdt. No. 3549),Motion Rejected,48,49,0,3
+Senate,113,2,230,230,2014-07-17,Flake Amdt. No. 3551,On the Amendment S.Amdt. 3551 to S. 2244 (Terrorism Risk Insurance Program Reauthorization Act of 2014),Amendment Agreed to,97,0,0,3
+Senate,113,2,231,231,2014-07-17,S.2244 As Amended,On Passage of the Bill S. 2244,Bill Passed,93,4,0,3
+Senate,113,2,232,232,2014-07-17,"Motion to Invoke Cloture on the Nomination of Julie E. Carnes, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit",On the Cloture Motion PN1187,Cloture Motion Agreed to,68,23,0,9
+Senate,113,2,233,233,2014-07-21,"Confirmation Julie E. Carnes, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit",On the Nomination PN1187,Nomination Confirmed,94,0,0,6
+Senate,113,2,234,234,2014-07-22,"Motion to Invoke Cloture on Andre Birotte, Jr., of California, to be U.S. District Judge",On the Cloture Motion PN1551,Cloture Motion Agreed to,56,43,0,1
+Senate,113,2,235,235,2014-07-22,"Motion to Invoke Cloture on Robin L. Rosenberg, of Florida, to be U.S. District Judge",On the Cloture Motion PN1476,Cloture Motion Agreed to,58,42,0,0
+Senate,113,2,236,236,2014-07-22,"Motion to Invoke Cloture on John W. deGravelles, of Louisiana, to be U.S. District Judge",On the Cloture Motion PN1516,Cloture Motion Agreed to,57,39,0,4
+Senate,113,2,237,237,2014-07-22,"Confirmation Andre Birotte, Jr., of California, to be U.S. District Judge, Central District of California",On the Nomination PN1551,Nomination Confirmed,100,0,0,0
+Senate,113,2,238,238,2014-07-22,"Confirmation Robin L. Rosenberg, of Florida, to be U.S. District Judge, Southern District of Florida",On the Nomination PN1476,Nomination Confirmed,100,0,0,0
+Senate,113,2,239,239,2014-07-22,"Confirmation John W. deGravelles, of Louisiana, to be U.S. District Judge, Middle District of Louisiana",On the Nomination PN1516,Nomination Confirmed,100,0,0,0
+Senate,113,2,240,240,2014-07-23,Motion to Invoke Cloture on the Motion to Proceed to S. 2569,On the Cloture Motion S. 2569,Cloture Motion Agreed to,93,7,0,0
+Senate,113,2,241,241,2014-07-24,"Motion to Invoke Cloture on the Nomination of Pamela Harris, of Maryland, to be U.S. Circuit Judge for the Fourth Circuit",On the Cloture Motion PN1696,Cloture Motion Agreed to,54,41,0,5
+Senate,113,2,242,242,2014-07-28,"Confirmation Pamela Harris, of Maryland, to be U.S. Circuit Judge for the Fourth Circuit",On the Nomination PN1696,Nomination Confirmed,50,43,0,7
+Senate,113,2,243,243,2014-07-29,"Confirmation Robert Alan McDonald, of Ohio, to be Secretary of Veterans Affairs",On the Nomination PN1833,Nomination Confirmed,97,0,0,3
+Senate,113,2,244,244,2014-07-29,Wyden Amdt. No. 3582,On the Amendment S.Amdt. 3582 to H.R. 5021 (Highway and Transportation Funding Act of 2014),Amendment Agreed to,71,26,0,3
+Senate,113,2,245,245,2014-07-29,Carper Amdt. No. 3583,On the Amendment S.Amdt. 3583 to H.R. 5021 (Highway and Transportation Funding Act of 2014),Amendment Agreed to,66,31,0,3
+Senate,113,2,246,246,2014-07-29,Lee Amdt. No. 3584,On the Amendment S.Amdt. 3584 to H.R. 5021 (Highway and Transportation Funding Act of 2014),Amendment Rejected,28,69,0,3
+Senate,113,2,247,247,2014-07-29,Toomey Amdt. No. 3585,On the Amendment S.Amdt. 3585 to H.R. 5021 (Highway and Transportation Funding Act of 2014),Amendment Rejected,47,50,0,3
+Senate,113,2,248,248,2014-07-29,"H.R. 5021, as Amended",On Passage of the Bill H.R. 5021,Bill Passed,79,18,0,3
+Senate,113,2,249,249,2014-07-30,Motion to Invoke Cloture on S. 2569,On the Cloture Motion S. 2569,Cloture Motion Rejected,54,42,0,4
+Senate,113,2,250,250,2014-07-30,Motion to Invoke Cloture on the Motion to Proceed to S. 2648,On the Cloture Motion S. 2648,Cloture Motion Agreed to,63,33,0,4
+Senate,113,2,251,251,2014-07-31,Motion to Table Reid Amdt. No. 3751,"On the Motion to Table S.Amdt. 3751 to S.Amdt. 3750 to S. 2648 (Emergency Supplemental Appropriations Act, 2014)",Motion to Table Failed,43,52,0,5
+Senate,113,2,252,252,2014-07-31,Motion to Waive All Applicable Budgetary Discipline Re: S.2648,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: S.2648),Motion Rejected,50,44,0,6
+Senate,113,2,253,253,2014-07-31,Motion to Waive All Applicable Budgetary Discipline Re: Conference Report on H.R. 3230,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Conference Report on H.R. 3230),Motion Agreed to,86,8,0,6
+Senate,113,2,254,254,2014-07-31,Conference Report to Accompany H.R. 3230,On the Conference Report H.R. 3230,Conference Report Agreed to,91,3,0,6
+Senate,113,2,255,255,2014-07-31,Motion to Recede in the Senate Amendment to H.R. 5021,On the Motion (Motion to Recede in the Senate Amendment to H.R. 5021),Motion Agreed to,81,13,0,6
+Senate,113,2,256,256,2014-07-31,"Motion to Invoke Cloture on the Nomination of Jill A. Pryor, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit",On the Cloture Motion PN1180,Cloture Motion Agreed to,58,33,0,9
+Senate,113,2,257,257,2014-09-08,"Confirmation Jill A. Pryor, of Georgia, to be U.S. Circuit Judge",On the Nomination PN1180,Nomination Confirmed,97,0,0,3
+Senate,113,2,258,258,2014-09-08,"Confirmation Henry J. Aaron, of D.C., to be a Member of the Social Security Advisory Board",On the Nomination PN1263,Nomination Confirmed,54,43,0,3
+Senate,113,2,259,259,2014-09-08,Motion to Invoke Cloture on the Motion to Proceed to S.J.Res. 19,On Cloture on the Motion to Proceed S.J.Res. 19,Cloture on the Motion to Proceed Agreed to,79,18,0,3
+Senate,113,2,260,260,2014-09-10,Upon Reconsideration Motion to Invoke Cloture on the Motion to Proceed to S. 2199,On Cloture on the Motion to Proceed S. 2199,Cloture on the Motion to Proceed Agreed to,73,25,0,2
+Senate,113,2,261,261,2014-09-11,Motion to Invoke Cloture on S.J.Res. 19,On the Cloture Motion S.J.Res. 19,Cloture Motion Rejected,54,42,0,4
+Senate,113,2,262,262,2014-09-15,Motion to Invoke Cloture on S. 2199,On the Cloture Motion S. 2199,Cloture Motion Rejected,52,40,0,8
+Senate,113,2,263,263,2014-09-15,"Motion to Invoke Cloture on the Nomination of Jeffery Baran, of Virginia, to be a Member of the Nuclear Regulatory Commission",On the Cloture Motion PN1930,Cloture Motion Agreed to,52,39,0,9
+Senate,113,2,264,264,2014-09-15,"Motion to Invoke Cloture on the Nomination of Stephen G. Burns, of Maryland, to be a Member of the Nuclear Regulatory Commission",On the Cloture Motion PN1931,Cloture Motion Agreed to,54,37,0,9
+Senate,113,2,265,265,2014-09-16,"Confirmation Jeffery Martin Baran, of Virginia, to be a Member of the Nuclear Regulatory Commission",On the Nomination PN1930,Nomination Confirmed,56,44,0,0
+Senate,113,2,266,266,2014-09-16,"Confirmation Stephen G. Burns, of Maryland, to be a Member of the Nuclear Regulatory Commission",On the Nomination PN1931,Nomination Confirmed,60,40,0,0
+Senate,113,2,268,268,2014-09-18,Motion to Table Amdt. No. 3852,"On the Motion to Table S.Amdt. 3852 to S.Amdt. 3851 to H.J.Res. 124 (Continuing Appropriations Resolution, 2015)",Motion to Table Failed,50,50,0,0
+Senate,113,2,267,267,2014-09-17,"Confirmation John R. Bass, of New York, to be Ambassador of the United States to the Republic of Turkey",On the Nomination PN1738,Nomination Confirmed,98,0,0,2
+Senate,113,2,269,269,2014-09-18,Motion to Invoke Cloture on H.J.Res. 124,On the Cloture Motion H.J.Res. 124,Cloture Motion Agreed to,73,27,0,0
+Senate,113,2,270,270,2014-09-18,H.J. Res. 124,On the Joint Resolution H.J.Res. 124,Joint Resolution Passed,78,22,0,0
+Senate,113,2,271,271,2014-11-12,"Motion to Invoke Cloture on the Nomination of Randolph D. Moss, of Maryland, to be U.S. District Judge for D.C. ",On the Cloture Motion PN1552,Cloture Motion Agreed to,53,45,0,2
+Senate,113,2,272,272,2014-11-12,"Motion to Invoke Cloture on the Nomination of Leigh Martin May, of Georgia, to be U.S. District Judge for Northern District of Georgia",On the Cloture Motion PN1230,Cloture Motion Agreed to,67,30,0,3
+Senate,113,2,274,274,2014-11-13,"Confirmation Leigh Martin May, of Georgia, to be U.S. District Judge for the Northern District of Georgia",On the Nomination PN1230,Nomination Confirmed,99,0,0,1
+Senate,113,2,273,273,2014-11-13,"Confirmation Randolph D. Moss, of Maryland, to be U.S. District Judge for the District of Columbia",On the Nomination PN1552,Nomination Confirmed,54,45,0,1
+Senate,113,2,275,275,2014-11-13,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S. 1086,On the Cloture Motion S. 1086,Cloture Motion Agreed to,96,1,0,3
+Senate,113,2,277,277,2014-11-17,"Motion to Invoke Cloture on the Nomination of Leslie Joyce Abrams, of Georgia, to be U.S. District Judge",On the Cloture Motion PN1515,Cloture Motion Agreed to,68,28,0,4
+Senate,113,2,276,276,2014-11-17,Motion to Concur in the House Amendment to S.1086,On the Motion (Motion to Concur in the House Amendment to S.1086),Motion Agreed to,88,1,0,11
+Senate,113,2,278,278,2014-11-17,"Motion to Invoke Cloture on the Nomination of Mark Howard Cohen, of Georgia, to be U.S. District Judge",On the Cloture Motion PN1228,Cloture Motion Agreed to,67,29,0,4
+Senate,113,2,279,279,2014-11-17,"Motion to Invoke Cloture on the Nomination of Eleanor Louise Ross, of Georgia, to be U.S. District Judge",On the Cloture Motion PN1231,Cloture Motion Agreed to,66,29,0,5
+Senate,113,2,280,280,2014-11-18,S.2280,On Passage of the Bill S. 2280,Bill Defeated,59,41,0,0
+Senate,113,2,281,281,2014-11-18,"Confirmation Leslie Joyce Abrams, of Georgia, to be U.S. District Judge",On the Nomination PN1515,Nomination Confirmed,100,0,0,0
+Senate,113,2,282,282,2014-11-18,Motion to Invoke Cloture on the Motion to Proceed to S. 2685,On the Cloture Motion S. 2685,Cloture Motion Rejected,58,42,0,0
+Senate,113,2,283,283,2014-11-19,"Motion to Invoke Cloture on the Nomination of Pamela Pepper, of Wisconsin, to be U.S. District Judge",On the Cloture Motion PN1613,Cloture Motion Agreed to,58,39,0,3
+Senate,113,2,284,284,2014-11-19,"Motion to Invoke Cloture on the Nomination of Brenda K. Sannes, of New York, to be U.S. District Judge",On the Cloture Motion PN1697,Cloture Motion Agreed to,55,42,0,3
+Senate,113,2,285,285,2014-11-19,"Motion to Invoke Cloture on the Nomination of Madeline Cox Arleo, of New Jersey, to be U.S. District Judge",On the Cloture Motion PN1812,Cloture Motion Agreed to,56,40,0,4
+Senate,113,2,286,286,2014-11-19,"Motion to Invoke Cloture on the Nomination of Wendy Beetlestone, of Pennsylvania, to be U.S. District Judge",On the Cloture Motion PN1774,Cloture Motion Agreed to,58,38,0,4
+Senate,113,2,287,287,2014-11-19,"Motion to Invoke Cloture on the Nomination of Victor Allen Bolden, of Connecticut, to be U.S. District Judge",On the Cloture Motion PN1775,Cloture Motion Agreed to,51,44,0,5
+Senate,113,2,289,289,2014-11-20,"Confirmation Brenda K. Sannes, of New York, to be U.S. District Judge",On the Nomination PN1697,Nomination Confirmed,96,0,0,4
+Senate,113,2,288,288,2014-11-20,"Confirmation Pamela Pepper, of Wisconsin, to be U.S. District Judge",On the Nomination PN1613,Nomination Confirmed,95,0,0,5
+Senate,113,2,290,290,2014-11-20,"Confirmation Victor Allen Bolden, of Connecticut, to be U.S. District Judge",On the Nomination PN1775,Nomination Confirmed,49,46,0,5
+Senate,113,2,291,291,2014-12-01,"Motion to Invoke Cloture on the Nomination of Noah Bryson Mamet, of California, to be Ambassador to the Argentine Republic",On the Cloture Motion PN1133,Cloture Motion Agreed to,50,36,0,14
+Senate,113,2,293,293,2014-12-02,"Confirmation Noah Bryson Mamet, of California, to be Ambassador of the USA to the Argentine Republic",On the Nomination PN1133,Nomination Confirmed,50,43,0,7
+Senate,113,2,292,292,2014-12-01,"Motion to Invoke Cloture on the Nomination of Colleen Bradley Bell, of California, to be Ambassador to Hungary",On the Cloture Motion PN1150,Cloture Motion Agreed to,50,36,0,14
+Senate,113,2,294,294,2014-12-02,"Confirmation Colleen Bradley Bell, of California, to be Ambassador of the USA to Hungary",On the Nomination PN1150,Nomination Confirmed,52,42,0,6
+Senate,113,2,295,295,2014-12-02,"Motion to Invoke Cloture on the Nomination of Nani A. Coloretti, of California, to be Deputy Secretary of Housing and Urban Development",On the Cloture Motion PN1503,Cloture Motion Agreed to,59,34,0,7
+Senate,113,2,296,296,2014-12-02,"Motion to Invoke Cloture on the Nomination of Robert S. Adler, of the District of Columbia, to be Commissioner of the Consumer Product Safety Commission",On the Cloture Motion PN1705,Cloture Motion Agreed to,52,40,0,8
+Senate,113,2,298,298,2014-12-02,"Confirmation Robert S. Adler, of the District of Columbia, to be a Commissioner of the Consumer Product Safety Commission",On the Nomination PN1705,Nomination Confirmed,53,44,0,3
+Senate,113,2,297,297,2014-12-02,"Confirmation Nani A. Coloretti, of California, to be Deputy Secretary of Housing and Urban Development",On the Nomination PN1503,Nomination Confirmed,68,28,0,4
+Senate,113,2,299,299,2014-12-02,"Motion to Invoke Cloture on the Nomination of Charlotte A. Burrows, of the District of Columbia, to be a Member of the Equal Employment Opportunity Commission",On the Cloture Motion PN2028,Cloture Motion Agreed to,57,39,0,4
+Senate,113,2,300,300,2014-12-02,"Motion to Invoke Cloture on the Nomination of P. David Lopez, of AZ, to be General Counsel of the Equal Employment Opportunity Commission",On the Cloture Motion PN1978,Cloture Motion Agreed to,54,43,0,3
+Senate,113,2,301,301,2014-12-03,"Confirmation Charlotte A. Burrows, of the District of Columbia, to be a Member of the Equal Employment Opportunity Commission",On the Nomination PN2028,Nomination Confirmed,93,2,0,5
+Senate,113,2,302,302,2014-12-03,"Confirmation P. David Lopez, of Arizona, to be General Counsel of the Equal Employment Opportunity Commission",On the Nomination PN1978,Nomination Confirmed,53,43,0,4
+Senate,113,2,304,304,2014-12-03,"Motion to Invoke Cloture on Mark A. Kearney, of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",On the Cloture Motion PN1776,Cloture Motion Agreed to,60,36,0,4
+Senate,113,2,303,303,2014-12-03,"Motion to Invoke Cloture on David J. Hale, of Kentucky, to be U.S. District Judge for the Western District of Kentucky",On the Cloture Motion PN1805,Cloture Motion Agreed to,65,31,0,4
+Senate,113,2,305,305,2014-12-03,"Motion to Invoke Cloture on Gerald J. Pappert, of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",On the Cloture Motion PN1778,Cloture Motion Agreed to,67,28,0,5
+Senate,113,2,306,306,2014-12-03,"Motion to Invoke Cloture on the Nomination of Franklin M. Orr, Jr., of California, to be Under Secretary for Science, Department of Energy",On the Cloture Motion PN1073,Cloture Motion Agreed to,71,25,0,4
+Senate,113,2,307,307,2014-12-03,"Motion to Invoke Cloture on the Nomination of Joseph S. Hezir, of Virginia, to be Chief Financial Officer, Department of Energy",On the Cloture Motion PN1255,Cloture Motion Agreed to,68,27,0,5
+Senate,113,2,308,308,2014-12-04,"Confirmation Joseph S. Hezir, of Virginia, to be Chief Financial Officer, Department of Energy",On the Nomination PN1255,Nomination Confirmed,89,3,0,8
+Senate,113,2,309,309,2014-12-04,"Motion to Invoke Cloture on the Nomination of Gregory N. Stivers, of Kentucky, to be U.S. District Judge",On the Cloture Motion PN1807,Cloture Motion Agreed to,69,24,0,7
+Senate,113,2,310,310,2014-12-04,"Motion to Invoke Cloture on the Nomination of Joseph F. Leeson, Jr., of Pennsylvania, to be U.S. District Judge",On the Cloture Motion PN1777,Cloture Motion Agreed to,66,26,0,8
+Senate,113,2,311,311,2014-12-04,"Motion to Invoke Cloture on the Nomination of Lydia Kay Griggsby, of Maryland, to be a Judge of the U.S. Court of Federal Claims",On the Cloture Motion PN1565,Cloture Motion Agreed to,53,36,0,11
+Senate,113,2,312,312,2014-12-04,"Confirmation Joseph F. Leeson, Jr., of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",On the Nomination PN1777,Nomination Confirmed,76,16,0,8
+Senate,113,2,313,313,2014-12-04,"Motion to Invoke Cloture on the Nomination of Jeffery Martin Baran, of Virginia, to be a Member of the Nuclear Regulatory Commission",On the Cloture Motion PN2135,Cloture Motion Agreed to,53,40,0,7
+Senate,113,2,314,314,2014-12-04,"Motion to Invoke Cloture on the Nomination of Lauren McGarity McFerran, of the District of Columbia, to be a member of the National Labor Relations Board",On the Cloture Motion PN2124,Cloture Motion Agreed to,51,42,0,7
+Senate,113,2,316,316,2014-12-08,"Confirmation Jeffery Martin Baran, of Virginia, to be a Member of the Nuclear Regulatory Commission",On the Nomination PN2135,Nomination Confirmed,52,40,0,8
+Senate,113,2,315,315,2014-12-04,"Motion to Invoke Cloture on the Nomination of Ellen Dudley Williams, of Maryland, to be Director of the Advanced Research Projects Agency-Energy",On the Cloture Motion PN1069,Cloture Motion Agreed to,57,34,0,9
+Senate,113,2,317,317,2014-12-08,"Confirmation Lauren McGarity McFerran, of the District of Columbia, to be a Member of the National Labor Relations Board",On the Nomination PN2124,Nomination Confirmed,54,40,0,6
+Senate,113,2,318,318,2014-12-09,"Motion to Invoke Cloture on the Nomination of Virginia Tyler Lodge, of Tennessee, to be a Member of Board of Directors of TVA",On the Cloture Motion PN1987,Cloture Motion Agreed to,63,32,0,5
+Senate,113,2,319,319,2014-12-09,"Motion to Invoke Cloture on the Nomination of Ronald Walter, of Tennessee, to be a Member of the Board of Directors of the Tennessee Valley Authority",On the Cloture Motion PN1988,Cloture Motion Agreed to,65,31,0,4
+Senate,113,2,320,320,2014-12-09,"Confirmation Virginia Tyler Lodge, of Tennessee, to be a Member of the Board of Directors of the Tennessee Valley Authority",On the Nomination PN1987,Nomination Confirmed,86,12,0,2
+Senate,113,2,322,322,2014-12-11,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3979,On the Cloture Motion H.R. 3979,Cloture Motion Agreed to,85,14,0,1
+Senate,113,2,321,321,2014-12-09,"Confirmation Ronald Walter, of Tennessee, to be a Member of the Board of Directors of the Tennessee Valley Authority",On the Nomination PN1988,Nomination Confirmed,86,12,0,2
+Senate,113,2,323,323,2014-12-12,Motion to Refer the House Message on H.R. 3979 to the Committee on Armed Services with Instructions,On the Motion to Refer H.R. 3979,Motion to Refer Rejected,18,82,0,0
+Senate,113,2,324,324,2014-12-12,Shall the Decision of the Chair Stand as the Judgment of the Senate Re: Coburn Appeal,On the Decision of the Chair H.R. 3979,Decision of Chair Sustained,55,45,0,0
+Senate,113,2,325,325,2014-12-12,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3979,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3979),Motion Agreed to,89,11,0,0
+Senate,113,2,326,326,2014-12-12,"Confirmation David Nathan Saperstein, of D.C., to be Ambassador at Large for International Religious Freedom",On the Nomination PN1937,Nomination Confirmed,62,35,0,3
+Senate,113,2,327,327,2014-12-13,Motion to Proceed to Executive Session Re: Sarah R. Saldana,On the Motion to Proceed PN1996,Motion to Proceed Agreed to,48,35,0,17
+Senate,113,2,328,328,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,52,40,0,8
+Senate,113,2,329,329,2014-12-13,Motion to Proceed to Executive Session Re: Carolyn Watts Colvin,On the Motion to Proceed PN1808,Motion to Proceed Agreed to,52,41,0,7
+Senate,113,2,330,330,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,51,41,0,8
+Senate,113,2,331,331,2014-12-13,Motion to Proceed to Executive Session Re: Vivek Murthy,On the Motion to Proceed PN1160,Motion to Proceed Agreed to,52,40,0,8
+Senate,113,2,332,332,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,52,41,0,7
+Senate,113,2,333,333,2014-12-13,Motion to Proceed to Executive Session Re: Antony Blinken,On the Motion to Proceed PN2123,Motion to Proceed Agreed to,52,41,0,7
+Senate,113,2,334,334,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,52,41,0,7
+Senate,113,2,335,335,2014-12-13,Motion to Proceed to Executive Session Re: Frank Rose,On the Motion to Proceed PN1099,Motion to Proceed Agreed to,52,41,0,7
+Senate,113,2,336,336,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,52,41,0,7
+Senate,113,2,337,337,2014-12-13,Motion to Proceed to Executive Session Re: Colette Dodson Honorable,On the Motion to Proceed PN1986,Motion to Proceed Agreed to,50,41,0,9
+Senate,113,2,338,338,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,53,40,0,7
+Senate,113,2,339,339,2014-12-13,Motion to Proceed to Executive Session Re: Daniel J. Santos,On the Motion to Proceed PN1753,Motion to Proceed Agreed to,52,41,0,7
+Senate,113,2,340,340,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,52,42,0,6
+Senate,113,2,341,341,2014-12-13,Motion to Proceed to Executive Session Re: Estevan R. Lopez,On the Motion to Proceed PN1504,Motion to Proceed Agreed to,54,42,0,4
+Senate,113,2,342,342,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,54,42,0,4
+Senate,113,2,343,343,2014-12-13,Motion to Proceed to Executive Session Re: Marcus Dwayne Jadotte,On the Motion to Proceed PN1732,Motion to Proceed Agreed to,53,42,0,5
+Senate,113,2,344,344,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,54,42,0,4
+Senate,113,2,345,345,2014-12-13,Motion to Proceed to Executive Session Re: Jonathan Nicholas Stivers,On the Motion to Proceed PN1561,Motion to Proceed Agreed to,54,42,0,4
+Senate,113,2,346,346,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,54,42,0,4
+Senate,113,2,347,347,2014-12-13,Motion to Proceed to Executive Session Re: John Charles Cruden,On the Motion to Proceed PN1297,Motion to Proceed Agreed to,53,42,0,5
+Senate,113,2,348,348,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,54,42,0,4
+Senate,113,2,349,349,2014-12-13,Motion to Proceed to Executive Session Re: Christopher Smith,On the Motion to Proceed PN1070,Motion to Proceed Agreed to,54,42,0,4
+Senate,113,2,350,350,2014-12-13,Motion to Proceed to Legislative Session,On the Motion to Proceed H.R. 83,Motion to Proceed Agreed to,53,42,0,5
+Senate,113,2,351,351,2014-12-13,Motion to Proceed to Executive Session Re: Stephen R. Bough,On the Motion to Proceed PN1345,Motion to Proceed Agreed to,54,42,0,4
+Senate,113,2,352,352,2014-12-13,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 83,On the Cloture Motion H.R. 83,Cloture Motion Agreed to,77,19,0,4
+Senate,113,2,353,353,2014-12-13,Is the Point of Order Well Taken Re: Cruz Constitutional Point of Order,On the Point of Order H.R. 83,Point of Order Not Well Taken,22,74,0,4
+Senate,113,2,354,354,2014-12-13,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 83,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 83),Motion Agreed to,56,40,0,4
+Senate,113,2,355,355,2014-12-15,Motion to Invoke Cloture on the Nomination of Vivek Hallegere Murthy,On the Cloture Motion PN1160,Cloture Motion Agreed to,51,43,0,6
+Senate,113,2,356,356,2014-12-15,Confirmation Vivek Hallegere Murthy to be Surgeon General,On the Nomination PN1160,Nomination Confirmed,51,43,0,6
+Senate,113,2,357,357,2014-12-15,"Motion to Invoke Cloture on Daniel J. Santos, of Virginia, to be a Member of the Defense Nuclear Facilities Safety Board",On the Cloture Motion PN1753,Cloture Motion Agreed to,54,39,0,7
+Senate,113,2,358,358,2014-12-15,"Motion to Invoke Cloture on Frank A. Rose, of Massachusetts, to be an Assistant Secretary of State",On the Cloture Motion PN1099,Cloture Motion Agreed to,54,39,0,7
+Senate,113,2,359,359,2014-12-16,"Motion to Invoke Cloture on the Nomination of Sarah R. Saldana, of Texas, to be an Assistant Secretary of Homeland Security",On the Cloture Motion PN1996,Cloture Motion Agreed to,53,41,0,6
+Senate,113,2,360,360,2014-12-16,"Confirmation Sarah R. Saldana, of Texas, to be an Assistant Secretary of Homeland Security",On the Nomination PN1996,Nomination Confirmed,55,39,0,6
+Senate,113,2,361,361,2014-12-16,"Motion to Invoke Cloture on Antony Blinken, of New York, to be Deputy Secretary of State.",On the Cloture Motion PN2123,Cloture Motion Agreed to,53,40,0,7
+Senate,113,2,362,362,2014-12-16,"Confirmation Antony Blinken, of New York, to be Deputy Secretary of State",On the Nomination PN2123,Nomination Confirmed,55,38,0,7
+Senate,113,2,363,363,2014-12-16,"Motion to Invoke Cloture on the Nomination of Colette Dodson Honorable, of Arkansas, to be a Member of FERC",On the Cloture Motion PN1986,Cloture Motion Agreed to,65,28,0,7
+Senate,113,2,364,364,2014-12-16,H.R. 5771,On Passage of the Bill H.R. 5771,Bill Passed,76,16,0,8
+Senate,113,2,365,365,2014-12-16,"Motion to Invoke Cloture on Stephen R. Bough, of Missouri, to be U.S. District Judge for the Western District of Missouri",On the Cloture Motion PN1345,Cloture Motion Agreed to,51,38,0,11
+Senate,113,2,366,366,2014-12-16,"Confirmation Stephen R. Bough, of Missouri, to be U.S. District Judge for the Western District of Missouri",On the Nomination PN1345,Nomination Confirmed,51,38,0,11

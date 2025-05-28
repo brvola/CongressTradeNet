@@ -1,0 +1,429 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+Senate,116,1,2,2,2019-01-10,Motion to Invoke Cloture on the Motion to Proceed to S. 1,On Cloture on the Motion to Proceed S. 1,Cloture on the Motion to Proceed Rejected,53,43,0,4
+Senate,116,1,1,1,2019-01-08,Motion to Invoke Cloture on the Motion to Proceed to S. 1,On Cloture on the Motion to Proceed S. 1,Cloture on the Motion to Proceed Rejected,56,44,0,0
+Senate,116,1,3,3,2019-01-14,Motion to Invoke Cloture on the Motion to Proceed to S. 1,On Cloture on the Motion to Proceed S. 1,Cloture on the Motion to Proceed Rejected,50,43,0,7
+Senate,116,1,5,5,2019-01-15,Motion to Proceed to S.J. Res. 2,On the Motion to Proceed S.J.Res. 2,Motion to Proceed Agreed to,57,42,0,1
+Senate,116,1,4,4,2019-01-15,Motion to Table the Motion to Proceed to S.J. Res. 2,On the Motion to Table S.J.Res. 2,Motion to Table Failed,42,57,0,1
+Senate,116,1,6,6,2019-01-16,Motion to Invoke Cloture on S.J. Res. 2,On the Cloture Motion S.J.Res. 2,Cloture Motion Rejected,57,42,0,1
+Senate,116,1,8,8,2019-01-24,Motion to Instruct the Sergeant at Arms to Request the Presence of Absentee Senators,On the Motion for Attendance H.R. 268,Motion for Attendance Agreed to,88,8,0,4
+Senate,116,1,9,9,2019-01-24,Motion Invoke Cloture on the Shelby Amdt. No. 5,"On the Cloture Motion S.Amdt. 5 to H.R. 268 (Supplemental Appropriations Act, 2019)",Cloture Motion Rejected,50,47,0,3
+Senate,116,1,7,7,2019-01-17,Motion to Invoke Cloture on the Motion to Proceed to S. 109,On Cloture on the Motion to Proceed S. 109,Cloture on the Motion to Proceed Rejected,48,47,0,5
+Senate,116,1,11,11,2019-01-28,"Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to S. 1",On Cloture on the Motion to Proceed S. 1,Cloture on the Motion to Proceed Agreed to,74,19,0,7
+Senate,116,1,10,10,2019-01-24,Motion to Invoke Cloture on the Schumer Amdt. No. 6,"On the Cloture Motion S.Amdt. 6 to H.R. 268 (Supplemental Appropriations Act, 2019)",Cloture Motion Rejected,52,44,0,4
+Senate,116,1,12,12,2019-01-29,Motion to Proceed to S. 1,On the Motion to Proceed S. 1,Motion to Proceed Agreed to,76,22,0,2
+Senate,116,1,13,13,2019-01-31,Motion to Invoke Cloture on McConnell Amdt. No. 65,On the Cloture Motion S.Amdt. 65 to S. 1 (Strengthening America's Security in the Middle East Act of 2019),Cloture Motion Agreed to,68,23,0,9
+Senate,116,1,14,14,2019-02-04,"McConnell Amdt. No. 65, As Amended",On the Amendment S.Amdt. 65 to S. 1 (Strengthening America's Security in the Middle East Act of 2019),Amendment Agreed to,70,26,0,4
+Senate,116,1,15,15,2019-02-04,Motion to Invoke Cloture on S. 1,On the Cloture Motion S. 1,Cloture Motion Agreed to,72,24,0,4
+Senate,116,1,18,18,2019-02-07,Motion to Table Lankford Amdt. No. 158,"On the Motion to Table S.Amdt. 158 to S.Amdt. 111 to S. 47 (John D. Dingell, Jr. Conservation, Management, and Recreation Act)",Motion to Table Agreed to,66,33,0,1
+Senate,116,1,16,16,2019-02-05,S. 1 As Amended,On Passage of the Bill S. 1,Bill Passed,77,23,0,0
+Senate,116,1,17,17,2019-02-05,Motion to Invoke Cloture on the Motion to Proceed to S. 47,On Cloture on the Motion to Proceed S. 47,Cloture on the Motion to Proceed Agreed to,99,1,0,0
+Senate,116,1,19,19,2019-02-07,Motion to Table Lee Amdt. No. 162,"On the Motion to Table S.Amdt. 162 to S.Amdt. 111 to S. 47 (John D. Dingell, Jr. Conservation, Management, and Recreation Act)",Motion to Table Agreed to,68,30,0,2
+Senate,116,1,21,21,2019-02-11,Motion to Invoke Cloture on S. 47,On the Cloture Motion S. 47,Cloture Motion Agreed to,87,7,0,6
+Senate,116,1,20,20,2019-02-11,Motion to Table Lee Amdt. No. 187,On the Motion to Table S.Amdt. 187 to S.Amdt. 112 to S.Amdt. 111 to S. 47,Motion to Table Agreed to,60,33,0,7
+Senate,116,1,22,22,2019-02-12,"S. 47, As Amended",On Passage of the Bill S. 47,Bill Passed,92,8,0,0
+Senate,116,1,23,23,2019-02-12,Motion to Invoke Cloture Re: William Pelham Barr to be Attorney General,On the Cloture Motion PN17,Cloture Motion Agreed to,55,44,0,1
+Senate,116,1,24,24,2019-02-14,"Confirmation William Pelham Barr, of Virginia, to Attorney General",On the Nomination PN17,Nomination Confirmed,54,45,0,1
+Senate,116,1,25,25,2019-02-14,Motion to Invoke Cloture on the Conference Report to Accompany H.J. Res. 31,On the Cloture Motion H.J.Res. 31,Cloture Motion Agreed to,84,15,0,1
+Senate,116,1,26,26,2019-02-14,Conference Report to Accompany H.J. Res. 31,On the Conference Report H.J.Res. 31,Conference Report Agreed to,83,16,0,1
+Senate,116,1,27,27,2019-02-25,Motion to Invoke Cloture Re: The Motion to Proceed to S. 311,On Cloture on the Motion to Proceed S. 311,Cloture on the Motion to Proceed Rejected,53,44,0,3
+Senate,116,1,28,28,2019-02-25,"Motion to Invoke Cloture Re: Eric D. Miller, to be United States Circuit Judge for the Ninth Circuit ",On the Cloture Motion PN239,Cloture Motion Agreed to,51,46,0,3
+Senate,116,1,29,29,2019-02-26,"Confirmation Eric D. Miller, of Washington, to be United States Circuit Judge for the Ninth Circuit",On the Nomination PN239,Nomination Confirmed,53,46,0,1
+Senate,116,1,30,30,2019-02-26,Motion to Invoke Cloture Re: Michael J. Desmond to be Chief Counsel for the Internal Revenue Service and an Assistant General Counsel in the Department of the Treasury,On the Cloture Motion PN89,Cloture Motion Agreed to,84,15,0,1
+Senate,116,1,31,31,2019-02-27,"Confirmation Michael J. Desmond, of California, to be Chief Counsel for the Internal Revenue Service and an Assistant General Counsel, Department of the Treasury",On the Nomination PN89,Nomination Confirmed,83,15,0,2
+Senate,116,1,32,32,2019-02-27,Motion to Invoke Cloture: Andrew Wheeler to be Administrator of the Environmental Protection Agency,On the Cloture Motion PN22,Cloture Motion Agreed to,52,46,0,2
+Senate,116,1,33,33,2019-02-28,"Confirmation Andrew Wheeler, of Virginia, to be Administrator of the Environmental Protection Agency",On the Nomination PN22,Nomination Confirmed,52,47,0,1
+Senate,116,1,34,34,2019-03-04,"Motion to Invoke Cloture on Allison Jones Rushing, of North Carolina, to be U.S. Circuit Judge for the Fourth Circuit",On the Cloture Motion PN251,Cloture Motion Agreed to,52,43,0,5
+Senate,116,1,35,35,2019-03-05,"Confirmation Allison Jones Rushing, of North Carolina, to be United States Circuit Judge for the Fourth Circuit",On the Nomination PN251,Nomination Confirmed,53,44,0,3
+Senate,116,1,36,36,2019-03-05,"Motion to Invoke Cloture Re: Chad A. Readler, of Ohio, to be United States Circuit Judge for the Sixth Circuit",On the Cloture Motion PN248,Cloture Motion Agreed to,53,45,0,2
+Senate,116,1,37,37,2019-03-06,"Confirmation Chad A. Readler, of Ohio, to be United States Circuit Judge for the Sixth Circuit",On the Nomination PN248,Nomination Confirmed,52,47,0,1
+Senate,116,1,38,38,2019-03-06,"Motion to Invoke Cloture Re: Eric E. Murphy, of Ohio, to be United States Circuit Judge for the Sixth Circuit",On the Cloture Motion PN242,Cloture Motion Agreed to,53,46,0,1
+Senate,116,1,39,39,2019-03-07,"Confirmation Eric E. Murphy, of Ohio, to be United States Circuit Judge for the Sixth Circuit",On the Nomination PN242,Nomination Confirmed,52,46,0,2
+Senate,116,1,40,40,2019-03-07,"Confirmation John Fleming, of Louisiana, to be Assistant Secretary of Commerce for Economic Development",On the Nomination PN78,Nomination Confirmed,67,30,0,3
+Senate,116,1,41,41,2019-03-11,"Motion to Invoke Cloture on the Nomination of Paul Matey, of New Jersey, to be U.S. Circut Judge for the Third Circuit",On the Cloture Motion PN236,Cloture Motion Agreed to,50,44,0,6
+Senate,116,1,42,42,2019-03-12,"Confirmation Paul B. Matey, of New Jersey, to be U.S. Circuit Judge for the Third Circuit",On the Nomination PN236,Nomination Confirmed,54,45,0,1
+Senate,116,1,43,43,2019-03-12,"Motion to Invoke Cloture on Neomi J. Rao, of the District of Columbia, to be U.S. Circuit Judge for the D. C. Circuit",On the Cloture Motion PN247,Cloture Motion Agreed to,53,46,0,1
+Senate,116,1,44,44,2019-03-13,"Confirmation Neomi J. Rao, of the District of Columbia, to be U.S. Circuit Judge for the District of Columbia Circuit",On the Nomination PN247,Nomination Confirmed,53,46,0,1
+Senate,116,1,46,46,2019-03-13,"Confirmation William Beach, of Kansas, to be Commissioner of Labor Statistics, Department of Labor",On the Nomination PN171,Nomination Confirmed,55,44,0,1
+Senate,116,1,45,45,2019-03-13,"Motion to Invoke Cloture: William Beach to be Commissioner of Labor Statistics, Department of Labor",On the Cloture Motion PN171,Cloture Motion Agreed to,55,43,0,2
+Senate,116,1,47,47,2019-03-13,Motion to Table Inhofe Amdt. No. 194,On the Motion to Table S.Amdt. 194 to S.J.Res. 7 (No short title on file),Motion to Table Agreed to,52,48,0,0
+Senate,116,1,48,48,2019-03-13,S.J.Res. 7 As Amended,On the Joint Resolution S.J.Res. 7,Joint Resolution Passed,54,46,0,0
+Senate,116,1,49,49,2019-03-14,H.J. Res. 46,On the Joint Resolution H.J.Res. 46,Joint Resolution Passed,59,41,0,0
+Senate,116,1,50,50,2019-03-25,"Motion to Invoke Cloture on the Nomination of Bridget S. Bade, of Arizona, to be United States Circuit Judge for the Ninth Circuit",On the Cloture Motion PN213,Cloture Motion Agreed to,77,20,0,3
+Senate,116,1,51,51,2019-03-26,"Confirmation Bridget S. Bade, of Arizona, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN213,Nomination Confirmed,78,21,0,1
+Senate,116,1,52,52,2019-03-26,Motion to Invoke Cloture on the Motion to Proceed to S.J. Res. 8,On the Cloture Motion S.J.Res. 8,Cloture Motion Rejected,0,57,43,0
+Senate,116,1,53,53,2019-03-26,Motion to Invoke Cloture on the Motion to Proceed to H.R. 268,On the Cloture Motion H.R. 268,Cloture Motion Agreed to,90,10,0,0
+Senate,116,1,54,54,2019-03-28,"Confirmation Nicole R. Nason, of New York, to be Administrator of the Federal Highway Administration",On the Nomination PN2,Nomination Confirmed,95,1,0,4
+Senate,116,1,55,55,2019-04-01,Motion to Invoke Cloture Re: Amdt. No. 201 to H.R. 268,"On the Cloture Motion S.Amdt. 201 to H.R. 268 (Supplemental Appropriations Act, 2019)",Cloture Motion Rejected,44,49,0,7
+Senate,116,1,56,56,2019-04-01,Motion to Invoke Cloture on H.R. 268,On the Cloture Motion H.R. 268,Cloture Motion Rejected,46,48,0,6
+Senate,116,1,57,57,2019-04-02,Motion to Invoke Cloture Re: Motion to Proceed to S. Res. 50,On Cloture on the Motion to Proceed S.Res. 50,Cloture on the Motion to Proceed Rejected,51,48,0,1
+Senate,116,1,58,58,2019-04-03,Motion to Invoke Cloture Re: Jeffrey Kessler to be an Assistant Secretary of Commerce,On the Cloture Motion PN92,Cloture Motion Agreed to,95,3,0,2
+Senate,116,1,59,59,2019-04-03,Shall the Decision of the Chair Stand as the Judgment of the Senate?,On the Decision of the Chair PN92,Decision of Chair Not Sustained,48,51,0,1
+Senate,116,1,60,60,2019-04-03,"Motion to Invoke Cloture on Roy Kalman Altman, of Florida, to be U.S. District Judge for the Southern District of Florida",On the Cloture Motion PN211,Cloture Motion Agreed to,66,33,0,1
+Senate,116,1,61,61,2019-04-03,Shall the Decision of the Chair Stand as the Judgment of the Senate?,On the Decision of the Chair PN211,Decision of Chair Not Sustained,48,51,0,1
+Senate,116,1,62,62,2019-04-04,"Confirmation Roy Kalman Altman, of Florida, to be U. S. District Judge for the Southern District of Florida",On the Nomination PN211,Nomination Confirmed,66,33,0,1
+Senate,116,1,63,63,2019-04-04,Motion to Invoke Cloture Re: Mark Anthony Calabria to be Director of the Federal Housing Finance Agency,On the Cloture Motion PN1,Cloture Motion Agreed to,53,46,0,1
+Senate,116,1,64,64,2019-04-04,"Confirmation Mark Anthony Calabria, of Virginia, to be Director of the Federal Housing Finance Agency",On the Nomination PN1,Nomination Confirmed,52,44,0,4
+Senate,116,1,65,65,2019-04-09,"Motion to Invoke Cloture Daniel Desmond Domenico, to be U.S. District Judge for the District of Colorado",On the Cloture Motion PN228,Cloture Motion Agreed to,55,42,0,3
+Senate,116,1,66,66,2019-04-09,"Confirmation Daniel Desmond Domenico, of Colorado, to be U.S. District Judge for the District of Colorado",On the Nomination PN228,Nomination Confirmed,57,42,0,1
+Senate,116,1,67,67,2019-04-09,"Motion to Invoke Cloture Re: Patrick Wyrick, of Oklahoma, to be U.S. District Judge for the Western District of Oklahoma",On the Cloture Motion PN258,Cloture Motion Agreed to,53,46,0,1
+Senate,116,1,68,68,2019-04-09,"Confirmation Patrick R. Wyrick, of Oklahoma, to be U.S. District Judge for the Western District of Oklahoma",On the Nomination PN258,Nomination Confirmed,53,47,0,0
+Senate,116,1,69,69,2019-04-09,"Motion to Invoke Cloture: Cheryl Marie Stanton to be Administrator of the Wage and Hour Division, Department of Labor",On the Cloture Motion PN179,Cloture Motion Agreed to,53,47,0,0
+Senate,116,1,70,70,2019-04-10,"Confirmation Cheryl Marie Stanton, of South Carolina, to be Administrator of the Wage and Hour Division, Department of Labor",On the Nomination PN179,Nomination Confirmed,53,45,0,2
+Senate,116,1,71,71,2019-04-10,"Confirmation John P. Abizaid, of Nevada, to be Ambassador to the Kingdom of Saudi Arabia",On the Nomination PN103,Nomination Confirmed,92,7,0,1
+Senate,116,1,73,73,2019-04-10,"Confirmation Holly A. Brady, of Indiana, to be U.S. District Judge for the Northern District of Indiana",On the Nomination PN222,Nomination Confirmed,56,42,0,2
+Senate,116,1,72,72,2019-04-10,Motion to Invoke Cloture Holly A. Brady to be U.S. District Judge for the Northern District of Indiana,On the Cloture Motion PN222,Cloture Motion Agreed to,56,43,0,1
+Senate,116,1,74,74,2019-04-10,"Motion to Invoke Cloture Re: David Steven Morales, of Texas, to be U.S. District Judge for the Southern District of Texas",On the Cloture Motion PN240,Cloture Motion Agreed to,57,41,0,2
+Senate,116,1,75,75,2019-04-10,"Confirmation David Steven Morales, of Texas, to be U.S. District Judge for the Southern District of Texas",On the Nomination PN240,Nomination Confirmed,56,41,0,3
+Senate,116,1,76,76,2019-04-10,"Motion to Invoke Cloture on the Nomination of David Bernhardt, of Virginia, to be Secretary of the Interior",On the Cloture Motion PN503,Cloture Motion Agreed to,56,41,0,3
+Senate,116,1,77,77,2019-04-11,"Confirmation David Bernhardt, of Virginia, to be Secretary of the Interior",On the Nomination PN503,Nomination Confirmed,56,41,0,3
+Senate,116,1,78,78,2019-04-29,"Motion to Invoke Cloture on the Nomination of William Cooper, of Maryland, to be General Counsel of the Department of Energy",On the Cloture Motion PN75,Cloture Motion Agreed to,63,32,0,5
+Senate,116,1,79,79,2019-04-30,"Confirmation William Cooper, of Maryland, to be General Counsel, Department of Energy",On the Nomination PN75,Nomination Confirmed,68,31,0,1
+Senate,116,1,80,80,2019-04-30,"Motion to Invoke Cloture R. Clarke Cooper, of Florida, to be an Assistant Secretary of State",On the Cloture Motion PN116,Cloture Motion Agreed to,91,8,0,1
+Senate,116,1,81,81,2019-04-30,"Confirmation R. Clarke Cooper, of Florida, to be an Assistant Secretary of State",On the Nomination PN116,Nomination Confirmed,90,8,0,2
+Senate,116,1,82,82,2019-04-30,Motion to Invoke Cloture Gordon Hartogensis to be Director of the Pension Benefit Guaranty Corporation,On the Cloture Motion PN150,Cloture Motion Agreed to,72,27,0,1
+Senate,116,1,83,83,2019-04-30,"Confirmation Gordon Hartogensis, of Connecticut, to be Director of the Pension Benefit Guaranty Corporation ",On the Nomination PN150,Nomination Confirmed,72,27,0,1
+Senate,116,1,84,84,2019-04-30,Motion to Invoke Cloture J. Campbell Barker to be U.S. District Judge for the Eastern District of Texas,On the Cloture Motion PN217,Cloture Motion Agreed to,52,46,0,2
+Senate,116,1,85,85,2019-05-01,"Confirmation J. Campbell Barker, of Texas, to be U.S. District Judge for the Eastern District of Texas",On the Nomination PN217,Nomination Confirmed,51,47,0,2
+Senate,116,1,86,86,2019-05-01,Motion to Invoke Cloture Andrew Lynn Brasher to be U.S. District Judge for the Middle District of Alabama,On the Cloture Motion PN223,Cloture Motion Agreed to,52,47,0,1
+Senate,116,1,87,87,2019-05-01,"Confirmation Andrew Lynn Brasher, of Alabama, to be U.S. District Judge for the Middle District of Alabama",On the Nomination PN223,Nomination Confirmed,52,47,0,1
+Senate,116,1,88,88,2019-05-01,Motion to Invoke Cloture Rodolfo Armando Ruiz II to be U.S. District Judge for the Southern District of Florida,On the Cloture Motion PN250,Cloture Motion Agreed to,89,10,0,1
+Senate,116,1,89,89,2019-05-01,Motion to Invoke Cloture Raul M. Arias-Marxuach to be U.S. District Judge for the District of Puerto Rico,On the Cloture Motion PN212,Cloture Motion Agreed to,94,5,0,1
+Senate,116,1,90,90,2019-05-01,Motion to Invoke Cloture Joshua Wolson to be U.S. District Judge for the Eastern District of Pennsylvania ,On the Cloture Motion PN257,Cloture Motion Agreed to,64,35,0,1
+Senate,116,1,91,91,2019-05-02,"Confirmation Rodolfo Armando Ruiz II, of Florida, to be U.S. District Judge for the Southern District of Florida",On the Nomination PN250,Nomination Confirmed,90,8,0,2
+Senate,116,1,92,92,2019-05-02,"Confirmation Raul M. Arias-Marxuach, of Puerto Rico, to be U.S. District Judge for the District of Puerto Rico",On the Nomination PN212,Nomination Confirmed,95,3,0,2
+Senate,116,1,93,93,2019-05-02,"Confirmation Joshua Wolson, of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",On the Nomination PN257,Nomination Confirmed,65,33,0,2
+Senate,116,1,94,94,2019-05-02,"Shall the Joint Resolution S.J. Res. 7 Pass, the Objections of the President of the United States Notwithstanding",On Overriding the Veto S.J.Res. 7,Veto Sustained,53,45,0,2
+Senate,116,1,95,95,2019-05-06,Motion to Invoke Cloture: Joseph F. Bianco to be U.S. Circuit Judge for the Second Circuit,On the Cloture Motion PN220,Cloture Motion Agreed to,51,40,0,9
+Senate,116,1,96,96,2019-05-07,Motion to Invoke Cloture: Kimberly A. Reed to be President of the Export-Import Bank of the United States,On the Cloture Motion PN55,Cloture Motion Agreed to,82,17,0,1
+Senate,116,1,97,97,2019-05-07,"Motion to Invoke Cloture: Spencer Bachus III to be a Member, Export-Import Bank of the United States",On the Cloture Motion PN47,Cloture Motion Agreed to,74,24,0,2
+Senate,116,1,98,98,2019-05-07,"Motion to Invoke Cloture: Judith DelZoppo Pryor to be a Member, Export-Import Bank of the United States",On the Cloture Motion PN54,Cloture Motion Agreed to,79,19,0,2
+Senate,116,1,99,99,2019-05-08,"Confirmation Joseph F. Bianco, of New York, to be U.S. Circuit Judge for the Second Circuit",On the Nomination PN220,Nomination Confirmed,54,42,0,4
+Senate,116,1,100,100,2019-05-08,"Confirmation Kimberly A. Reed, of West Virginia, to be President of the Export-Import Bank of the United States",On the Nomination PN55,Nomination Confirmed,79,17,0,4
+Senate,116,1,101,101,2019-05-08,"Confirmation Spencer Bachus III, of Alabama, to be a Member of the Export-Import Bank of the United States",On the Nomination PN47,Nomination Confirmed,72,22,0,6
+Senate,116,1,102,102,2019-05-08,"Confirmation Judith DelZoppo Pryor, of Ohio, to a Member of the Export-Import Bank of the United States",On the Nomination PN54,Nomination Confirmed,77,19,0,4
+Senate,116,1,103,103,2019-05-08,Motion to Invoke Cloture: Janet Dhillon to be a Member of the Equal Employment Opportunity Commission,On the Cloture Motion PN173,Cloture Motion Agreed to,52,44,0,4
+Senate,116,1,104,104,2019-05-08,"Confirmation Janet Dhillon, of Pennsylvania, to be a Member of the Equal Employment Opportunity Commission",On the Nomination PN173,Nomination Confirmed,50,43,0,7
+Senate,116,1,105,105,2019-05-08,Motion to Invoke Cloture: Michael H. Park to be U.S. Circuit Judge for the Second Circuit,On the Cloture Motion PN245,Cloture Motion Agreed to,51,43,0,6
+Senate,116,1,106,106,2019-05-09,"Confirmation Michael H. Park, of New York, to be U.S. Circuit Judge for the Second Circuit",On the Nomination PN245,Nomination Confirmed,52,41,0,7
+Senate,116,1,107,107,2019-05-13,Motion to Invoke Cloture: Michael J. Truncale to be U.S. District Judge for the Eastern District of Texas,On the Cloture Motion PN253,Cloture Motion Agreed to,49,43,0,8
+Senate,116,1,108,108,2019-05-14,"Confirmation Michael J. Truncale, of Texas, to be U.S. District Judge for the Eastern District of Texas",On the Nomination PN253,Nomination Confirmed,49,46,0,5
+Senate,116,1,109,109,2019-05-14,Motion to Invoke Cloture: Kenneth Kiyul Lee to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN373,Cloture Motion Agreed to,50,45,0,5
+Senate,116,1,110,110,2019-05-15,"Confirmation Kenneth Kiyul Lee, of California, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN373,Nomination Confirmed,52,45,0,3
+Senate,116,1,111,111,2019-05-15,"Motion to Invoke Cloture: Wendy Vitter, of Louisiana, to be U.S. District Judge for the Eastern District of Louisiana",On the Cloture Motion PN254,Cloture Motion Agreed to,51,45,0,4
+Senate,116,1,112,112,2019-05-15,Motion to Invoke Cloture: Brian J. Bulatao to be an Under Secretary of State,On the Cloture Motion PN111,Cloture Motion Agreed to,90,5,0,5
+Senate,116,1,113,113,2019-05-15,Motion to Invoke Cloture: Jeffrey A. Rosen to be Deputy Attorney General,On the Cloture Motion PN526,Cloture Motion Agreed to,52,44,0,4
+Senate,116,1,114,114,2019-05-16,"Confirmation Wendy Vitter, of Louisiana, to be U.S. District Judge for the Eastern District of Louisiana",On the Nomination PN254,Nomination Confirmed,52,45,0,3
+Senate,116,1,116,116,2019-05-16,"Confirmation Jeffrey A. Rosen, of Virginia, to be Deputy Attorney General",On the Nomination PN526,Nomination Confirmed,52,45,0,3
+Senate,116,1,115,115,2019-05-16,"Confirmation Brian J. Bulatao, of Texas, to be an Under Secretary of State",On the Nomination PN111,Nomination Confirmed,92,5,0,3
+Senate,116,1,117,117,2019-05-20,Motion to Invoke Cloture: Daniel P. Collins to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN372,Cloture Motion Agreed to,51,43,0,6
+Senate,116,1,119,119,2019-05-21,"Motion to Invoke Cloture: Howard C. Nielson, Jr., to be U.S. District Judge for the District of Utah",On the Cloture Motion PN244,Cloture Motion Agreed to,52,47,0,1
+Senate,116,1,118,118,2019-05-21,"Confirmation Daniel P. Collins, of California, to be United States Circuit Judge for the Ninth Circuit",On the Nomination PN372,Nomination Confirmed,53,46,0,1
+Senate,116,1,120,120,2019-05-21,"Motion to Invoke Cloture: Stephen R. Clark, Sr., to be U.S. District Judge for the Eastern District of Missouri ",On the Cloture Motion PN226,Cloture Motion Agreed to,53,45,0,2
+Senate,116,1,122,122,2019-05-21,Motion to Invoke Cloture: Kenneth D. Bell to be U.S. District Judge for the Western District of North Carolina,On the Cloture Motion PN218,Cloture Motion Agreed to,56,42,0,2
+Senate,116,1,121,121,2019-05-21,Motion to Invoke Cloture: Carl J. Nichols to be U.S. District Judge for the District of Columbia,On the Cloture Motion PN243,Cloture Motion Agreed to,55,42,0,3
+Senate,116,1,123,123,2019-05-22,"Confirmation Howard C. Nielson, Jr., of Utah, to be U.S. District Judge for the District of Utah",On the Nomination PN244,Nomination Confirmed,51,47,0,2
+Senate,116,1,124,124,2019-05-22,"Confirmation Stephen R. Clark, Sr., of Missouri, to be U.S. District Judge for the Eastern District of Missouri",On the Nomination PN226,Nomination Confirmed,53,45,0,2
+Senate,116,1,125,125,2019-05-22,"Confirmation Carl J. Nichols, of the District of Columbia, to be U.S. District Judge for the District of Columbia",On the Nomination PN243,Nomination Confirmed,55,43,0,2
+Senate,116,1,126,126,2019-05-22,"Confirmation Kenneth D. Bell, of North Carolina, to be U.S. District Judge for the Western District of North Carolina",On the Nomination PN218,Nomination Confirmed,55,43,0,2
+Senate,116,1,128,128,2019-05-23,"Motion to Waive All Applicable Budgetary Discipline Re: H.R. 2157, As Amended","On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 2157, As Amended)",Motion Agreed to,84,9,0,7
+Senate,116,1,127,127,2019-05-23,"S. 151, As Amended",On Passage of the Bill S. 151,Bill Passed,97,1,0,2
+Senate,116,1,129,129,2019-05-23,"H.R. 2157, As Amended",On Passage of the Bill H.R. 2157,Bill Passed,85,8,0,7
+Senate,116,1,130,130,2019-06-03,Motion to Invoke Cloture: Motion to Proceed to S. 1332,On Cloture on the Motion to Proceed S. 1332,Cloture on the Motion to Proceed Rejected,22,69,0,9
+Senate,116,1,131,131,2019-06-03,Motion to Invoke Cloture Andrew M. Saul to be Commissioner of Social Security,On the Cloture Motion PN94,Cloture Motion Agreed to,74,17,0,9
+Senate,116,1,132,132,2019-06-04,S. Res. 212,On the Resolution S.Res. 212,Resolution Agreed to,93,0,0,7
+Senate,116,1,133,133,2019-06-04,"Confirmation Andrew M. Saul, of New York, to be Commissioner of Social Security",On the Nomination PN94,Nomination Confirmed,77,16,0,7
+Senate,116,1,134,134,2019-06-04,Motion to Invoke Cloture: David Schenker to be an Assistant Secretary of State,On the Cloture Motion PN139,Cloture Motion Agreed to,83,10,0,7
+Senate,116,1,135,135,2019-06-04,Motion to Invoke Cloture: Heath P. Tarbert to be Chairman of the Commodity Futures Trading Commission,On the Cloture Motion PN18,Cloture Motion Agreed to,82,9,0,9
+Senate,116,1,136,136,2019-06-04,Motion to Invoke Cloture: Heath P. Tarbert to be Commissioner of the Commodity Futures Trading Commission,On the Cloture Motion PN19,Cloture Motion Agreed to,83,10,0,7
+Senate,116,1,137,137,2019-06-05,"Confirmation David Schenker, of New Jersey, to be an Assistant Secretary of State",On the Nomination PN139,Nomination Confirmed,83,11,0,6
+Senate,116,1,138,138,2019-06-05,"Confirmation Heath P. Tarbert, of Maryland, to be Chairman of the Commodity Futures Trading Commission",On the Nomination PN18,Nomination Confirmed,84,9,0,7
+Senate,116,1,139,139,2019-06-05,"Confirmation Heath P. Tarbert, of Maryland, to be a Commissioner of the Commodity Futures Trading Commission",On the Nomination PN19,Nomination Confirmed,85,9,0,6
+Senate,116,1,140,140,2019-06-05,Motion to Invoke Cloture: Susan Combs to be an Assistant Secretary of the Interior,On the Cloture Motion PN74,Cloture Motion Agreed to,56,37,0,7
+Senate,116,1,141,141,2019-06-05,"Confirmation Susan Combs, of Texas, to be an Assistant Secretary of Interior",On the Nomination PN74,Nomination Confirmed,57,36,0,7
+Senate,116,1,142,142,2019-06-05,"Motion to Invoke Cloture on Ryan T. Holte, of Ohio, to be a Judge of the U.S. Court of Federal Claims",On the Cloture Motion PN231,Cloture Motion Agreed to,60,33,0,7
+Senate,116,1,143,143,2019-06-05,"Motion to Invoke Cloture on Rossie Alston, Jr., of Virginia, to be U.S. District Judge for the Eastern District of Virginia",On the Cloture Motion PN210,Cloture Motion Agreed to,74,19,0,7
+Senate,116,1,144,144,2019-06-05,"Motion to Invoke Cloture on Richard A. Hertling, of Maryland, to be a Judge of the U.S. Court of Federal Claims",On the Cloture Motion PN230,Cloture Motion Agreed to,66,23,0,11
+Senate,116,1,145,145,2019-06-10,"Confirmation Ryan T. Holte, of Ohio, to be a Judge of the U.S. Court of Federal Claims",On the Nomination PN231,Nomination Confirmed,60,35,0,5
+Senate,116,1,146,146,2019-06-10,"Confirmation Rossie David Alston, Jr., of Virginia, to be United States District Judge for the Eastern District of Virginia",On the Nomination PN210,Nomination Confirmed,75,20,0,5
+Senate,116,1,147,147,2019-06-10,"Confirmation Richard A. Hertling, of Maryland, to be a Judge of the U.S. Court of Federal Claims",On the Nomination PN230,Nomination Confirmed,69,27,0,4
+Senate,116,1,148,148,2019-06-10,Motion to Invoke Cloture: Sarah Daggett Morrison to be U.S. District Judge for the Southern District of Ohio,On the Cloture Motion PN241,Cloture Motion Agreed to,89,7,0,4
+Senate,116,1,149,149,2019-06-11,"Confirmation Sarah Daggett Morrison, of Ohio, to be United States District Judge for the Southern District of Ohio",On the Nomination PN241,Nomination Confirmed,89,7,0,4
+Senate,116,1,150,150,2019-06-11,"Motion to Invoke Cloture on the Nomination of Pamela A. Barker, of Ohio, to be United States District Judge for the Northern District of Ohio",On the Cloture Motion PN216,Cloture Motion Agreed to,89,7,0,4
+Senate,116,1,152,152,2019-06-11,"Motion to Invoke Cloture on the Nomination of Rodney Smith, of Florida, to be United States District Judge for the Southern District of Florida",On the Cloture Motion PN252,Cloture Motion Agreed to,77,19,0,4
+Senate,116,1,151,151,2019-06-11,"Motion to Invoke Cloture on the Nomination of Corey Landon Maze, of Alabama, to be United States District Judge for the Northern District of Alabama",On the Cloture Motion PN237,Cloture Motion Agreed to,62,34,0,4
+Senate,116,1,153,153,2019-06-11,"Motion to Invoke Cloture on the Nomination of Thomas P. Barber, of Florida, to be United States District Judge for the Middle District of Florida",On the Cloture Motion PN215,Cloture Motion Agreed to,75,21,0,4
+Senate,116,1,155,155,2019-06-12,"Confirmation Pamela A. Barker, of Ohio, to be U.S. District Judge for the Northern District of Ohio",On the Nomination PN216,Nomination Confirmed,91,5,0,4
+Senate,116,1,154,154,2019-06-11,"Motion to Invoke Cloture on the Nomination of Jean-Paul Boulee, of Georgia, to be United States District Judge for the Northern District of Georgia",On the Cloture Motion PN221,Cloture Motion Agreed to,84,12,0,4
+Senate,116,1,156,156,2019-06-12,"Confirmation Corey Landon Maze, of Alabama, to be U.S. District Judge for the Northern District of Alabama",On the Nomination PN237,Nomination Confirmed,62,34,0,4
+Senate,116,1,157,157,2019-06-12,"Confirmation Rodney Smith, of Florida, to be U.S. District Judge for the Southern District of Florida",On the Nomination PN252,Nomination Confirmed,78,18,0,4
+Senate,116,1,158,158,2019-06-12,"Confirmation Thomas P. Barber, of Florida, to be U.S. District Judge for the Middle District of Florida",On the Nomination PN215,Nomination Confirmed,77,19,0,4
+Senate,116,1,159,159,2019-06-12,"Confirmation Jean-Paul Boulee, of Georgia, to be U.S. District Judge for the Northern District of Georgia",On the Nomination PN221,Nomination Confirmed,85,11,0,4
+Senate,116,1,161,161,2019-06-13,Motion to Discharge S.J.Res. 20,On the Motion to Discharge S.J.Res. 20,Motion to Discharge Rejected,43,56,0,1
+Senate,116,1,160,160,2019-06-12,Motion to Invoke Cloture: David Stilwell to be an Assistant Secretary of State (East Asian and Pacific Affairs),On the Cloture Motion PN141,Cloture Motion Agreed to,93,4,0,3
+Senate,116,1,162,162,2019-06-13,Motion to Discharge S.J.Res. 26,On the Motion to Discharge S.J.Res. 26,Motion to Discharge Rejected,42,57,0,1
+Senate,116,1,163,163,2019-06-13,Motion to Invoke Cloture: Edward F. Crawford to be Ambassador of the United States of America to Ireland,On the Cloture Motion PN118,Cloture Motion Agreed to,92,7,0,1
+Senate,116,1,164,164,2019-06-13,"Confirmation David Stilwell, of Hawaii, to be an Assistant Secretary of State (East Asian and Pacific Affairs)",On the Nomination PN141,Nomination Confirmed,94,3,0,3
+Senate,116,1,165,165,2019-06-13,"Confirmation Edward F. Crawford, of Ohio, to Be Ambassador of the United States of America to Ireland",On the Nomination PN118,Nomination Confirmed,90,4,0,6
+Senate,116,1,166,166,2019-06-18,"Motion to Invoke Cloture: Sean Cairncross to be Chief Executive Officer, Millennium Challenge Corporation",On the Cloture Motion PN113,Cloture Motion Agreed to,59,37,0,4
+Senate,116,1,167,167,2019-06-18,"Confirmation Sean Cairncross, of Minnesota, to be Chief Executive Officer, Millennium Challenge Corporation",On the Nomination PN113,Nomination Confirmed,59,37,0,4
+Senate,116,1,168,168,2019-06-18,Motion to Invoke Cloture: Matthew J. Kacsmaryk to be U.S. District Judge for the Northern District of Texas,On the Cloture Motion PN233,Cloture Motion Agreed to,52,44,0,4
+Senate,116,1,169,169,2019-06-18,Motion to Invoke Cloture: Allen Cothrel Winsor to be U.S. District Judge for the Northern District of Florida,On the Cloture Motion PN256,Cloture Motion Agreed to,54,42,0,4
+Senate,116,1,170,170,2019-06-18,"Motion to Invoke Cloture: James David Cain, Jr. to be U.S. District Judge for the Western District of Louisiana",On the Cloture Motion PN225,Cloture Motion Agreed to,76,20,0,4
+Senate,116,1,171,171,2019-06-18,Motion to Invoke Cloture: Greg Gerard Guidry to be U.S. District Judge for the Eastern District of Louisiana,On the Cloture Motion PN203,Cloture Motion Agreed to,53,43,0,4
+Senate,116,1,172,172,2019-06-19,"Confirmation Matthew J. Kacsmaryk, of Texas, to be U.S. District Judge for the Northern District of Texas",On the Nomination PN233,Nomination Confirmed,52,46,0,2
+Senate,116,1,173,173,2019-06-19,"Confirmation Allen Cothrel Winsor, of Florida, to be U.S. District Judge for the Northern District of Florida",On the Nomination PN256,Nomination Confirmed,54,44,0,2
+Senate,116,1,174,174,2019-06-19,"Confirmation James David Cain, Jr., of Louisiana, to be U.S. District Judge for the Western District of Louisiana",On the Nomination PN225,Nomination Confirmed,77,21,0,2
+Senate,116,1,175,175,2019-06-19,"Confirmation Greg Gerard Guidry, of Louisiana, to be U.S. District Judge for the Eastern District of Louisiana ",On the Nomination PN203,Nomination Confirmed,53,46,0,1
+Senate,116,1,177,177,2019-06-20,S.J.Res. 36,On the Joint Resolution S.J.Res. 36,Joint Resolution Passed,53,45,0,2
+Senate,116,1,176,176,2019-06-19,Motion to Invoke Cloture: Motion to Proceed to S. 1790,On Cloture on the Motion to Proceed S. 1790,Cloture on the Motion to Proceed Agreed to,89,10,0,1
+Senate,116,1,178,178,2019-06-20,S.J.Res. 38,On the Joint Resolution S.J.Res. 38,Joint Resolution Passed,53,45,0,2
+Senate,116,1,179,179,2019-06-20,"En Bloc: S.J.Res. 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 39, 40, 41, 42, 43, 44, 45, 46, 47, and 48",On the Joint Resolution S.J.Res. 27 and S.J.Res. 28 and S.J.Res. 29 and S.J.Res. 30 and S.J.Res. 31 and S.J.Res. 32 and S.J.Res. 33 and S.J.Res. 34 and S.J.Res. 35 and S.J.Res. 37 and S.J.Res. 39 and S.J.Res. 40 and S.J.Res. 41 and S.J.Res. 42 and S.J.Res. 43 and S.J.Res. 44 and S.J.Res. 45 and S.J.Res. 46 and S.J.Res. 47 and S.J.Res. 48,Joint Resolution Passed,51,45,0,4
+Senate,116,1,180,180,2019-06-20,"Confirmation Rita Baranwal, of Pennsylvania, to be an Assistant Secretary of Energy",On the Nomination PN73,Nomination Confirmed,86,5,0,9
+Senate,116,1,181,181,2019-06-24,Motion to Proceed to S. 1790,On the Motion to Proceed S. 1790,Motion to Proceed Agreed to,86,6,0,8
+Senate,116,1,182,182,2019-06-26,H.R. 3401,On Passage of the Bill H.R. 3401,Bill Defeated,37,55,0,8
+Senate,116,1,183,183,2019-06-26,Motion to Table Paul Amdt. No. 902,"On the Motion to Table S.Amdt. 902 to S.Amdt. 901 to H.R. 3401 (Emergency Supplemental Appropriations for Humanitarian Assistance and Security at the Southern Border Act, 2019)",Motion to Table Agreed to,77,15,0,8
+Senate,116,1,184,184,2019-06-26,Shelby Amdt. No. 901,"On the Amendment S.Amdt. 901 to H.R. 3401 (Emergency Supplemental Appropriations for Humanitarian Assistance and Security at the Southern Border Act, 2019)",Amendment Agreed to,84,8,0,8
+Senate,116,1,185,185,2019-06-26,H.R. 3401 As Amended,On Passage of the Bill H.R. 3401,Bill Passed,84,8,0,8
+Senate,116,1,186,186,2019-06-27,Motion to Invoke Cloture: Inhofe Amdt. No. 764 As Modified,On the Cloture Motion S.Amdt. 764 to S. 1790 (National Defense Authorization Act for Fiscal Year 2020),Cloture Motion Agreed to,87,7,0,6
+Senate,116,1,187,187,2019-06-27,Romney Amdt. No. 861,On the Amendment S.Amdt. 861 to S.Amdt. 764 to S. 1790 (National Defense Authorization Act for Fiscal Year 2020),Amendment Agreed to,90,4,0,6
+Senate,116,1,189,189,2019-06-28,Udall Amdt. No. 883,On the Amendment S.Amdt. 883 to S. 1790 (National Defense Authorization Act for Fiscal Year 2020),Amendment Rejected,50,40,0,10
+Senate,116,1,188,188,2019-06-27,"S. 1790, As Amended",On Passage of the Bill S. 1790,Bill Passed,86,8,0,6
+Senate,116,1,190,190,2019-07-08,Motion to Invoke Cloture: Daniel Aaron Bress to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN370,Cloture Motion Agreed to,50,42,0,8
+Senate,116,1,191,191,2019-07-09,"Confirmation Daniel Aaron Bress, of  California, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN370,Nomination Confirmed,53,45,0,2
+Senate,116,1,192,192,2019-07-09,Motion to Invoke Cloture: T. Kent Wetherell II to be U.S. District Judge for the Northern District of Florida,On the Cloture Motion PN255,Cloture Motion Agreed to,82,16,0,2
+Senate,116,1,193,193,2019-07-09,Motion to Invoke Cloture: Damon Ray Leichty to be U.S. District Judge for the Northern District of Indiana,On the Cloture Motion PN234,Cloture Motion Agreed to,87,11,0,2
+Senate,116,1,195,195,2019-07-10,"Confirmation T. Kent Wetherell II, of Florida, to be U.S. District Judge for the Northern District of Florida",On the Nomination PN255,Nomination Confirmed,78,15,0,7
+Senate,116,1,194,194,2019-07-09,Motion to Invoke Cloture: J. Nicholas Ranjan to be U.S. District Judge for the Western District of Pennsylvania,On the Cloture Motion PN246,Cloture Motion Agreed to,83,15,0,2
+Senate,116,1,196,196,2019-07-10,"Confirmation J. Nicholas Ranjan, of Pennsylvania, to be U.S. District Judge for the Western District of Pennsylvania",On the Nomination PN246,Nomination Confirmed,80,14,0,6
+Senate,116,1,198,198,2019-07-10,"Motion to Invoke Cloture: Robert L. King to be Assistant Secretary for Postsecondary Education, Department of Education",On the Cloture Motion PN345,Cloture Motion Agreed to,56,39,0,5
+Senate,116,1,197,197,2019-07-10,"Confirmation Damon Ray Leichty, of Indiana, to be U.S. District Judge for the Northern District of Indiana",On the Nomination PN234,Nomination Confirmed,85,10,0,5
+Senate,116,1,199,199,2019-07-10,Motion to Invoke Cloture: John P. Pallasch to be an Assistant Secretary of Labor,On the Cloture Motion PN177,Cloture Motion Agreed to,54,41,0,5
+Senate,116,1,200,200,2019-07-11,"Confirmation: Robert L. King, of Kentucky, to be Assistant Secretary for Postsecondary Education, Department of Education",On the Nomination PN345,Nomination Confirmed,56,37,0,7
+Senate,116,1,201,201,2019-07-11,"Confirmation: John P. Pallasch, of Kentucky, to be an Assistant Secretary of Labor",On the Nomination PN177,Nomination Confirmed,54,39,0,7
+Senate,116,1,202,202,2019-07-11,"Motion to Invoke Cloture: Peter C. Wright to be Assistant Administrator of Solid Waste, Environmental Protection Agency",On the Cloture Motion PN80,Cloture Motion Agreed to,53,39,0,8
+Senate,116,1,203,203,2019-07-11,"Confirmation: Peter C. Wright, of Michigan, to be Assistant Administrator, Office of Solid Waste, Environmental Protection Agency",On the Nomination PN80,Nomination Confirmed,52,38,0,10
+Senate,116,1,204,204,2019-07-15,"Motion to Invoke Cloture: Peter Joseph Phipps, to be U.S. Circuit Judge for the Third Circuit",On the Cloture Motion PN725,Cloture Motion Agreed to,53,40,0,7
+Senate,116,1,205,205,2019-07-16,"Confirmation: Peter Joseph Phipps, of Pennsylvania, to be U.S. Circuit Judge for the Third Circuit",On the Nomination PN725,Nomination Confirmed,56,40,0,4
+Senate,116,1,207,207,2019-07-16,Paul Amdt. No. 924,On the Amendment S.Amdt. 924 to Treaty Doc. 113-4,Amendment Rejected,4,92,0,4
+Senate,116,1,206,206,2019-07-16,Motion to Invoke Cloture Re: Treaty Doc. No. 113-4 (Spain),On the Cloture Motion Treaty Doc. 113-4,Cloture Motion Agreed to,94,1,0,5
+Senate,116,1,208,208,2019-07-16,Paul Amdt. No. 921,On the Amendment S.Amdt. 921 to Treaty Doc. 113-4,Amendment Rejected,4,92,0,4
+Senate,116,1,209,209,2019-07-16,Resolution of Ratification for Treaty Document 113-4 (Spain),On the Resolution of Ratification Treaty Doc. 113-4,Resolution of Ratification Agreed to,94,2,0,4
+Senate,116,1,210,210,2019-07-17,Resolution of Ratification for Treaty Document No. 112-1 (Switzerland),On the Resolution of Ratification Treaty Doc. 112-1,Resolution of Ratification Agreed to,95,2,0,3
+Senate,116,1,211,211,2019-07-17,Resolution of Ratification for Treaty Document No. 114-1 (Japan),On the Resolution of Ratification Treaty Doc. 114-1,Resolution of Ratification Agreed to,95,2,0,3
+Senate,116,1,213,213,2019-07-17,Motion to Invoke Cloture: Clifton L. Corker to be U.S. District Judge for the Eastern District of Tennessee,On the Cloture Motion PN227,Cloture Motion Agreed to,55,41,0,4
+Senate,116,1,212,212,2019-07-17,Resolution of Ratification for Treaty Document No. 111-8 (Luxembourg),On the Resolution of Ratification Treaty Doc. 111-8,Resolution of Ratification Agreed to,93,3,0,4
+Senate,116,1,214,214,2019-07-17,Motion to Invoke Cloture: Lynda Blanchard to be Ambassador of the United States to the Republic of Slovenia,On the Cloture Motion PN108,Cloture Motion Agreed to,55,41,0,4
+Senate,116,1,215,215,2019-07-17,Motion to Invoke Cloture: Donald R. Tapia to be Ambassador of the United States of America to Jamaica,On the Cloture Motion PN143,Cloture Motion Agreed to,67,28,0,5
+Senate,116,1,216,216,2019-07-18,"Confirmation Clifton L. Corker, of Tennessee, to be U.S. District Judge for the Eastern District of Tennessee",On the Nomination PN227,Nomination Confirmed,55,39,0,6
+Senate,116,1,217,217,2019-07-18,"Confirmation Lynda Blanchard, of Alabama, to be Ambassador of the United States to the Republic of Slovenia",On the Nomination PN108,Nomination Confirmed,54,40,0,6
+Senate,116,1,218,218,2019-07-18,"Confirmation: Donald R. Tapia, of Arizona, to be Ambassador of the United States to Jamaica",On the Nomination PN143,Nomination Confirmed,66,26,0,8
+Senate,116,1,219,219,2019-07-22,Motion to Invoke Cloture Re: Mark T. Esper to be Secretary of Defense,On the Cloture Motion PN934,Cloture Motion Agreed to,85,6,0,9
+Senate,116,1,220,220,2019-07-23,"Confirmation: Mark T. Esper, of Virginia, to be Secretary of Defense",On the Nomination PN934,Nomination Confirmed,90,8,0,2
+Senate,116,1,221,221,2019-07-23,Motion to Invoke Cloture: Stephen M. Dickson to be Administrator of the Federal Aviation Administration,On the Cloture Motion PN613,Cloture Motion Agreed to,52,45,0,3
+Senate,116,1,222,222,2019-07-23,Lee Amdt. No. 928,"On the Amendment S.Amdt. 928 to H.R. 1327 (Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent Authorization of the September 11th Victim Compensation Fund Act)",Amendment Rejected,32,66,0,2
+Senate,116,1,223,223,2019-07-23,Paul Amdt. No. 929,"On the Amendment S.Amdt. 929 to H.R. 1327 (Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent Authorization of the September 11th Victim Compensation Fund Act)",Amendment Rejected,22,77,0,1
+Senate,116,1,224,224,2019-07-23,H.R. 1327,On Passage of the Bill H.R. 1327,Bill Passed,97,2,0,1
+Senate,116,1,225,225,2019-07-24,"Confirmation: Stephen M. Dickson, of Georgia, to be Administrator of the Federal Aviation Administration",On the Nomination PN613,Nomination Confirmed,52,40,0,8
+Senate,116,1,226,226,2019-07-24,Motion to Invoke Cloture: Wendy Williams Berger to be U.S. District Judge for the Middle District of Florida,On the Cloture Motion PN219,Cloture Motion Agreed to,55,37,0,8
+Senate,116,1,227,227,2019-07-24,Motion to Invoke Cloture: Brian C. Buescher to be U.S. District Judge for the District of Nebraska,On the Cloture Motion PN224,Cloture Motion Agreed to,52,39,0,9
+Senate,116,1,228,228,2019-07-24,"Confirmation: Wendy Williams Berger, of Florida, to be U.S. District Judge for the Middle District of Florida",On the Nomination PN219,Nomination Confirmed,54,37,0,9
+Senate,116,1,229,229,2019-07-24,"Confirmation: Brian C. Buescher, of Nebraska, to be U.S. District Judge for the District of Nebraska",On the Nomination PN224,Nomination Confirmed,51,40,0,9
+Senate,116,1,230,230,2019-07-25,Confirmation: General Mark A. Milley to be Chairman of the Joint Chiefs of Staff,On the Nomination PN588,Nomination Confirmed,89,1,0,10
+Senate,116,1,231,231,2019-07-29,"Shall the Joint Resolution S.J. Res. 36 pass, the objections of the President of the United States to the contrary notwithstanding",On Overriding the Veto S.J.Res. 36,Veto Sustained,45,40,0,15
+Senate,116,1,232,232,2019-07-29,"Shall the Joint Resolution S.J. Res. 37 pass, the objections of the President of the United States to the contrary notwithstanding",On Overriding the Veto S.J.Res. 37,Veto Sustained,45,39,0,16
+Senate,116,1,233,233,2019-07-29,"Shall the joint resolution S.J. Res. 38 pass, the objections of the President of the United States to the contrary notwithstanding?",On Overriding the Veto S.J.Res. 38,Veto Sustained,46,41,0,13
+Senate,116,1,234,234,2019-07-29,Motion to Invoke Cloture: Michael T. Liburdi to be U.S. District Judge for the District of Arizona,On the Cloture Motion PN206,Cloture Motion Agreed to,51,37,0,12
+Senate,116,1,235,235,2019-07-29,Motion to Invoke Cloture: Peter D. Welte to be U.S. District Judge for the District of North Dakota,On the Cloture Motion PN208,Cloture Motion Agreed to,66,21,0,13
+Senate,116,1,236,236,2019-07-30,"Confirmation: Michael T. Liburdi, of Arizona, to be U.S. District Judge for the District of Arizona",On the Nomination PN206,Nomination Confirmed,53,37,0,10
+Senate,116,1,237,237,2019-07-30,"Confirmation: Peter D. Welte, of North Dakota, to be U.S. District Judge for the District of North Dakota",On the Nomination PN208,Nomination Confirmed,68,22,0,10
+Senate,116,1,238,238,2019-07-30,Motion to Invoke Cloture: James Wesley Hendrix to be U.S. District Judge for the Northern District of Texas,On the Cloture Motion PN204,Cloture Motion Agreed to,85,5,0,10
+Senate,116,1,239,239,2019-07-30,"Confirmation: James Wesley Hendrix, of Texas, to be U.S. District Judge for the Northern District of Texas",On the Nomination PN204,Nomination Confirmed,89,1,0,10
+Senate,116,1,240,240,2019-07-30,Motion to Invoke Cloture: Sean D. Jordan to be U.S. District Judge for the Eastern District of Texas,On the Cloture Motion PN205,Cloture Motion Agreed to,54,36,0,10
+Senate,116,1,241,241,2019-07-30,"Confirmation: Sean D. Jordan, of Texas, to be U.S. District Judge for the Eastern District of Texas",On the Nomination PN205,Nomination Confirmed,54,34,0,12
+Senate,116,1,242,242,2019-07-30,Motion to Invoke Cloture: Mark T. Pittman to be U.S. District Judge for the Northern District of Texas,On the Cloture Motion PN207,Cloture Motion Agreed to,54,34,0,12
+Senate,116,1,243,243,2019-07-30,"Motion to Invoke Cloture: Jeffery Vincent Brown, of Texas, to be U.S. District Judge for the Southern District of Texas",On the Cloture Motion PN510,Cloture Motion Agreed to,51,37,0,12
+Senate,116,1,244,244,2019-07-30,"Motion to Invoke Cloture: Brantley Starr, of Texas, to be United States District Judge for the Northern District of Texas",On the Cloture Motion PN512,Cloture Motion Agreed to,51,37,0,12
+Senate,116,1,245,245,2019-07-30,"Motion to Invoke Cloture: Stephanie L. Haines, of Pennsylvania, to be United States District Judge for the Western District of Pennsylvania",On the Cloture Motion PN453,Cloture Motion Agreed to,87,1,0,12
+Senate,116,1,246,246,2019-07-30,Motion to Invoke Cloture: Ada E. Brown to be U.S. District Judge for the Northern District of Texas,On the Cloture Motion PN524,Cloture Motion Agreed to,79,9,0,12
+Senate,116,1,247,247,2019-07-30,Motion to Invoke Cloture: Steven D. Grimberg to be U.S. District Judge for the Northern District of Georgia,On the Cloture Motion PN566,Cloture Motion Agreed to,72,16,0,12
+Senate,116,1,248,248,2019-07-30,Motion to Invoke Cloture: Jason K. Pulliam to be United States District Judge for the Western District of Texas,On the Cloture Motion PN454,Cloture Motion Agreed to,54,34,0,12
+Senate,116,1,249,249,2019-07-30,Motion to Invoke Cloture: Martha Maria Pacold to be U.S. District Judge for the Northern District of Illinois,On the Cloture Motion PN780,Cloture Motion Agreed to,86,2,0,12
+Senate,116,1,250,250,2019-07-30,Motion to Invoke Cloture: Steven C. Seeger to be U.S. District Judge for the Northern District of Illinois,On the Cloture Motion PN782,Cloture Motion Agreed to,87,1,0,12
+Senate,116,1,251,251,2019-07-30,Motion to Invoke Cloture: William Shaw Stickman IV to be U.S. District Judge for the Western District of Pennsylvania,On the Cloture Motion PN727,Cloture Motion Agreed to,57,31,0,12
+Senate,116,1,252,252,2019-07-30,Motion to Invoke Cloture: Kelly Craft to be Ambassador of the United States of America to the United Nations and Representative to the Security Council,On the Cloture Motion PN712,Cloture Motion Agreed to,57,33,0,10
+Senate,116,1,253,253,2019-07-31,"Confirmation: Mark T. Pittman, of Texas, to be U.S. District Judge for the Northern District of Texas",On the Nomination PN207,Nomination Confirmed,54,36,0,10
+Senate,116,1,255,255,2019-07-31,"Confirmation: Brantley Starr, of Texas, to be U.S. District Judge for the Northern District of Texas",On the Nomination PN512,Nomination Confirmed,51,39,0,10
+Senate,116,1,254,254,2019-07-31,"Confirmation: Jeffrey Vincent Brown, of Texas, to be U.S. District Judge for the Southern District of Texas",On the Nomination PN510,Nomination Confirmed,50,40,0,10
+Senate,116,1,256,256,2019-07-31,"Confirmation: Jason K. Pulliam, of Texas, to be U.S. District Judge for the Western District of Texas",On the Nomination PN454,Nomination Confirmed,54,36,0,10
+Senate,116,1,257,257,2019-07-31,"Confirmation: Martha Maria Pacold, of Illinois, to be U.S. District Judge for the Northern District of Illinois",On the Nomination PN780,Nomination Confirmed,87,3,0,10
+Senate,116,1,258,258,2019-07-31,"Confirmation: William Shaw Stickman IV, of Pennsylvania, to be U.S. District Judge for the Western District of Pennsylvania",On the Nomination PN727,Nomination Confirmed,56,34,0,10
+Senate,116,1,259,259,2019-07-31,"Confirmation: Kelly Craft, of Kentucky, to be Ambassador of the United States of America to the United Nations and Representative to the Security Council",On the Nomination PN712,Nomination Confirmed,56,34,0,10
+Senate,116,1,261,261,2019-08-01,Motion to Invoke Cloture: H.R. 3877,On the Cloture Motion H.R. 3877,Cloture Motion Agreed to,67,27,0,6
+Senate,116,1,260,260,2019-08-01,Paul Amendment No. 932,On the Amendment S.Amdt. 932 to H.R. 3877 (Bipartisan Budget Act of 2019),Amendment Rejected,23,70,0,7
+Senate,116,1,262,262,2019-08-01,H.R. 3877,On Passage of the Bill H.R. 3877,Bill Passed,67,28,0,5
+Senate,116,1,263,263,2019-09-09,Motion to Invoke Cloture: Kelly Craft to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations,On the Cloture Motion PN713,Cloture Motion Agreed to,54,38,0,8
+Senate,116,1,264,264,2019-09-10,"Confirmation: Kelly Craft, of Kentucky, to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations",On the Nomination PN713,Nomination Confirmed,56,38,0,6
+Senate,116,1,265,265,2019-09-10,"Motion to Invoke Cloture: Elizabeth Darling to be Commissioner on Children Youth, and Families, Department of Health and Human Services",On the Cloture Motion PN88,Cloture Motion Agreed to,57,37,0,6
+Senate,116,1,266,266,2019-09-10,"Confirmation: Elizabeth Darling, of Texas, to be Commissioner on Children, Youth, and Families, Department of Health and Human Services",On the Nomination PN88,Nomination Confirmed,57,37,0,6
+Senate,116,1,267,267,2019-09-10,"Motion to Invoke Cloture: Stephen Akard to be Director of the Office of Foreign Missions, Department of State",On the Cloture Motion PN104,Cloture Motion Agreed to,91,3,0,6
+Senate,116,1,268,268,2019-09-10,Motion to Invoke Cloture: Dale Cabaniss to be Director of the Office of Personnel Management,On the Cloture Motion PN448,Cloture Motion Agreed to,53,41,0,6
+Senate,116,1,269,269,2019-09-10,"Motion to Invoke Cloture: James Byrne to be Deputy Secretary, Department of Veterans Affairs",On the Cloture Motion PN631,Cloture Motion Agreed to,81,13,0,6
+Senate,116,1,270,270,2019-09-11,"Confirmation: Stephen Akard, of Indiana, to be Director of the Office of Foreign Missions, Department of State",On the Nomination PN104,Nomination Confirmed,90,2,0,8
+Senate,116,1,271,271,2019-09-11,"Confirmation: Dale Cabaniss, of Virginia, to be Director of the Office of Personnel Management",On the Nomination PN448,Nomination Confirmed,54,38,0,8
+Senate,116,1,272,272,2019-09-11,"Confirmation: James Byrne, of Virginia, to be Deputy Secretary of Veterans Affairs",On the Nomination PN631,Nomination Confirmed,81,11,0,8
+Senate,116,1,274,274,2019-09-11,Motion to Invoke Cloture: Thomas Peter Feddo to be Assistant Secretary of the Treasury,On the Cloture Motion PN611,Cloture Motion Agreed to,92,1,0,7
+Senate,116,1,273,273,2019-09-11,Motion to Invoke Cloture: Michelle Bowman to be a Member of the Board of Governors of the Federal Reserve System,On the Cloture Motion PN561,Cloture Motion Agreed to,62,31,0,7
+Senate,116,1,275,275,2019-09-11,Motion to Invoke Cloture: Jennifer D. Nordquist to be United States Executive Director of the International Bank for Reconstruction and Development,On the Cloture Motion PN505,Cloture Motion Agreed to,94,0,0,6
+Senate,116,1,276,276,2019-09-11,"Confirmation: Stephanie L. Haines, of Pennsylvania, to be U.S. District Judge for the Western District of Pennsylvania",On the Nomination PN453,Nomination Confirmed,94,0,0,6
+Senate,116,1,277,277,2019-09-11,"Confirmation: Ada E. Brown, of Texas, to be United States District Judge for the Northern District of Texas",On the Nomination PN524,Nomination Confirmed,80,13,0,7
+Senate,116,1,278,278,2019-09-11,"Confirmation: Steven D. Grimberg, of Georgia, to be U.S. District Judge for the Northern District of Georgia",On the Nomination PN566,Nomination Confirmed,75,18,0,7
+Senate,116,1,279,279,2019-09-11,"Confirmation: Steven C. Seeger, of Illinois, to be U.S. District Judge for the Northern District of Illinois",On the Nomination PN782,Nomination Confirmed,90,1,0,9
+Senate,116,1,280,280,2019-09-12,"Confirmation: Michelle Bowman, of Kansas, to be a Member of the Board of Governors of the Federal Reserve System",On the Nomination PN561,Nomination Confirmed,60,31,0,9
+Senate,116,1,281,281,2019-09-12,"Confirmation: Thomas Peter Feddo, of Virginia, to be Assistant Secretary of the Treasury",On the Nomination PN611,Nomination Confirmed,85,1,0,14
+Senate,116,1,282,282,2019-09-16,"Motion to Invoke Cloture: John Rakolta, Jr., to be Ambassador of the United States to the United Arab Emirates",On the Cloture Motion PN135,Cloture Motion Agreed to,55,27,0,18
+Senate,116,1,283,283,2019-09-17,"Confirmation: John Rakolta, Jr., of Michigan, to be Ambassador of the United States of America to the United Arab Emirates",On the Nomination PN135,Nomination Confirmed,63,30,0,7
+Senate,116,1,284,284,2019-09-17,Motion to Invoke Cloture: Kenneth A. Howery to be Ambassador of the United States of America to the Kingdom of Sweden,On the Cloture Motion PN127,Cloture Motion Agreed to,63,29,0,8
+Senate,116,1,286,286,2019-09-17,"Motion to Invoke Cloture: Robert A. Destro, of Virginia, to be Assistant Secretary of State for Democracy, Human Rights, and Labor",On the Cloture Motion PN119,Cloture Motion Agreed to,49,44,0,7
+Senate,116,1,285,285,2019-09-17,"Confirmation: Kenneth A. Howery, of Texas, to be Ambassador of the United States of America to the Kingdom of Sweden.",On the Nomination PN127,Nomination Confirmed,62,32,0,6
+Senate,116,1,287,287,2019-09-17,Motion to Invoke Cloture: Brent James McIntosh to be an Under Secretary of the Treasury,On the Cloture Motion PN795,Cloture Motion Agreed to,54,40,0,6
+Senate,116,1,289,289,2019-09-18,"Confirmation: Robert A. Destro, of Virginia, to be Assistant Secretary of State for Democracy, Human Rights, and Labor",On the Nomination PN119,Nomination Confirmed,49,44,0,7
+Senate,116,1,288,288,2019-09-17,Motion to Invoke Cloture: Brian Callanan to be General Counsel for the Department of the Treasury,On the Cloture Motion PN794,Cloture Motion Agreed to,55,37,0,8
+Senate,116,1,290,290,2019-09-18,"Confirmation: Brent James McIntosh, of Michigan, to be an Under Secretary of the Treasury",On the Nomination PN795,Nomination Confirmed,54,38,0,8
+Senate,116,1,292,292,2019-09-18,Motion to Invoke Cloture: Motion to Proceed to H.R. 2740,On the Cloture Motion H.R. 2740,Cloture Motion Rejected,51,44,0,5
+Senate,116,1,291,291,2019-09-18,"Confirmation: Brian Callanan, of New Jersey, to be General Counsel for the Department of the Treasury",On the Nomination PN794,Nomination Confirmed,55,39,0,6
+Senate,116,1,293,293,2019-09-18,"Motion to Invoke Cloture: Compound Motion to Disagree to the House Amendment, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees to S. 1790",On the Cloture Motion S. 1790,Cloture Motion Agreed to,87,7,0,6
+Senate,116,1,294,294,2019-09-23,Motion to Invoke Cloture: Brian McGuire to be a Deputy Under Secretary of the Treasury,On the Cloture Motion PN408,Cloture Motion Agreed to,82,6,0,12
+Senate,116,1,295,295,2019-09-24,"Motion to Invoke Cloture: Joseph Cella to be Ambassador of the United States of America to the Republics of Fiji, Kiribati, and the Kingdom of Tonga, and Tuvalu",On the Cloture Motion PN114,Cloture Motion Agreed to,55,37,0,8
+Senate,116,1,297,297,2019-09-24,Motion to Invoke Cloture: David Fabian Black to be Deputy Commissioner of Social Security,On the Cloture Motion PN87,Cloture Motion Agreed to,66,25,0,9
+Senate,116,1,296,296,2019-09-24,Motion to Invoke Cloture: Daniel Habib Jorjani to be Solicitor of the Department of the Interior,On the Cloture Motion PN552,Cloture Motion Agreed to,50,41,0,9
+Senate,116,1,298,298,2019-09-24,"Confirmation: Brian McGuire, of New York, to be Deputy Under Secretary of the Treasury",On the Nomination PN408,Nomination Confirmed,88,6,0,6
+Senate,116,1,299,299,2019-09-24,"Confirmation: Joseph Cella, of Michigan, to be Ambassador of the United States of America to the Republics of Fiji, Kiribati, Nauru and the Kingdom of Tonga, and Tuvalu",On the Nomination PN114,Nomination Confirmed,56,38,0,6
+Senate,116,1,300,300,2019-09-24,"Confirmation: Daniel Habib Jorjani, of Kentucky, to be Solicitor of the Department of the Interior",On the Nomination PN552,Nomination Confirmed,51,43,0,6
+Senate,116,1,301,301,2019-09-24,"Confirmation: David Fabian Black, of North Dakota, to be Deputy Commissioner of Social Security",On the Nomination PN87,Nomination Confirmed,68,26,0,6
+Senate,116,1,302,302,2019-09-25,S.J. Res. 54,On the Joint Resolution S.J.Res. 54,Joint Resolution Passed,54,41,0,5
+Senate,116,1,303,303,2019-09-25,S. Res. 331,On the Resolution S.Res. 331,Resolution Agreed to,91,4,0,5
+Senate,116,1,304,304,2019-09-25,S. Res. 332,On the Resolution S.Res. 332,Resolution Agreed to,94,0,0,6
+Senate,116,1,306,306,2019-09-25,S. Res. 335,On the Resolution S.Res. 335,Resolution Agreed to,52,42,0,6
+Senate,116,1,305,305,2019-09-25,S. Res. 333,On the Resolution S.Res. 333,Resolution Rejected,47,48,0,5
+Senate,116,1,307,307,2019-09-25,S. Res. 336,On the Resolution S.Res. 336,Resolution Agreed to,55,39,0,6
+Senate,116,1,308,308,2019-09-25,Motion to Invoke Cloture: General John E. Hyten for Appointment as Vice Chairman of the Joint Chiefs of Staff,On the Cloture Motion PN585,Cloture Motion Agreed to,73,21,0,6
+Senate,116,1,309,309,2019-09-25,"Motion to Invoke Cloture: Eugene Scalia, of Virginia, to be Secretary of Labor",On the Cloture Motion PN1099,Cloture Motion Agreed to,52,42,0,6
+Senate,116,1,310,310,2019-09-26,Paul Amdt. No. 942,"On the Amendment S.Amdt. 942 to H.R. 4378 (Continuing Appropriations Act, 2020)",Amendment Rejected,24,73,0,3
+Senate,116,1,311,311,2019-09-26,H.R. 4378,On Passage of the Bill H.R. 4378,Bill Passed,81,16,0,3
+Senate,116,1,312,312,2019-09-26,Confirmation: John E. Hyten to be Vice Chairman of the Joint Chiefs of Staff and for Appointment in the U.S. Air Force to the grade of General while Assigned.,On the Nomination PN585,Nomination Confirmed,75,22,0,3
+Senate,116,1,313,313,2019-09-26,"Confirmation: Eugene Scalia, of Virginia, to be Secretary of Labor ",On the Nomination PN1099,Nomination Confirmed,53,44,0,3
+Senate,116,1,314,314,2019-10-15,Motion to Invoke Cloture: Barbara McConnell Barrett to be Secretary of the Air Force,On the Cloture Motion PN1042,Cloture Motion Agreed to,84,7,0,9
+Senate,116,1,315,315,2019-10-16,Motion to Invoke Cloture Frank William Volk to be U.S. District Judge for the Southern District of West Virginia,On the Cloture Motion PN559,Cloture Motion Agreed to,90,0,0,10
+Senate,116,1,316,316,2019-10-16,Motion to Invoke Cloture Charles R. Eskridge III to be U.S. District Judge for the Southern District of Texas,On the Cloture Motion PN722,Cloture Motion Agreed to,61,29,0,10
+Senate,116,1,318,318,2019-10-16,Motion to Invoke Cloture Rachel P. Kovner to be U.S. District Judge for the Eastern District of New York,On the Cloture Motion PN777,Cloture Motion Agreed to,85,3,0,12
+Senate,116,1,317,317,2019-10-16,Motion to Invoke Cloture David Novak to be U.S. District Judge for the Eastern District of Virginia,On the Cloture Motion PN525,Cloture Motion Agreed to,86,4,0,10
+Senate,116,1,319,319,2019-10-16,"Confirmation Barbara McConnell Barrett, of Arizona, to be Secretary of the Air Force",On the Nomination PN1042,Nomination Confirmed,85,7,0,8
+Senate,116,1,320,320,2019-10-16,"Confirmation: Frank William Volk, of West Virginia, to be U.S. District Judge for the Southern District of West Virginia",On the Nomination PN559,Nomination Confirmed,92,0,0,8
+Senate,116,1,321,321,2019-10-16,"Confirmation: Charles R. Eskridge III, of Texas, to be U.S. District Judge for the Southern District of Texas",On the Nomination PN722,Nomination Confirmed,61,31,0,8
+Senate,116,1,322,322,2019-10-16,"Confirmation David John Novak, of Virginia, to be U.S. District Judge for the Eastern District of Virginia",On the Nomination PN525,Nomination Confirmed,89,3,0,8
+Senate,116,1,324,324,2019-10-17,S.J. Res. 53,On the Joint Resolution S.J.Res. 53,Joint Resolution Defeated,41,53,0,6
+Senate,116,1,323,323,2019-10-16,"Confirmation Rachel P. Kovner, of New York, to be U.S. District Judge for the Eastern District of New York",On the Nomination PN777,Nomination Confirmed,88,3,0,9
+Senate,116,1,325,325,2019-10-17,"Shall the Joint Resolution S.J. Res. 54 pass, the Objections of the President of the United States to the contrary notwithstanding?",On Overriding the Veto S.J.Res. 54,Veto Sustained,53,36,0,11
+Senate,116,1,326,326,2019-10-21,Motion to Invoke Cloture on Treaty Doc. 116-1,On the Cloture Motion Treaty Doc. 116-1,Cloture Motion Agreed to,84,2,0,14
+Senate,116,1,327,327,2019-10-22,Resolution of Ratification for Treaty Doc. 116-1 (North Macedonia),On the Resolution of Ratification Treaty Doc. 116-1,Resolution of Ratification Agreed to,91,2,0,7
+Senate,116,1,328,328,2019-10-22,Motion to Invoke Cloture: Andrew P. Bremberg to be Representative of the United States of America to the Office of the United Nations and Other International Organizations in Geneva ,On the Cloture Motion PN110,Cloture Motion Agreed to,50,43,0,7
+Senate,116,1,329,329,2019-10-22,"Confirmation: Andrew P. Bremberg, of Virginia, to be Representative of the United States of America to the Office of the United Nations and Other International Organizations in Geneva",On the Nomination PN110,Nomination Confirmed,50,44,0,6
+Senate,116,1,330,330,2019-10-22,Motion to Invoke Cloture: Motion to Proceed to H.R. 3055,On Cloture on the Motion to Proceed H.R. 3055,Cloture on the Motion to Proceed Agreed to,92,2,0,6
+Senate,116,1,331,331,2019-10-23,S.J. Res. 50,On the Joint Resolution S.J.Res. 50,Joint Resolution Defeated,43,52,0,5
+Senate,116,1,332,332,2019-10-24,Motion to Invoke Cloture Justin Reed Walker to be U.S. District Judge for the Western District of Kentucky,On the Cloture Motion PN898,Cloture Motion Agreed to,50,39,0,11
+Senate,116,1,333,333,2019-10-24,"Confirmation: Justin Reed Walker, of Kentucky, to be U.S. District Judge for the Western District of Kentucky",On the Nomination PN898,Nomination Confirmed,50,41,0,9
+Senate,116,1,334,334,2019-10-28,Cortez Masto Amdt. No. 961,"On the Amendment S.Amdt. 961 to S.Amdt. 948 to H.R. 3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020)",Amendment Agreed to,90,1,0,9
+Senate,116,1,335,335,2019-10-28,Paul Amdt. No. 1019,"On the Amendment S.Amdt. 1019 to S.Amdt. 948 to H.R. 3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020)",Amendment Rejected,24,67,0,9
+Senate,116,1,337,337,2019-10-30,S.J.Res. 52,On the Joint Resolution S.J.Res. 52,Joint Resolution Defeated,43,52,0,5
+Senate,116,1,336,336,2019-10-28,Jones Amdt. No. 1067,"On the Amendment S.Amdt. 1067 to S.Amdt. 948 to H.R. 3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020)",Amendment Agreed to,91,1,0,8
+Senate,116,1,338,338,2019-10-30,Motion to Invoke Cloture: Shelby Amdt. No. 948 to H.R. 3055,"On the Cloture Motion S.Amdt. 948 to H.R. 3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020)",Cloture Motion Agreed to,88,5,0,7
+Senate,116,1,340,340,2019-10-31,"Jones Amdt. No. 1141, As Modified","On the Amendment S.Amdt. 1141 to S.Amdt. 948 to H.R. 3055 (Further Continuing Appropriations Act, 2020)",Amendment Agreed to,82,11,0,7
+Senate,116,1,339,339,2019-10-31,Lee Amdt. No. 1209,"On the Amendment S.Amdt. 1209 to S.Amdt. 948 to H.R. 3055 (Further Continuing Appropriations Act, 2020)",Amendment Rejected,29,64,0,7
+Senate,116,1,342,342,2019-10-31,Motion to Invoke Cloture: Motion to Proceed to H.R. 2740,On Cloture on the Motion to Proceed H.R. 2740,Cloture on the Motion to Proceed Rejected,51,41,0,8
+Senate,116,1,341,341,2019-10-31,"H.R. 3055, As Amended",On Passage of the Bill H.R. 3055,Bill Passed,84,9,0,7
+Senate,116,1,343,343,2019-11-05,Motion to Invoke Cloture: David Austin Tapp to be a Judge of the United States Court of Federal Claims,On the Cloture Motion PN456,Cloture Motion Agreed to,83,9,0,8
+Senate,116,1,344,344,2019-11-05,"Confirmation: David Austin Tapp, of Kentucky, to be a Judge of the United States Court of Federal Claims",On the Nomination PN456,Nomination Confirmed,85,8,0,7
+Senate,116,1,345,345,2019-11-05,Motion to Invoke Cloture: Danielle J. Hunsaker to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN1106,Cloture Motion Agreed to,75,18,0,7
+Senate,116,1,346,346,2019-11-06,Motion to Invoke Cloture: Lee Philip Rudofsky to be U.S. District Judge for the Eastern District of Arkansas,On the Cloture Motion PN905,Cloture Motion Agreed to,51,41,0,8
+Senate,116,1,347,347,2019-11-06,Motion to Invoke Cloture: Jennifer Philpott Wilson to be U.S. District Judge for the Middle District of Pennsylvania,On the Cloture Motion PN729,Cloture Motion Agreed to,89,3,0,8
+Senate,116,1,348,348,2019-11-06,"Confirmation: Danielle J. Hunsaker, of Oregon, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN1106,Nomination Confirmed,73,17,0,10
+Senate,116,1,349,349,2019-11-06,Motion to Invoke Cloture: William Nardini to be U.S. Circuit Judge for the Second Circuit,On the Cloture Motion PN1107,Cloture Motion Agreed to,87,3,0,10
+Senate,116,1,350,350,2019-11-07,"Confirmation: Lee Philip Rudofsky, of Arkansas, to be U.S. District Judge for the Eastern District of Arkansas",On the Nomination PN905,Nomination Confirmed,51,41,0,8
+Senate,116,1,351,351,2019-11-07,"Confirmation: Jennifer Philpott Wilson, of Pennsylvania, to be U.S. District Judge for the Middle District of Pennsylvania",On the Nomination PN729,Nomination Confirmed,88,3,0,9
+Senate,116,1,352,352,2019-11-07,"Confirmation: William Joseph Nardini, of Connecticut, to be U.S. Circuit Judge for the Second Circuit",On the Nomination PN1107,Nomination Confirmed,86,2,0,12
+Senate,116,1,353,353,2019-11-12,"Motion to Invoke Cloture: Chad Wolf to be Under Secretary for Strategy, Policy, and Plans, Department of Homeland Security",On the Cloture Motion PN410,Cloture Motion Agreed to,54,40,0,6
+Senate,116,1,354,354,2019-11-13,"Confirmation: Chad F. Wolf, of Virginia, to be Under Secretary for Strategy, Policy, and Plans, Department of Homeland Security",On the Nomination PN410,Nomination Confirmed,54,41,0,5
+Senate,116,1,355,355,2019-11-13,Motion to Invoke Cloture: Steven J. Menashi to be U.S. Circuit Judge for the Second Circuit,On the Cloture Motion PN1054,Cloture Motion Agreed to,51,44,0,5
+Senate,116,1,357,357,2019-11-18,Motion to Invoke Cloture: Robert J. Luck to be U.S. Circuit Judge for the Eleventh Circuit,On the Cloture Motion PN1172,Cloture Motion Agreed to,61,30,0,9
+Senate,116,1,356,356,2019-11-14,"Confirmation: Steven J. Menashi, of New York, to be U.S. Circuit Judge for the Second Circuit",On the Nomination PN1054,Nomination Confirmed,51,41,0,8
+Senate,116,1,358,358,2019-11-19,"Confirmation: Robert J. Luck, of Florida, to be U.S. Circuit Judge for the Eleventh Circuit",On the Nomination PN1172,Nomination Confirmed,64,31,0,5
+Senate,116,1,360,360,2019-11-20,"Confirmation: Barbara Lagoa, of Florida, to be U.S. Circuit Judge for the Eleventh Circuit",On the Nomination PN1171,Nomination Confirmed,80,15,0,5
+Senate,116,1,359,359,2019-11-19,Motion to Invoke Cloture: Barbara Lagoa to be U.S. Circuit Judge for the Eleventh Circuit,On the Cloture Motion PN1171,Cloture Motion Agreed to,80,15,0,5
+Senate,116,1,361,361,2019-11-20,Motion to Invoke Cloture: Adrian Zuckerman to be Ambassador of the United States of America to Romania,On the Cloture Motion PN148,Cloture Motion Agreed to,65,30,0,5
+Senate,116,1,362,362,2019-11-20,"Confirmation: Adrian Zuckerman, of New Jersey, to be Ambassador of the United States of America to Romania",On the Nomination PN148,Nomination Confirmed,65,30,0,5
+Senate,116,1,363,363,2019-11-21,Motion to Table the Motion to Concur in the House Amendments to the Senate Amendments with an Amendment No. 1250 to H.R.3055,"On the Motion to Table S.Amdt. 1250 to H.R. 3055 (Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Transportation, and Housing and Urban Development Appropriations Act, 2020)",Motion to Table Agreed to,73,20,0,7
+Senate,116,1,364,364,2019-11-21,Motion to Invoke Cloture: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3055,On the Cloture Motion H.R. 3055,Cloture Motion Agreed to,75,19,0,6
+Senate,116,1,365,365,2019-11-21,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3055,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3055),Motion Agreed to,74,20,0,6
+Senate,116,1,366,366,2019-11-21,Motion to Invoke Cloture: Dan Brouillette to be Secretary of Energy,On the Cloture Motion PN1268,Cloture Motion Agreed to,74,18,0,8
+Senate,116,1,367,367,2019-12-02,"Confirmation: Dan R. Brouillette, of Texas, to be Secretary of Energy",On the Nomination PN1268,Nomination Confirmed,70,15,0,15
+Senate,116,1,368,368,2019-12-02,Motion to Invoke Cloture: Eric Ross Komitee to be U.S. District Judge for the Eastern District of New York,On the Cloture Motion PN776,Cloture Motion Agreed to,81,5,0,14
+Senate,116,1,369,369,2019-12-03,"Confirmation: Eric Ross Komitee, of New York, to be U.S. District Judge for the Eastern District of New York",On the Nomination PN776,Nomination Confirmed,86,4,0,10
+Senate,116,1,370,370,2019-12-03,"Motion to Invoke Cloture: John L. Sinatra, Jr. to be U.S. District Judge for the Western District of New York",On the Cloture Motion PN783,Cloture Motion Agreed to,76,16,0,8
+Senate,116,1,371,371,2019-12-03,Motion to Invoke Cloture: Sarah E. Pitlyk to be U.S. District Judge for the Eastern District of Missouri,On the Cloture Motion PN1056,Cloture Motion Agreed to,50,43,0,7
+Senate,116,1,372,372,2019-12-03,Motion to Invoke Cloture: Douglas Russell Cole to be U.S. District Judge for the Southern District of Ohio,On the Cloture Motion PN720,Cloture Motion Agreed to,62,29,0,9
+Senate,116,1,373,373,2019-12-03,"Motion to Invoke Cloture: R. Austin Huffaker, Jr., to be U.S. District Judge for the Middle District of Alabama",On the Cloture Motion PN903,Cloture Motion Agreed to,88,4,0,8
+Senate,116,1,374,374,2019-12-03,Motion to Invoke Cloture: David B. Barlow to be U.S. District Judge for the District of Utah,On the Cloture Motion PN853,Cloture Motion Agreed to,88,4,0,8
+Senate,116,1,375,375,2019-12-04,Motion to Invoke Cloture: Richard Ernest Myers II to be U.S. District Judge for the Eastern District of North Carolina,On the Cloture Motion PN1055,Cloture Motion Agreed to,72,22,0,6
+Senate,116,1,376,376,2019-12-04,Motion to Invoke Cloture: Sherri A. Lydon to be U.S. District Judge for the District of South Carolina,On the Cloture Motion PN1173,Cloture Motion Agreed to,79,14,0,7
+Senate,116,1,377,377,2019-12-04,Motion to Invoke Cloture: Robert M. Duncan to be a Governor of the United States Postal Service,On the Cloture Motion PN185,Cloture Motion Agreed to,91,1,0,8
+Senate,116,1,378,378,2019-12-04,"Confirmation: John L. Sinatra, Jr., of New York, to be U.S. District Judge for the Western District of New York",On the Nomination PN783,Nomination Confirmed,75,18,0,7
+Senate,116,1,379,379,2019-12-04,"Confirmation: Sarah E. Pitlyk, of Missouri, to be U.S. District Judge for the Eastern District of Missouri",On the Nomination PN1056,Nomination Confirmed,49,44,0,7
+Senate,116,1,380,380,2019-12-04,"Confirmation: Douglas Russell Cole, of Ohio, to be U.S. District Judge for the Southern District of Ohio",On the Nomination PN720,Nomination Confirmed,63,30,0,7
+Senate,116,1,381,381,2019-12-04,"Confirmation: R. Austin Huffaker, Jr., of Alabama, to be U.S. District Judge for the Middle District of Alabama",On the Nomination PN903,Nomination Confirmed,89,4,0,7
+Senate,116,1,382,382,2019-12-04,"Confirmation: David B. Barlow, of Utah, to be U.S. District Judge of the District of Utah",On the Nomination PN853,Nomination Confirmed,88,4,0,8
+Senate,116,1,383,383,2019-12-05,"Confirmation: Richard Ernest Myers II, of North Carolina, to be U.S. District Judge for the Eastern District of North Carolina",On the Nomination PN1055,Nomination Confirmed,68,21,0,11
+Senate,116,1,384,384,2019-12-05,"Confirmation: Sherri A. Lydon, of South Carolina, to be U.S. District Judge for the District of South Carolina",On the Nomination PN1173,Nomination Confirmed,76,13,0,11
+Senate,116,1,385,385,2019-12-05,"Confirmation: Robert M. Duncan, of Kentucky, to be Governor of the United States Postal Service",On the Nomination PN185,Nomination Confirmed,89,0,0,11
+Senate,116,1,386,386,2019-12-09,Motion to Invoke Cloture: Patrick J. Bumatay to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN1167,Cloture Motion Agreed to,47,41,0,12
+Senate,116,1,387,387,2019-12-10,"Confirmation: Patrick J. Bumatay, of California, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN1167,Nomination Confirmed,53,40,0,7
+Senate,116,1,388,388,2019-12-10,Motion to Invoke Cloture: Lawrence VanDyke to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN1175,Cloture Motion Agreed to,53,40,0,7
+Senate,116,1,389,389,2019-12-10,S. 2740,On Passage of the Bill S. 2740,Bill Passed,91,2,0,7
+Senate,116,1,390,390,2019-12-11,H.R. 2333,On Passage of the Bill H.R. 2333,Bill Passed,95,0,0,5
+Senate,116,1,391,391,2019-12-11,"Confirmation: Lawrence VanDyke, of Nevada, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN1175,Nomination Confirmed,51,44,0,5
+Senate,116,1,392,392,2019-12-11,Motion to Invoke Cloture: John Joseph Sullivan to be Ambassador of the United States of America to the Russian Federation,On the Cloture Motion PN1232,Cloture Motion Agreed to,69,25,0,6
+Senate,116,1,393,393,2019-12-11,"Motion to Invoke Cloture: Stephen Hahn to be Commissioner of Food and Drugs, Department of Health and Human Services",On the Cloture Motion PN1267,Cloture Motion Agreed to,74,19,0,7
+Senate,116,1,394,394,2019-12-11,Motion to Invoke Cloture: Aurelia Skipwith to be Director of the United States Fish and Wildlife Service,On the Cloture Motion PN964,Cloture Motion Agreed to,53,41,0,6
+Senate,116,1,395,395,2019-12-12,"Confirmation: Aurelia Skipwith, of Indiana, to be Director of the United States Fish and Wildlife Service, Department of the Interior",On the Nomination PN964,Nomination Confirmed,52,39,0,9
+Senate,116,1,396,396,2019-12-12,"Confirmation: John Joseph Sullivan of Maryland, to be Ambassador of the United States of America to the Russian Federation",On the Nomination PN1232,Nomination Confirmed,70,22,0,8
+Senate,116,1,397,397,2019-12-12,"Confirmation: Stephen Hahn, of Texas, to be Commissioner of Food and Drugs, Department of Health and Human Services ",On the Nomination PN1267,Nomination Confirmed,73,17,0,10
+Senate,116,1,398,398,2019-12-16,Motion to Invoke Cloture: Conference Report to Accompany S. 1790,On the Cloture Motion S. 1790,Cloture Motion Agreed to,76,6,0,18
+Senate,116,1,399,399,2019-12-17,Motion to Waive All Applicable Budgetary Discipline Re: the Conference Report to Accompany S. 1790,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: the Conference Report to Accompany S. 1790),Motion Agreed to,82,12,0,6
+Senate,116,1,400,400,2019-12-17,Conference Report to Accompany S. 1790,On the Conference Report S. 1790,Conference Report Agreed to,86,8,0,6
+Senate,116,1,401,401,2019-12-18,"Motion to Invoke Cloture: Matthew Walden McFarland, of Ohio, to be U.S. District Judge for the Southern District of Ohio",On the Cloture Motion PN238,Cloture Motion Agreed to,55,38,0,7
+Senate,116,1,402,402,2019-12-18,"Confirmation: Matthew Walden McFarland, of Ohio, to be U.S. District Judge for the Southern District of Ohio",On the Nomination PN238,Nomination Confirmed,56,38,0,6
+Senate,116,1,403,403,2019-12-18,Motion to Invoke Cloture: Anuraag Singhal to be U.S. District Judge for the Southern District of Florida,On the Cloture Motion PN1057,Cloture Motion Agreed to,76,18,0,6
+Senate,116,1,404,404,2019-12-18,Motion to Invoke Cloture: Karen Spencer Marston to be U.S. District Judge for the Eastern District of Pennsylvania,On the Cloture Motion PN1053,Cloture Motion Agreed to,85,7,0,8
+Senate,116,1,405,405,2019-12-18,Motion to Invoke Cloture: Daniel Mack Traynor to be U.S. District Judge for the District of North Dakota,On the Cloture Motion PN1108,Cloture Motion Agreed to,51,42,0,7
+Senate,116,1,406,406,2019-12-18,Motion to Invoke Cloture: Jodi W. Dishman to be U.S. District Judge for the Western District of Oklahoma,On the Cloture Motion PN1051,Cloture Motion Agreed to,76,17,0,7
+Senate,116,1,407,407,2019-12-18,Motion to Invoke Cloture: John M. Gallagher to be U.S. District Judge for the Eastern District of Pennsylvania,On the Cloture Motion PN1169,Cloture Motion Agreed to,82,10,0,8
+Senate,116,1,408,408,2019-12-18,Motion to Invoke Cloture: Bernard Maurice Jones II to be U.S. District Judge for the Western District of Oklahoma,On the Cloture Motion PN1238,Cloture Motion Agreed to,88,5,0,7
+Senate,116,1,409,409,2019-12-18,Motion to Invoke Cloture: Mary Kay Vyskocil to be U.S. District Judge for the Southern District of New York,On the Cloture Motion PN784,Cloture Motion Agreed to,89,4,0,7
+Senate,116,1,410,410,2019-12-18,Motion to Invoke Cloture: Kea Whetzal Riggs to be U.S. District Judge for the District of New Mexico,On the Cloture Motion PN726,Cloture Motion Agreed to,92,1,0,7
+Senate,116,1,411,411,2019-12-18,Motion to Invoke Cloture: Gary Richard Brown to be U.S. District Judge for the Eastern District of New York,On the Cloture Motion PN773,Cloture Motion Agreed to,91,2,0,7
+Senate,116,1,412,412,2019-12-18,Motion to Invoke Cloture: Stephanie Dawkins Davis to be U.S. District Judge for the Eastern District of Michigan,On the Cloture Motion PN511,Cloture Motion Agreed to,90,1,0,9
+Senate,116,1,413,413,2019-12-19,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1865,On the Cloture Motion H.R. 1865,Cloture Motion Agreed to,71,21,0,8
+Senate,116,1,414,414,2019-12-19,Motion to Waive All Applicable Budgetary Discipline Re: H.R. 1865,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 1865),Motion Agreed to,64,30,0,6
+Senate,116,1,415,415,2019-12-19,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1865,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1865),Motion Agreed to,71,23,0,6
+Senate,116,1,416,416,2019-12-19,"Confirmation: Anuraag Singhal, of Florida, to be U.S. District Judge for the Southern District of Florida ",On the Nomination PN1057,Nomination Confirmed,76,17,0,7
+Senate,116,1,417,417,2019-12-19,"Confirmation: Karen Spencer Marston, of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",On the Nomination PN1053,Nomination Confirmed,87,6,0,7
+Senate,116,1,418,418,2019-12-19,"Confirmation: Daniel Mack Traynor, of North Dakota to be U.S. District Judge for the District of North Dakota",On the Nomination PN1108,Nomination Confirmed,51,41,0,8
+Senate,116,1,419,419,2019-12-19,"Confirmation: Jodi W. Dishman, of Oklahoma, to be U.S. District Judge for the District of Oklahoma",On the Nomination PN1051,Nomination Confirmed,75,17,0,8
+Senate,116,1,420,420,2019-12-19,"Confirmation: John M. Gallagher, of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",On the Nomination PN1169,Nomination Confirmed,83,9,0,8
+Senate,116,1,421,421,2019-12-19,"Confirmation: Bernard Maurice Jones II, of Oklahoma, to be U.S. District Judge for the Western District of Oklahoma",On the Nomination PN1238,Nomination Confirmed,91,3,0,6
+Senate,116,1,422,422,2019-12-19,"Confirmation: Mary Kay Vyskocil, of New York, to be U.S. District Judge for the Southern District of New York ",On the Nomination PN784,Nomination Confirmed,91,3,0,6
+Senate,116,1,423,423,2019-12-19,"Confirmation: Kea Whetzal Riggs, of New Mexico, to be U.S. District Judge for the District of New Mexico",On the Nomination PN726,Nomination Confirmed,94,0,0,6
+Senate,116,1,424,424,2019-12-19,"Confirmation: Robert J. Colville, of Pennsylvania, to be U.S. District Judge for the Western District of Pennsylvania",On the Nomination PN450,Nomination Confirmed,66,27,0,7
+Senate,116,1,425,425,2019-12-19,"Confirmation: Lewis J. Liman, of New York, to be U.S. District Judge for the Southern District of New York",On the Nomination PN778,Nomination Confirmed,64,29,0,7
+Senate,116,1,426,426,2019-12-19,"Confirmation: Stephen E. Biegun, of Michigan, to be Deputy Secretary of State ",On the Nomination PN1266,Nomination Confirmed,90,3,0,7
+Senate,116,1,427,427,2019-12-19,Motion to Invoke Cloture: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1158,On the Cloture Motion H.R. 1158,Cloture Motion Agreed to,77,16,0,7
+Senate,116,1,428,428,2019-12-19,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1158,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1158),Motion Agreed to,81,11,0,8

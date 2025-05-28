@@ -1,0 +1,275 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+Senate,115,2,1,1,2018-01-03,"Confirmation John C. Rood, of Arizona, to be Under Secretary of Defense for Policy",On the Nomination PN1098,Nomination Confirmed,81,7,0,12
+Senate,115,2,3,3,2018-01-09,"Confirmation William L. Campbell, Jr., of Tennessee, to be U.S. District Judge for the Middle District of Tennessee",On the Nomination PN748,Nomination Confirmed,97,0,0,3
+Senate,115,2,2,2,2018-01-08,"Motion to Invoke Cloture: William L. Campbell, Jr., to be a U.S. Circuit Judge for the Middle District of Tennessee",On the Cloture Motion PN748,Cloture Motion Agreed to,89,1,0,10
+Senate,115,2,6,6,2018-01-10,"Motion to Invoke Cloture: Michael Lawrence Brown, of Georgia, to be U.S. District Judge for the Northern District of Georgia",On the Cloture Motion PN747,Cloture Motion Agreed to,97,1,0,2
+Senate,115,2,5,5,2018-01-10,"Confirmation Thomas Lee Robinson Parker, of Tennessee, to be U.S. District Judge for the Western District of Tennessee",On the Nomination PN752,Nomination Confirmed,98,0,0,2
+Senate,115,2,4,4,2018-01-09,Motion to Invoke Cloture: Thomas Lee Robinson Parker to be U.S. District Judge for the Western District of Tennessee,On the Cloture Motion PN752,Cloture Motion Agreed to,96,1,0,3
+Senate,115,2,7,7,2018-01-11,"Confirmation Michael Lawrence Brown, of Georgia, to be United States District Judge for the Northern District of Georgia",On the Nomination PN747,Nomination Confirmed,92,0,0,8
+Senate,115,2,8,8,2018-01-11,"Motion to Invoke Cloture on the Nomination of Walter David Counts, III, of Texas, to be United States District Judge for the Western District of Texas.",On the Cloture Motion PN1015,Cloture Motion Agreed to,90,1,0,9
+Senate,115,2,9,9,2018-01-11,"Confirmation Walter David Counts, III, of Texas, to be United States District Judge for the Western District of Texas",On the Nomination PN1015,Nomination Confirmed,96,0,0,4
+Senate,115,2,10,10,2018-01-11,Motion to Proceed to the House Message to Accompany S. 139,On the Motion to Proceed S. 139,Motion to Proceed Agreed to,68,27,0,5
+Senate,115,2,12,12,2018-01-18,Motion to Concur in the House Amendment to S. 139,On the Motion (Motion to Concur in the House Amendment to S. 139),Motion Agreed to,65,34,0,1
+Senate,115,2,11,11,2018-01-16,Motion to Invoke Cloture: Motion to Concur in the House Amdt. to S. 139,On the Cloture Motion S. 139,Cloture Motion Agreed to,60,38,0,2
+Senate,115,2,13,13,2018-01-18,Motion to Proceed to the House Message to Accompany H.R. 195,On the Motion to Proceed H.R. 195,Motion to Proceed Agreed to,97,2,0,1
+Senate,115,2,14,14,2018-01-19,Motion to Invoke Cloture: House Amendment to the Senate Amendment to H.R. 195,On the Cloture Motion H.R. 195,Cloture Motion Rejected,50,49,0,1
+Senate,115,2,15,15,2018-01-20,Motion to Table the Motion to Refer H.R. 195 to the Committee on Appropriations with Instructions,On the Motion to Table H.R. 195,Motion to Table Agreed to,55,44,0,1
+Senate,115,2,16,16,2018-01-22,Motion to Invoke Cloture: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 195 with Further Amendment,On the Cloture Motion H.R. 195,Cloture Motion Agreed to,81,18,0,1
+Senate,115,2,17,17,2018-01-22,Motion to Concur in the House Amendment to the Senate Amendment  with Further Amendment,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment  with Further Amendment),Motion Agreed to,81,18,0,1
+Senate,115,2,18,18,2018-01-23,"Motion to Invoke Cloture Re: Jerome H. Powell, to be Chairman of the Board of Governors of the Federal Reserve System",On the Cloture Motion PN1353,Cloture Motion Agreed to,84,12,0,4
+Senate,115,2,20,20,2018-01-23,Motion to Invoke Cloture Re: Alex Michael Azar to be Secretary of Health and Human Services,On the Cloture Motion PN1371,Cloture Motion Agreed to,54,43,0,3
+Senate,115,2,19,19,2018-01-23,"Confirmation Jerome H. Powell, of Maryland, to be Chairman of the Board of Governors of the Federal Reserve System",On the Nomination PN1353,Nomination Confirmed,84,13,0,3
+Senate,115,2,21,21,2018-01-24,"Confirmation Alex Michael Azar II, of Indiana, to be Secretary of Health and Human Services",On the Nomination PN1371,Nomination Confirmed,55,43,0,2
+Senate,115,2,22,22,2018-01-24,Motion to Invoke Cloture Re: Samuel Dale Brownback to be Ambassador at Large for International Religious Freedom,On the Cloture Motion PN1341,Cloture Motion Agreed to,49,49,0,2
+Senate,115,2,23,23,2018-01-24,"Confirmation Samuel Dale Brownback, of Kansas, to be Ambassasador at Large for International Religious Freedom",On the Nomination PN1341,Nomination Confirmed,49,49,0,2
+Senate,115,2,24,24,2018-01-25,"Confirmation R. D. James, of Missouri, to be an Assistant Secretary of the Army",On the Nomination PN1079,Nomination Confirmed,89,1,0,10
+Senate,115,2,25,25,2018-01-29,Motion to Invoke Cloture on the Motion to Proceed to the Consideration of S. 2311,On Cloture on the Motion to Proceed S. 2311,Cloture on the Motion to Proceed Rejected,51,46,0,3
+Senate,115,2,26,26,2018-01-29,Motion to Invoke Cloture Re: David Ryan Stras to be U.S. Circuit Judge for the Eighth Circuit,On the Cloture Motion PN1423,Cloture Motion Agreed to,57,41,0,2
+Senate,115,2,27,27,2018-01-30,"Confirmation David Ryan Stras, of Minnesota, to be U.S. Circuit Judge for the Eighth Circuit",On the Nomination PN1423,Nomination Confirmed,56,42,0,2
+Senate,115,2,28,28,2018-02-05,"Confirmation Andrei Iancu, of California, to be Under Secretary of Commerce for Intellectual Property and Director of the U.S. Patent and Trademark Office",On the Nomination PN927,Nomination Confirmed,94,0,0,6
+Senate,115,2,30,30,2018-02-09,Motion to Invoke Cloture Re: Motion to Concur in the House Amdt. to the Senate Amdt. to H.R. 1892 with an Amendment (SA 1930),On the Cloture Motion H.R. 1892,Cloture Motion Agreed to,73,26,0,1
+Senate,115,2,29,29,2018-02-08,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 695,On the Cloture Motion H.R. 695,Cloture Motion Rejected,55,44,0,1
+Senate,115,2,31,31,2018-02-09,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1892 with an Amendment (SA 1930),On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1892 with an Amendment (SA 1930)),Motion Agreed to,71,28,0,1
+Senate,115,2,32,32,2018-02-12,Motion to Invoke Cloture on the Motion to Proceed to the Consideration of H.R. 2579,On Cloture on the Motion to Proceed H.R. 2579,Cloture on the Motion to Proceed Agreed to,97,1,0,2
+Senate,115,2,33,33,2018-02-15,Motion to Invoke Cloture on Amdt. No. 1955,On the Cloture Motion S.Amdt. 1955 to S.Amdt. 1958 to H.R. 2579 (Broader Options for Americans Act),Cloture Motion Rejected,52,47,0,1
+Senate,115,2,34,34,2018-02-15,Motion to Invoke Cloture on Amdt. No. 1948,On the Cloture Motion S.Amdt. 1948 to S.Amdt. 1959 to H.R. 2579 (Broader Options for Americans Act),Cloture Motion Rejected,54,45,0,1
+Senate,115,2,35,35,2018-02-15,Motion to Invoke Cloture on Amdt. No. 1958 As Modified,On the Cloture Motion S.Amdt. 1958 to H.R. 2579 (Broader Options for Americans Act),Cloture Motion Rejected,54,45,0,1
+Senate,115,2,36,36,2018-02-15,Motion to Invoke Cloture on Amdt. No. 1959,On the Cloture Motion S.Amdt. 1959 to H.R. 2579 (Broader Options for Americans Act),Cloture Motion Rejected,39,60,0,1
+Senate,115,2,37,37,2018-02-26,"Motion to Invoke Cloture on Elizabeth L. Branch, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit",On the Cloture Motion PN1404,Cloture Motion Agreed to,72,22,0,6
+Senate,115,2,38,38,2018-02-27,"Confirmation: Elizabeth L. Branch, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit",On the Nomination PN1404,Nomination Confirmed,73,23,0,4
+Senate,115,2,39,39,2018-02-27,Motion to Invoke Cloture Re: Russell Vought to be Deputy Director of the Office of Management and Budget,On the Cloture Motion PN367,Cloture Motion Agreed to,49,48,0,3
+Senate,115,2,40,40,2018-02-28,"Confirmation Russell Vought, of Virginia, to be Deputy Director of the Office of Management and Budget ",On the Nomination PN367,Nomination Confirmed,49,49,0,2
+Senate,115,2,41,41,2018-02-28,"Motion to Invoke Cloture on A. Marvin Quattlebaum, Jr., of South Carolina, to be U.S. District Judge for the District of South Carolina",On the Cloture Motion PN884,Cloture Motion Agreed to,69,29,0,2
+Senate,115,2,42,42,2018-03-01,"Confirmation A. Marvin Quattlebaum, Jr. of South Carolina, to be U.S. District Judge for the District of South Carolina",On the Nomination PN884,Nomination Confirmed,69,28,0,3
+Senate,115,2,43,43,2018-03-01,Motion to Invoke Cloture Re: Karen Gren Scholer to be U.S. District Judge for the Northern District of Texas,On the Cloture Motion PN992,Cloture Motion Agreed to,96,1,0,3
+Senate,115,2,44,44,2018-03-01,Motion to Invoke Cloture Re: Tilman Eugene Self III to be U.S. District Judge for the Middle District of Georgia,On the Cloture Motion PN755,Cloture Motion Agreed to,85,12,0,3
+Senate,115,2,45,45,2018-03-01,Motion to Invoke Cloture Re: Terry A. Doughty to be U.S. District Judge for the Western District of Louisiana ,On the Cloture Motion PN876,Cloture Motion Agreed to,94,2,0,4
+Senate,115,2,46,46,2018-03-05,"Confirmation Karen Gren Scholer, of Texas, to be U.S. District Judge for the Northern District of Texas",On the Nomination PN992,Nomination Confirmed,95,0,0,5
+Senate,115,2,47,47,2018-03-05,"Confirmation Tilman Eugene Self III, of Georgia, to be U.S. District Judge for the Middle District of Georgia",On the Nomination PN755,Nomination Confirmed,85,11,0,4
+Senate,115,2,48,48,2018-03-06,Motion to Invoke Cloture on the Motion to Proceed to S. 2155,On the Cloture Motion S. 2155,Cloture Motion Agreed to,67,32,0,1
+Senate,115,2,49,49,2018-03-06,"Confirmation Terry A. Doughty, of Louisiana, to be U.S. District Judge for the Western District of Louisiana",On the Nomination PN876,Nomination Confirmed,98,0,0,2
+Senate,115,2,50,50,2018-03-12,"Motion to Invoke Cloture on Crapo Amendment No. 2151, As Modified","On the Cloture Motion S.Amdt. 2151 to S. 2155 (Economic Growth, Regulatory Relief, and Consumer Protection Act)",Cloture Motion Agreed to,66,30,0,4
+Senate,115,2,51,51,2018-03-14,Crapo Amdt. No. 2151 As Modified,"On the Amendment S.Amdt. 2151 to S. 2155 (Economic Growth, Regulatory Relief, and Consumer Protection Act)",Amendment Agreed to,67,31,0,2
+Senate,115,2,52,52,2018-03-14,Motion to Invoke Cloture on S. 2155,On the Cloture Motion S. 2155,Cloture Motion Agreed to,67,31,0,2
+Senate,115,2,53,53,2018-03-14,Motion to Waive All Applicable Budgetary Discipline Re: S. 2155,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: S. 2155),Motion Agreed to,67,31,0,2
+Senate,115,2,54,54,2018-03-14,"S. 2155, Amended",On Passage of the Bill S. 2155,Bill Passed,67,31,0,2
+Senate,115,2,55,55,2018-03-14,Motion to Invoke Cloture on the Nomination of Kevin K. McAleenan to be Commissioner of U.S. Customs and Border Protection,On the Cloture Motion PN1373,Cloture Motion Agreed to,79,19,0,2
+Senate,115,2,56,56,2018-03-19,"Confirmation Kevin K. McAleenan, of Hawaii, to be Commissioner of U.S. Customs and Border Protection",On the Nomination PN1373,Nomination Confirmed,77,19,0,4
+Senate,115,2,57,57,2018-03-19,Motion to Invoke Cloture on the Motion to Proceed to H.R. 1865,On Cloture on the Motion to Proceed H.R. 1865,Cloture on the Motion to Proceed Agreed to,94,2,0,4
+Senate,115,2,58,58,2018-03-20,Motion to Table the Motion to Discharge S. J. Res. 54,On the Motion to Table S.J.Res. 54,Motion to Table Agreed to,55,44,0,1
+Senate,115,2,59,59,2018-03-21,Motion to Waive All Applicable Budgetary Discipline Re: Wyden Amdt. No. 2213,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Wyden Amdt. No. 2213),Motion Rejected,21,78,0,1
+Senate,115,2,60,60,2018-03-21,H.R. 1865,On Passage of the Bill H.R. 1865,Bill Passed,97,2,0,1
+Senate,115,2,61,61,2018-03-22,Motion to Instruct the Sergeant-at-Arms to Request the Presence of Absentee Senators,On the Motion for Attendance H.R. 1625,Motion for Attendance Agreed to,91,6,0,3
+Senate,115,2,62,62,2018-03-23,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1625,On the Cloture Motion H.R. 1625,Cloture Motion Agreed to,67,30,0,3
+Senate,115,2,63,63,2018-03-23,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1625,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1625),Motion Agreed to,65,32,0,3
+Senate,115,2,64,64,2018-04-09,"Motion to Invoke Cloture on Claria Horn Boom, of Kentucky, to be U.S. District Judge for the Eastern and Western Districts of Kentucky",On the Cloture Motion PN596,Cloture Motion Agreed to,96,2,0,2
+Senate,115,2,65,65,2018-04-10,"Confirmation Claria Horn Boom, of Kentucky, to be U.S. District Judge for the Eastern and Western Districts of Kentucky",On the Nomination PN596,Nomination Confirmed,96,1,0,3
+Senate,115,2,66,66,2018-04-10,Motion to Invoke Cloture Re: John F. Ring to be a Member of the National Labor Relations Board,On the Cloture Motion PN1443,Cloture Motion Agreed to,50,47,0,3
+Senate,115,2,67,67,2018-04-11,"Confirmation John F. Ring, of the District of Columbia, to be a Member of the National Labor Relations Board",On the Nomination PN1443,Nomination Confirmed,50,48,0,2
+Senate,115,2,68,68,2018-04-11,"Motion to Invoke Cloture Re: Patrick Pizzella, to be Deputy Secretary of Labor",On the Cloture Motion PN1395,Cloture Motion Agreed to,50,48,0,2
+Senate,115,2,69,69,2018-04-12,"Confirmation Patrick Pizzella, of Virginia, to be Deputy Secretary of Labor",On the Nomination PN1395,Nomination Confirmed,50,48,0,2
+Senate,115,2,70,70,2018-04-12,Motion to Invoke Cloture: Andrew Wheeler to be Deputy Administrator of the Environmental Protection Agency,On the Cloture Motion PN1426,Cloture Motion Agreed to,53,45,0,2
+Senate,115,2,71,71,2018-04-12,"Confirmation Andrew Wheeler, of Virginia, to be Deputy Administrator of the Environmental Protection Agency",On the Nomination PN1426,Nomination Confirmed,53,45,0,2
+Senate,115,2,72,72,2018-04-12,"Motion to Invoke Cloture on John W. Broomes, of Kansas, to be U.S. District Judge for the District of Kansas ",On the Cloture Motion PN988,Cloture Motion Agreed to,74,24,0,2
+Senate,115,2,73,73,2018-04-12,"Motion to Invoke Cloture Re: Rebecca Grady Jennings, of Kentucky, to be U.S. District Judge for the Western District of Kentucky",On the Cloture Motion PN989,Cloture Motion Agreed to,94,2,0,4
+Senate,115,2,74,74,2018-04-16,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S. 140,On the Cloture Motion S. 140,Cloture Motion Rejected,55,41,0,4
+Senate,115,2,75,75,2018-04-17,Motion to Proceed to S. J. Res. 57,On the Motion to Proceed S.J.Res. 57,Motion to Proceed Agreed to,50,47,0,3
+Senate,115,2,76,76,2018-04-18,S. J. Res. 57,On the Joint Resolution S.J.Res. 57,Joint Resolution Passed,51,47,0,2
+Senate,115,2,77,77,2018-04-18,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S. 140 with an Amendment,On the Cloture Motion S. 140,Cloture Motion Rejected,56,42,0,2
+Senate,115,2,78,78,2018-04-18,Motion to Invoke Cloture Re: James Bridenstine to be Administrator of the National Aeronautics and Space Administration,On the Cloture Motion PN1359,Cloture Motion Agreed to,50,48,0,2
+Senate,115,2,79,79,2018-04-18,"Confirmation Carlos G. Muniz, of Florida, to be General Counsel, Department of Education",On the Nomination PN568,Nomination Confirmed,55,43,0,2
+Senate,115,2,80,80,2018-04-19,"Confirmation James Bridenstine, of Oklahoma, to be Administrator of the National Aeronautics and Space Administration",On the Nomination PN1359,Nomination Confirmed,50,49,0,1
+Senate,115,2,81,81,2018-04-23,"Motion to Invoke Cloture on the Nomination of Stuart Kyle Duncan, of Louisiana, to be United States Circuit Judge for the Fifth Circuit",On the Cloture Motion PN1410,Cloture Motion Agreed to,50,44,0,6
+Senate,115,2,82,82,2018-04-24,"Confirmation Stuart Kyle Duncan, of Louisiana, to be United States Circuit Judge for the Fifth Circuit",On the Nomination PN1410,Nomination Confirmed,50,47,0,3
+Senate,115,2,83,83,2018-04-26,"Motion to Invoke Cloture on Mike Pompeo, of Kansas, to be Secretary of State",On the Cloture Motion PN1761,Cloture Motion Agreed to,57,42,0,1
+Senate,115,2,84,84,2018-04-26,"Confirmation Mike Pompeo, of Kansas, to be Secretary of State",On the Nomination PN1761,Nomination Confirmed,57,42,0,1
+Senate,115,2,85,85,2018-04-26,"Confirmation Richard Grenell, of California, to be Ambassador to the Federal Republic of Germany",On the Nomination PN1383,Nomination Confirmed,56,42,0,2
+Senate,115,2,86,86,2018-05-07,"Motion to Invoke Cloture on Kurt D. Engelhardt, of Louisiana, to be U.S. Circuit Judge for the Fifth Circuit.",On the Cloture Motion PN1411,Cloture Motion Agreed to,64,31,0,5
+Senate,115,2,87,87,2018-05-09,"Confirmation Kurt D. Engelhardt, of Louisiana, to be U.S. Circuit Judge for the Fifth Circuit",On the Nomination PN1411,Nomination Confirmed,62,34,0,4
+Senate,115,2,88,88,2018-05-09,"Motion to Invoke Cloture on Michael B. Brennan, to be U.S. Circuit Judge for the Seventh Circuit",On the Cloture Motion PN1405,Cloture Motion Agreed to,49,47,0,4
+Senate,115,2,89,89,2018-05-10,"Confirmation Michael B. Brennan, of Wisconsin, to be U.S. Circuit Judge for the Seventh Circuit",On the Nomination PN1405,Nomination Confirmed,49,46,0,5
+Senate,115,2,90,90,2018-05-10,Motion to Invoke Cloture on Joel M. Carson III to be U.S. Circuit Judge for the Tenth Circuit,On the Cloture Motion PN1330,Cloture Motion Agreed to,71,24,0,5
+Senate,115,2,92,92,2018-05-14,"Confirmation Michael Y. Scudder, of Illinois, to be U.S. Circuit Judge for the Seventh Circuit",On the Nomination PN1647,Nomination Confirmed,90,0,0,10
+Senate,115,2,91,91,2018-05-10,"Motion to Invoke Cloture on John B. Nalbandian, of Kentucky, to be U.S. Circuit Judge for the Sixth Circuit",On the Cloture Motion PN1526,Cloture Motion Agreed to,52,43,0,5
+Senate,115,2,93,93,2018-05-14,"Confirmation Amy J. St. Eve, of Illinois, to be U.S. Circuit Judge for the Seventh Circuit",On the Nomination PN1648,Nomination Confirmed,91,0,0,9
+Senate,115,2,94,94,2018-05-15,"Confirmation Joel M. Carson III, of New Mexico, to be U.S. Circuit Judge for the Tenth Circuit",On the Nomination PN1330,Nomination Confirmed,77,21,0,2
+Senate,115,2,95,95,2018-05-15,"Confirmation John B. Nalbandian, of Kentucky, to be U.S. Circuit Judge for the Sixth Circuit",On the Nomination PN1526,Nomination Confirmed,53,45,0,2
+Senate,115,2,96,96,2018-05-16,Motion to Proceed to S. J. Res. 52,On the Motion to Proceed S.J.Res. 52,Motion to Proceed Agreed to,52,47,0,1
+Senate,115,2,98,98,2018-05-16,"Confirmation Mitchell Zais, of South Carolina, to be Deputy Secretary of Education",On the Nomination PN1397,Nomination Confirmed,50,48,0,2
+Senate,115,2,97,97,2018-05-16,S. J. Res. 52,On the Joint Resolution S.J.Res. 52,Joint Resolution Passed,52,47,0,1
+Senate,115,2,99,99,2018-05-17,Motion to Proceed to S. Con. Res. 36,On the Motion to Proceed S.Con.Res. 36,Motion to Proceed Rejected,21,76,0,3
+Senate,115,2,101,101,2018-05-17,"Confirmation Gina Haspel, of Kentucky, to be Director of the Central Intelligence Agency",On the Nomination PN1857,Nomination Confirmed,54,45,0,1
+Senate,115,2,100,100,2018-05-17,Motion to Invoke Cloture: Gina Haspel to be Director of the Central Intelligence Agency,On the Cloture Motion PN1857,Cloture Motion Agreed to,54,44,0,2
+Senate,115,2,102,102,2018-05-21,Motion to Invoke Cloture: Dana Baiocco to be a Commissioner of the Consumer Product Safety Commission,On the Cloture Motion PN1358,Cloture Motion Agreed to,49,45,0,6
+Senate,115,2,103,103,2018-05-22,"Confirmation Dana Baiocco, of Ohio, to be a Commissioner of the Consumer Product Safety Commission",On the Nomination PN1358,Nomination Confirmed,50,45,0,5
+Senate,115,2,104,104,2018-05-22,Motion to Invoke Cloture Re: Motion to Concur in the House Amendment to S. 2372,On the Cloture Motion S. 2372,Cloture Motion Agreed to,91,4,0,5
+Senate,115,2,105,105,2018-05-23,"Confirmation Brian D. Montgomery, of Texas, to be an Assistant Secretary of Housing and Urban Development",On the Nomination PN1352,Nomination Confirmed,74,23,0,3
+Senate,115,2,106,106,2018-05-23,Motion to Concur in the House Amendment to S. 2372,On the Motion (Motion to Concur in the House Amendment to S. 2372),Motion Agreed to,92,5,0,3
+Senate,115,2,107,107,2018-05-23,"Motion to Invoke Cloture on Jelena McWilliams, of Ohio, to be Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation",On the Cloture Motion PN1351,Cloture Motion Agreed to,72,25,0,3
+Senate,115,2,108,108,2018-05-23,"Motion to Invoke Cloture on Jelena McWilliams, of Ohio, to be a Member of the Board of Directors of the FDIC",On the Cloture Motion PN1516,Cloture Motion Agreed to,73,23,0,4
+Senate,115,2,110,110,2018-05-24,Motion to Invoke Cloture Re: James Randolph Evans to be Ambassador of the United States to Luxembourg,On the Cloture Motion PN1382,Cloture Motion Agreed to,49,44,0,7
+Senate,115,2,109,109,2018-05-24,"Confirmation Jelena McWilliams, of Ohio, to be Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation",On the Nomination PN1351,Nomination Confirmed,69,24,0,7
+Senate,115,2,111,111,2018-05-24,"Confirmation James Randolph Evans, of Georgia, to be Ambassador of the United States of America to Luxembourg",On the Nomination PN1382,Nomination Confirmed,48,43,0,9
+Senate,115,2,112,112,2018-06-04,"Motion to Invoke Cloture Re: Robert Earl Wier, of Kentucky, to be U.S. District Judge for the Eastern District of Kentucky",On the Cloture Motion PN886,Cloture Motion Agreed to,90,1,0,9
+Senate,115,2,113,113,2018-06-05,"Confirmation Robert Earl Wier, of Kentucky, to be U.S. District Judge for the Eastern District of Kentucky",On the Nomination PN886,Nomination Confirmed,95,0,0,5
+Senate,115,2,114,114,2018-06-05,"Motion to Invoke Cloture: Fernando Rodriguez, Jr., of Texas, to be U.S. District Judge for the Southern District of Texas",On the Cloture Motion PN991,Cloture Motion Agreed to,94,1,0,5
+Senate,115,2,115,115,2018-06-05,"Confirmation Fernando Rodriguez, Jr., of Texas, to be United States District Judge for the Southern District of Texas",On the Nomination PN991,Nomination Confirmed,96,0,0,4
+Senate,115,2,116,116,2018-06-05,"Motion to Invoke Cloture on the Nomination of Annemarie Carney Axon, of Alabama, to be U.S. District Judge for the Northern District of Alabama",On the Cloture Motion PN1400,Cloture Motion Agreed to,84,11,0,5
+Senate,115,2,117,117,2018-06-06,"Confirmation Annemarie Carney Axon, of Alabama, to be U.S. District Judge for the Northern District of Alabama",On the Nomination PN1400,Nomination Confirmed,83,11,0,6
+Senate,115,2,118,118,2018-06-07,"Confirmation Kenneth L. Marcus, of Virginia, to be Assistant Secretary for Civil Rights, Department of Education",On the Nomination PN1393,Nomination Confirmed,50,46,0,4
+Senate,115,2,119,119,2018-06-07,Motion to Invoke Cloture on the Motion to Proceed to H.R. 5515,On Cloture on the Motion to Proceed H.R. 5515,Cloture on the Motion to Proceed Agreed to,92,4,0,4
+Senate,115,2,120,120,2018-06-11,Motion to Proceed to H.R. 5515,On the Motion to Proceed H.R. 5515,Motion to Proceed Agreed to,91,4,0,5
+Senate,115,2,121,121,2018-06-13,Motion to Table Reed Amdt. No. 2842,On the Motion to Table S.Amdt. 2842 to S.Amdt. 2366 to H.R. 5515 (National Defense Authorization Act for Fiscal Year 2019),Motion to Table Failed,47,51,0,2
+Senate,115,2,122,122,2018-06-13,Motion to Table Lee Amdt. No. 2366,On the Motion to Table S.Amdt. 2366 to H.R. 5515 (National Defense Authorization Act for Fiscal Year 2019),Motion to Table Failed,30,68,0,2
+Senate,115,2,123,123,2018-06-14,"Motion to Invoke Cloture on Amdt. No. 2700 to Amdt. No. 2282, As Modified, to H.R. 5515",On the Cloture Motion S.Amdt. 2700 to S.Amdt. 2282 to H.R. 5515 (John S. McCain National Defense Authorization Act for Fiscal Year 2019),Cloture Motion Rejected,35,62,0,3
+Senate,115,2,124,124,2018-06-14,"Motion to Invoke Cloture on Amdt. No. 2282, As Modified, to H.R. 5515",On the Cloture Motion S.Amdt. 2282 to H.R. 5515 (National Defense Authorization Act for Fiscal Year 2019),Cloture Motion Agreed to,83,14,0,3
+Senate,115,2,125,125,2018-06-14,Reed Amdt. No. 2885,On the Amendment S.Amdt. 2885 to S.Amdt. 2276 to S.Amdt. 2282 to H.R. 5515,Amendment Agreed to,97,0,0,3
+Senate,115,2,126,126,2018-06-14,"Motion to Invoke Cloture Re: H.R. 5515, As Amended",On the Cloture Motion H.R. 5515,Cloture Motion Agreed to,81,15,0,4
+Senate,115,2,127,127,2018-06-18,"Motion to Waive Section 4106(b)(1) H. Con. Res. 71 Re: Amdt. No. 2282, As Modified and Amended","On the Motion (Motion to Waive Section 4106(b)(1) H. Con. Res. 71 Re: Amdt. No. 2282, As Modified and Amended)",Motion Agreed to,81,14,0,5
+Senate,115,2,128,128,2018-06-18,H.R. 5515 As Amended,On Passage of the Bill H.R. 5515,Bill Passed,85,10,0,5
+Senate,115,2,129,129,2018-06-18,Motion to Invoke Cloture on the Motion to Proceed to H.R. 5895,On Cloture on the Motion to Proceed H.R. 5895,Cloture on the Motion to Proceed Agreed to,92,3,0,5
+Senate,115,2,130,130,2018-06-19,Gardner Amdt. No. 2914,"On the Amendment S.Amdt. 2914 to S.Amdt. 2910 to H.R. 5895 (Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019)",Amendment Agreed to,93,3,0,4
+Senate,115,2,131,131,2018-06-19,Carper Amdt. No. 2920,"On the Amendment S.Amdt. 2920 to S.Amdt. 2910 to H.R. 5895 (Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019)",Amendment Agreed to,96,0,0,4
+Senate,115,2,132,132,2018-06-20,Crapo Amdt. No. 2943 As Modified,"On the Amendment S.Amdt. 2943 to S.Amdt. 2910 to H.R. 5895 (Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019)",Amendment Agreed to,87,9,0,4
+Senate,115,2,133,133,2018-06-20,Baldwin Amdt. No. 2985,"On the Amendment S.Amdt. 2985 to S.Amdt. 2910 to H.R. 5895 (Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019)",Amendment Agreed to,95,2,0,3
+Senate,115,2,134,134,2018-06-20,Motion to Discharge H.R. 3,On the Motion to Discharge H.R. 3,Motion to Discharge Rejected,48,50,0,2
+Senate,115,2,135,135,2018-06-20,Young Amdt. No. 2926,"On the Amendment S.Amdt. 2926 to S.Amdt. 2910 to H.R. 5895 (Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019)",Amendment Agreed to,96,0,0,4
+Senate,115,2,136,136,2018-06-20,Tester Amdt. No. 2971,"On the Amendment S.Amdt. 2971 to S.Amdt. 2910 to H.R. 5895 (Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019)",Amendment Agreed to,96,0,0,4
+Senate,115,2,137,137,2018-06-21,Bennet Amdt. No. 2983,"On the Amendment S.Amdt. 2983 to S.Amdt. 2910 to H.R. 5895 (Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019)",Amendment Agreed to,96,0,0,4
+Senate,115,2,138,138,2018-06-21,Motion to Table Lee Amdt. No. 3021 As Modified,On the Motion to Table S.Amdt. 3021 to S.Amdt. 2911 to S.Amdt. 2910 to H.R. 5895,Motion to Table Agreed to,62,34,0,4
+Senate,115,2,139,139,2018-06-25,H.R. 5895 As Amended,On Passage of the Bill H.R. 5895,Bill Passed,86,5,0,9
+Senate,115,2,140,140,2018-06-25,Motion to Invoke Cloture on the Motion to Proceed to H.R. 2,On Cloture on the Motion to Proceed H.R. 2,Cloture on the Motion to Proceed Agreed to,89,3,0,8
+Senate,115,2,141,141,2018-06-28,Motion to Table Kennedy Amdt. No. 3383,On the Motion to Table S.Amdt. 3383 to H.R. 2 (Agriculture and Nutrition Act of 2018),Motion to Table Agreed to,68,30,0,2
+Senate,115,2,142,142,2018-06-28,Lee Amdt. No. 3074,On the Amendment S.Amdt. 3074 to S.Amdt. 3224 to H.R. 2 (Agriculture and Nutrition Act of 2018),Amendment Rejected,38,57,0,5
+Senate,115,2,143,143,2018-06-28,"H.R. 2, As Amended",On Passage of the Bill H.R. 2,Bill Passed,86,11,0,3
+Senate,115,2,144,144,2018-07-09,"Motion to Invoke Cloture on Mark Jeremy Bennett, of Hawaii, to be U.S. Circuit Judge for the Ninth Circuit",On the Cloture Motion PN1642,Cloture Motion Agreed to,72,25,0,3
+Senate,115,2,145,145,2018-07-10,"Confirmation Mark Jeremy Bennett, of Hawaii, to be United States Circuit Judge for the Ninth Circuit",On the Nomination PN1642,Nomination Confirmed,72,27,0,1
+Senate,115,2,146,146,2018-07-10,"Motion to Invoke Cloture: Brian Benczkowski, of Virginia, to be an Assistant Attorney General",On the Cloture Motion PN1402,Cloture Motion Agreed to,51,48,0,1
+Senate,115,2,147,147,2018-07-10,"Motion to Insist on the Senate Amendment to H.R. 5515, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees","On the Motion (Motion to Insist on the Senate Amendment to H.R. 5515, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees)",Motion Agreed to,91,8,0,1
+Senate,115,2,148,148,2018-07-10,Cornyn Motion to Instruct Conferees Re: H.R. 5515,On the Motion (Cornyn Motion to Instruct Conferees Re: H.R. 5515),Motion Agreed to,97,2,0,1
+Senate,115,2,149,149,2018-07-10,Reed Motion to Instruct Conferees Re: H.R. 5515,On the Motion (Reed Motion to Instruct Conferees Re: H.R. 5515),Motion Agreed to,97,2,0,1
+Senate,115,2,150,150,2018-07-11,Cassidy Motion to Instruct Conferees Re: H.R. 5895,On the Motion (Cassidy Motion to Instruct Conferees Re: H.R. 5895),Motion Agreed to,94,5,0,1
+Senate,115,2,151,151,2018-07-11,Corker Motion to Instruct Conferees Re: H.R. 5895,On the Motion (Corker Motion to Instruct Conferees Re: H.R. 5895),Motion Agreed to,88,11,0,1
+Senate,115,2,152,152,2018-07-11,"Confirmation Brian Allen Benczkowski, of Virginia, to be an Assistant Attorney General",On the Nomination PN1402,Nomination Confirmed,51,48,0,1
+Senate,115,2,153,153,2018-07-11,"Motion to Invoke Cloture: Paul C. Ney, Jr.,  to be General Counsel of the Department of Defense",On the Cloture Motion PN1438,Cloture Motion Agreed to,74,25,0,1
+Senate,115,2,154,154,2018-07-12,"Confirmation Paul C. Ney, of Tennessee, to be General Counsel of the Department of Defense",On the Nomination PN1438,Nomination Confirmed,70,23,0,7
+Senate,115,2,155,155,2018-07-16,"Confirmation Scott Stump, of Colorado, to be Assistant Secretary for Career, Technical, and Adult Education, Department of Education",On the Nomination PN1955,Nomination Confirmed,85,0,0,15
+Senate,115,2,156,156,2018-07-17,"Confirmation James Blew, of California, to be an Assistant Secretary for Planning, Evaluation, and Policy Development, Department of Education",On the Nomination PN1391,Nomination Confirmed,50,49,0,1
+Senate,115,2,157,157,2018-07-17,"Motion to Invoke Cloture: Randal Quarles to be a Member of the Board of Governors, Federal Reserve System",On the Cloture Motion PN1354,Cloture Motion Agreed to,66,33,0,1
+Senate,115,2,158,158,2018-07-17,"Confirmation Randal Quarles, of Colorado, to be a Member of the Board of Governors, Federal Reserve System",On the Nomination PN1354,Nomination Confirmed,66,33,0,1
+Senate,115,2,159,159,2018-07-17,"Motion to Invoke Cloture Andrew S. Oldham, of Texas, to U.S. Circuit Judge for the Fifth Circuit",On the Cloture Motion PN1645,Cloture Motion Agreed to,50,49,0,1
+Senate,115,2,160,160,2018-07-18,"Confirmation Andrew S. Oldham, of Texas, to be U.S. Circuit Judge for the Fifth Circuit",On the Nomination PN1645,Nomination Confirmed,50,49,0,1
+Senate,115,2,161,161,2018-07-18,Motion to Invoke Cloture Ryan Wesley Bounds to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN1403,Cloture Motion Agreed to,50,49,0,1
+Senate,115,2,162,162,2018-07-19,S. Res. 584,On the Resolution S.Res. 584,Resolution Agreed to,98,0,0,2
+Senate,115,2,163,163,2018-07-23,"Confirmation Robert L. Wilkie, of North Carolina, to be Secretary of Veterans Affairs",On the Nomination PN2179,Nomination Confirmed,86,9,0,5
+Senate,115,2,164,164,2018-07-24,Heller Amdt. No. 3405,"On the Amendment S.Amdt. 3405 to S.Amdt. 3399 to H.R. 6147 (Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019)",Amendment Agreed to,98,1,0,1
+Senate,115,2,165,165,2018-07-24,Durbin Amdt. No. 3422,"On the Amendment S.Amdt. 3422 to S.Amdt. 3399 to H.R. 6147 (Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019)",Amendment Agreed to,99,0,0,1
+Senate,115,2,166,166,2018-07-24,Schatz Amdt. No. 3407,"On the Amendment S.Amdt. 3407 to S.Amdt. 3399 to H.R. 6147 (Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019)",Amendment Agreed to,97,1,0,2
+Senate,115,2,167,167,2018-07-24,Kennedy Amdt. No. 3430,"On the Amendment S.Amdt. 3430 to S.Amdt. 3399 to H.R. 6147 (Department of the Interior, Environment, and Related Agencies Appropriations Act, 2019)",Amendment Agreed to,87,11,0,2
+Senate,115,2,168,168,2018-07-25,Moran Amdt. No. 3433.,"On the Amendment S.Amdt. 3433 to S.Amdt. 3399 to H.R. 6147 (Interior, Environment, Financial Services, and General Government Appropriations Act, 2019)",Amendment Agreed to,98,0,0,2
+Senate,115,2,169,169,2018-07-25,"Udall Amdt. No. 3414, As Modified","On the Amendment S.Amdt. 3414 to S.Amdt. 3399 to H.R. 6147 (Interior, Environment, Financial Services, and General Government Appropriations Act, 2019)",Amendment Agreed to,95,4,0,1
+Senate,115,2,170,170,2018-07-25,Manchin Amdt. No. 3553,"On the Amendment S.Amdt. 3553 to S.Amdt. 3399 to H.R. 6147 (Interior, Environment, Financial Services, and General Government Appropriations Act, 2019)",Amendment Agreed to,99,0,0,1
+Senate,115,2,171,171,2018-07-25,Paul Amdt. No. 3543,"On the Amendment S.Amdt. 3543 to S.Amdt. 3399 to H.R. 6147 (Interior, Environment, Financial Services, and General Government Appropriations Act, 2019)",Amendment Rejected,25,74,0,1
+Senate,115,2,172,172,2018-07-30,Motion to Invoke Cloture: Britt Cagle Grant to be U.S. Circuit Judge for the Eleventh Circuit,On the Cloture Motion PN1808,Cloture Motion Agreed to,52,44,0,4
+Senate,115,2,173,173,2018-07-31,Motion to Concur in the House Amendments to S. 1182,On the Motion (Motion to Concur in the House Amendments to S. 1182),Motion Agreed to,86,12,0,2
+Senate,115,2,174,174,2018-07-31,"Confirmation Britt Cagle Grant, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit",On the Nomination PN1808,Nomination Confirmed,52,46,0,2
+Senate,115,2,175,175,2018-07-31,Motion to Invoke Cloture Re: Amdt. No. 3399 to H.R. 6147,"On the Cloture Motion S.Amdt. 3399 to H.R. 6147 (Interior, Environment, Financial Services, and General Government Appropriations Act, 2019)",Cloture Motion Agreed to,94,4,0,2
+Senate,115,2,176,176,2018-08-01,Leahy Amdt. No. 3464,"On the Amendment S.Amdt. 3464 to S.Amdt. 3399 to H.R. 6147 (Interior, Environment, Financial Services, and General Government Appropriations Act, 2019)",Amendment Rejected,50,47,0,3
+Senate,115,2,177,177,2018-08-01,Lee Amdt. No. 3522,"On the Amendment S.Amdt. 3522 to S.Amdt. 3399 to H.R. 6147 (Interior, Environment, Financial Services, and General Government Appropriations Act, 2019)",Amendment Rejected,14,84,0,2
+Senate,115,2,178,178,2018-08-01,Baldwin Amdt. No. 3524,"On the Amendment S.Amdt. 3524 to S.Amdt. 3399 to H.R. 6147 (Interior, Environment, Financial Services, and General Government Appropriations Act, 2019)",Amendment Agreed to,83,15,0,2
+Senate,115,2,179,179,2018-08-01,Motion to Table Cruz Amdt. No. 3402,"On the Motion to Table S.Amdt. 3402 to S.Amdt. 3399 to H.R. 6147 (Interior, Environment, Financial Services, and General Government Appropriations Act, 2019)",Motion to Table Agreed to,54,44,0,2
+Senate,115,2,180,180,2018-08-01,"H.R. 6147, As Amended",On Passage of the Bill H.R. 6147,Bill Passed,92,6,0,2
+Senate,115,2,181,181,2018-08-01,Conference Report to Accompany H.R. 5515,On the Conference Report H.R. 5515,Conference Report Agreed to,87,10,0,3
+Senate,115,2,182,182,2018-08-15,"Motion to Invoke Cloture: A. Marvin Quattlebaum, Jr. to be U.S. Circuit Judge for the Fourth Circuit",On the Cloture Motion PN1895,Cloture Motion Agreed to,61,28,0,11
+Senate,115,2,183,183,2018-08-16,"Confirmation A. Marvin Quattlebaum, Jr., of South Carolina, to be U.S. Circuit Judge for the Fourth Circuit",On the Nomination PN1895,Nomination Confirmed,62,28,0,10
+Senate,115,2,184,184,2018-08-16,"Motion to Invoke Cloture: Julius Ness Richardson, of South Carolina, to be U.S. Circuit Court Judge for the Fourth Circuit",On the Cloture Motion PN1897,Cloture Motion Agreed to,80,10,0,10
+Senate,115,2,185,185,2018-08-16,"Confirmation Julius Ness Richardson, of South Carolina, to be U.S. Circuit Judge for the Fourth Circuit",On the Nomination PN1897,Nomination Confirmed,81,8,0,11
+Senate,115,2,186,186,2018-08-20,Menendez Amdt. No. 3705,"On the Amendment S.Amdt. 3705 to S.Amdt. 3695 to H.R. 6157 (Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019)",Amendment Agreed to,85,0,0,15
+Senate,115,2,187,187,2018-08-20,Fischer Amdt. No. 3706,"On the Amendment S.Amdt. 3706 to S.Amdt. 3695 to H.R. 6157 (Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019)",Amendment Agreed to,85,0,0,15
+Senate,115,2,188,188,2018-08-21,Nelson Amdt. No. 3773,"On the Amendment S.Amdt. 3773 to S.Amdt. 3695 to H.R. 6157 (Department of Defense Appropriations Act, 2019)",Amendment Agreed to,95,0,0,5
+Senate,115,2,189,189,2018-08-21,Kennedy Amdt. No. 3703,"On the Amendment S.Amdt. 3703 to S.Amdt. 3695 to H.R. 6157 (Department of Defense Appropriations Act, 2019)",Amendment Agreed to,95,0,0,5
+Senate,115,2,191,191,2018-08-23,Paul Amdt. No. 3967,"On the Amendment S.Amdt. 3967 to S.Amdt. 3695 to H.R. 6157 (Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019)",Amendment Rejected,45,48,0,7
+Senate,115,2,190,190,2018-08-23,Motion to Invoke Cloture Amdt. No. 3695 to H. R. 6157,"On the Cloture Motion S.Amdt. 3695 to H.R. 6157 (Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019)",Cloture Motion Agreed to,90,6,0,4
+Senate,115,2,192,192,2018-08-23,Motion to Waive All Applicable Budgetary Discipline Re: Shelby Amdt. No. 3695,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Shelby Amdt. No. 3695),Motion Agreed to,68,24,0,8
+Senate,115,2,193,193,2018-08-23,H. R. 6157 As Amended,On Passage of the Bill H.R. 6157,Bill Passed,85,7,0,8
+Senate,115,2,194,194,2018-08-27,"Motion to Invoke Cloture Lynn A. Johnson to be Assistant Secretary for Family Support, Department of Health and Human Services",On the Cloture Motion PN602,Cloture Motion Agreed to,60,28,0,11
+Senate,115,2,195,195,2018-08-28,"Confirmation Lynn A. Johnson, of Colorado, to be Assistant Secretary for Family Support",On the Nomination PN602,Nomination Confirmed,67,28,0,4
+Senate,115,2,196,196,2018-08-28,Motion to Invoke Cloture: Richard Clarida to be Vice Chairman of the Board of Governors of the Federal Reserve System,On the Cloture Motion PN1861,Cloture Motion Agreed to,69,26,0,4
+Senate,115,2,197,197,2018-08-28,"Confirmation Richard Clarida, of Connecticut, to be Vice Chairman of the Board of Governors, Federal Reserve System",On the Nomination PN1861,Nomination Confirmed,69,26,0,4
+Senate,115,2,198,198,2018-08-28,"Confirmation Joseph H. Hunt, of Maryland, to be an Assistant Attorney General",On the Nomination PN1414,Nomination Confirmed,72,23,0,4
+Senate,115,2,199,199,2018-08-28,"Confirmation Isabel Marie Keenan Patelunas, of Pennsylvania, to be Assistant Secretary for Intelligence and Analysis",On the Nomination PN1398,Nomination Confirmed,75,20,0,4
+Senate,115,2,201,201,2018-09-04,Motion to Invoke Cloture: Elad L. Roisman to be a Member of the Securities and Exchange Commission,On the Cloture Motion PN2047,Cloture Motion Agreed to,83,14,0,2
+Senate,115,2,200,200,2018-08-28,"Confirmation Charles Barnes Goodwin, of Oklahoma, to be U.S. District Judge for the Western District of Oklahoma",On the Nomination PN1413,Nomination Confirmed,52,42,0,5
+Senate,115,2,202,202,2018-09-05,"Confirmation Elad L. Roisman, of Maine, to be a Member of the Securities and Exchange Commission",On the Nomination PN2047,Nomination Confirmed,85,14,0,0
+Senate,115,2,203,203,2018-09-06,"Confirmation Dominic W. Lanza, of Arizona, to be U.S. District Judge for the District of Arizona",On the Nomination PN1525,Nomination Confirmed,60,35,0,5
+Senate,115,2,204,204,2018-09-06,"Confirmation Charles J. Williams, of Iowa, to be U.S. District Judge for the Northern District of Iowa",On the Nomination PN1650,Nomination Confirmed,79,12,0,9
+Senate,115,2,205,205,2018-09-12,"Motion to Invoke Cloture: Charles P. Rettig to be Commissioner of Internal Revenue, Department of the Treasury",On the Cloture Motion PN1620,Cloture Motion Agreed to,63,34,0,3
+Senate,115,2,206,206,2018-09-12,"Confirmation Charles P. Rettig, of California, to be Commissioner of Internal Revenue, Department of the Treasury",On the Nomination PN1620,Nomination Confirmed,64,33,0,3
+Senate,115,2,207,207,2018-09-12,Conference Report to Accompany H.R. 5895,On the Conference Report H.R. 5895,Conference Report Agreed to,92,5,0,3
+Senate,115,2,208,208,2018-09-17,Lee Amdt. No. 4011,On the Amendment S.Amdt. 4011 to S. 2554 (Patient Right to Know Drug Prices Act),Amendment Rejected,11,89,0,0
+Senate,115,2,209,209,2018-09-17,S. 2554 As Amended,On Passage of the Bill S. 2554,Bill Passed,98,2,0,0
+Senate,115,2,210,210,2018-09-17,H. R. 6 As Amended,On Passage of the Bill H.R. 6,Bill Passed,99,1,0,0
+Senate,115,2,211,211,2018-09-18,Motion to Invoke Cloture on the Conference Report to Accompany H.R. 6157,On the Cloture Motion H.R. 6157,Cloture Motion Agreed to,92,8,0,0
+Senate,115,2,212,212,2018-09-18,Conference Report to Accompany H.R. 6157,On the Conference Report H.R. 6157,Conference Report Agreed to,93,7,0,0
+Senate,115,2,213,213,2018-09-24,"Confirmation Jackie Wolcott, of Virginia, to be Representative of the United States of America to the International Atomic Energy Agency and to the Vienna Office of the United Nations",On the Nomination PN1448 and PN1447,Nomination Confirmed,75,19,0,6
+Senate,115,2,214,214,2018-09-24,"Motion to Invoke Cloture: Peter A. Feldman to be a Commisioner, Consumer Product Safety Commission",On the Cloture Motion PN2048,Cloture Motion Agreed to,76,18,0,6
+Senate,115,2,215,215,2018-09-25,"Confirmation Peter A. Feldman, of the District of Columbia, to be a Commissioner, Consumer Product Safety Commission",On the Nomination PN2048,Nomination Confirmed,80,19,0,1
+Senate,115,2,216,216,2018-09-25,"Motion to Invoke Cloture: Peter A. Feldman, to be a Commissioner, Consumer Product Safety Commission (Term of Seven Years)",On the Cloture Motion PN2073,Cloture Motion Agreed to,50,49,0,1
+Senate,115,2,217,217,2018-09-26,"Confirmation Peter A. Feldman, of the District of Columbia, to be a Commissioner, Consumer Product Safety Commission",On the Nomination PN2073,Nomination Confirmed,51,49,0,0
+Senate,115,2,218,218,2018-09-27,"Confirmation Lisa Porter, of Virgina, to be a Deputy Under Secretary of Defense",On the Nomination PN1677,Nomination Confirmed,98,1,0,1
+Senate,115,2,219,219,2018-10-01,Motion to Invoke Cloture Re: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 302,On the Cloture Motion H.R. 302,Cloture Motion Agreed to,90,7,0,3
+Senate,115,2,220,220,2018-10-03,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 302,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 302),Motion Agreed to,93,6,0,1
+Senate,115,2,221,221,2018-10-03,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 6,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 6),Motion Agreed to,98,1,0,1
+Senate,115,2,222,222,2018-10-05,Motion to Invoke Cloture Re: Brett M. Kavanaugh to be an Associate Justice of the Supreme Court of the United States,On the Cloture Motion PN2259,Cloture Motion Agreed to,51,49,0,0
+Senate,115,2,223,223,2018-10-06,"Confirmation Brett M. Kavanaugh, of Maryland, to be an Associate Justice of the Supreme Court of the United States",On the Nomination PN2259,Nomination Confirmed,50,48,1,1
+Senate,115,2,224,224,2018-10-09,Motion to Invoke Cloture: Motion to Concur in the House Amendments to S. 3021,On the Cloture Motion S. 3021,Cloture Motion Agreed to,96,3,0,1
+Senate,115,2,225,225,2018-10-10,Motion to Concur in the House Amendments to S. 3021,On the Motion (Motion to Concur in the House Amendments to S. 3021),Motion Agreed to,99,1,0,0
+Senate,115,2,226,226,2018-10-10,S.J. Res. 63,On the Joint Resolution S.J.Res. 63,Joint Resolution Defeated,50,50,0,0
+Senate,115,2,227,227,2018-10-10,Motion to Invoke Cloture: Jeffrey Bossert Clark to be an Assistant Attorney General,On the Cloture Motion PN1407,Cloture Motion Agreed to,53,44,0,3
+Senate,115,2,228,228,2018-10-11,"Confirmation Jeffrey Bossert Clark, of Virginia, to be an Assistant Attorney General",On the Nomination PN1407,Nomination Confirmed,52,45,0,3
+Senate,115,2,229,229,2018-10-11,"Motion to Invoke Cloture: Eric S. Dreiband, to be an Assistant Attorney General",On the Cloture Motion PN1409,Cloture Motion Agreed to,50,47,0,3
+Senate,115,2,230,230,2018-10-11,"Confirmation Eric S. Dreiband, of Maryland, to be an Assistant Attorney General",On the Nomination PN1409,Nomination Confirmed,50,47,0,3
+Senate,115,2,231,231,2018-10-11,"Confirmation David James Porter, of Pennsylvania, to be U.S. Circuit Judge for the Third Circuit",On the Nomination PN1843,Nomination Confirmed,50,45,0,5
+Senate,115,2,232,232,2018-10-11,"Confirmation Ryan Douglas Nelson, of Idaho, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN1964,Nomination Confirmed,51,44,0,5
+Senate,115,2,233,233,2018-10-11,"Confirmation Richard J. Sullivan, of New York, to be U.S. Circuit Judge for the Second Circuit",On the Nomination PN1900,Nomination Confirmed,79,16,0,5
+Senate,115,2,234,234,2018-10-11,"Confirmation William M. Ray II, of Georgia, to be U.S. District Judge for the Northern District of Georgia",On the Nomination PN1420,Nomination Confirmed,54,41,0,5
+Senate,115,2,235,235,2018-10-11,"Confirmation Liles Clifton Burke, of Alabama, to be U.S. District Judge for the Northern District of Alabama",On the Nomination PN1406,Nomination Confirmed,55,40,0,5
+Senate,115,2,236,236,2018-10-11,"Confirmation Michael Joseph Juneau, of Louisiana, to be U.S. District Judge for the Western District of Louisiana",On the Nomination PN1415,Nomination Confirmed,54,41,0,5
+Senate,115,2,237,237,2018-10-11,"Confirmation Mark Saalfield Norris, Sr., of Tennessee, to be U.S. District Judge for the Western District of Tennessee",On the Nomination PN1419,Nomination Confirmed,51,44,0,5
+Senate,115,2,238,238,2018-10-11,"Confirmation Eli Jeremy Richardson, of Tennessee, to be U.S. District Judge for the Middle District of Tennessee",On the Nomination PN1421,Nomination Confirmed,52,43,0,5
+Senate,115,2,239,239,2018-10-11,"Confirmation Thomas S. Kleeh, of West Virginia, to be U.S. District Judge for the Northern District of West Virginia",On the Nomination PN1644,Nomination Confirmed,65,30,0,5
+Senate,115,2,240,240,2018-11-13,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S. 140 with an Amendment,On the Cloture Motion S. 140,Cloture Motion Agreed to,93,5,0,2
+Senate,115,2,241,241,2018-11-14,Motion to Concur in the House Amendment to S. 140 with an Amendment (SA 4054),On the Motion (Motion to Concur in the House Amendment to S. 140 with an Amendment (SA 4054)),Motion Agreed to,94,6,0,0
+Senate,115,2,242,242,2018-11-14,"Motion to Invoke Cloture Michelle Bowman, of Kansas, to be a Member of the Board of Governors of the Federal Reserve System",On the Cloture Motion PN1860,Cloture Motion Agreed to,63,36,0,1
+Senate,115,2,243,243,2018-11-15,Motion to Table the Motion to Discharge S.J. Res. 65,On the Motion to Table S.J.Res. 65,Motion to Table Agreed to,77,21,0,2
+Senate,115,2,244,244,2018-11-15,"Confirmation Michelle Bowman, of Kansas, to be a Member of the Board of Governors of the Federal Reserve System",On the Nomination PN1860,Nomination Confirmed,64,34,0,2
+Senate,115,2,245,245,2018-11-26,"Motion to Invoke Cloture on Stephen Alexander Vaden, of Tennessee, to be General Counsel of the Department of Agriculture",On the Cloture Motion PN889,Cloture Motion Agreed to,49,45,0,6
+Senate,115,2,246,246,2018-11-27,"Confirmation Stephen Alexander Vaden, of Tennessee, to be General Counsel of the Department of Agriculture",On the Nomination PN889,Nomination Confirmed,53,46,0,1
+Senate,115,2,248,248,2018-11-28,"Confirmation Karen Dunn Kelley, of Pennsylvania, to be Deputy Secretary of Commerce",On the Nomination PN2049,Nomination Confirmed,62,38,0,0
+Senate,115,2,247,247,2018-11-27,"Motion to Invoke Cloture on Karen Dunn Kelley, of Pennsylvania, to be Deputy Secretary of Commerce",On the Cloture Motion PN2049,Cloture Motion Agreed to,62,37,0,1
+Senate,115,2,249,249,2018-11-28,"Motion to Invoke Cloture on Thomas Alvin Farr, of North Carolina, to be U.S. District Judge for the Eastern District of North Carolina",On the Cloture Motion PN1412,Cloture Motion Agreed to,50,50,0,0
+Senate,115,2,250,250,2018-11-28,Motion to Discharge S. J. Res 54,On the Motion to Discharge S.J.Res. 54,Motion to Discharge Agreed to,63,37,0,0
+Senate,115,2,251,251,2018-11-29,Motion to Invoke Cloture: Jonathan A. Kobes to be U.S. Circuit Judge for the Eighth Circuit,On the Cloture Motion PN2117,Cloture Motion Agreed to,49,49,1,1
+Senate,115,2,252,252,2018-11-29,"Motion to Invoke Cloture: Kathleen Laura Kraninger to be Director, Bureau of Consumer Financial Protection",On the Cloture Motion PN2170,Cloture Motion Agreed to,50,49,0,1
+Senate,115,2,253,253,2018-12-05,"Motion to Invoke Cloture: Bernard L. McNamee, of Virginia, to be a Member of the Federal Energy Regulatory Commission",On the Cloture Motion PN2556,Cloture Motion Agreed to,50,49,0,1
+Senate,115,2,254,254,2018-12-06,"Confirmation Bernard L. McNamee, of Virginia, to be a Member of the Federal Energy Regulatory Commission",On the Nomination PN2556,Nomination Confirmed,50,49,0,1
+Senate,115,2,255,255,2018-12-06,"Confirmation Kathleen Laura Kraninger, of Ohio, to be Director of the Bureau of Consumer Financial Protection",On the Nomination PN2170,Nomination Confirmed,50,49,0,1
+Senate,115,2,256,256,2018-12-10,"Motion to Invoke Cloture: Justin George Muzinich, of New York, to be Deputy Secretary of the Treasury",On the Cloture Motion PN1803,Cloture Motion Agreed to,55,43,0,2
+Senate,115,2,257,257,2018-12-11,"Confirmation Justin George Muzinich, of New York, to be Deputy Secretary of the Treasury",On the Nomination PN1803,Nomination Confirmed,55,44,0,1
+Senate,115,2,258,258,2018-12-11,"Confirmation Jonathan A. Kobes, of South Dakota, to be U.S. Circuit Judge for the Eighth Circuit",On the Nomination PN2117,Nomination Confirmed,50,50,0,0
+Senate,115,2,259,259,2018-12-11,Conference Report to Accompany H.R. 2,On the Conference Report H.R. 2,Conference Report Agreed to,87,13,0,0
+Senate,115,2,260,260,2018-12-12,S.J. Res. 64,On the Joint Resolution S.J.Res. 64,Joint Resolution Passed,50,49,0,1
+Senate,115,2,261,261,2018-12-12,Motion to Proceed S.J. Res. 54,On the Motion to Proceed S.J.Res. 54,Motion to Proceed Agreed to,60,39,0,1
+Senate,115,2,262,262,2018-12-12,Is the Underlying Point of Order Well Taken that Amendments Under Section 50 U.S.C. 1546a be Germane to the Underlying Joint Resolution,On the Point of Order S.J.Res. 54,Point of Order Well Taken,96,3,0,1
+Senate,115,2,263,263,2018-12-13,Young Amdt. No. 4080,On the Amendment S.Amdt. 4080 to S.J.Res. 54 (No short title on file),Amendment Agreed to,58,41,0,1
+Senate,115,2,264,264,2018-12-13,Cornyn Amdt. No. 4096 As Modified,On the Amendment S.Amdt. 4096 to S.J.Res. 54 (No short title on file),Amendment Agreed to,99,0,0,1
+Senate,115,2,265,265,2018-12-13,Cotton Amdt. No. 4098,On the Amendment S.Amdt. 4098 to S.J.Res. 54 (No short title on file),Amendment Rejected,45,54,0,1
+Senate,115,2,266,266,2018-12-13,"S.J. Res. 54, As Amended",On the Joint Resolution S.J.Res. 54,Joint Resolution Passed,56,41,0,3
+Senate,115,2,267,267,2018-12-17,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S. 756 with an Amendment,On the Cloture Motion S. 756,Cloture Motion Agreed to,82,12,0,6
+Senate,115,2,268,268,2018-12-18,Kennedy Amendmeny #4109 Divison I,On the Amendment S.Amdt. 4109 to S.Amdt. 4108 to S. 756 (Save Our Seas Act of 2018),Amendment Rejected,32,67,0,1
+Senate,115,2,269,269,2018-12-18,Kennedy Amendment #4109 Division II,On the Amendment S.Amdt. 4109 to S.Amdt. 4108 to S. 756 (Save Our Seas Act of 2018),Amendment Rejected,33,66,0,1
+Senate,115,2,270,270,2018-12-18,Kennedy Amendment #4109 Division III,On the Amendment S.Amdt. 4109 to S.Amdt. 4108 to S. 756 (Save Our Seas Act of 2018),Amendment Rejected,37,62,0,1
+Senate,115,2,271,271,2018-12-18,Motion to Concur in the House Amendment with an Amendment to S. 756,On the Motion (Motion to Concur in the House Amendment with an Amendment to S. 756),Motion Agreed to,87,12,0,1
+Senate,115,2,272,272,2018-12-19,"Motion to Invoke Cloture Re: Joseph Maguire to be Director of the National Counterterrorism Center, Office of the Director of National Intelligence",On the Cloture Motion PN2209,Cloture Motion Agreed to,95,1,0,4
+Senate,115,2,273,273,2018-12-19,Motion to Instruct the Sergeant at Arms to Request the Attendance of Absentee Senators,On the Motion for Attendance H.R. 695,Motion for Attendance Agreed to,71,21,0,8
+Senate,115,2,274,274,2018-12-21,Motion to Proceed to the House Message to Accompany H.R. 695,On the Motion to Proceed H.R. 695,Motion to Proceed Agreed to,47,47,0,6

@@ -1,0 +1,565 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+House,113,2,1,1,2014-01-07,,Call of the House,Passed,0,0,316,115
+House,113,2,2,2,2014-01-08,To amend the Clean Air Act to remove the requirement for dealer certification of new light-duty motor vehicles,On Motion to Suspend the Rules and Pass,Passed,405,0,0,26
+House,113,2,3,3,2014-01-08,Poison Center Network Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,388,18,0,26
+House,113,2,4,4,2014-01-08,Transportation Reports Elimination Act of 2013,On Motion to Suspend the Rules and Pass,Passed,406,0,0,26
+House,113,2,5,5,2014-01-09,"Providing for consideration of H.R. 2279, Reducing Excessive Deadline Obligations Act of 2013; consideration of H.R. 3362, to require transparency in the operation of Health Benefit Exchanges; and consideration of H.R. 3811, to require notification of breaches of personal information through Health Benefit Exchanges",On Ordering the Previous Question,Passed,226,191,0,15
+House,113,2,6,6,2014-01-09,"Providing for consideration of H.R. 2279, Reducing Excessive Deadline Obligations Act of 2013; consideration of H.R. 3362, to require transparency in the operation of Health Benefit Exchanges; and consideration of H.R. 3811, to require notification of breaches of personal information through Health Benefit Exchanges",On Agreeing to the Resolution,Passed,223,186,0,23
+House,113,2,7,7,2014-01-09,,On Agreeing to the Amendment,Failed,189,228,0,15
+House,113,2,8,8,2014-01-09,,On Agreeing to the Amendment,Failed,190,227,0,15
+House,113,2,9,9,2014-01-09,Reducing Excessive Deadline Obligations Act of 2013,On Motion to Recommit with Instructions,Failed,188,225,0,19
+House,113,2,10,10,2014-01-09,Reducing Excessive Deadline Obligations Act of 2013,On Passage,Passed,225,188,0,19
+House,113,2,11,11,2014-01-10,Health Exchange Security and Transparency Act,On Passage,Passed,291,122,0,19
+House,113,2,12,12,2014-01-13,"To revise the boundaries of the Gettysburg National Military Park to include the Gettysburg Train Station and certain land along Plum Run in Cumberland Township, to limit the means by which property within such revised boundaries may be acquired, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,396,0,0,36
+House,113,2,13,13,2014-01-13,"To authorize the Peace Corps Commemorative Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,387,7,0,38
+House,113,2,14,14,2014-01-14,To amend the Securities Exchange Act of 1934 to provide for a notice-filing registration procedure for brokers performing services in connection with the transfer of ownership of smaller privately held companies and to provide for regulation appropriate to the limited scope of the activities of such brokers,"On Motion to Suspend the Rules and Pass, as Amended",Passed,422,0,0,10
+House,113,2,15,15,2014-01-14,To amend the Securities Exchange Act of 1934 to make the shareholder threshold for registration of savings and loan holding companies the same as for bank holding companies,On Motion to Suspend the Rules and Pass,Passed,417,4,0,11
+House,113,2,16,16,2014-01-14,,On Approving the Journal,Passed,274,138,3,17
+House,113,2,18,18,2014-01-14,Presidential and Federal Records Act Amendments,"On Motion to Suspend the Rules and Pass, as Amended",Passed,420,0,0,12
+House,113,2,17,17,2014-01-14,OPM IG Act,On Motion to Suspend the Rules and Pass,Passed,418,0,0,14
+House,113,2,19,19,2014-01-15,"Providing for consideration of the Senate amendments to the bill (H.R. 3547) to extend the application of certain space launch liability provisions through 2014; providing for proceedings during the period from January 17, 2014, through January 24, 2014; and for other purposes",On Ordering the Previous Question,Passed,228,195,0,9
+House,113,2,20,20,2014-01-15,"Providing for consideration of the Senate amendments to the bill (H.R. 3547) to extend the application of certain space launch liability provisions through 2014; providing for proceedings during the period from January 17, 2014, through January 24, 2014; and for other purposes",On Agreeing to the Resolution,Passed,230,191,0,11
+House,113,2,21,21,2014-01-15,To extend the application of certain space launch liability provisions through 2014,Concurring in the Senate Amendments with an Amendment,Passed,359,67,0,7
+House,113,2,22,22,2014-01-16,To amend the Patient Protection and Affordable Care Act to require transparency in the operation of American Health Benefit Exchanges,On Motion to Recommit with Instructions,Failed,186,226,0,20
+House,113,2,24,24,2014-01-27,Good Samaritan Search and Recovery Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,394,0,0,37
+House,113,2,25,25,2014-01-27,"To provide for the conveyance of a small parcel of National Forest System land in Los Padres National Forest in California, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,367,27,0,37
+House,113,2,23,23,2014-01-16,To amend the Patient Protection and Affordable Care Act to require transparency in the operation of American Health Benefit Exchanges,On Passage,Passed,259,154,0,19
+House,113,2,26,26,2014-01-28,"Providing for consideration of H.R. 7, to prohibit taxpayer funded abortions; and providing for consideration of the conference report to accompany H.R. 2642, to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2018",On Ordering the Previous Question,Passed,222,194,0,15
+House,113,2,27,27,2014-01-28,"Providing for consideration of H.R. 7, to prohibit taxpayer funded abortions; and providing for consideration of the conference report to accompany H.R. 2642, to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2018",On Agreeing to the Resolution,Passed,224,192,0,15
+House,113,2,28,28,2014-01-28,,On Approving the Journal,Passed,260,142,3,26
+House,113,2,29,29,2014-01-28,To prohibit taxpayer funded abortions,On Motion to Recommit with Instructions,Failed,192,221,1,17
+House,113,2,30,30,2014-01-28,To prohibit taxpayer funded abortions,On Passage,Passed,227,188,1,15
+House,113,2,31,31,2014-01-29,"To provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2018, and for other purposes",On Agreeing to the Conference Report,Passed,251,166,0,14
+House,113,2,32,32,2014-02-03,Medical Preparedness Allowable Use Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,391,2,0,38
+House,113,2,33,33,2014-02-03,GI Bill Tuition Fairness Act of 2013,"On Motion to Suspend the Rules and Pass, as Amended",Passed,390,0,0,41
+House,113,2,34,34,2014-02-04,"Providing for consideration of the bill (H.R. 3590) to protect and enhance opportunities for recreational hunting, fishing, and shooting, and for other purposes",On Ordering the Previous Question,Passed,225,193,0,13
+House,113,2,35,35,2014-02-04,"Providing for consideration of the bill (H.R. 3590) to protect and enhance opportunities for recreational hunting, fishing, and shooting, and for other purposes",On Agreeing to the Resolution,Passed,234,185,0,12
+House,113,2,37,37,2014-02-05,"Providing for consideration of H.R. 2954, to authorize Escambia County, Florida, to convey certain property that was formerly part of Santa Rosa Island National Monument; and providing for consideration of H.R. 3964, the Sacramento-San Joaquin Valley Emergency Water Delivery Act",On Agreeing to the Resolution,Passed,229,190,0,12
+House,113,2,36,36,2014-02-05,"Providing for consideration of H.R. 2954, to authorize Escambia County, Florida, to convey certain property that was formerly part of Santa Rosa Island National Monument; and providing for consideration of H.R. 3964, the Sacramento-San Joaquin Valley Emergency Water Delivery Act",On Ordering the Previous Question,Passed,226,196,0,9
+House,113,2,38,38,2014-02-05,,On Agreeing to the Amendment,Failed,185,237,0,9
+House,113,2,39,39,2014-02-05,,On Agreeing to the Amendment,Failed,181,242,0,8
+House,113,2,40,40,2014-02-05,Sportmenâs Heritage And Recreational Enhancement (SHARE) Act of 2013,On Motion to Recommit with Instructions,Failed,187,231,0,13
+House,113,2,41,41,2014-02-05,Sportmenâs Heritage And Recreational Enhancement (SHARE) Act of 2013,On Passage,Passed,268,154,0,9
+House,113,2,43,43,2014-02-05,,On Agreeing to the Amendment,Failed,193,228,0,10
+House,113,2,42,42,2014-02-05,,On Agreeing to the Amendment,Failed,179,239,0,13
+House,113,2,44,44,2014-02-05,,On Agreeing to the Amendment,Failed,194,226,0,11
+House,113,2,46,46,2014-02-05,,On Agreeing to the Amendment,Failed,189,231,0,11
+House,113,2,45,45,2014-02-05,,On Agreeing to the Amendment,Failed,194,227,0,10
+House,113,2,47,47,2014-02-05,,On Agreeing to the Amendment,Failed,193,230,0,8
+House,113,2,49,49,2014-02-05,Sacramento-San Joaquin Valley Emergency Water Delivery Act,On Motion to Recommit with Instructions,Failed,191,231,0,9
+House,113,2,48,48,2014-02-05,,On Agreeing to the Amendment,Failed,192,231,0,8
+House,113,2,50,50,2014-02-05,Sacramento-San Joaquin Valley Emergency Water Delivery Act,On Passage,Passed,229,191,0,11
+House,113,2,51,51,2014-02-06,,On Agreeing to the Amendment,Failed,190,224,0,17
+House,113,2,52,52,2014-02-06,,On Agreeing to the Amendment,Agreed to,218,198,0,15
+House,113,2,53,53,2014-02-06,"To authorize Escambia County, Florida, to convey certain property that was formerly part of Santa Rosa Island National Monument and that was conveyed to Escambia County subject to restrictions on use and reconveyance",On Motion to Recommit with Instructions,Failed,194,222,0,15
+House,113,2,54,54,2014-02-06,"To authorize Escambia County, Florida, to convey certain property that was formerly part of Santa Rosa Island National Monument and that was conveyed to Escambia County subject to restrictions on use and reconveyance",On Passage,Passed,220,194,0,17
+House,113,2,55,55,2014-02-10,National Integrated Drought Information System Reauthorization Act of 2013,"On Motion to Suspend the Rules and Pass, as Amended",Passed,365,21,0,45
+House,113,2,56,56,2014-02-10,"Supporting the democratic and European aspirations of the people of the Ukraine, and their right to choose their own future free of intimidation and fear.","On Motion to Suspend the Rules and Agree, as Amended",Passed,381,2,0,48
+House,113,2,58,58,2014-02-11,"Providing for consideration of the bill (H.R. 3193) to amend the Consumer Financial Protection Act of 2010 to strengthen the review authority of the Financial Stability Oversight Council of regulations issued by the Bureau of Consumer Financial Protection, providing for proceedings from Feb. 13, 2014 - Feb. 24, 2014.",On Ordering the Previous Question,Passed,222,195,0,14
+House,113,2,57,57,2014-02-10,,On Approving the Journal,Passed,241,123,1,66
+House,113,2,59,59,2014-02-11,"Providing for consideration of the bill (H.R. 3193) to amend the Consumer Financial Protection Act of 2010 to strengthen the review authority of the Financial Stability Oversight Council of regulations issued by the Bureau of Consumer Financial Protection, providing for proceedings from Feb. 13, 2014 - Feb. 24, 2014.",On Agreeing to the Resolution,Passed,223,193,1,14
+House,113,2,60,60,2014-02-11,"To direct the Secretary of the Interior to convey certain Federal features of the electric distribution system to the South Utah Valley Electric Service District, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,326,90,1,14
+House,113,2,61,61,2014-02-11,"To designate the air route traffic control center located in Nashua, New Hampshire, as the âPatricia Clark Boston Air Route Traffic Control Centerâ",On Passage,Passed,221,201,0,10
+House,113,2,62,62,2014-02-11,To amend the Securities Exchange Act of 1934 to provide for an optional pilot program allowing certain emerging growth companies to increase the tick sizes of their stocks,"On Motion to Suspend the Rules and Pass, as Amended",Passed,412,4,0,15
+House,113,2,63,63,2014-02-25,FOIA Oversight and Implementation Act of 2014,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,0,0,20
+House,113,2,64,64,2014-02-25,Unlocking Consumer Choice and Wireless Competition Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,295,114,0,21
+House,113,2,65,65,2014-02-26,Providing for consideration of the bill (H.R. 3865) Stop Targeting of Political Beliefs by the IRS Act and providing for consideration of the bill (H.R. 2804) All Economic Regulations are Transparent Act or the ALERT Act; and providing for consideration of motions to suspend the rules.,On Ordering the Previous Question,Passed,224,192,0,14
+House,113,2,67,67,2014-02-26,Private Property Rights Protection Act,On Motion to Suspend the Rules and Pass,Passed,353,65,0,12
+House,113,2,66,66,2014-02-26,Providing for consideration of the bill (H.R. 3865) Stop Targeting of Political Beliefs by the IRS Act and providing for consideration of the bill (H.R. 2804) All Economic Regulations are Transparent Act or the ALERT Act; and providing for consideration of motions to suspend the rules.,On Agreeing to the Resolution,Passed,231,185,0,14
+House,113,2,68,68,2014-02-26,Stop Targeting of Political Beliefs by the IRS Act of 2014,On Motion to Recommit with Instructions,Failed,191,230,0,9
+House,113,2,70,70,2014-02-26,,On Agreeing to the Amendment,Failed,177,241,0,12
+House,113,2,69,69,2014-02-26,Stop Targeting of Political Beliefs by the IRS Act of 2014,On Passage,Passed,243,176,0,11
+House,113,2,71,71,2014-02-27,,On Agreeing to the Amendment,Agreed to,249,162,0,19
+House,113,2,72,72,2014-02-27,,On Agreeing to the Amendment,Failed,181,235,0,14
+House,113,2,73,73,2014-02-27,,On Agreeing to the Amendment,Failed,180,232,0,18
+House,113,2,74,74,2014-02-27,,On Agreeing to the Amendment,Failed,179,235,0,16
+House,113,2,75,75,2014-02-27,,On Agreeing to the Amendment,Failed,183,229,0,18
+House,113,2,76,76,2014-02-27,,On Agreeing to the Amendment,Failed,181,232,0,17
+House,113,2,77,77,2014-02-27,"To amend title 5, United States Code, to require the Administrator of the Office of Information of Regulatory Affairs to publish information about rules on the Internet, and for other purposes",On Motion to Recommit with Instructions,Failed,187,229,0,14
+House,113,2,78,78,2014-02-27,"To amend title 5, United States Code, to require the Administrator of the Office of Information of Regulatory Affairs to publish information about rules on the Internet, and for other purposes",On Passage,Passed,236,179,0,15
+House,113,2,79,79,2014-02-27,"Providing for consideration of the bill (H.R. 899) to provide for additional safeguards with respect to imposing Federal mandates, and for other purposes",On Ordering the Previous Question,Passed,225,192,0,13
+House,113,2,80,80,2014-02-27,"Providing for consideration of the bill (H.R. 899) to provide for additional safeguards with respect to imposing Federal mandates, and for other purposes",On Agreeing to the Resolution,Passed,227,190,0,13
+House,113,2,81,81,2014-02-27,,On Agreeing to the Amendment,Agreed to,250,167,0,13
+House,113,2,82,82,2014-02-27,,On Agreeing to the Amendment,Agreed to,227,186,0,17
+House,113,2,83,83,2014-02-27,,On Agreeing to the Amendment,Failed,181,236,0,13
+House,113,2,84,84,2014-02-27,Consumer Financial Protection Safety and Soundness Improvement Act of 2013,On Motion to Recommit with Instructions,Failed,194,223,0,13
+House,113,2,85,85,2014-02-27,Consumer Financial Protection Safety and Soundness Improvement Act of 2013,On Passage,Passed,232,182,0,16
+House,113,2,86,86,2014-02-28,,On Agreeing to the Amendment,Failed,185,224,0,21
+House,113,2,87,87,2014-02-28,,On Agreeing to the Amendment,Failed,194,216,0,20
+House,113,2,88,88,2014-02-28,,On Agreeing to the Amendment,Failed,180,232,0,18
+House,113,2,89,89,2014-02-28,Unfunded Mandates Information and Transparency Act of 2013,On Motion to Recommit with Instructions,Failed,192,218,0,20
+House,113,2,90,90,2014-02-28,Unfunded Mandates Information and Transparency Act of 2013,On Passage,Passed,234,176,0,20
+House,113,2,91,91,2014-03-04,Homeowner Flood Insurance Affordability Act of 2014,"On Motion to Suspend the Rules and Pass, as Amended",Passed,306,91,0,33
+House,113,2,92,92,2014-03-04,Supporting the people of Venezuela as they protest peacefully for democratic change and calling to end the violence,"On Motion to Suspend the Rules and Agree, as Amended",Passed,393,1,0,36
+House,113,2,93,93,2014-03-05,"Providing for consideration of H.R. 3826, Electricity Security and Affordability Act, and providing for consideration of H.R. 4118, Suspending the Individual Mandate Penalty Law Equals Fairness Act",On Ordering the Previous Question,Passed,221,184,0,25
+House,113,2,95,95,2014-03-05,"To strengthen the strategic alliance between the United States and Israel, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,410,1,0,19
+House,113,2,94,94,2014-03-05,"Providing for consideration of H.R. 3826, Electricity Security and Affordability Act, and providing for consideration of H.R. 4118, Suspending the Individual Mandate Penalty Law Equals Fairness Act",On Agreeing to the Resolution,Passed,228,182,0,20
+House,113,2,96,96,2014-03-05,To amend the Internal Revenue Code of 1986 to delay the implementation of the penalty for failure to comply with the individual health insurance mandate,On Motion to Recommit with Instructions,Failed,185,227,0,18
+House,113,2,97,97,2014-03-05,To amend the Internal Revenue Code of 1986 to delay the implementation of the penalty for failure to comply with the individual health insurance mandate,On Passage,Passed,250,160,0,20
+House,113,2,98,98,2014-03-05,"To facilitate better alignment, cooperation, and best practices between commercial real estate landlords and tenants regarding energy efficiency in buildings, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,375,36,0,19
+House,113,2,99,99,2014-03-06,Providing for consideration of the bill (H.R. 2824) Preventing Government Waste and Protecting Coal Mining Jobs in America; providing for consideration of the bill (H.R. 2641) Responsibly And Professionally Invigorating Development Act or as the âRAPID Actâ; and providing for motions to suspend the rules.,On Ordering the Previous Question,Passed,219,191,0,20
+House,113,2,100,100,2014-03-06,Providing for consideration of the bill (H.R. 2824) Preventing Government Waste and Protecting Coal Mining Jobs in America; providing for consideration of the bill (H.R. 2641) Responsibly And Professionally Invigorating Development Act or as the âRAPID Actâ; and providing for motions to suspend the rules.,On Agreeing to the Resolution,Passed,225,190,0,15
+House,113,2,101,101,2014-03-06,,On Agreeing to the Amendment,Agreed to,230,184,0,16
+House,113,2,102,102,2014-03-06,,On Agreeing to the Amendment,Failed,184,228,0,18
+House,113,2,103,103,2014-03-06,,On Agreeing to the Amendment,Failed,190,221,0,19
+House,113,2,104,104,2014-03-06,,On Agreeing to the Amendment,Failed,178,231,0,21
+House,113,2,105,105,2014-03-06,Electricity Security and Affordability Act,On Motion to Recommit with Instructions,Failed,184,223,0,23
+House,113,2,106,106,2014-03-06,Electricity Security and Affordability Act,On Passage,Passed,229,183,0,18
+House,113,2,107,107,2014-03-06,,On Motion to Table,Passed,211,186,10,23
+House,113,2,108,108,2014-03-06,,On Agreeing to the Amendment,Failed,180,228,0,22
+House,113,2,109,109,2014-03-06,,On Agreeing to the Amendment,Agreed to,222,188,0,20
+House,113,2,110,110,2014-03-06,,On Agreeing to the Amendment,Failed,187,220,0,23
+House,113,2,111,111,2014-03-06,,On Agreeing to the Amendment,Failed,192,217,0,21
+House,113,2,112,112,2014-03-06,Responsibly And Professionally Invigorating Development (RAPID) Act of 2013,On Motion to Recommit with Instructions,Failed,190,217,0,23
+House,113,2,113,113,2014-03-06,Responsibly And Professionally Invigorating Development (RAPID) Act of 2013,On Passage,Passed,229,179,0,22
+House,113,2,114,114,2014-03-06,To provide for the costs of loan guarantees for Ukraine,On Motion to Suspend the Rules and Pass,Passed,385,23,0,22
+House,113,2,115,115,2014-03-11,Hire More Heroes Act of 2013,On Motion to Suspend the Rules and Pass,Passed,406,1,0,23
+House,113,2,116,116,2014-03-11,Protecting Volunteer Firefighters and Emergency Responders Act of 2014,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,0,0,20
+House,113,2,117,117,2014-03-11,"Condemning the violation of Ukrainian sovereignty, independence, and territorial integrity by military forces of the Russian Federation","On Motion to Suspend the Rules and Agree, as Amended",Passed,402,7,1,20
+House,113,2,118,118,2014-03-12,"Providing for consideration of the bill (H.R. 4138) to protect the separation of powers in the Constitution of the United States by ensuring that the President takes care that the laws be faithfully executed, and providing for consideration of the bill (H.R. 3973) to amend section 530D of title 28, United States Code",On Ordering the Previous Question,Passed,227,190,0,13
+House,113,2,119,119,2014-03-12,"Providing for consideration of the bill (H.R. 4138) to protect the separation of powers in the Constitution of the United States by ensuring that the President takes care that the laws be faithfully executed, and providing for consideration of the bill (H.R. 3973) to amend section 530D of title 28, United States Code",On Agreeing to the Resolution,Passed,229,192,0,9
+House,113,2,120,120,2014-03-12,,On Agreeing to the Amendment,Failed,188,227,0,15
+House,113,2,122,122,2014-03-12,,On Agreeing to the Amendment,Failed,185,231,0,14
+House,113,2,121,121,2014-03-12,,On Agreeing to the Amendment,Failed,190,225,0,15
+House,113,2,123,123,2014-03-12,Executive Needs to Faithfully Observe and Respect Congressional Enactments of the Law Act of 2014,On Motion to Recommit with Instructions,Failed,187,228,0,15
+House,113,2,124,124,2014-03-12,Executive Needs to Faithfully Observe and Respect Congressional Enactments of the Law Act of 2014,On Passage,Passed,233,181,0,16
+House,113,2,125,125,2014-03-13,"Providing for consideration of H.R. 3189, the Water Rights Protection Act; and providing for consideration of H.R. 4015, the SGR Repeal and Medicare Provider Payment Modernization Act of 2014",On Ordering the Previous Question,Passed,227,193,0,10
+House,113,2,126,126,2014-03-13,"Providing for consideration of H.R. 3189, the Water Rights Protection Act; and providing for consideration of H.R. 4015, the SGR Repeal and Medicare Provider Payment Modernization Act of 2014",On Agreeing to the Resolution,Passed,228,184,0,19
+House,113,2,127,127,2014-03-13,,On Agreeing to the Amendment,Failed,191,227,0,13
+House,113,2,128,128,2014-03-13,Faithful Execution of the Law Act of 2014,On Motion to Recommit with Instructions,Failed,192,225,0,14
+House,113,2,129,129,2014-03-13,Faithful Execution of the Law Act of 2014,On Passage,Passed,244,171,0,16
+House,113,2,130,130,2014-03-13,,On Agreeing to the Amendment,Failed,175,236,0,20
+House,113,2,131,131,2014-03-13,"To prohibit the conditioning of any permit, lease, or other use agreement on the transfer, relinquishment, or other impairment of any water right to the United States by the Secretaries of the Interior and Agriculture",On Motion to Recommit with Instructions,Failed,183,227,0,21
+House,113,2,132,132,2014-03-13,"To prohibit the conditioning of any permit, lease, or other use agreement on the transfer, relinquishment, or other impairment of any water right to the United States by the Secretaries of the Interior and Agriculture",On Passage,Passed,238,174,0,19
+House,113,2,133,133,2014-03-13,Raising a question of the privileges of the House,On Motion to Table,Passed,217,173,10,31
+House,113,2,134,134,2014-03-14,"To amend title XVIII of the Social Security Act to repeal the Medicare sustainable growth rate and improve Medicare payments for physicians and other professionals, and for other purposes",On Motion to Recommit with Instructions,Failed,191,226,0,14
+House,113,2,135,135,2014-03-14,"To amend title XVIII of the Social Security Act to repeal the Medicare sustainable growth rate and improve Medicare payments for physicians and other professionals, and for other purposes",On Passage,Passed,238,181,0,12
+House,113,2,136,136,2014-03-24,"Sergeant William Moody Post Office Building in Burleson, Texas",On Motion to Suspend the Rules and Pass,Passed,398,0,0,33
+House,113,2,137,137,2014-03-24,"Lance Corporal Daniel Nathan Deyarmin Post Office Building in Tallmadge, Ohio","On Motion to Suspend the Rules and Pass, as Amended",Passed,393,0,0,38
+House,113,2,138,138,2014-03-25,,On Agreeing to the Amendment,Failed,188,231,0,12
+House,113,2,139,139,2014-03-25,,On Agreeing to the Amendment,Failed,196,225,0,10
+House,113,2,140,140,2014-03-25,"To amend the Surface Mining Control and Reclamation Act of 1977 to stop the ongoing waste by the Department of the Interior of taxpayer resources and implement the final rule on excess spoil, mining waste, and buffers for perennial and intermittent streams, and for other purposes",On Motion to Recommit with Instructions,Failed,197,224,0,10
+House,113,2,141,141,2014-03-25,"To amend the Surface Mining Control and Reclamation Act of 1977 to stop the ongoing waste by the Department of the Interior of taxpayer resources and implement the final rule on excess spoil, mining waste, and buffers for perennial and intermittent streams, and for other purposes",On Passage,Passed,229,192,0,10
+House,113,2,142,142,2014-03-26,"Providing for consideration of H.R. 1459, the Ensuring Public Involvement in the Creation of National Monuments Act",On Ordering the Previous Question,Passed,230,187,0,14
+House,113,2,143,143,2014-03-26,"Providing for consideration of H.R. 1459, the Ensuring Public Involvement in the Creation of National Monuments Act",On Agreeing to the Resolution,Passed,227,190,0,14
+House,113,2,144,144,2014-03-26,"Corporal Justin D. Ross Post Office Building in Green Bay, Wisconsin","On Motion to Suspend the Rules and Pass, as Amended",Passed,418,0,0,13
+House,113,2,145,145,2014-03-26,,On Agreeing to the Amendment,Failed,197,223,0,11
+House,113,2,146,146,2014-03-26,"To ensure that the National Environmental Policy Act of 1969 applies to the declaration of national monuments, and for other purposes",On Motion to Recommit with Instructions,Failed,193,227,0,11
+House,113,2,147,147,2014-03-26,"To ensure that the National Environmental Policy Act of 1969 applies to the declaration of national monuments, and for other purposes",On Passage,Passed,222,201,0,8
+House,113,2,148,148,2014-03-27,"To support the independence, sovereignty, and territorial integrity of Ukraine, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,399,19,0,13
+House,113,2,149,149,2014-04-01,To provide for the costs of loan guarantees for Ukraine,On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,378,34,0,19
+House,113,2,150,150,2014-04-01,United States international programming to Ukraine and neighboring regions,On Motion to Suspend the Rules and Pass,Passed,399,12,0,20
+House,113,2,151,151,2014-04-01,,On Approving the Journal,Passed,261,140,2,28
+House,113,2,152,152,2014-04-02,Providing for consideration of the bill (H.R. 2575) to amend the Internal Revenue Code of 1986 to repeal the 30-hour threshold for classification as a full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act and replace it with 40 hours,On Ordering the Previous Question,Passed,229,194,0,8
+House,113,2,153,153,2014-04-02,Providing for consideration of the bill (H.R. 2575) to amend the Internal Revenue Code of 1986 to repeal the 30-hour threshold for classification as a full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act and replace it with 40 hours,On Agreeing to the Resolution,Passed,236,186,0,9
+House,113,2,154,154,2014-04-02,,On Approving the Journal,Passed,262,157,2,10
+House,113,2,155,155,2014-04-03,Save American Workers Act of 2014,On Motion to Recommit with Instructions,Failed,191,232,0,8
+House,113,2,156,156,2014-04-03,Save American Workers Act of 2014,On Passage,Passed,248,179,0,4
+House,113,2,157,157,2014-04-04,"Providing for consideration of the bill (H.R. 1874) the Pro-Growth Budgeting Act, providing for consideration of the bill (H.R. 1871) Baseline Reform Act and providing for consideration of the bill (H.R. 1872) Budget and Accounting Transparency Act and for other purposes",On Ordering the Previous Question,Passed,222,193,0,16
+House,113,2,158,158,2014-04-04,"Providing for consideration of the bill (H.R. 1874) the Pro-Growth Budgeting Act, providing for consideration of the bill (H.R. 1871) Baseline Reform Act and providing for consideration of the bill (H.R. 1872) Budget and Accounting Transparency Act and for other purposes",On Agreeing to the Resolution,Passed,220,194,0,17
+House,113,2,159,159,2014-04-04,,On Agreeing to the Amendment,Failed,182,214,0,35
+House,113,2,160,160,2014-04-04,,On Agreeing to the Amendment,Failed,189,211,0,31
+House,113,2,161,161,2014-04-04,,On Agreeing to the Amendment,Failed,186,219,0,26
+House,113,2,162,162,2014-04-04,,On Agreeing to the Amendment,Failed,185,222,0,24
+House,113,2,163,163,2014-04-04,Pro-Growth Budgeting Act,On Motion to Recommit with Instructions,Failed,187,218,0,26
+House,113,2,164,164,2014-04-04,Pro-Growth Budgeting Act,On Passage,Passed,224,182,0,25
+House,113,2,165,165,2014-04-07,Budget and Accounting Transparency Act,On Motion to Recommit with Instructions,Failed,179,217,0,35
+House,113,2,166,166,2014-04-07,Budget and Accounting Transparency Act,On Passage,Passed,230,165,0,36
+House,113,2,167,167,2014-04-08,Baseline Reform Act,On Motion to Recommit with Instructions,Failed,191,221,0,19
+House,113,2,168,168,2014-04-08,Baseline Reform Act,On Passage,Passed,230,185,0,16
+House,113,2,169,169,2014-04-08,"Providing for consideration of the concurrent resolution (H.Con.Res. 96) establishing the budget for the United States Government for fiscal year 2015 and setting forth appropriate budgetary levels for fiscal years 2016 through 2024, and providing for proceedings from April 11, 2014, through April 25, 2014",On Ordering the Previous Question,Passed,219,190,0,22
+House,113,2,170,170,2014-04-08,"Providing for consideration of the concurrent resolution (H.Con.Res. 96) establishing the budget for the United States Government for fiscal year 2015 and setting forth appropriate budgetary levels for fiscal years 2016 through 2024, and providing for proceedings from April 11, 2014, through April 25, 2014",On Agreeing to the Resolution,Passed,222,194,0,15
+House,113,2,171,171,2014-04-09,,On Agreeing to the Amendment,Failed,2,413,0,16
+House,113,2,172,172,2014-04-09,,On Agreeing to the Amendment,Failed,116,300,0,15
+House,113,2,173,173,2014-04-09,,On Agreeing to the Amendment,Failed,89,327,0,15
+House,113,2,174,174,2014-04-09,Expatriate Health Coverage Clarification Act of 2014,On Motion to Suspend the Rules and Pass,Failed,257,159,0,15
+House,113,2,176,176,2014-04-10,,On Agreeing to the Amendment,Failed,163,261,0,7
+House,113,2,175,175,2014-04-10,,On Agreeing to the Amendment,Failed,133,291,0,7
+House,113,2,177,177,2014-04-10,Establishing the budget for the United States Government for fiscal year 2015 and setting forth appropriate budgetary levels for fiscal years 2016 through 2024,On Agreeing to the Resolution,Passed,219,205,0,8
+House,113,2,178,178,2014-04-28,To amend the Act entitled âAn Act to regulate the height of buildings in the District of Columbiaâ to clarify the rules of the District of Columbia regarding human occupancy of penthouses above the top story of the building upon which the penthouse is placed.,"On Motion to Suspend the Rules and Pass, as Amended",Passed,367,16,0,48
+House,113,2,180,180,2014-04-29,"Providing for consideration of H.R. 4414, Expatriate Health Coverage Clarification Act of 2014",On Ordering the Previous Question,Passed,226,189,0,16
+House,113,2,179,179,2014-04-28,To amend the National Law Enforcement Museum Act to extend the termination date,On Motion to Suspend the Rules and Pass,Passed,384,0,0,47
+House,113,2,181,181,2014-04-29,"Providing for consideration of H.R. 4414, Expatriate Health Coverage Clarification Act of 2014",On Agreeing to the Resolution,Passed,238,181,0,12
+House,113,2,182,182,2014-04-29,Expatriate Health Coverage Clarification Act of 2014,On Passage,Passed,268,150,0,13
+House,113,2,183,183,2014-04-29,National Park Service 100th Anniversary Commemorative Coin Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,403,13,0,15
+House,113,2,184,184,2014-04-30,"Providing for consideration of (H.R. 4486) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for FY 2015, and providing for consideration of (H.R. 4487) making appropriations for the Legislative Branch for FY 2015.",On Ordering the Previous Question,Passed,227,189,0,15
+House,113,2,185,185,2014-04-30,,On Agreeing to the Amendment,Failed,168,249,0,14
+House,113,2,186,186,2014-04-30,,On Agreeing to the Amendment,Failed,195,222,0,14
+House,113,2,187,187,2014-04-30,"Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2015, and for other purposes",On Passage,Passed,416,1,0,14
+House,113,2,188,188,2014-05-01,,On Agreeing to the Amendment,Failed,196,221,0,14
+House,113,2,189,189,2014-05-01,,On Agreeing to the Amendment,Agreed to,219,198,0,14
+House,113,2,190,190,2014-05-01,,On Agreeing to the Amendment,Failed,207,212,0,12
+House,113,2,191,191,2014-05-01,,On Agreeing to the Amendment,Failed,164,248,0,19
+House,113,2,192,192,2014-05-01,"Making appropriations for Legislative Branch, FY 2015",On Motion to Recommit with Instructions,Failed,194,222,0,15
+House,113,2,193,193,2014-05-01,"Making appropriations for Legislative Branch, FY 2015",On Passage,Passed,402,14,0,15
+House,113,2,195,195,2014-05-06,Capital Access for Small Community Financial Institutions Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,395,0,0,36
+House,113,2,194,194,2014-05-06,Foreign Cultural Exchange Jurisdictional Immunity Clarification Act,On Motion to Suspend the Rules and Pass,Passed,388,4,0,39
+House,113,2,196,196,2014-05-06,,On Approving the Journal,Passed,253,127,2,49
+House,113,2,197,197,2014-05-07,"Relating to the consideration of House Report 113-415 and an accompanying resolution, and providing for consideration of the resolution (H.Res. 565) calling on Attorney General Eric H. Holder, Jr., to appoint a special counsel to investigate the targeting of conservative nonprofit groups by the Internal Revenue Service",On Ordering the Previous Question,Passed,223,192,0,16
+House,113,2,198,198,2014-05-07,"Relating to the consideration of House Report 113-415 and an accompanying resolution, and providing for consideration of the resolution (H.Res. 565) calling on Attorney General Eric H. Holder, Jr., to appoint a special counsel to investigate the targeting of conservative nonprofit groups by the Internal Revenue Service",On Agreeing to the Resolution,Passed,224,187,0,20
+House,113,2,199,199,2014-05-07,Providing for consideration of the bill (H.R. 4438) to amend the Internal Revenue Code of 1986 to simplify and make permanent the research credit,On Ordering the Previous Question,Passed,225,191,0,15
+House,113,2,200,200,2014-05-07,Providing for consideration of the bill (H.R. 4438) to amend the Internal Revenue Code of 1986 to simplify and make permanent the research credit,On Agreeing to the Resolution,Passed,230,188,0,13
+House,113,2,201,201,2014-05-07,"To establish the Commission to Study the Potential Creation of a National Womenâs History Museum, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,383,33,0,15
+House,113,2,202,202,2014-05-07,"Recommending that the House of Representatives find Lois G. Lerner, former Director, Exempt Organizations, Internal Revenue Service, in contempt of Congress for refusal to comply with a subpoena duly issued by the Committee on Oversight & Government Reform",On the Motion to Refer the Resolution to the Committee on Oversight and Government Reform,Failed,191,224,0,16
+House,113,2,203,203,2014-05-07,"Recommending that the House of Representatives find Lois G. Lerner, former Director, Exempt Organizations, Internal Revenue Service, in contempt of Congress for refusal to comply with a subpoena duly issued by the Committee on Oversight & Government Reform",On Agreeing to the Resolution,Passed,231,187,0,13
+House,113,2,204,204,2014-05-07,"Calling on Attorney General Eric H. Holder, Jr., to appoint a special counsel to investigate the targeting of conservative nonprofit groups by the Internal Revenue Service",On Agreeing to the Resolution,Passed,250,168,0,13
+House,113,2,205,205,2014-05-08,"Providing for consideration of H.R. 10, the Success and Opportunity through Quality Charter Schools Act and relating to consideration of H.R. 4438, the American Research and Competitiveness Act of 2014","On Agreeing to the Resolution, as Amended",Passed,232,178,0,21
+House,113,2,206,206,2014-05-08,"Providing for consideration of H.Res. 567, providing for the Establishment of the Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi",On Ordering the Previous Question,Passed,223,192,0,16
+House,113,2,207,207,2014-05-08,"Providing for consideration of H.Res. 567, providing for the Establishment of the Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi",On Agreeing to the Resolution,Passed,224,192,0,15
+House,113,2,208,208,2014-05-08,Electrify Africa Act of 2014,"On Motion to Suspend the Rules and Pass, as Amended",Passed,297,117,0,17
+House,113,2,209,209,2014-05-08,Providing for the Establishment of the Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi,On Agreeing to the Resolution,Passed,232,186,0,14
+House,113,2,210,210,2014-05-09,American Research and Competitiveness Act of 2014,On Motion to Recommit with Instructions,Failed,191,209,0,31
+House,113,2,211,211,2014-05-09,American Research and Competitiveness Act of 2014,On Passage,Passed,274,131,0,26
+House,113,2,212,212,2014-05-09,,On Agreeing to the Amendment,Failed,190,205,0,36
+House,113,2,213,213,2014-05-09,,On Agreeing to the Amendment,Failed,179,220,0,32
+House,113,2,214,214,2014-05-09,,On Agreeing to the Amendment,Agreed to,373,32,0,26
+House,113,2,215,215,2014-05-09,,On Agreeing to the Amendment,Agreed to,378,27,0,26
+House,113,2,216,216,2014-05-09,,On Agreeing to the Amendment,Agreed to,363,41,0,27
+House,113,2,217,217,2014-05-09,To amend the charter school program under the Elementary and Secondary Education Act of 1965.,On Passage,Passed,360,45,0,27
+House,113,2,218,218,2014-05-19,"To provide for the award of a gold medal on behalf of Congress to Jack Nicklaus, in recognition of his service to the Nation in promoting excellence, good sportsmanship, and philanthropy","On Motion to Suspend the Rules and Pass, as Amended",Passed,371,10,0,50
+House,113,2,219,219,2014-05-19,"To award a Congressional Gold Medal to the American Fighter Aces, collectively, in recognition of their heroic military service and defense of our countryâs freedom throughout the history of aviation warfare","On Motion to Suspend the Rules and Pass, as Amended",Passed,381,0,0,50
+House,113,2,220,220,2014-05-20,"To provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes",On Motion to Suspend the Rules and Agree to the Conference Report,Passed,412,4,0,15
+House,113,2,221,221,2014-05-20,Justice for Victims of Trafficking Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,0,0,22
+House,113,2,222,222,2014-05-20,Stop Advertising Victims of Exploitation (SAVE) Act of 2014,"On Motion to Suspend the Rules and Pass, as Amended",Passed,392,19,0,20
+House,113,2,223,223,2014-05-21,,On Motion to Adjourn,Failed,7,381,0,43
+House,113,2,224,224,2014-05-21,,On Motion to Adjourn,Failed,23,361,0,47
+House,113,2,225,225,2014-05-21,,On Agreeing to the Amendment,Failed,192,229,0,10
+House,113,2,226,226,2014-05-21,,On Agreeing to the Amendment,Failed,194,227,0,10
+House,113,2,227,227,2014-05-21,,On Agreeing to the Amendment,Agreed to,222,196,0,13
+House,113,2,228,228,2014-05-21,Providing for further consideration of the bill (H.R. 4435) âHoward P. âBuckâ McKeon National Defense Authorization Act of FY 2015â; and providing for consideration of the bill (H.R. 3361) USA FREEDOM Act,On Agreeing to the Resolution,Passed,231,190,0,10
+House,113,2,229,229,2014-05-21,Department of Veterans Affairs Management Accountability Act,On Motion to Suspend the Rules and Pass,Passed,390,33,0,8
+House,113,2,230,230,2014-05-22,USA FREEDOM Act,On Passage,Passed,303,121,0,7
+House,113,2,231,231,2014-05-22,,On Agreeing to the Amendment,Agreed to,231,192,0,8
+House,113,2,232,232,2014-05-22,,On Agreeing to the Amendment,Agreed to,245,177,0,9
+House,113,2,233,233,2014-05-22,,On Agreeing to the Amendment,Failed,177,247,0,7
+House,113,2,234,234,2014-05-22,,On Agreeing to the Amendment,Failed,191,230,0,10
+House,113,2,235,235,2014-05-22,,On Agreeing to the Amendment,Failed,179,244,0,8
+House,113,2,236,236,2014-05-22,,On Agreeing to the Amendment,Agreed to,233,191,0,7
+House,113,2,237,237,2014-05-22,,On Agreeing to the Amendment,Failed,191,233,0,7
+House,113,2,238,238,2014-05-22,,On Agreeing to the Amendment,Agreed to,224,199,0,8
+House,113,2,239,239,2014-05-22,"To authorize appropriations for fiscal year 2015 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes",On Motion to Recommit with Instructions,Failed,194,227,0,10
+House,113,2,240,240,2014-05-22,"To authorize appropriations for fiscal year 2015 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes",On Passage,Passed,325,98,0,8
+House,113,2,241,241,2014-05-28,"Urging the Government of the Peopleâs Republic of China to respect the freedom of assembly, expression, and religion and all fundamental human rights and the rule of law for all its citizens and to stop censoring discussion of the 1989 Tiananmen Square demonstrations and their violent suppression",On Motion to Suspend the Rules and Agree,Passed,379,1,0,51
+House,113,2,242,242,2014-05-28,National Desert Storm and Desert Shield War Memorial Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,370,0,0,61
+House,113,2,243,243,2014-05-29,,On Agreeing to the Amendment,Failed,129,280,0,22
+House,113,2,244,244,2014-05-29,,On Agreeing to the Amendment,Agreed to,306,106,0,19
+House,113,2,245,245,2014-05-29,,On Agreeing to the Amendment,Agreed to,340,71,0,20
+House,113,2,246,246,2014-05-29,,On Agreeing to the Amendment,Agreed to,218,193,0,20
+House,113,2,247,247,2014-05-29,,On Agreeing to the Amendment,Failed,127,282,0,22
+House,113,2,248,248,2014-05-29,,On Agreeing to the Amendment,Failed,173,238,0,20
+House,113,2,249,249,2014-05-29,,On Agreeing to the Amendment,Agreed to,260,145,1,25
+House,113,2,250,250,2014-05-29,,On Agreeing to the Amendment,Failed,66,339,0,26
+House,113,2,251,251,2014-05-29,,On Agreeing to the Amendment,Failed,196,212,0,23
+House,113,2,252,252,2014-05-29,,On Agreeing to the Amendment,Agreed to,208,201,0,22
+House,113,2,253,253,2014-05-29,,On Agreeing to the Amendment,Failed,116,290,0,25
+House,113,2,254,254,2014-05-30,,On Agreeing to the Amendment,Failed,169,230,0,32
+House,113,2,255,255,2014-05-30,,On Agreeing to the Amendment,Failed,148,253,0,30
+House,113,2,256,256,2014-05-30,,On Agreeing to the Amendment,Failed,198,208,0,25
+House,113,2,257,257,2014-05-30,,On Agreeing to the Amendment,Agreed to,237,170,0,24
+House,113,2,258,258,2014-05-30,,On Agreeing to the Amendment,Agreed to,219,189,0,23
+House,113,2,259,259,2014-05-30,,On Agreeing to the Amendment,Agreed to,219,189,0,23
+House,113,2,260,260,2014-05-30,,On Agreeing to the Amendment,Agreed to,246,162,0,23
+House,113,2,261,261,2014-05-30,,On Agreeing to the Amendment,Failed,185,223,0,23
+House,113,2,262,262,2014-05-30,,On Agreeing to the Amendment,Failed,196,211,0,24
+House,113,2,263,263,2014-05-30,,On Agreeing to the Amendment,Agreed to,225,183,0,23
+House,113,2,264,264,2014-05-30,,On Agreeing to the Amendment,Agreed to,229,178,0,24
+House,113,2,265,265,2014-05-30,,On Agreeing to the Amendment,Agreed to,216,190,0,25
+House,113,2,266,266,2014-05-30,,On Agreeing to the Amendment,Agreed to,214,194,0,23
+House,113,2,267,267,2014-05-30,,On Agreeing to the Amendment,Agreed to,226,179,0,26
+House,113,2,268,268,2014-05-30,"Making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2015, and for other purposes",On Motion to Recommit with Instructions,Failed,185,220,2,24
+House,113,2,269,269,2014-05-30,"Making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2015, and for other purposes",On Passage,Passed,321,87,0,23
+House,113,2,270,270,2014-05-30,Intelligence Authorization Act for Fiscal Years 2014 and 2015,On Motion to Recommit with Instructions,Failed,183,220,0,28
+House,113,2,271,271,2014-05-30,Intelligence Authorization Act for Fiscal Years 2014 and 2015,On Passage,Passed,345,59,0,27
+House,113,2,272,272,2014-06-09,"To authorize the programs of the National Aeronautics and Space Administration, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,401,2,0,28
+House,113,2,273,273,2014-06-09,,On Agreeing to the Amendment,Failed,154,248,0,29
+House,113,2,274,274,2014-06-09,,On Agreeing to the Amendment,Failed,127,279,0,25
+House,113,2,276,276,2014-06-10,,On Agreeing to the Amendment,Failed,160,266,0,5
+House,113,2,275,275,2014-06-10,This vote was vacated by unanimous consent on 10-Jun-2014.,,,0,0,0,0
+House,113,2,277,277,2014-06-10,,On Agreeing to the Amendment,Failed,205,221,0,5
+House,113,2,278,278,2014-06-10,,On Agreeing to the Amendment,Failed,114,311,0,6
+House,113,2,279,279,2014-06-10,,On Agreeing to the Amendment,Failed,134,288,0,9
+House,113,2,280,280,2014-06-10,,On Agreeing to the Amendment,Failed,143,283,0,5
+House,113,2,281,281,2014-06-10,,On Agreeing to the Amendment,Failed,130,295,0,6
+House,113,2,282,282,2014-06-10,,On Agreeing to the Amendment,Failed,188,237,0,6
+House,113,2,283,283,2014-06-10,,On Agreeing to the Amendment,Agreed to,214,212,0,5
+House,113,2,284,284,2014-06-10,,On Agreeing to the Amendment,Failed,177,249,0,5
+House,113,2,285,285,2014-06-10,,On Agreeing to the Amendment,Agreed to,219,207,0,5
+House,113,2,286,286,2014-06-10,,On Agreeing to the Amendment,Agreed to,255,171,0,5
+House,113,2,287,287,2014-06-10,To direct the Secretary of Veterans Affairs to enter into contracts for the provision of hospital care and medical services at non-Department of Veterans Affairs facilities for Department of Veterans Affairs patients with extended waiting times for appointments at Department facilities and for other purposes,On Motion to Suspend the Rules and Pass,Passed,426,0,0,5
+House,113,2,288,288,2014-06-10,,On Agreeing to the Amendment,Agreed to,227,186,0,18
+House,113,2,290,290,2014-06-10,,On Agreeing to the Amendment,Agreed to,210,209,0,12
+House,113,2,289,289,2014-06-10,,On Agreeing to the Amendment,Failed,159,260,0,12
+House,113,2,291,291,2014-06-10,,On Agreeing to the Amendment,Failed,190,232,0,9
+House,113,2,292,292,2014-06-10,,On Agreeing to the Amendment,Failed,181,240,0,10
+House,113,2,293,293,2014-06-10,,On Agreeing to the Amendment,Failed,208,212,0,11
+House,113,2,294,294,2014-06-10,,On Agreeing to the Amendment,Failed,167,250,0,14
+House,113,2,295,295,2014-06-10,,On Agreeing to the Amendment,Failed,167,254,0,10
+House,113,2,296,296,2014-06-10,"Making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2015, and for other purposes",On Motion to Recommit with Instructions,Failed,195,227,0,9
+House,113,2,297,297,2014-06-10,"Making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2015, and for other purposes",On Passage,Passed,229,192,0,10
+House,113,2,298,298,2014-06-11,"Providing for consideration of the bills (H.R. 4800) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies, FY 2015; (H.R. 4457) Americaâs Small Business Tax Relief Act; and (H.R. 4453) Permanent S Corporation Built-in Gains Recognition Period Act",On Ordering the Previous Question,Passed,224,194,0,13
+House,113,2,299,299,2014-06-11,"Providing for consideration of the bills (H.R. 4800) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies, FY 2015; (H.R. 4457) Americaâs Small Business Tax Relief Act; and (H.R. 4453) Permanent S Corporation Built-in Gains Recognition Period Act",On Agreeing to the Resolution,Passed,227,189,0,15
+House,113,2,300,300,2014-06-11,,On Agreeing to the Amendment,Failed,178,243,0,10
+House,113,2,301,301,2014-06-11,,On Agreeing to the Amendment,Failed,130,290,0,11
+House,113,2,302,302,2014-06-11,,On Agreeing to the Amendment,Agreed to,223,198,0,10
+House,113,2,303,303,2014-06-11,,On Agreeing to the Amendment,Failed,150,272,0,9
+House,113,2,305,305,2014-06-11,,On Agreeing to the Amendment,Failed,119,303,0,9
+House,113,2,304,304,2014-06-11,,On Agreeing to the Amendment,Failed,148,276,0,7
+House,113,2,306,306,2014-06-11,,On Agreeing to the Amendment,Failed,62,358,0,11
+House,113,2,307,307,2014-06-11,,On Agreeing to the Amendment,Failed,194,227,0,10
+House,113,2,308,308,2014-06-12,"To amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations, and for other purposes",On Motion to Recommit with Instructions,Failed,180,232,0,19
+House,113,2,309,309,2014-06-12,"To amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations, and for other purposes",On Passage,Passed,272,144,0,15
+House,113,2,310,310,2014-06-12,To amend the Internal Revenue Code of 1986 to make permanent the reduced recognition period for built-in gains of S corporations,On Motion to Recommit with Instructions,Failed,188,229,0,14
+House,113,2,311,311,2014-06-12,To amend the Internal Revenue Code of 1986 to make permanent the reduced recognition period for built-in gains of S corporations,On Passage,Passed,263,155,0,13
+House,113,2,312,312,2014-06-12,Condemning the abduction of female students by armed militants from the terrorist group known as Boko Haram in northeastern provinces of the Federal Republic of Nigeria,On Agreeing to the Resolution,Passed,411,2,0,18
+House,113,2,314,314,2014-06-17,"To designate the facility of the United States Postal Service located at 6937 Village Parkway in Dublin, California, as the âJames âJimâ Kohnen Post Officeâ.",On Motion to Suspend the Rules and Pass,Passed,398,0,0,33
+House,113,2,313,313,2014-06-17,"To designate the community-based outpatient clinic of the Department of Veterans Affairs to be constructed at 3141 Centennial Boulevard, Colorado Springs, Colorado, as the âPFC Floyd K. Lindstrom Department of Veterans Affairs Clinicâ.",On Motion to Suspend the Rules and Pass,Passed,396,0,0,35
+House,113,2,315,315,2014-06-18,"Providing for consideration of H.R. 4870, Making appropriations for the Department of Defense for the fiscal year ending September 30, 2015, and for other purposes; and the consideration of Senate amendments to H.R. 3230, the Veteransâ Access to Care through Choice, Accountability, and Transparency Act of 2014",On Agreeing to the Resolution,Passed,244,163,0,24
+House,113,2,317,317,2014-06-19,"Providing for consideration of the bill (H.R. 4413), the âCustomer Protection and End User Relief Actâ.",On Agreeing to the Resolution,Passed,230,184,0,17
+House,113,2,316,316,2014-06-18,"Veteransâ Access to Care through Choice, Accountability, and Transparency Act of 2014",On Motion to Instruct Conferees,Failed,198,220,0,13
+House,113,2,318,318,2014-06-19,,On Agreeing to the Amendment,Failed,130,292,0,9
+House,113,2,320,320,2014-06-19,,On Agreeing to the Amendment,Failed,187,233,0,11
+House,113,2,319,319,2014-06-19,,On Agreeing to the Amendment,Failed,179,242,0,10
+House,113,2,321,321,2014-06-19,,On Agreeing to the Amendment,Agreed to,238,179,0,14
+House,113,2,322,322,2014-06-19,,On Agreeing to the Amendment,Agreed to,300,114,0,17
+House,113,2,323,323,2014-06-19,,On Agreeing to the Amendment,Agreed to,230,184,0,17
+House,113,2,324,324,2014-06-19,,On Agreeing to the Amendment,Failed,163,249,0,19
+House,113,2,325,325,2014-06-19,,On Agreeing to the Amendment,Failed,165,250,0,16
+House,113,2,326,326,2014-06-19,,On Agreeing to the Amendment,Failed,182,231,0,18
+House,113,2,327,327,2014-06-19,,On Agreeing to the Amendment,Agreed to,293,123,1,14
+House,113,2,328,328,2014-06-19,,On Agreeing to the Amendment,Failed,167,244,0,20
+House,113,2,329,329,2014-06-19,,On Agreeing to the Amendment,Failed,62,355,0,14
+House,113,2,330,330,2014-06-19,,On Agreeing to the Amendment,Failed,157,260,0,14
+House,113,2,331,331,2014-06-19,,On Agreeing to the Amendment,Agreed to,212,204,0,15
+House,113,2,332,332,2014-06-20,,On Agreeing to the Amendment,Failed,153,260,0,18
+House,113,2,333,333,2014-06-20,,On Agreeing to the Amendment,Failed,92,320,0,19
+House,113,2,334,334,2014-06-20,,On Agreeing to the Amendment,Failed,205,208,0,18
+House,113,2,335,335,2014-06-20,,On Agreeing to the Amendment,Agreed to,280,133,0,18
+House,113,2,336,336,2014-06-20,,On Agreeing to the Amendment,Failed,163,248,0,20
+House,113,2,337,337,2014-06-20,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2015, and for other purposes",On Motion to Recommit with Instructions,Failed,190,220,0,21
+House,113,2,338,338,2014-06-20,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2015, and for other purposes",On Passage,Passed,340,73,0,18
+House,113,2,339,339,2014-06-23,World War II Memorial Prayer Act,On Motion to Suspend the Rules and Pass,Passed,370,12,0,49
+House,113,2,340,340,2014-06-23,Collinsville Renewable Energy Production Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,379,3,0,49
+House,113,2,341,341,2014-06-24,"Providing for consideration of H.R. 6, the Domestic Prosperity and Global Freedom Act and H.R. 3301, the North American Energy Infrastructure Act",On Ordering the Previous Question,Passed,219,184,0,28
+House,113,2,342,342,2014-06-24,"Providing for consideration of H.R. 6, the Domestic Prosperity and Global Freedom Act and H.R. 3301, the North American Energy Infrastructure Act",On Agreeing to the Resolution,Passed,221,186,0,24
+House,113,2,344,344,2014-06-24,,On Agreeing to the Amendment,Failed,168,242,0,21
+House,113,2,343,343,2014-06-24,,On Agreeing to the Amendment,Failed,163,249,0,19
+House,113,2,345,345,2014-06-24,,On Agreeing to the Amendment,Failed,173,239,0,19
+House,113,2,347,347,2014-06-24,,On Agreeing to the Amendment,Agreed to,252,158,0,21
+House,113,2,346,346,2014-06-24,,On Agreeing to the Amendment,Failed,177,233,0,21
+House,113,2,348,348,2014-06-24,Customer Protection and End User Relief Act,On Motion to Recommit with Instructions,Failed,191,220,0,20
+House,113,2,350,350,2014-06-24,,On Agreeing to the Amendment,Failed,176,233,0,22
+House,113,2,349,349,2014-06-24,Customer Protection and End User Relief Act,On Passage,Passed,265,144,0,22
+House,113,2,351,351,2014-06-24,,On Agreeing to the Amendment,Failed,171,240,0,20
+House,113,2,352,352,2014-06-24,,On Agreeing to the Amendment,Failed,176,234,0,21
+House,113,2,353,353,2014-06-24,North American Energy Infrastructure Act,On Motion to Recommit with Instructions,Failed,185,227,0,19
+House,113,2,354,354,2014-06-24,North American Energy Infrastructure Act,On Passage,Passed,238,173,0,20
+House,113,2,356,356,2014-06-25,"Providing for consideration of H.R. 4899, the Lowering Gasoline Prices to Fuel an America That Works Act of 2014 and H.R. 4923, making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2015, and for other purposes; and for other purposes",On Agreeing to the Resolution,Passed,228,189,0,15
+House,113,2,355,355,2014-06-25,"Providing for consideration of H.R. 4899, the Lowering Gasoline Prices to Fuel an America That Works Act of 2014 and H.R. 4923, making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2015, and for other purposes; and for other purposes",On Ordering the Previous Question,Passed,238,180,0,13
+House,113,2,357,357,2014-06-25,,On Agreeing to the Amendment,Failed,196,221,0,15
+House,113,2,358,358,2014-06-25,"To provide for expedited approval of exportation of natural gas to World Trade Organization countries, and for other purposes",On Motion to Recommit with Instructions,Failed,192,225,0,15
+House,113,2,359,359,2014-06-25,"To provide for expedited approval of exportation of natural gas to World Trade Organization countries, and for other purposes",On Passage,Passed,266,150,0,16
+House,113,2,360,360,2014-06-26,,On Agreeing to the Amendment,Agreed to,244,172,0,16
+House,113,2,361,361,2014-06-26,,On Agreeing to the Amendment,Failed,179,232,0,21
+House,113,2,362,362,2014-06-26,,On Agreeing to the Amendment,Failed,183,227,0,22
+House,113,2,363,363,2014-06-26,,On Agreeing to the Amendment,Failed,188,223,0,21
+House,113,2,364,364,2014-06-26,,On Agreeing to the Amendment,Failed,179,229,0,24
+House,113,2,365,365,2014-06-26,,On Agreeing to the Amendment,Agreed to,241,173,0,18
+House,113,2,366,366,2014-06-26,,On Agreeing to the Amendment,Failed,189,223,0,20
+House,113,2,367,367,2014-06-26,Lowering Gasoline Prices to Fuel an America That Works Act,On Motion to Recommit with Instructions,Failed,177,235,0,20
+House,113,2,368,368,2014-06-26,Lowering Gasoline Prices to Fuel an America That Works Act,On Passage,Passed,229,185,0,18
+House,113,2,369,369,2014-07-08,Social Media Working Group Act of 2014,"On Motion to Suspend the Rules and Pass, as Amended",Passed,375,19,0,38
+House,113,2,370,370,2014-07-08,Department of Homeland Security Interoperable Communications Act,On Motion to Suspend the Rules and Pass,Passed,393,0,0,39
+House,113,2,371,371,2014-07-09,,On Agreeing to the Amendment,Failed,132,284,0,16
+House,113,2,372,372,2014-07-09,,On Agreeing to the Amendment,Agreed to,281,137,0,14
+House,113,2,373,373,2014-07-09,,On Agreeing to the Amendment,Failed,104,316,0,12
+House,113,2,375,375,2014-07-09,,On Agreeing to the Amendment,Failed,172,245,0,15
+House,113,2,374,374,2014-07-09,,On Agreeing to the Amendment,Failed,112,309,0,11
+House,113,2,376,376,2014-07-09,,On Agreeing to the Amendment,Failed,110,310,0,12
+House,113,2,378,378,2014-07-09,Workforce Innovation and Opportunity Act,On Motion to Suspend the Rules and Concur in the Senate Amendments,Passed,415,6,0,11
+House,113,2,377,377,2014-07-09,,On Agreeing to the Amendment,Failed,97,321,0,14
+House,113,2,379,379,2014-07-10,,On Agreeing to the Amendment,Failed,129,290,0,13
+House,113,2,380,380,2014-07-10,,On Agreeing to the Amendment,Agreed to,221,199,0,12
+House,113,2,381,381,2014-07-10,,On Agreeing to the Amendment,Failed,184,235,0,13
+House,113,2,382,382,2014-07-10,,On Agreeing to the Amendment,Failed,75,344,0,13
+House,113,2,383,383,2014-07-10,,On Agreeing to the Amendment,Agreed to,216,205,0,11
+House,113,2,384,384,2014-07-10,,On Agreeing to the Amendment,Failed,181,239,0,12
+House,113,2,385,385,2014-07-10,,On Agreeing to the Amendment,Failed,176,243,0,13
+House,113,2,386,386,2014-07-10,,On Agreeing to the Amendment,Failed,96,326,0,10
+House,113,2,387,387,2014-07-10,,On Agreeing to the Amendment,Agreed to,221,200,0,11
+House,113,2,388,388,2014-07-10,,On Agreeing to the Amendment,Failed,181,239,0,12
+House,113,2,389,389,2014-07-10,,On Agreeing to the Amendment,Agreed to,227,191,0,14
+House,113,2,390,390,2014-07-10,,On Agreeing to the Amendment,Agreed to,232,187,0,13
+House,113,2,391,391,2014-07-10,"Providing for consideration of H.R. 5016, making appropriations for financial services and general government for the fiscal year ending September 30, 2015, and for other purposes; and H.R. 4718, to amend the Internal Revenue Code of 1986 to modify and make permanent bonus depreciation",On Ordering the Previous Question,Passed,229,192,0,11
+House,113,2,392,392,2014-07-10,"Providing for consideration of H.R. 5016, making appropriations for financial services and general government for the fiscal year ending September 30, 2015, and for other purposes; and H.R. 4718, to amend the Internal Revenue Code of 1986 to modify and make permanent bonus depreciation",On Agreeing to the Resolution,Passed,234,188,0,10
+House,113,2,393,393,2014-07-10,,On Agreeing to the Amendment,Agreed to,226,193,0,13
+House,113,2,394,394,2014-07-10,,On Agreeing to the Amendment,Agreed to,239,182,0,11
+House,113,2,395,395,2014-07-10,,On Agreeing to the Amendment,Failed,140,282,0,10
+House,113,2,396,396,2014-07-10,,On Agreeing to the Amendment,Agreed to,218,204,0,10
+House,113,2,397,397,2014-07-10,,On Agreeing to the Amendment,Agreed to,229,188,0,15
+House,113,2,398,398,2014-07-10,,On Agreeing to the Amendment,Failed,150,271,0,11
+House,113,2,399,399,2014-07-10,,On Agreeing to the Amendment,Agreed to,226,194,0,12
+House,113,2,400,400,2014-07-10,,On Agreeing to the Amendment,Failed,131,289,0,12
+House,113,2,401,401,2014-07-10,"Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2015, and for other purposes",On Motion to Recommit with Instructions,Failed,188,231,0,13
+House,113,2,402,402,2014-07-10,"Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2015, and for other purposes",On Passage,Passed,253,170,0,9
+House,113,2,404,404,2014-07-11,To amend the Internal Revenue Code of 1986 to modify and make permanent bonus depreciation,On Passage,Passed,258,160,0,14
+House,113,2,403,403,2014-07-11,To amend the Internal Revenue Code of 1986 to modify and make permanent bonus depreciation,On Motion to Recommit with Instructions,Failed,191,229,0,12
+House,113,2,405,405,2014-07-14,"To amend chapter 15 of title 44, United States Code (commonly known as the Federal Register Act), to modernize the Federal Register, and for other purposes.",On Motion to Suspend the Rules and Pass,Passed,386,0,0,46
+House,113,2,406,406,2014-07-14,To provide for the establishment of a body to indentify and coordinate international science and technology cooperation that can strengthen the domestic science and technology enterprise and support United States foreign policy goals,On Motion to Suspend the Rules and Pass,Passed,346,41,0,45
+House,113,2,407,407,2014-07-15,"Providing for consideration of H.R. 5021, the Highway and Transportation Funding Act of 2014",On Ordering the Previous Question,Passed,228,192,0,12
+House,113,2,408,408,2014-07-15,"Providing for consideration of H.R. 5021, the Highway and Transportation Funding Act of 2014",On Agreeing to the Resolution,Passed,231,186,0,15
+House,113,2,409,409,2014-07-15,,On Agreeing to the Amendment,Failed,161,258,0,13
+House,113,2,410,410,2014-07-15,,On Agreeing to the Amendment,Agreed to,338,80,0,14
+House,113,2,411,411,2014-07-15,,On Agreeing to the Amendment,Failed,170,244,0,18
+House,113,2,412,412,2014-07-15,,On Agreeing to the Amendment,Failed,184,235,0,13
+House,113,2,414,414,2014-07-15,"To provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, and for other purposes.",On Passage,Passed,367,55,0,10
+House,113,2,413,413,2014-07-15,"To provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, and for other purposes.",On Motion to Recommit with Instructions,Failed,193,227,0,12
+House,113,2,415,415,2014-07-16,,On Agreeing to the Amendment,Failed,186,236,0,10
+House,113,2,416,416,2014-07-16,,On Agreeing to the Amendment,Agreed to,282,138,1,11
+House,113,2,417,417,2014-07-16,,On Agreeing to the Amendment,Failed,193,230,0,9
+House,113,2,418,418,2014-07-16,,On Agreeing to the Amendment,Agreed to,231,192,0,9
+House,113,2,419,419,2014-07-16,,On Agreeing to the Amendment,Agreed to,351,71,0,10
+House,113,2,420,420,2014-07-16,,On Agreeing to the Amendment,Agreed to,264,157,0,11
+House,113,2,421,421,2014-07-16,,On Agreeing to the Amendment,Failed,168,256,0,8
+House,113,2,422,422,2014-07-16,,On Agreeing to the Amendment,Agreed to,239,184,0,9
+House,113,2,423,423,2014-07-16,,On Agreeing to the Amendment,Agreed to,223,200,0,9
+House,113,2,424,424,2014-07-16,,On Agreeing to the Amendment,Agreed to,229,194,0,9
+House,113,2,425,425,2014-07-16,,On Agreeing to the Amendment,Agreed to,241,181,0,10
+House,113,2,426,426,2014-07-16,"Making appropriations for financial services and general government for the fiscal year ending September 30, 2015, and for other purposes",On Motion to Recommit with Instructions,Failed,198,225,0,9
+House,113,2,427,427,2014-07-16,"Making appropriations for financial services and general government for the fiscal year ending September 30, 2015, and for other purposes",On Passage,Passed,228,195,0,9
+House,113,2,428,428,2014-07-17,Providing for consideration of the bill (H.R. 4719) to amend the Internal Revenue Code of 1986 to permanently extend and expand the charitable deduction for contributions of food inventory,On Ordering the Previous Question,Passed,226,186,0,20
+House,113,2,429,429,2014-07-17,Providing for consideration of the bill (H.R. 4719) to amend the Internal Revenue Code of 1986 to permanently extend and expand the charitable deduction for contributions of food inventory,On Agreeing to the Resolution,Passed,230,183,0,19
+House,113,2,430,430,2014-07-17,"Veteransâ Access to Care through Choice, Accountability, and Transparency Act of 2014",On Motion to Instruct Conferees,Failed,201,213,0,18
+House,113,2,431,431,2014-07-17,To amend the Internal Revenue Code of 1986 to permanently extend and expand the charitable deduction for contributions of food inventory,On Motion to Recommit with Instructions,Failed,185,227,0,20
+House,113,2,432,432,2014-07-17,To amend the Internal Revenue Code of 1986 to permanently extend and expand the charitable deduction for contributions of food inventory,On Passage,Passed,277,130,0,25
+House,113,2,433,433,2014-07-22,"To extend the Travel Promotion Act of 2009, and for other purposes.","On Motion to Suspend the Rules and Pass, as Amended",Passed,347,57,0,28
+House,113,2,434,434,2014-07-22,"To prevent Hezbollah and associated entities from gaining access to international financial and other institutions, and for other purposes.","On Motion to Suspend the Rules and Pass, as Amended",Passed,404,0,0,28
+House,113,2,435,435,2014-07-22,Securing Energy Critical Elements and American Jobs Act,"On Motion to Suspend the Rules and Pass, as Amended",Failed,260,143,0,29
+House,113,2,436,436,2014-07-22,"Veteransâ Access to Care through Choice, Accountability, and Transparency Act of 2014",On Motion to Instruct Conferees,Failed,191,207,0,34
+House,113,2,437,437,2014-07-23,"Providing for consideration of the bill (H.R. 3136) to establish a demonstration program for competency-based education, and providing for consideration of the bill (H.R. 4984) to amend the loan counseling requirements under the Higher Education Act of 1965, and for other purposes",On Ordering the Previous Question,Passed,224,190,0,18
+House,113,2,438,438,2014-07-23,"Providing for consideration of the bill (H.R. 3136) to establish a demonstration program for competency-based education, and providing for consideration of the bill (H.R. 4984) to amend the loan counseling requirements under the Higher Education Act of 1965, and for other purposes",On Agreeing to the Resolution,Passed,230,185,0,17
+House,113,2,439,439,2014-07-23,,On Agreeing to the Amendment,Agreed to,413,0,0,19
+House,113,2,440,440,2014-07-23,To establish a demonstration program for competency-based education.,On Motion to Recommit with Instructions,Failed,194,221,0,17
+House,113,2,441,441,2014-07-23,To establish a demonstration program for competency-based education.,On Passage,Passed,414,0,0,18
+House,113,2,442,442,2014-07-24,"Providing for consideration of H.R. 3393, to amend the Internal Revenue Code of 1986 to consolidate certain tax benefits for educational expenses, and for other purposes, and providing for consideration of H.R. 4935, to amend the Internal Revenue Code of 1986 to make improvements to the child tax credit",On Ordering the Previous Question,Passed,226,191,0,15
+House,113,2,443,443,2014-07-24,"Providing for consideration of H.R. 3393, to amend the Internal Revenue Code of 1986 to consolidate certain tax benefits for educational expenses, and for other purposes, and providing for consideration of H.R. 4935, to amend the Internal Revenue Code of 1986 to make improvements to the child tax credit",On Agreeing to the Resolution,Passed,226,189,0,17
+House,113,2,444,444,2014-07-24,,On Agreeing to the Amendment,Agreed to,404,14,0,14
+House,113,2,445,445,2014-07-24,"To amend the loan counseling requirements under the Higher Education Act of 1965, and for other purposes",On Motion to Recommit with Instructions,Failed,193,220,0,19
+House,113,2,446,446,2014-07-24,"To amend the loan counseling requirements under the Higher Education Act of 1965, and for other purposes",On Passage,Passed,405,11,0,16
+House,113,2,447,447,2014-07-24,To improve the response to victims of child sex trafficking,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,0,0,23
+House,113,2,448,448,2014-07-24,Student and Family Tax Simplification Act,On Motion to Recommit with Instructions,Failed,195,219,0,18
+House,113,2,449,449,2014-07-24,Student and Family Tax Simplification Act,On Passage,Passed,227,187,0,18
+House,113,2,450,450,2014-07-24,"Veteransâ Access to Care through Choice, Accountability, and Transparency Act of 2014",On Motion to Instruct Conferees,Failed,205,207,0,20
+House,113,2,451,451,2014-07-25,To amend the Internal Revenue Code of 1986 to make improvements to the child tax credit,On Passage,Passed,237,173,0,22
+House,113,2,452,452,2014-07-25,"Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces, other than Armed Forces required to protect United States diplomatic facilities and personnel, from Iraq","On Agreeing to the Resolution, As Amended",Passed,370,40,0,22
+House,113,2,453,453,2014-07-25,"Veteransâ Access to Care through Choice, Accountability, and Transparency Act of 2014",On Motion to Instruct Conferees,Passed,213,193,0,26
+House,113,2,454,454,2014-07-25,Strengthening Child Welfare Response to Trafficking Act of 2014,On Motion to Suspend the Rules and Pass,Passed,399,0,0,33
+House,113,2,455,455,2014-07-28,"To amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes",On Motion to Suspend the Rules and Pass,Failed,253,148,0,31
+House,113,2,456,456,2014-07-28,Essential Transportation Worker Identification Credential Assessment Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,400,0,0,32
+House,113,2,457,457,2014-07-28,Homeland Security Cybersecurity Boots-on-the-Ground Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,395,8,0,29
+House,113,2,458,458,2014-07-29,"Providing for consideration of the bill (H.R. 4315) to amend the Endangered Species Act of 1973 to require publication on the Internet of the basis for determinations that species are endangered species or threatened species, and for other purposes",On Ordering the Previous Question,Passed,224,192,0,16
+House,113,2,459,459,2014-07-29,"Providing for consideration of the bill (H.R. 4315) to amend the Endangered Species Act of 1973 to require publication on the Internet of the basis for determinations that species are endangered species or threatened species, and for other purposes",On Agreeing to the Resolution,Passed,225,192,0,15
+House,113,2,460,460,2014-07-29,,On Agreeing to the Amendment,Failed,188,227,0,17
+House,113,2,461,461,2014-07-29,,On Agreeing to the Amendment,Failed,204,215,0,13
+House,113,2,462,462,2014-07-29,21st Century Endangered Species Transparency Act,On Motion to Recommit with Instructions,Failed,197,225,0,10
+House,113,2,463,463,2014-07-29,21st Century Endangered Species Transparency Act,On Passage,Passed,233,190,0,9
+House,113,2,464,464,2014-07-29,"To reauthorize the Defense Production Act, to improve the Defense Production Act Committee, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,386,32,0,14
+House,113,2,465,465,2014-07-30,"Providing for consideration of H.Res. 676, providing for authority to initiate litigation for actions by the President or other executive branch officials inconsistent with their duties under the Constitution of the United States and H.R. 935, Reducing Regulatory Burdens Act of 2013; and for other purposes",On Ordering the Previous Question,Passed,227,195,0,10
+House,113,2,466,466,2014-07-30,"Providing for consideration of H.Res. 676, providing for authority to initiate litigation for actions by the President or other executive branch officials inconsistent with their duties under the Constitution of the United States and H.R. 935, Reducing Regulatory Burdens Act of 2013; and for other purposes",On Agreeing to the Resolution,Passed,227,196,0,9
+House,113,2,467,467,2014-07-30,"Veteransâ Access to Care through Choice, Accountability, and Transparency Act of 2014",On Motion to Suspend the Rules and Agree to the Conference Report,Passed,420,5,0,7
+House,113,2,468,468,2014-07-30,Providing for authority to initiate litigation for actions by the President or other executive branch officials inconsistent with their duties under the Constitution of the United States,"On Agreeing to the Resolution, as Amended",Passed,225,201,0,6
+House,113,2,469,469,2014-07-31,"To amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes",On Motion to Recommit with Instructions,Failed,195,233,0,4
+House,113,2,470,470,2014-07-31,"To amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes",On Passage,Passed,267,161,0,4
+House,113,2,471,471,2014-07-31,"Providing for consideration of H.R. 5230, making supplemental appropriations for the fiscal year ending September 30, 2014, H.R. 5272, to prohibit certain actions with respect to deferred action for aliens not lawfully present in the United States, and H.R. 5021, the Highway and Transportation Funding Act",On Ordering the Previous Question,Passed,226,198,0,8
+House,113,2,472,472,2014-07-31,"Providing for consideration of H.R. 5230, making supplemental appropriations for the fiscal year ending September 30, 2014, H.R. 5272, to prohibit certain actions with respect to deferred action for aliens not lawfully present in the United States, and H.R. 5021, the Highway and Transportation Funding Act",On Agreeing to the Resolution,Passed,220,205,0,7
+House,113,2,473,473,2014-07-31,"To provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, and for other purposes.",On Motion to Disagree to the Senate Amendment,Passed,272,150,0,10
+House,113,2,474,474,2014-08-01,"Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules",On Ordering the Previous Question,Passed,226,184,0,22
+House,113,2,475,475,2014-08-01,"Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,219,190,0,23
+House,113,2,476,476,2014-08-01,"Providing for further consideration of the bill (H.R. 5230) making supplemental appropriations for the fiscal year ending September 30, 2014, and for other purposes; providing for consideration of the bill (H.R. 5272) to prohibit certain actions with respect to deferred action for aliens not lawfully present in the U.S",On Ordering the Previous Question,Passed,226,183,0,23
+House,113,2,477,477,2014-08-01,"Providing for further consideration of the bill (H.R. 5230) making supplemental appropriations for the fiscal year ending September 30, 2014, and for other purposes; providing for consideration of the bill (H.R. 5272) to prohibit certain actions with respect to deferred action for aliens not lawfully present in the U.S",On Agreeing to the Resolution,Passed,218,191,0,23
+House,113,2,478,478,2014-08-01,"Supplemental Appropriations, FY 2014",On Passage,Passed,223,189,0,20
+House,113,2,479,479,2014-08-01,"To prohibit certain actions with respect to deferred action for aliens not lawfully present in the United States, and for other purposes.",On Passage,Passed,216,192,1,23
+House,113,2,480,480,2014-08-01,"Making continuing appropriations for the National Security Administration for fiscal year 2014, and for other purposes.",On Motion to Concur in the Senate Amendments,Passed,395,8,0,29
+House,113,2,481,481,2014-09-08,"To designate the facility of the United States Postal Service located at 2000 Mulford Road in Mulberry, Florida, as the âSergeant First Class Daniel M. Ferguson Post Officeâ.",On Motion to Suspend the Rules and Pass,Passed,401,0,0,30
+House,113,2,482,482,2014-09-08,"To designate the facility of the United States Postal Service located at 1335 Jefferson Road in Rochester, New York, as the âSpecialist Theodore Matthew Glende Post Officeâ.",On Motion to Suspend the Rules and Pass,Passed,399,0,0,32
+House,113,2,483,483,2014-09-08,"To amend the Wild and Scenic Rivers Act to authorize the Secretary of the Interior to maintain or replace certain facilities and structures for commercial recreation services at Smith Gulch in Idaho, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,398,1,0,32
+House,113,2,484,484,2014-09-09,"Providing for consideration of the bill (H.R. 5078) Waters of the United States Regulatory Overreach Protection Act and providing for consideration of the resolution (H.Res. 644) relating to the release of individuals detained at United States Naval Station, Guantanamo Bay, Cuba",On Agreeing to the Resolution,Passed,229,179,0,23
+House,113,2,485,485,2014-09-09,"Condemning the Obama administrationâs failure to comply with the lawful statutory requirement to notify Congress before releasing individuals detained at Guantanamo Bay, Cuba, and expressing national security concerns over the release of five Taliban leaders and the repercussions of negotiating with terrorists",On Agreeing to the Resolution,Passed,249,163,0,19
+House,113,2,486,486,2014-09-09,,On Agreeing to the Amendment,Failed,163,248,0,20
+House,113,2,487,487,2014-09-09,,On Agreeing to the Amendment,Failed,170,240,0,21
+House,113,2,488,488,2014-09-09,Waters of the United States Regulatory Overreach Protection Act,On Motion to Recommit with Instructions,Failed,177,235,0,19
+House,113,2,489,489,2014-09-09,Waters of the United States Regulatory Overreach Protection Act,On Passage,Passed,262,152,0,17
+House,113,2,490,490,2014-09-10,"Providing for consideration of H.R. 3522, Employee Health Care Protection Act of 2013",On Ordering the Previous Question,Passed,227,196,0,8
+House,113,2,491,491,2014-09-10,"Providing for consideration of H.R. 3522, Employee Health Care Protection Act of 2013",On Agreeing to the Resolution,Passed,233,187,0,11
+House,113,2,492,492,2014-09-10,"To designate the facility of the United States Postal Service located at 10360 Southwest 186th Street in Miami, Florida, as the âLarcenia J. Bullard Post Office Buildingâ.",On Motion to Suspend the Rules and Pass,Passed,422,2,0,7
+House,113,2,493,493,2014-09-10,"To make technical corrections to Public Law 110-229 to reflect the renaming of the Bainbridge Island Japanese American Exclusion Memorial, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,422,0,0,9
+House,113,2,494,494,2014-09-11,"To authorize health insurance issuers to continue to offer for sale current group health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement, and for other purposes",On Motion to Recommit with Instructions,Failed,187,223,0,21
+House,113,2,495,495,2014-09-11,"To authorize health insurance issuers to continue to offer for sale current group health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement, and for other purposes",On Passage,Passed,247,167,0,17
+House,113,2,496,496,2014-09-11,E-LABEL Act,On Motion to Suspend the Rules and Pass,Passed,402,0,0,29
+House,113,2,497,497,2014-09-15,"To establish the Law School Clinic Certification Program of the United States Patent and Trademark Office, and for other purposes.","On Motion to Suspend the Rules and Pass, as Amended",Passed,327,22,0,82
+House,113,2,498,498,2014-09-16,"Providing for consideration of the joint resolution (H.J.Res. 124) making continuing appropriations for fiscal year 2015, and for other purposes",On Ordering the Previous Question,Passed,224,188,0,19
+House,113,2,499,499,2014-09-16,"Providing for consideration of the joint resolution (H.J.Res. 124) making continuing appropriations for fiscal year 2015, and for other purposes",On Agreeing to the Resolution,Passed,221,192,0,18
+House,113,2,500,500,2014-09-16,Emergency Medical Services for Children Reauthorization Act of 2014,On Motion to Suspend the Rules and Pass,Passed,410,4,0,17
+House,113,2,501,501,2014-09-16,"To make technical corrections to the Dodd-Frank Wall Street Reform and Consumer Protection Act, to enhance the ability of small and emerging growth companies to access capital through public and private markets, to reduce regulatory burdens, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,320,102,0,9
+House,113,2,502,502,2014-09-16,"To clarify the application of certain leverage and risk-based requirements under the Dodd-Frank Wall Street Reform and Consumer Protection Act, to improve upon the definitions provided for points and fees in connection with a mortgage transaction, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,327,97,0,7
+House,113,2,503,503,2014-09-16,Gun Lake Trust Land Reaffirmation Act,On Motion to Suspend the Rules and Pass,Passed,359,64,0,8
+House,113,2,504,504,2014-09-17,"To require a full audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks by the Comptroller General of the United States, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,333,92,0,6
+House,113,2,505,505,2014-09-17,"To amend title 49, United States Code, to provide for limitations on the fees charged to passengers of air carriers.",On Motion to Suspend the Rules and Pass,Passed,423,0,0,8
+House,113,2,506,506,2014-09-17,To amend the Chesapeake and Ohio Canal Development Act to extend to the Chesapeake and Ohio Canal National Historical Park Commission.,On Motion to Suspend the Rules and Pass,Passed,419,0,0,12
+House,113,2,507,507,2014-09-17,,On Agreeing to the Amendment,Agreed to,273,156,0,3
+House,113,2,508,508,2014-09-17,"Making continuing appropriations for fiscal year 2015, and for other purposes",On Motion to Recommit with Instructions,Failed,199,228,0,4
+House,113,2,509,509,2014-09-17,"Making continuing appropriations for fiscal year 2015, and for other purposes",On Passage,Passed,319,108,0,4
+House,113,2,510,510,2014-09-18,"Providing for consideration of H.R. 2, the American Energy Solutions for Lower Costs and More American Jobs Act; H.R. 4, the Jobs for America Act; and providing for proceedings during the period from September 22, 2014, through November 11, 2014.",On Ordering the Previous Question,Passed,226,195,0,10
+House,113,2,511,511,2014-09-18,"Providing for consideration of H.R. 2, the American Energy Solutions for Lower Costs and More American Jobs Act; H.R. 4, the Jobs for America Act; and providing for proceedings during the period from September 22, 2014, through November 11, 2014.",On Agreeing to the Resolution,Passed,227,193,0,11
+House,113,2,512,512,2014-09-18,Jobs for America Act,On Motion to Recommit with Instructions,Failed,191,218,0,22
+House,113,2,513,513,2014-09-18,Jobs for America Act,On Passage,Passed,253,163,0,15
+House,113,2,514,514,2014-09-18,American Energy Solutions for Lower Costs and More American Jobs Act,On Motion to Recommit with Instructions,Failed,193,222,0,16
+House,113,2,515,515,2014-09-18,American Energy Solutions for Lower Costs and More American Jobs Act,On Passage,Passed,226,191,0,14
+House,113,2,516,516,2014-11-12,Government Reports Elimination Act of 2014,On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,382,0,0,49
+House,113,2,517,517,2014-11-13,Providing for consideration of the bill (H.R. 5682) to approve the Keystone XL Pipeline,On Agreeing to the Resolution,Passed,233,185,0,16
+House,113,2,518,518,2014-11-14,To approve the Keystone XL Pipeline,On Motion to Recommit with Instructions,Failed,192,224,0,18
+House,113,2,519,519,2014-11-14,To approve the Keystone XL Pipeline,On Passage,Passed,252,161,1,20
+House,113,2,520,520,2014-11-17,"An Act to allow a certain parcel of land in Rockingham County, Virginia, to be used for a child care center",On Motion to Suspend the Rules and Pass,Passed,378,1,0,55
+House,113,2,521,521,2014-11-18,Providing for consideration of the bill (H.R. 1422) EPA Science Advisory Board Reform Act; providing for consideration of the bill (H.R. 4012) Secret Science Reform Act; and providing for consideration of the bill (H.R. 4795) Promoting New Manufacturing Act,On Ordering the Previous Question,Passed,225,190,0,19
+House,113,2,522,522,2014-11-18,Providing for consideration of the bill (H.R. 1422) EPA Science Advisory Board Reform Act; providing for consideration of the bill (H.R. 4012) Secret Science Reform Act; and providing for consideration of the bill (H.R. 4795) Promoting New Manufacturing Act,On Agreeing to the Resolution,Passed,227,192,0,15
+House,113,2,523,523,2014-11-18,,On Agreeing to the Amendment,Agreed to,232,184,0,18
+House,113,2,524,524,2014-11-18,EPA Science Advisory Board Reform Act,On Motion to Recommit with Instructions,Failed,195,225,0,14
+House,113,2,525,525,2014-11-18,EPA Science Advisory Board Reform Act,On Passage,Passed,229,191,0,14
+House,113,2,526,526,2014-11-19,,On Agreeing to the Amendment,Failed,194,230,0,10
+House,113,2,527,527,2014-11-19,Secret Science Reform Act of 2014,On Motion to Recommit with Instructions,Failed,196,230,0,8
+House,113,2,528,528,2014-11-19,Secret Science Reform Act of 2014,On Passage,Passed,237,190,0,7
+House,113,2,529,529,2014-11-20,,On Agreeing to the Amendment,Failed,183,225,0,26
+House,113,2,530,530,2014-11-20,Promoting New Manufacturing Act,On Motion to Recommit with Instructions,Failed,189,223,0,22
+House,113,2,531,531,2014-11-20,Promoting New Manufacturing Act,On Passage,Passed,238,172,0,24
+House,113,2,532,532,2014-12-01,"To amend the Homeland Security Act of 2002 to strengthen the Domestic Nuclear Detection Office, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,374,11,0,49
+House,113,2,533,533,2014-12-01,To amend the Homeland Security Act of 2002 to authorize use of grants under the Urban Area Security Initiative and the State Homeland Security Grant Program to work in conjunction with a Department of Energy national laboratory,On Motion to Suspend the Rules and Pass,Passed,386,0,0,48
+House,113,2,534,534,2014-12-02,"To exchange trust and fee land to resolve land disputes created by the realignment of the Blackfoot River along the boundary of the Fort Hall Indian Reservation, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,414,0,0,20
+House,113,2,535,535,2014-12-02,"To repeal the Act of May 31, 1918, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,418,0,0,16
+House,113,2,536,536,2014-12-02,To revise the boundaries of certain John H. Chafee Coastal Barrier Resources System units in North Carolina,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,7,0,17
+House,113,2,537,537,2014-12-02,No Social Security for Nazis Act,On Motion to Suspend the Rules and Pass,Passed,420,0,0,14
+House,113,2,539,539,2014-12-02,To require the Secretary of the Treasury to mint coins in commemoration of the centennial of World War I,"On Motion to Suspend the Rules and Pass, as Amended",Passed,418,3,0,13
+House,113,2,538,538,2014-12-02,"To instruct the Comptroller General of the United States to study the impact of Regulation D, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,422,0,0,12
+House,113,2,540,540,2014-12-03,"Providing for consideration of H.R. 5771, to amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and H.R. 647, to amend the Internal Revenue Code of 1986 to provide for the tax treatment of ABLE accounts established under State Programs for the care of family members with disabilities",On Agreeing to the Resolution,Passed,231,192,0,11
+House,113,2,541,541,2014-12-03,"To authorize appropriations for the Coast Guard for fiscal year 2015, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,413,3,0,18
+House,113,2,542,542,2014-12-03,,On Approving the Journal,Passed,275,137,2,20
+House,113,2,543,543,2014-12-03,Tax Increase Prevention Act,On Motion to Recommit with Instructions,Failed,197,223,0,14
+House,113,2,544,544,2014-12-03,Tax Increase Prevention Act,On Passage,Passed,378,46,0,10
+House,113,2,545,545,2014-12-03,Achieving a Better Life Experience Act,On Passage,Passed,404,17,0,13
+House,113,2,546,546,2014-12-04,"Providing for consideration of the Senate amendment to H.R. 3979, an Act to amend the Internal Revenue Code of 1986; providing for consideration of H.R. 5759, Executive Amnesty Prevention Act of 2014; and providing for consideration of H.R. 5781, to provide short-term water supplies to drought-stricken CA",On Ordering the Previous Question,Passed,227,191,0,16
+House,113,2,547,547,2014-12-04,"Providing for consideration of the Senate amendment to H.R. 3979, an Act to amend the Internal Revenue Code of 1986; providing for consideration of H.R. 5759, Executive Amnesty Prevention Act of 2014; and providing for consideration of H.R. 5781, to provide short-term water supplies to drought-stricken CA","On Agreeing to the Resolution, as Amended",Passed,232,191,0,11
+House,113,2,548,548,2014-12-04,"Strongly condemning the actions of the Russian Federation, under President Vladimir Putin, which has carried out a policy of aggression against neighboring countries aimed at political and economic domination","On Motion to Suspend the Rules and Agree, as Amended",Passed,411,10,0,13
+House,113,2,549,549,2014-12-04,To establish a rule of construction clarifying the limitations on executive authority to provide certain forms of immigration relief,On Motion to Recommit with Instructions,Failed,194,225,0,15
+House,113,2,550,550,2014-12-04,To establish a rule of construction clarifying the limitations on executive authority to provide certain forms of immigration relief,On Passage,Passed,219,197,3,15
+House,113,2,551,551,2014-12-04,Protecting Volunteer Firefighters and Emergency Responders Act of 2014,On Motion to Concur in the Senate Amendment with an Amendment,Passed,300,119,0,15
+House,113,2,552,552,2014-12-09,California Emergency Drought Relief Act 2014,On Motion to Recommit with Instructions,Failed,182,228,0,24
+House,113,2,553,553,2014-12-09,California Emergency Drought Relief Act 2014,On Passage,Passed,230,182,0,22
+House,113,2,554,554,2014-12-10,"Providing for consideration of S. 2244, the Terrorism Risk Insurance Program Reauthorization Act of 2014; and for other purposes",On Agreeing to the Resolution,Passed,231,189,0,14
+House,113,2,555,555,2014-12-10,Chesapeake Bay Accountability and Recovery Act of 2014,On Motion to Suspend the Rules and Pass,Passed,416,0,0,18
+House,113,2,556,556,2014-12-10,,On Approving the Journal,Passed,261,155,1,17
+House,113,2,557,557,2014-12-10,"To extend the termination date of the Terrorism Insurance Program established under the Terrorism Risk Insurance Act of 2002, and for other purposes",On Passage,Passed,417,7,0,10
+House,113,2,558,558,2014-12-10,Intelligence Authorization Act for Fiscal Years 2014 and 2015,On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,325,100,0,9
+House,113,2,559,559,2014-12-10,"To require the Transportation Security Administration to implement best practices and improve transparency with regard to technology acquisition programs, and for other purposes",On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,425,0,0,9
+House,113,2,560,560,2014-12-10,"To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes",On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,416,5,0,13
+House,113,2,561,561,2014-12-11,"Providing for consideration of the Senate amendment to H.R. 83, to require the Secretary of the Interior to assemble a team of experts to address the energy needs of the insular areas of the United States and Freely Associated States through the development of energy action plans aimed at promoting access to energy",On Agreeing to the Resolution,Passed,214,212,0,9
+House,113,2,562,562,2014-12-11,Supporting Americaâs Charities Act,On Motion to Suspend the Rules and Pass,Failed,275,149,0,10
+House,113,2,563,563,2014-12-11,An Act to require the Secretary of the Interior to assemble a team of experts to address the energy needs of the insular areas of the United States and Freely Associated States through the development of energy action plans aimed at promoting access to energy,On Motion to Concur in the Senate Amendment with an Amendment,Passed,219,206,0,10
+House,113,2,564,564,2014-12-11,John Muir National Historic Site Expansion Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,361,39,0,34

@@ -1,0 +1,711 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+House,115,1,2,2,2017-01-03,,Election of the Speaker,Ryan (WI),0,0,0,0
+House,115,1,1,1,2017-01-03,,Call by States,Passed,0,0,434,1
+House,115,1,3,3,2017-01-03,Adopting rules for the One Hundred Fifteenth Congress,Table Motion to Refer,Passed,228,184,0,21
+House,115,1,4,4,2017-01-03,Adopting rules for the One Hundred Fifteenth Congress,On Ordering the Previous Question,Passed,237,193,0,3
+House,115,1,5,5,2017-01-03,Adopting rules for the One Hundred Fifteenth Congress,Motion to Commit,Failed,193,236,0,4
+House,115,1,6,6,2017-01-03,Adopting rules for the One Hundred Fifteenth Congress,On Agreeing to the Resolution,Passed,234,193,0,6
+House,115,1,7,7,2017-01-04,Midnight Rules Relief Act of 2017,On Motion to Recommit with Instructions,Failed,183,236,0,14
+House,115,1,8,8,2017-01-04,Midnight Rules Relief Act of 2017,On Passage,Passed,238,184,0,11
+House,115,1,9,9,2017-01-05,"Providing for consideration of the bill (H.R. 26) Regulations from the Executive in Need of Scrutiny Act, and providing for consideration of the resolution (H.Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes",On Ordering the Previous Question,Passed,235,188,0,10
+House,115,1,11,11,2017-01-05,"Objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes",On Agreeing to the Resolution,Passed,342,80,4,7
+House,115,1,10,10,2017-01-05,"Providing for consideration of the bill (H.R. 26) Regulations from the Executive in Need of Scrutiny Act, and providing for consideration of the resolution (H.Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes",On Agreeing to the Resolution,Passed,231,187,0,15
+House,115,1,12,12,2017-01-05,,On Agreeing to the Amendment,Agreed to,235,185,0,13
+House,115,1,13,13,2017-01-05,,On Agreeing to the Amendment,Failed,193,230,0,10
+House,115,1,14,14,2017-01-05,,On Agreeing to the Amendment,Failed,190,233,0,10
+House,115,1,15,15,2017-01-05,,On Agreeing to the Amendment,Failed,186,232,0,15
+House,115,1,16,16,2017-01-05,,On Agreeing to the Amendment,Failed,192,231,0,10
+House,115,1,17,17,2017-01-05,,On Agreeing to the Amendment,Failed,190,234,0,9
+House,115,1,18,18,2017-01-05,,On Agreeing to the Amendment,Failed,194,231,0,8
+House,115,1,19,19,2017-01-05,,On Agreeing to the Amendment,Failed,190,235,0,8
+House,115,1,20,20,2017-01-05,,On Agreeing to the Amendment,Failed,193,232,0,8
+House,115,1,21,21,2017-01-05,,On Agreeing to the Amendment,Agreed to,230,193,0,10
+House,115,1,22,22,2017-01-05,Regulations from the Executive in Need of Scrutiny Act of 2017,On Motion to Recommit with Instructions,Failed,190,235,0,8
+House,115,1,23,23,2017-01-05,Regulations from the Executive in Need of Scrutiny Act of 2017,On Passage,Passed,237,187,0,9
+House,115,1,24,24,2017-01-09,Improving Access to Maternity Care Act,On Motion to Suspend the Rules and Pass,Passed,405,0,0,28
+House,115,1,25,25,2017-01-09,Protecting Patient Access to Emergency Medications Act of 2017,On Motion to Suspend the Rules and Pass,Passed,404,0,0,29
+House,115,1,26,26,2017-01-10,Providing for consideration of the bill (H.R. 5) Regulatory Accountability Act of 2017 and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law,On Ordering the Previous Question,Passed,234,179,0,21
+House,115,1,27,27,2017-01-10,Providing for consideration of the bill (H.R. 5) Regulatory Accountability Act of 2017 and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law,On Agreeing to the Resolution,Passed,233,183,0,18
+House,115,1,28,28,2017-01-10,,On Approving the Journal,Passed,248,162,3,21
+House,115,1,29,29,2017-01-10,,On Agreeing to the Amendment,Failed,167,249,0,18
+House,115,1,30,30,2017-01-10,,On Agreeing to the Amendment,Failed,163,253,0,18
+House,115,1,31,31,2017-01-10,Helping Angels Lead Our Startups (HALOS) Act,On Passage,Passed,344,73,0,17
+House,115,1,32,32,2017-01-11,"Providing for consideration of H.R. 78, the SEC Regulatory Accountability Act; H.R. 238, the Commodity End-User Relief Act; and for other purposes",On Ordering the Previous Question,Passed,232,168,0,34
+House,115,1,33,33,2017-01-11,"Providing for consideration of H.R. 78, the SEC Regulatory Accountability Act; H.R. 238, the Commodity End-User Relief Act; and for other purposes",On Agreeing to the Resolution,Passed,233,170,0,31
+House,115,1,34,34,2017-01-11,Tested Ability to Leverage Exceptional National Talent Act,On Motion to Suspend the Rules and Pass,Passed,386,17,0,31
+House,115,1,35,35,2017-01-11,,On Agreeing to the Amendment,Agreed to,237,185,0,12
+House,115,1,36,36,2017-01-11,,On Agreeing to the Amendment,Agreed to,260,161,0,13
+House,115,1,37,37,2017-01-11,,On Agreeing to the Amendment,Failed,189,231,0,14
+House,115,1,39,39,2017-01-11,,On Agreeing to the Amendment,Failed,188,234,0,12
+House,115,1,38,38,2017-01-11,,On Agreeing to the Amendment,Failed,190,232,0,12
+House,115,1,40,40,2017-01-11,,On Agreeing to the Amendment,Failed,190,233,0,11
+House,115,1,41,41,2017-01-11,,On Agreeing to the Amendment,Failed,195,227,0,12
+House,115,1,42,42,2017-01-11,,On Agreeing to the Amendment,Failed,188,235,0,11
+House,115,1,43,43,2017-01-11,,On Agreeing to the Amendment,Failed,185,236,0,13
+House,115,1,44,44,2017-01-11,Regulatory Accountability Act of 2017,On Motion to Recommit with Instructions,Failed,190,233,0,11
+House,115,1,45,45,2017-01-11,Regulatory Accountability Act of 2017,On Passage,Passed,238,183,0,13
+House,115,1,46,46,2017-01-12,,On Agreeing to the Amendment,Failed,192,233,0,9
+House,115,1,47,47,2017-01-12,,On Agreeing to the Amendment,Failed,191,232,0,11
+House,115,1,48,48,2017-01-12,,On Agreeing to the Amendment,Failed,194,233,0,7
+House,115,1,49,49,2017-01-12,,On Agreeing to the Amendment,Failed,196,231,0,7
+House,115,1,50,50,2017-01-12,SEC Regulatory Accountability Act,On Motion to Recommit with Instructions,Failed,195,232,0,7
+House,115,1,51,51,2017-01-12,SEC Regulatory Accountability Act,On Passage,Passed,243,184,0,7
+House,115,1,52,52,2017-01-12,,On Agreeing to the Amendment,Agreed to,236,191,0,7
+House,115,1,53,53,2017-01-12,Commodity End-User Relief Act,On Motion to Recommit with Instructions,Failed,190,235,0,9
+House,115,1,54,54,2017-01-12,Commodity End-User Relief Act,On Passage,Passed,239,182,0,13
+House,115,1,55,55,2017-01-13,"Providing for consideration of S.Con.Res 3, setting forth the congressional budget for the United States Government for fiscal year 2017 and for other purposes; and S. 84, to provide for an exception to a limitation against appointment of persons as Secretary of Defense within 7 years of relief from active duty",On Ordering the Previous Question,Passed,234,179,0,21
+House,115,1,56,56,2017-01-13,"Providing for consideration of S.Con.Res 3, setting forth the congressional budget for the United States Government for fiscal year 2017 and for other purposes; and S. 84, to provide for an exception to a limitation against appointment of persons as Secretary of Defense within 7 years of relief from active duty",On Agreeing to the Resolution,Passed,235,188,0,11
+House,115,1,57,57,2017-01-13,,On Agreeing to the Amendment,Failed,149,272,0,13
+House,115,1,58,58,2017-01-13,Setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026,On Agreeing to the Resolution,Passed,227,198,0,10
+House,115,1,59,59,2017-01-13,To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces,On Passage,Passed,268,151,1,14
+House,115,1,60,60,2017-01-23,Anti-Spoofing Act,On Motion to Suspend the Rules and Pass,Passed,398,5,0,31
+House,115,1,61,61,2017-01-23,Kari’s Law Act,On Motion to Suspend the Rules and Pass,Passed,408,0,0,26
+House,115,1,62,62,2017-01-24,Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions,On Ordering the Previous Question,Passed,233,187,0,12
+House,115,1,63,63,2017-01-24,Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions,On Agreeing to the Resolution,Passed,236,183,0,13
+House,115,1,64,64,2017-01-24,To prohibit taxpayer funded abortions,On Motion to Recommit with Instructions,Failed,187,235,0,10
+House,115,1,66,66,2017-01-30,To remove the sunset provision of section 203 of Public Law 105-384 and for other purposes,On Motion to Suspend the Rules and Pass,Passed,388,0,0,44
+House,115,1,65,65,2017-01-24,To prohibit taxpayer funded abortions,On Passage,Passed,238,183,0,11
+House,115,1,67,67,2017-01-30,Ocmulgee Mounds National Historical Park Boundary Revision Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,396,8,0,28
+House,115,1,68,68,2017-01-31,"Providing for consideration of H.J. Res. 38, disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule",On Ordering the Previous Question,Passed,236,183,0,13
+House,115,1,69,69,2017-01-31,"Providing for consideration of H.J. Res. 38, disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule",On Agreeing to the Resolution,Passed,236,186,0,10
+House,115,1,70,70,2017-02-01,"Providing for consideration of (H.J.Res. 41) disapproval of a rule submitted by the SEC relating to “Disclosure of Payments by Resource Extraction Issuers”, and consideration of (H.J.Res. 40) disapproval of the rule submitted by the SSA relating to Implementation of the NICS Improvement Amendments Act of 2007",On Ordering the Previous Question,Passed,231,191,0,10
+House,115,1,71,71,2017-02-01,"Providing for consideration of (H.J.Res. 41) disapproval of a rule submitted by the SEC relating to “Disclosure of Payments by Resource Extraction Issuers”, and consideration of (H.J.Res. 40) disapproval of the rule submitted by the SSA relating to Implementation of the NICS Improvement Amendments Act of 2007",On Agreeing to the Resolution,Passed,231,191,0,10
+House,115,1,72,72,2017-02-01,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to “Disclosure of Payments by Resource Extraction Issuers”",On Passage,Passed,235,187,0,10
+House,115,1,73,73,2017-02-01,Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule,On Passage,Passed,228,194,0,10
+House,115,1,74,74,2017-02-02,"Providing for consideration of H.J. Res. 36, congressional disapproval under chapter 8 of title 5, U.S.C., of the final rule of the BLM relating to Waste Prevention; and providing for consideration of H.J. Res. 37, disapproving the rule submitted by DOD, GSA, and NASA, relating to the Federal Acquisition Regulation",On Ordering the Previous Question,Passed,230,188,0,14
+House,115,1,75,75,2017-02-02,"Providing for consideration of H.J. Res. 36, congressional disapproval under chapter 8 of title 5, U.S.C., of the final rule of the BLM relating to Waste Prevention; and providing for consideration of H.J. Res. 37, disapproving the rule submitted by DOD, GSA, and NASA, relating to the Federal Acquisition Regulation",On Agreeing to the Resolution,Passed,232,190,0,10
+House,115,1,76,76,2017-02-02,"Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation",On Passage,Passed,236,187,0,9
+House,115,1,77,77,2017-02-02,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007",On Passage,Passed,235,180,0,17
+House,115,1,78,78,2017-02-03,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to “Waste Prevention, Production Subject to Royalties, and Resource Conservation”",On Passage,Passed,221,191,0,20
+House,115,1,79,79,2017-02-06,Bolts Ditch Access and Use Act,On Motion to Suspend the Rules and Pass,Passed,409,1,0,22
+House,115,1,80,80,2017-02-06,Black Hills National Cemetery Boundary Expansion Act,On Motion to Suspend the Rules and Pass,Passed,407,0,0,25
+House,115,1,81,81,2017-02-07,"Providing for consideration of H.J.Res 44, H.J.Res. 57, and H.J.Res 58.",On Ordering the Previous Question,Passed,234,187,0,11
+House,115,1,82,82,2017-02-07,"Providing for consideration of H.J.Res 44, H.J.Res. 57, and H.J.Res 58.",On Agreeing to the Resolution,Passed,233,186,0,13
+House,115,1,83,83,2017-02-07,"Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976",On Passage,Passed,234,186,0,12
+House,115,1,84,84,2017-02-07,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965",On Passage,Passed,234,190,0,8
+House,115,1,85,85,2017-02-07,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues",On Passage,Passed,240,181,0,11
+House,115,1,87,87,2017-02-13,BRAVE Act,On Motion to Suspend the Rules and Pass,Passed,407,0,0,24
+House,115,1,86,86,2017-02-13,HIRE Vets Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,1,0,21
+House,115,1,88,88,2017-02-14,"Providing for consideration of H.R. 428, the Red River Gradient Boundary Survey Act and H.J.Res. 42, disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applications",On Ordering the Previous Question,Passed,225,189,0,17
+House,115,1,89,89,2017-02-14,"Providing for consideration of H.R. 428, the Red River Gradient Boundary Survey Act and H.J.Res. 42, disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applications",On Agreeing to the Resolution,Passed,225,187,0,19
+House,115,1,90,90,2017-02-14,Providing for consideration of H.J.Res. 66 and H.J.Res. 67,On Ordering the Previous Question,Passed,227,188,0,16
+House,115,1,91,91,2017-02-14,Providing for consideration of H.J.Res. 66 and H.J.Res. 67,On Agreeing to the Resolution,Passed,227,188,0,16
+House,115,1,92,92,2017-02-14,Red River Gradient Boundary Survey Act,On Passage,Passed,250,171,0,10
+House,115,1,93,93,2017-02-15,"Providing for consideration of H.J. Res. 43 and H.J. Res. 69, and providing for proceedings during the period from February 17, 2017, through February 24, 2017",On Ordering the Previous Question,Passed,233,190,0,8
+House,115,1,94,94,2017-02-15,"Providing for consideration of H.J. Res. 43 and H.J. Res. 69, and providing for proceedings during the period from February 17, 2017, through February 24, 2017",On Agreeing to the Resolution,Passed,233,188,0,10
+House,115,1,95,95,2017-02-15,Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees.,On Passage,Passed,234,191,0,6
+House,115,1,96,96,2017-02-15,Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees.,On Passage,Passed,231,193,0,7
+House,115,1,97,97,2017-02-15,Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants,On Passage,Passed,236,189,0,6
+House,115,1,98,98,2017-02-16,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to “Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska”",On Passage,Passed,225,193,0,12
+House,115,1,99,99,2017-02-16,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients",On Passage,Passed,230,188,0,12
+House,115,1,100,100,2017-02-27,Mount Hood Cooper Spur Land Exchange Clarification Act,On Motion to Suspend the Rules and Pass,Passed,415,1,0,14
+House,115,1,101,101,2017-02-27,,Table Appeal of the Ruling of the Chair,Passed,229,185,2,14
+House,115,1,102,102,2017-02-27,"To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,369,42,0,19
+House,115,1,103,103,2017-02-28,"Providing for consideration of the bill (H.R. 998) SCRUB Act, and providing for consideration of (H.J.Res. 83) disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”",On Ordering the Previous Question,Passed,224,191,0,15
+House,115,1,104,104,2017-02-28,"Providing for consideration of the bill (H.R. 998) SCRUB Act, and providing for consideration of (H.J.Res. 83) disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”",On Agreeing to the Resolution,Passed,225,188,0,17
+House,115,1,105,105,2017-02-28,,On Agreeing to the Amendment,Agreed to,348,75,0,7
+House,115,1,106,106,2017-02-28,,On Agreeing to the Amendment,Failed,181,243,0,6
+House,115,1,107,107,2017-02-28,,On Agreeing to the Amendment,Failed,189,234,0,7
+House,115,1,108,108,2017-02-28,,On Agreeing to the Amendment,Failed,192,230,0,8
+House,115,1,109,109,2017-03-01,,On Agreeing to the Amendment,Failed,191,235,0,3
+House,115,1,110,110,2017-03-01,,On Agreeing to the Amendment,Failed,189,231,0,9
+House,115,1,111,111,2017-03-01,,On Agreeing to the Amendment,Failed,197,229,0,3
+House,115,1,112,112,2017-03-01,,On Agreeing to the Amendment,Failed,194,231,0,4
+House,115,1,113,113,2017-03-01,SCRUB Act,On Motion to Recommit with Instructions,Failed,190,235,0,4
+House,115,1,114,114,2017-03-01,SCRUB Act,On Passage,Passed,240,185,0,4
+House,115,1,115,115,2017-03-01,"Providing for consideration of H.R. 1004, the Regulatory Integrity Act of 2017; and H.R. 1009, the OIRA Insight, Reform, and Accountability Act",On Ordering the Previous Question,Passed,233,189,0,7
+House,115,1,116,116,2017-03-01,"Providing for consideration of H.R. 1004, the Regulatory Integrity Act of 2017; and H.R. 1009, the OIRA Insight, Reform, and Accountability Act",On Agreeing to the Resolution,Passed,234,180,0,15
+House,115,1,117,117,2017-03-01,,On Agreeing to the Amendment,Agreed to,265,158,0,6
+House,115,1,118,118,2017-03-01,,On Agreeing to the Amendment,Failed,188,234,0,7
+House,115,1,119,119,2017-03-01,"OIRA Insight, Reform, and Accountability Act",On Motion to Recommit with Instructions,Failed,193,234,0,2
+House,115,1,120,120,2017-03-01,"OIRA Insight, Reform, and Accountability Act",On Passage,Passed,241,184,0,4
+House,115,1,122,122,2017-03-02,,On Agreeing to the Amendment,Failed,180,234,0,15
+House,115,1,121,121,2017-03-01,Disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”,On Passage,Passed,231,191,0,7
+House,115,1,123,123,2017-03-02,,On Agreeing to the Amendment,Agreed to,263,145,0,21
+House,115,1,124,124,2017-03-02,,On Agreeing to the Amendment,Failed,189,232,0,8
+House,115,1,125,125,2017-03-02,Regulatory Integrity Act,On Motion to Recommit with Instructions,Failed,189,232,0,8
+House,115,1,126,126,2017-03-02,Regulatory Integrity Act,On Passage,Passed,246,176,0,7
+House,115,1,128,128,2017-03-07,,Table Appeal of the Ruling of the Chair,Passed,227,186,1,15
+House,115,1,127,127,2017-03-07,"To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa’aua’a Hunkin VA Clinic",On Motion to Suspend the Rules and Pass,Passed,411,2,0,16
+House,115,1,129,129,2017-03-08,"Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder",On Ordering the Previous Question,Passed,230,184,0,15
+House,115,1,130,130,2017-03-08,"Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder",On Agreeing to the Resolution,Passed,235,185,0,9
+House,115,1,131,131,2017-03-08,"Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",On Ordering the Previous Question,Passed,232,189,0,8
+House,115,1,132,132,2017-03-08,,On Motion to Adjourn,Failed,127,295,1,6
+House,115,1,133,133,2017-03-08,"Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",On Agreeing to the Resolution,Passed,233,185,0,11
+House,115,1,134,134,2017-03-08,,On Motion to Adjourn,Failed,107,277,0,45
+House,115,1,135,135,2017-03-08,,On Motion to Adjourn,Failed,114,290,0,25
+House,115,1,136,136,2017-03-08,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",On Passage,Passed,371,48,0,10
+House,115,1,137,137,2017-03-08,,On Motion to Adjourn,Passed,314,98,0,17
+House,115,1,138,138,2017-03-09,"Providing for consideration of H.R. 720, the Lawsuit Abuse Reduction Act of 2017; and providing for consideration of H.R. 985, the Fairness in Class Action Litigation Act of 2017",On Ordering the Previous Question,Passed,233,186,0,10
+House,115,1,140,140,2017-03-09,,On Agreeing to the Amendment,Failed,182,227,0,20
+House,115,1,139,139,2017-03-09,"Providing for consideration of H.R. 720, the Lawsuit Abuse Reduction Act of 2017; and providing for consideration of H.R. 985, the Fairness in Class Action Litigation Act of 2017",On Agreeing to the Resolution,Passed,233,184,0,12
+House,115,1,141,141,2017-03-09,,On Agreeing to the Amendment,Failed,189,228,0,12
+House,115,1,142,142,2017-03-09,,On Agreeing to the Amendment,Failed,192,230,0,7
+House,115,1,143,143,2017-03-09,,On Agreeing to the Amendment,Failed,190,230,0,9
+House,115,1,144,144,2017-03-09,,On Agreeing to the Amendment,Failed,191,230,0,8
+House,115,1,145,145,2017-03-09,,On Agreeing to the Amendment,Failed,193,229,0,7
+House,115,1,146,146,2017-03-09,,On Agreeing to the Amendment,Failed,193,228,0,8
+House,115,1,147,147,2017-03-09,Fairness in Class Action Litigation Act,On Motion to Recommit with Instructions,Failed,188,234,0,7
+House,115,1,148,148,2017-03-09,Fairness in Class Action Litigation Act,On Passage,Passed,220,201,1,7
+House,115,1,149,149,2017-03-09,,On Agreeing to the Amendment,Failed,189,233,0,7
+House,115,1,150,150,2017-03-09,,On Agreeing to the Amendment,Failed,187,229,0,13
+House,115,1,151,151,2017-03-09,Innocent Party Protection Act,On Motion to Recommit with Instructions,Failed,187,233,0,9
+House,115,1,152,152,2017-03-09,Innocent Party Protection Act,On Passage,Passed,224,194,0,11
+House,115,1,153,153,2017-03-10,,On Agreeing to the Amendment,Failed,181,225,0,23
+House,115,1,154,154,2017-03-10,,On Agreeing to the Amendment,Failed,185,225,0,19
+House,115,1,155,155,2017-03-10,,On Agreeing to the Amendment,Failed,190,227,0,12
+House,115,1,156,156,2017-03-10,,On Agreeing to the Amendment,Failed,189,229,0,11
+House,115,1,157,157,2017-03-10,Lawsuit Abuse Reduction Act,On Motion to Recommit with Instructions,Failed,186,232,0,11
+House,115,1,158,158,2017-03-10,Lawsuit Abuse Reduction Act,On Passage,Passed,230,188,0,11
+House,115,1,159,159,2017-03-15,Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017,On Motion to Suspend the Rules and Pass,Passed,407,1,0,21
+House,115,1,160,160,2017-03-15,To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir,On Motion to Suspend the Rules and Pass,Passed,408,0,0,21
+House,115,1,161,161,2017-03-15,,Table Appeal of the Ruling of the Chair,Passed,223,183,1,22
+House,115,1,162,162,2017-03-16,"Providing for consideration of H.R. 1259, the VA Accountability First Act of 2017; H.R. 1367, to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs; and H.R. 1181, theVeterans 2nd Amendment Protection Act",On Ordering the Previous Question,Passed,227,185,0,17
+House,115,1,163,163,2017-03-16,"Providing for consideration of H.R. 1259, the VA Accountability First Act of 2017; H.R. 1367, to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs; and H.R. 1181, theVeterans 2nd Amendment Protection Act",On Agreeing to the Resolution,Passed,229,187,0,13
+House,115,1,164,164,2017-03-16,,On Approving the Journal,Passed,243,165,1,20
+House,115,1,165,165,2017-03-16,,On Agreeing to the Amendment,Failed,194,223,0,12
+House,115,1,167,167,2017-03-16,VA Accountability First Act,On Motion to Recommit with Instructions,Failed,189,229,0,11
+House,115,1,166,166,2017-03-16,,On Agreeing to the Amendment,Failed,183,232,0,14
+House,115,1,168,168,2017-03-16,VA Accountability First Act,On Passage,Passed,237,178,0,14
+House,115,1,169,169,2017-03-16,Veterans 2nd Amendment Protection Act,On Passage,Passed,240,175,0,14
+House,115,1,170,170,2017-03-17,,On Agreeing to the Amendment,Agreed to,400,8,0,21
+House,115,1,171,171,2017-03-17,"To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes",On Passage,Passed,412,0,0,17
+House,115,1,172,172,2017-03-17,,On Approving the Journal,Passed,246,143,2,38
+House,115,1,173,173,2017-03-20,Reducing DHS Acquisition Cost Growth Act,On Motion to Suspend the Rules and Pass,Passed,408,0,0,21
+House,115,1,174,174,2017-03-20,DHS Multiyear Acquisition Strategy Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,0,0,20
+House,115,1,175,175,2017-03-20,DHS Acquisition Authorities Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,407,1,0,21
+House,115,1,176,176,2017-03-21,Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.,On Ordering the Previous Question,Passed,231,185,0,13
+House,115,1,177,177,2017-03-21,Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.,On Agreeing to the Resolution,Passed,234,182,0,13
+House,115,1,178,178,2017-03-21,Transparency in Technological Acquisitions Act of 2017,On Motion to Suspend the Rules and Pass,Passed,414,2,0,13
+House,115,1,179,179,2017-03-21,Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees,On Ordering the Previous Question,Passed,233,186,0,10
+House,115,1,180,180,2017-03-21,Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees,On Agreeing to the Resolution,Passed,233,186,0,10
+House,115,1,181,181,2017-03-21,Quadrennial Homeland Security Review Technical Corrections Act of 2017,On Motion to Suspend the Rules and Pass,Passed,415,0,0,14
+House,115,1,182,182,2017-03-22,,Table Appeal of the Ruling of the Chair,Passed,230,189,1,9
+House,115,1,183,183,2017-03-22,Competitive Health Insurance Reform Act of 2017,On Motion to Recommit with Instructions,Failed,189,233,0,7
+House,115,1,185,185,2017-03-22,Small Business Health Fairness Act,On Motion to Recommit with Instructions,Failed,179,233,0,17
+House,115,1,184,184,2017-03-22,Competitive Health Insurance Reform Act of 2017,On Passage,Passed,416,7,0,6
+House,115,1,186,186,2017-03-22,Small Business Health Fairness Act,On Passage,Passed,236,175,0,18
+House,115,1,188,188,2017-03-23,"Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules",On Ordering the Previous Question,Passed,233,185,0,11
+House,115,1,187,187,2017-03-22,Securing our Agriculture and Food Act,On Motion to Suspend the Rules and Pass,Passed,406,6,0,17
+House,115,1,189,189,2017-03-23,"Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,227,189,0,13
+House,115,1,190,190,2017-03-23,,On Approving the Journal,Passed,202,197,4,26
+House,115,1,191,191,2017-03-24,"Providing for consideration of H.R. 1628, the American Health Care Act of 2017",On Ordering the Previous Question,Passed,236,186,0,7
+House,115,1,192,192,2017-03-24,"Providing for consideration of H.R. 1628, the American Health Care Act of 2017",On Agreeing to the Resolution,Passed,230,194,0,5
+House,115,1,193,193,2017-03-24,Department of Homeland Security Acquisition Innovation Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,424,0,0,5
+House,115,1,194,194,2017-03-24,,On Approving the Journal,Passed,218,201,1,9
+House,115,1,195,195,2017-03-27,To require the Administrator of the Federal Emergency Management Agency to submit a report regarding certain plans regarding assistance to applicants and grantees during the response to an emergency or disaster,"On Motion to Suspend the Rules and Pass, as Amended",Passed,408,0,0,21
+House,115,1,196,196,2017-03-27,Pacific Northwest Earthquake Preparedness Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,395,11,0,23
+House,115,1,197,197,2017-03-28,"Providing for consideration of the bill H.R. 1430, the Honest and Open New EPA Science Treatment Act of 2017",On Ordering the Previous Question,Passed,231,189,0,9
+House,115,1,198,198,2017-03-28,"Providing for consideration of the bill H.R. 1430, the Honest and Open New EPA Science Treatment Act of 2017",On Agreeing to the Resolution,Passed,231,185,0,13
+House,115,1,199,199,2017-03-28,"Providing for consideration of S.J.Res. 34, providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to “Protecting the Privacy of Customers of Broadband and Other Telecommunications Services”.",On Ordering the Previous Question,Passed,232,184,0,13
+House,115,1,200,200,2017-03-28,"Providing for consideration of S.J.Res. 34, providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to “Protecting the Privacy of Customers of Broadband and Other Telecommunications Services”.",On Agreeing to the Resolution,Passed,231,189,0,9
+House,115,1,201,201,2017-03-28,,Table Appeal of the Ruling of the Chair,Passed,228,190,2,9
+House,115,1,202,202,2017-03-28,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to “Protecting the Privacy of Customers of Broadband and Other Telecommunications Services”",On Passage,Passed,215,205,0,9
+House,115,1,203,203,2017-03-29,"Providing for consideration of the bill (H.R. 1431) to amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes",On Ordering the Previous Question,Passed,232,191,0,6
+House,115,1,204,204,2017-03-29,"Providing for consideration of the bill (H.R. 1431) to amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes",On Agreeing to the Resolution,Passed,232,188,0,9
+House,115,1,205,205,2017-03-29,Honest and Open New EPA Science Treatment Act,On Motion to Recommit with Instructions,Failed,189,232,0,8
+House,115,1,206,206,2017-03-29,Honest and Open New EPA Science Treatment Act,On Passage,Passed,228,194,0,7
+House,115,1,207,207,2017-03-30,EPA Science Advisory Board Reform Act of 2017,On Motion to Recommit with Instructions,Failed,189,233,0,7
+House,115,1,208,208,2017-03-30,EPA Science Advisory Board Reform Act of 2017,On Passage,Passed,229,193,0,7
+House,115,1,209,209,2017-04-03,"Condemning North Korea’s development of multiple intercontinental ballistic missiles, and for other purposes","On Motion to Suspend the Rules and Agree, as Amended",Passed,398,3,0,28
+House,115,1,210,210,2017-04-03,North Korea State Sponsor of Terrorism Designation Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,394,1,0,34
+House,115,1,211,211,2017-04-04,"Providing for consideration of H.R. 1304, the Self-Insurance Protection Act",On Ordering the Previous Question,Passed,232,188,0,9
+House,115,1,212,212,2017-04-04,"Providing for consideration of H.R. 1304, the Self-Insurance Protection Act",On Agreeing to the Resolution,Passed,234,184,0,11
+House,115,1,213,213,2017-04-04,"Providing for consideration of H.R. 1343, the Encouraging Employee Ownership Act of 2017",On Ordering the Previous Question,Passed,229,187,0,13
+House,115,1,214,214,2017-04-04,"Providing for consideration of H.R. 1343, the Encouraging Employee Ownership Act of 2017",On Agreeing to the Resolution,Passed,238,177,0,14
+House,115,1,215,215,2017-04-04,Encouraging Employee Ownership Act,On Motion to Recommit with Instructions,Failed,185,228,0,16
+House,115,1,216,216,2017-04-04,Encouraging Employee Ownership Act,On Passage,Passed,331,87,0,11
+House,115,1,217,217,2017-04-05,"Providing for consideration of H.R. 1219, Supporting America’s Innovators Act of 2017",On Ordering the Previous Question,Passed,231,182,0,16
+House,115,1,218,218,2017-04-05,"Providing for consideration of H.R. 1219, Supporting America’s Innovators Act of 2017",On Agreeing to the Resolution,Passed,240,181,0,8
+House,115,1,219,219,2017-04-05,,Table Appeal of the Ruling of the Chair,Passed,228,185,2,14
+House,115,1,220,220,2017-04-05,Self-Insurance Protection Act,On Passage,Passed,400,16,0,13
+House,115,1,221,221,2017-04-06,Supporting America’s Innovators Act,On Passage,Passed,417,3,0,9
+House,115,1,222,222,2017-04-25,Relating to efforts to respond to the famine in South Sudan,"On Motion to Suspend the Rules and Agree, as Amended",Passed,411,2,0,16
+House,115,1,223,223,2017-04-25,Aviation Employee Screening and Security Enhancement Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,0,0,21
+House,115,1,224,224,2017-04-26,"Providing for consideration of the bill (H.R. 1695) to amend title 17, United States Code, to provide additional responsibilities for the Register of Copyrights, and for other purposes",On Ordering the Previous Question,Passed,234,191,0,5
+House,115,1,225,225,2017-04-26,"Providing for consideration of the bill (H.R. 1695) to amend title 17, United States Code, to provide additional responsibilities for the Register of Copyrights, and for other purposes",On Agreeing to the Resolution,Passed,237,186,0,7
+House,115,1,226,226,2017-04-26,,On Agreeing to the Amendment,Agreed to,410,14,0,6
+House,115,1,227,227,2017-04-26,Register of Copyrights Selection and Accountability Act,On Passage,Passed,378,48,0,4
+House,115,1,228,228,2017-04-26,,On Approving the Journal,Passed,237,161,2,30
+House,115,1,229,229,2017-04-27,"Providing for consideration of H.R. 1694, the Fannie and Freddie Open Records Act of 2017; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules",On Ordering the Previous Question,Passed,230,193,0,7
+House,115,1,230,230,2017-04-27,"Providing for consideration of H.R. 1694, the Fannie and Freddie Open Records Act of 2017; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules",On Agreeing to the Resolution,Passed,226,192,0,12
+House,115,1,231,231,2017-04-27,To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled “Metropolitan Planning Organization Coordination and Planning Area Reform”,On Motion to Suspend the Rules and Pass,Passed,417,3,0,10
+House,115,1,232,232,2017-04-27,,On Agreeing to the Amendment,Agreed to,410,5,0,15
+House,115,1,233,233,2017-04-27,Fannie and Freddie Open Records Act of 2017,On Passage,Passed,425,0,0,5
+House,115,1,234,234,2017-04-27,,On Approving the Journal,Passed,249,163,2,16
+House,115,1,235,235,2017-04-28,"Providing for consideration of the joint resolution (H.J. Res. 99) making further continuing appropriations for fiscal year 2017, and for other purposes",On Agreeing to the Resolution,Passed,235,178,0,17
+House,115,1,236,236,2017-04-28,"Making further continuing appropriations for fiscal year 2017, and for other purposes",On Passage,Passed,382,30,0,18
+House,115,1,238,238,2017-05-01,Small Business Capital Formation Enhancement Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,406,0,0,24
+House,115,1,237,237,2017-05-01,Fair Access to Investment Research Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,405,2,0,23
+House,115,1,239,239,2017-05-01,Follow the Rules Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,407,0,0,23
+House,115,1,240,240,2017-05-02,"Providing for consideration of H.R. 1180, Working Families Flexibility Act of 2017",On Ordering the Previous Question,Passed,233,190,0,7
+House,115,1,241,241,2017-05-02,"Providing for consideration of H.R. 1180, Working Families Flexibility Act of 2017",On Agreeing to the Resolution,Passed,231,193,0,6
+House,115,1,242,242,2017-05-02,"FEMA Accountability, Modernization and Transparency Act of 2017",On Motion to Suspend the Rules and Pass,Passed,419,0,0,11
+House,115,1,243,243,2017-05-02,Working Families Flexibility Act of 2017,On Motion to Recommit with Instructions,Failed,192,234,0,4
+House,115,1,244,244,2017-05-02,Working Families Flexibility Act of 2017,On Passage,Passed,229,197,0,4
+House,115,1,245,245,2017-05-02,,On Approving the Journal,Passed,237,176,3,14
+House,115,1,246,246,2017-05-03,"Providing for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes",On Ordering the Previous Question,Passed,231,192,0,7
+House,115,1,247,247,2017-05-03,"Providing for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes",On Agreeing to the Resolution,Passed,240,186,0,4
+House,115,1,248,248,2017-05-03,Disaster Declaration Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,425,0,0,5
+House,115,1,249,249,2017-05-03,HIRE Vets Act,"On Motion to Concur in Senate Amendments Nos. 2 and 3, and in No. 1 with Amendment",Passed,309,118,0,4
+House,115,1,250,250,2017-05-03,"To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act concerning the statute of limitations for actions to recover disaster or emergency assistance payments, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,423,0,0,7
+House,115,1,251,251,2017-05-03,,On Approving the Journal,Passed,236,178,0,16
+House,115,1,252,252,2017-05-04,"Providing for consideration of H.R. 2192, to amend the Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff; and providing for further consideration of H.R. 1628, the American Health Care Act of 2017",On Ordering the Previous Question,Passed,235,193,0,2
+House,115,1,253,253,2017-05-04,"Providing for consideration of H.R. 2192, to amend the Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff; and providing for further consideration of H.R. 1628, the American Health Care Act of 2017",On Agreeing to the Resolution,Passed,235,192,0,3
+House,115,1,254,254,2017-05-04,,On Approving the Journal,Passed,233,186,2,9
+House,115,1,256,256,2017-05-04,American Health Care Act,On Passage,Passed,217,213,0,1
+House,115,1,257,257,2017-05-04,Korean Interdiction and Modernization of Sanctions Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,419,1,0,10
+House,115,1,255,255,2017-05-04,To amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff,On Passage,Passed,429,0,0,2
+House,115,1,258,258,2017-05-16,Strengthening State and Local Cyber Crime Fighting Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,408,3,0,19
+House,115,1,259,259,2017-05-17,"Providing for consideration of the bill (H.R. 115) to amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim",On Ordering the Previous Question,Passed,230,189,0,11
+House,115,1,260,260,2017-05-17,"Providing for consideration of the bill (H.R. 115) to amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim",On Agreeing to the Resolution,Passed,233,184,0,13
+House,115,1,261,261,2017-05-17,,Table Appeal of the Ruling of the Chair,Passed,229,188,1,12
+House,115,1,262,262,2017-05-17,Removing Outdated Restrictions to Allow for Job Growth Act,On Motion to Suspend the Rules and Pass,Passed,418,1,0,11
+House,115,1,263,263,2017-05-18,"Providing for consideration of the bill (H.R. 1039) to amend section 3606 of title 18, United States Code, to grant probation officers authority to arrest hostile third parties who obstruct or impede a probation officer in the performance of official duties.",On Ordering the Previous Question,Passed,226,188,0,16
+House,115,1,264,264,2017-05-18,"Providing for consideration of the bill (H.R. 1039) to amend section 3606 of title 18, United States Code, to grant probation officers authority to arrest hostile third parties who obstruct or impede a probation officer in the performance of official duties.",On Agreeing to the Resolution,Passed,230,184,0,16
+House,115,1,265,265,2017-05-18,Thin Blue Line Act,On Passage,Passed,271,143,0,16
+House,115,1,266,266,2017-05-18,Honoring Hometown Heroes Act,On Motion to Suspend the Rules and Pass,Passed,411,1,0,18
+House,115,1,267,267,2017-05-19,,On Agreeing to the Amendment,Failed,178,229,0,23
+House,115,1,268,268,2017-05-19,Probation Officer Protection Act of 2017,On Passage,Passed,229,177,0,24
+House,115,1,269,269,2017-05-22,Global Child Protection Act of 2017,On Motion to Suspend the Rules and Pass,Passed,372,30,0,28
+House,115,1,270,270,2017-05-22,Strengthening Children’s Safety Act of 2017,On Motion to Suspend the Rules and Pass,Passed,371,30,1,28
+House,115,1,271,271,2017-05-23,"Providing for consideration of H. R. 953, the Reducing Regulatory Burdens Act of 2017",On Ordering the Previous Question,Passed,229,191,0,10
+House,115,1,272,272,2017-05-23,"Providing for consideration of H. R. 953, the Reducing Regulatory Burdens Act of 2017",On Agreeing to the Resolution,Passed,232,189,0,9
+House,115,1,273,273,2017-05-23,Veterans Appeals Improvement and Modernization Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,418,0,0,12
+House,115,1,274,274,2017-05-24,,Table Appeal of the Ruling of the Chair,Passed,225,187,1,17
+House,115,1,275,275,2017-05-24,"Providing for consideration of H.R. 1973, Protecting Young Victims from Sexual Abuse Act of 2017; providing for consideration of HR 1761, Protecting Against Child Exploitation Act of 2017; providing for proceedings during the period from May 26, 2017, through June 5, 2017",On Ordering the Previous Question,Passed,231,188,0,11
+House,115,1,276,276,2017-05-24,"Providing for consideration of H.R. 1973, Protecting Young Victims from Sexual Abuse Act of 2017; providing for consideration of HR 1761, Protecting Against Child Exploitation Act of 2017; providing for proceedings during the period from May 26, 2017, through June 5, 2017",On Agreeing to the Resolution,Passed,239,179,0,12
+House,115,1,277,277,2017-05-24,PRIVATE Act,On Motion to Suspend the Rules and Pass,Passed,418,0,0,12
+House,115,1,278,278,2017-05-24,VA Scheduling Accountability Act,On Motion to Suspend the Rules and Pass,Passed,419,0,0,11
+House,115,1,279,279,2017-05-24,,On Agreeing to the Amendment,Failed,191,229,0,10
+House,115,1,280,280,2017-05-24,,On Agreeing to the Amendment,Failed,189,230,0,11
+House,115,1,281,281,2017-05-24,Reducing Regulatory Burdens Act,On Motion to Recommit with Instructions,Failed,183,230,0,17
+House,115,1,282,282,2017-05-24,Reducing Regulatory Burdens Act,On Passage,Passed,256,165,0,9
+House,115,1,283,283,2017-05-25,,On Agreeing to the Amendment,Failed,180,238,0,12
+House,115,1,284,284,2017-05-25,Protecting Against Child Exploitation Act of 2017,On Passage,Passed,368,51,0,11
+House,115,1,285,285,2017-05-25,Protecting Young Victims from Sexual Abuse Act of 2017,On Passage,Passed,415,3,0,12
+House,115,1,286,286,2017-06-06,"Condemning the violence against peaceful protesters outside the Turkish Ambassador’s residence on May 16, 2017, and calling for the perpetrators to be brought to justice and measures to be taken to prevent similar incidents in the future","On Motion to Suspend the Rules and Agree, as Amended",Passed,397,0,0,33
+House,115,1,287,287,2017-06-06,"Condemning in the strongest terms the terrorist attacks in Manchester, United Kingdom, on May 22, 2017, expressing heartfelt condolences, and reaffirming unwavering support for the special relationship between our peoples and nations in the wake of these attacks","On Motion to Suspend the Rules and Agree, as Amended",Passed,397,0,0,33
+House,115,1,288,288,2017-06-07,"Providing for consideration of H.R. 2213, the Anti-Border Corruption Reauthorization Act of 2017, and for other purposes",On Ordering the Previous Question,Passed,228,189,0,13
+House,115,1,289,289,2017-06-07,"Providing for consideration of H.R. 2213, the Anti-Border Corruption Reauthorization Act of 2017, and for other purposes",On Agreeing to the Resolution,Passed,231,185,0,14
+House,115,1,290,290,2017-06-07,"Providing for consideration of H.R. 10, the Financial CHOICE Act of 2017, and for other purposes",On Ordering the Previous Question,Passed,228,185,0,17
+House,115,1,291,291,2017-06-07,"Providing for consideration of H.R. 10, the Financial CHOICE Act of 2017, and for other purposes",On Agreeing to the Resolution,Passed,231,188,0,11
+House,115,1,292,292,2017-06-07,,Table Appeal of the Ruling of the Chair,Passed,228,186,1,15
+House,115,1,293,293,2017-06-07,,On Agreeing to the Amendment,Failed,179,238,0,13
+House,115,1,294,294,2017-06-07,Anti-Border Corruption Reauthorization Act,On Passage,Passed,282,137,0,11
+House,115,1,295,295,2017-06-08,,On Agreeing to the Amendment,Agreed to,232,185,0,13
+House,115,1,296,296,2017-06-08,,On Agreeing to the Amendment,Agreed to,231,180,0,19
+House,115,1,297,297,2017-06-08,,On Agreeing to the Amendment,Agreed to,235,184,0,11
+House,115,1,298,298,2017-06-08,,On Agreeing to the Amendment,Agreed to,233,185,0,12
+House,115,1,299,299,2017-06-08,Financial CHOICE Act of 2017,On Passage,Passed,233,186,0,11
+House,115,1,300,300,2017-06-12,To extend a project of the Federal Energy Regulatory Commission involving the Cannonsville Dam,On Motion to Suspend the Rules and Pass,Passed,400,1,0,29
+House,115,1,301,301,2017-06-12,J. Bennett Johnston Waterway Hydropower Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,402,1,0,27
+House,115,1,302,302,2017-06-13,"Providing for consideration of H.R. 2581, the Verify First Act; and providing for consideration of S. 1094, the Department of Veterans Affairs Accountability and Whistleblower Protection Act of 2017, and for other purposes",On Ordering the Previous Question,Passed,229,189,0,12
+House,115,1,303,303,2017-06-13,"Providing for consideration of H.R. 2581, the Verify First Act; and providing for consideration of S. 1094, the Department of Veterans Affairs Accountability and Whistleblower Protection Act of 2017, and for other purposes",On Agreeing to the Resolution,Passed,229,190,0,11
+House,115,1,304,304,2017-06-13,,On Approving the Journal,Passed,238,166,2,24
+House,115,1,305,305,2017-06-13,Verify First Act,On Motion to Recommit with Instructions,Failed,193,231,0,6
+House,115,1,306,306,2017-06-13,Verify First Act,On Passage,Passed,238,184,0,8
+House,115,1,307,307,2017-06-13,Department of Veterans Affairs Accountability and Whistleblower Protection Act,On Passage,Passed,368,55,0,7
+House,115,1,308,308,2017-06-15,Broader Options for Americans Act,On Passage,Passed,267,144,0,19
+House,115,1,309,309,2017-06-20,Improving Services for Older Youth in Foster Care Act,On Motion to Suspend the Rules and Pass,Passed,391,8,0,31
+House,115,1,310,310,2017-06-20,Reducing Unnecessary Barriers for Relative Foster Parents Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,382,19,0,29
+House,115,1,311,311,2017-06-21,,Table Appeal of the Ruling of the Chair,Passed,227,188,1,14
+House,115,1,312,312,2017-06-21,"Providing for consideration of H.R. 1873, the Electricity and Reliability and Forest Protection Act; and H.R.1654, the Water Supply Permitting Coordination Act",On Ordering the Previous Question,Passed,229,186,0,16
+House,115,1,313,313,2017-06-21,"Providing for consideration of H.R. 1873, the Electricity and Reliability and Forest Protection Act; and H.R.1654, the Water Supply Permitting Coordination Act",On Agreeing to the Resolution,Passed,230,185,0,16
+House,115,1,314,314,2017-06-21,,On Agreeing to the Amendment,Failed,171,243,0,17
+House,115,1,316,316,2017-06-22,"Providing for consideration of the bill (H.R. 2842) to provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients, and providing for consideration of motions to suspend the rules.",On Ordering the Previous Question,Passed,226,184,0,21
+House,115,1,315,315,2017-06-21,Electricity Reliability and Forest Protection Act,On Passage,Passed,300,118,0,13
+House,115,1,317,317,2017-06-22,"Providing for consideration of the bill (H.R. 2842) to provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients, and providing for consideration of motions to suspend the rules.",On Agreeing to the Resolution,Passed,233,179,0,19
+House,115,1,319,319,2017-06-22,Water Supply Permitting Coordination Act,On Passage,Passed,233,180,0,18
+House,115,1,318,318,2017-06-22,,On Agreeing to the Amendment,Failed,179,232,0,20
+House,115,1,320,320,2017-06-23,,On Agreeing to the Amendment,Agreed to,380,32,0,19
+House,115,1,322,322,2017-06-23,Accelerating Individuals into the Workforce Act,On Passage,Passed,377,34,0,20
+House,115,1,321,321,2017-06-23,,On Agreeing to the Amendment,Agreed to,264,147,0,20
+House,115,1,323,323,2017-06-26,Veterans Expanded Trucking Opportunities Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,0,0,22
+House,115,1,325,325,2017-06-27,"Providing for consideration of H.R. 1215, the Protecting Access to Care Act of 2017",On Ordering the Previous Question,Passed,234,184,0,15
+House,115,1,324,324,2017-06-26,Active Duty Voluntary Acquisition of Necessary Credentials for Employment (ADVANCE) Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,0,0,24
+House,115,1,326,326,2017-06-27,"Providing for consideration of H.R. 1215, the Protecting Access to Care Act of 2017",On Agreeing to the Resolution,Passed,235,186,0,12
+House,115,1,327,327,2017-06-27,,On Approving the Journal,Passed,238,178,2,15
+House,115,1,328,328,2017-06-27,Solemnly reaffirming the commitment of the United States to the North Atlantic Treaty Organization’s principle of collective defense as enumerated in Article 5 of the North Atlantic Treaty,On Motion to Suspend the Rules and Agree,Passed,423,4,0,6
+House,115,1,329,329,2017-06-27,Santa Ana River Wash Plan Land Exchange Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,424,0,0,9
+House,115,1,330,330,2017-06-27,"To authorize the expansion of an existing hydroelectric project, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,424,1,0,8
+House,115,1,331,331,2017-06-28,"Providing for consideration of H.R. 3003, the No Sanctuary for Criminals Act",On Ordering the Previous Question,Passed,235,190,0,8
+House,115,1,332,332,2017-06-28,"Providing for consideration of H.R. 3003, the No Sanctuary for Criminals Act",On Agreeing to the Resolution,Passed,235,190,0,8
+House,115,1,333,333,2017-06-28,,On Approving the Journal,Passed,232,183,2,16
+House,115,1,334,334,2017-06-28,,On Agreeing to the Amendment,Agreed to,222,197,0,14
+House,115,1,335,335,2017-06-28,,On Agreeing to the Amendment,Failed,116,310,0,7
+House,115,1,336,336,2017-06-28,Protecting Access to Care Act,On Motion to Recommit with Instructions,Failed,191,235,0,7
+House,115,1,337,337,2017-06-28,Protecting Access to Care Act,On Passage,Passed,218,210,0,6
+House,115,1,338,338,2017-06-28,Robert Emmet Park Act,On Motion to Suspend the Rules and Pass,Passed,423,0,0,10
+House,115,1,339,339,2017-06-29,"Providing for consideration of the bill (H.R. 3004) to amend section 276 of the Immigration and Nationality Act relating to reentry of removed aliens, and providing for proceedings during the period from July 3, 2017, through July 10, 2017",On Ordering the Previous Question,Passed,235,190,0,8
+House,115,1,340,340,2017-06-29,"Providing for consideration of the bill (H.R. 3004) to amend section 276 of the Immigration and Nationality Act relating to reentry of removed aliens, and providing for proceedings during the period from July 3, 2017, through July 10, 2017",On Agreeing to the Resolution,Passed,236,191,0,6
+House,115,1,341,341,2017-06-29,No Sanctuary for Criminals Act,On Motion to Recommit with Instructions,Failed,181,230,0,22
+House,115,1,343,343,2017-06-29,Kate’s Law,On Motion to Recommit with Instructions,Failed,193,232,0,8
+House,115,1,342,342,2017-06-29,No Sanctuary for Criminals Act,On Passage,Passed,228,195,0,10
+House,115,1,344,344,2017-06-29,Kate’s Law,On Passage,Passed,257,167,0,9
+House,115,1,346,346,2017-07-11,"To authorize the Secretary of the Interior to acquire approximately 44 acres of land in Martinez, California, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,401,15,0,17
+House,115,1,345,345,2017-07-11,"To authorize, direct, facilitate, and expedite the transfer of administrative jurisdiction of certain Federal land, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,406,0,0,26
+House,115,1,347,347,2017-07-12,"Providing for consideration of H.R. 2810, the National Defense Authorization Act for Fiscal Year 2018; and H.R. 23, Gaining Responsibility on Water Act of 2017",On Ordering the Previous Question,Passed,234,183,0,16
+House,115,1,348,348,2017-07-12,"Providing for consideration of H.R. 2810, the National Defense Authorization Act for Fiscal Year 2018; and H.R. 23, Gaining Responsibility on Water Act of 2017",On Agreeing to the Resolution,Passed,232,187,0,14
+House,115,1,349,349,2017-07-12,Medical Controlled Substances Transportation Act,On Motion to Suspend the Rules and Pass,Passed,416,2,0,15
+House,115,1,350,350,2017-07-12,,On Agreeing to the Amendment,Failed,201,221,0,11
+House,115,1,352,352,2017-07-12,Gaining Responsibility on Water Act,On Passage,Passed,230,190,0,13
+House,115,1,351,351,2017-07-12,Gaining Responsibility on Water Act,On Motion to Recommit with Instructions,Failed,189,230,0,14
+House,115,1,354,354,2017-07-13,"Providing for further consideration of H.R. 2810, the National Defense Authorization Act for Fiscal Year 2018",On Ordering the Previous Question,Passed,234,187,0,12
+House,115,1,355,355,2017-07-13,"Providing for further consideration of H.R. 2810, the National Defense Authorization Act for Fiscal Year 2018",On Agreeing to the Resolution,Passed,230,190,0,13
+House,115,1,353,353,2017-07-13,,On Motion to Adjourn,Failed,77,326,0,30
+House,115,1,356,356,2017-07-13,,On Agreeing to the Amendment,Failed,198,225,0,10
+House,115,1,357,357,2017-07-13,,On Agreeing to the Amendment,Failed,73,351,0,9
+House,115,1,358,358,2017-07-13,,On Agreeing to the Amendment,Failed,179,245,0,9
+House,115,1,359,359,2017-07-13,,On Agreeing to the Amendment,Failed,167,257,0,9
+House,115,1,360,360,2017-07-13,,On Agreeing to the Amendment,Failed,173,249,0,11
+House,115,1,361,361,2017-07-13,,On Agreeing to the Amendment,Failed,188,235,0,10
+House,115,1,362,362,2017-07-13,,On Agreeing to the Amendment,Agreed to,253,172,0,8
+House,115,1,363,363,2017-07-13,,On Agreeing to the Amendment,Failed,192,232,0,9
+House,115,1,364,364,2017-07-13,,On Agreeing to the Amendment,Failed,169,254,0,10
+House,115,1,365,365,2017-07-13,,On Agreeing to the Amendment,Failed,175,248,0,10
+House,115,1,366,366,2017-07-13,,On Agreeing to the Amendment,Failed,198,220,0,15
+House,115,1,367,367,2017-07-13,,On Agreeing to the Amendment,Failed,203,218,0,12
+House,115,1,368,368,2017-07-13,,On Agreeing to the Amendment,Failed,185,234,0,14
+House,115,1,369,369,2017-07-13,,On Agreeing to the Amendment,Failed,209,214,0,10
+House,115,1,370,370,2017-07-13,,On Agreeing to the Amendment,Failed,183,242,0,8
+House,115,1,371,371,2017-07-13,,On Agreeing to the Amendment,Failed,107,318,0,8
+House,115,1,372,372,2017-07-14,,On Agreeing to the Amendment,Failed,208,217,0,8
+House,115,1,373,373,2017-07-14,,On Agreeing to the Amendment,Agreed to,235,189,0,9
+House,115,1,374,374,2017-07-14,,On Agreeing to the Amendment,Agreed to,244,181,0,8
+House,115,1,375,375,2017-07-14,,On Agreeing to the Amendment,Agreed to,234,190,0,9
+House,115,1,376,376,2017-07-14,,On Agreeing to the Amendment,Agreed to,424,0,0,9
+House,115,1,377,377,2017-07-14,National Defense Authorization Act for Fiscal Year 2018,On Motion to Recommit with Instructions,Failed,190,235,0,8
+House,115,1,378,378,2017-07-14,National Defense Authorization Act for Fiscal Year 2018,On Passage,Passed,344,81,0,8
+House,115,1,379,379,2017-07-17,Sergeant Joseph George Kusick VA Community Living Center,On Motion to Suspend the Rules and Pass,Passed,401,0,0,32
+House,115,1,380,380,2017-07-17,"Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to amend the Washington Area Transit Regulation Compact",On Motion to Suspend the Rules and Pass,Passed,402,0,0,31
+House,115,1,381,381,2017-07-17,"Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to a enter into a compact relating to the establishment of the Washington Metrorail Satefy Commission","On Motion to Suspend the Rules and Pass, as Amended",Passed,399,5,0,29
+House,115,1,382,382,2017-07-18,"Providing for consideration of H.R. 806, the Ozone Standards Implementation Act of 2017",On Ordering the Previous Question,Passed,231,188,0,14
+House,115,1,383,383,2017-07-18,"Providing for consideration of H.R. 806, the Ozone Standards Implementation Act of 2017",On Agreeing to the Resolution,Passed,235,188,0,10
+House,115,1,384,384,2017-07-18,To amend the Federal Power Act with respect to the criteria and process to qualify as a qualifying conduit hydropower facility,"On Motion to Suspend the Rules and Pass, as Amended",Passed,420,2,0,11
+House,115,1,385,385,2017-07-18,,On Agreeing to the Amendment,Failed,194,232,0,7
+House,115,1,386,386,2017-07-18,,On Agreeing to the Amendment,Failed,182,241,0,10
+House,115,1,387,387,2017-07-18,,On Agreeing to the Amendment,Failed,191,235,0,7
+House,115,1,388,388,2017-07-18,,On Agreeing to the Amendment,Failed,186,242,0,5
+House,115,1,389,389,2017-07-18,,On Agreeing to the Amendment,Failed,190,236,0,7
+House,115,1,390,390,2017-07-18,Ozone Standards Implementation Act of 2017,On Motion to Recommit with Instructions,Failed,191,235,0,7
+House,115,1,391,391,2017-07-18,Ozone Standards Implementation Act of 2017,On Passage,Passed,229,199,0,5
+House,115,1,392,392,2017-07-19,,Table Appeal of the Ruling of the Chair,Passed,235,190,1,7
+House,115,1,393,393,2017-07-19,Providing for consideration of the bills (H.R. 2910) Promoting Interagency Coordination for Review of Natural Gas Pipelines Act; (H.R. 2883) Promoting Cross-Border Energy Infrastructure Act; and (H.R. 218) King Cove Road Land Exchange Act,On Ordering the Previous Question,Passed,236,192,0,5
+House,115,1,394,394,2017-07-19,Providing for consideration of the bills (H.R. 2910) Promoting Interagency Coordination for Review of Natural Gas Pipelines Act; (H.R. 2883) Promoting Cross-Border Energy Infrastructure Act; and (H.R. 218) King Cove Road Land Exchange Act,On Agreeing to the Resolution,Passed,234,194,0,5
+House,115,1,395,395,2017-07-19,,On Agreeing to the Amendment,Failed,182,246,0,5
+House,115,1,396,396,2017-07-19,,On Agreeing to the Amendment,Failed,179,247,0,7
+House,115,1,397,397,2017-07-19,Promoting Cross-Border Energy Infrastructure Act,On Motion to Recommit with Instructions,Failed,193,232,0,8
+House,115,1,398,398,2017-07-19,Promoting Cross-Border Energy Infrastructure Act,On Passage,Passed,254,175,0,4
+House,115,1,399,399,2017-07-19,,On Agreeing to the Amendment,Failed,180,249,0,4
+House,115,1,400,400,2017-07-19,,On Agreeing to the Amendment,Failed,192,236,0,5
+House,115,1,401,401,2017-07-19,Promoting Interagency Coordination for Review of Natural Gas Pipelines Act,On Motion to Recommit with Instructions,Failed,189,239,0,5
+House,115,1,402,402,2017-07-19,Promoting Interagency Coordination for Review of Natural Gas Pipelines Act,On Passage,Passed,248,179,0,6
+House,115,1,403,403,2017-07-20,DHS Authorization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,386,41,0,6
+House,115,1,404,404,2017-07-20,,On Agreeing to the Amendment,Failed,190,234,0,9
+House,115,1,405,405,2017-07-20,,On Agreeing to the Amendment,Failed,167,260,0,6
+House,115,1,406,406,2017-07-20,King Cove Road Land Exchange Act,On Passage,Passed,248,179,0,6
+House,115,1,408,408,2017-07-24,"To amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs","On Motion to Suspend the Rules and Pass, as Amended",Failed,219,186,0,28
+House,115,1,407,407,2017-07-24,Intelligence Authorization Act for Fiscal Year 2018,"On Motion to Suspend the Rules and Pass, as Amended",Failed,241,163,0,29
+House,115,1,409,409,2017-07-24,Harry W. Colmery Veterans Educational Assistance Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,405,0,0,28
+House,115,1,411,411,2017-07-25,"Providing for consideration of the joint resolution (H.J.Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to “Arbitration Agreements”.",On Agreeing to the Resolution,Passed,233,188,0,12
+House,115,1,410,410,2017-07-25,"Providing for consideration of the joint resolution (H.J.Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to “Arbitration Agreements”.",On Ordering the Previous Question,Passed,229,184,0,20
+House,115,1,412,412,2017-07-25,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to “Arbitration Agreements”",On Passage,Passed,231,190,0,12
+House,115,1,413,413,2017-07-25,Countering America’s Adversaries Through Sanctions Act,On Motion to Suspend the Rules and Pass,Passed,419,3,0,11
+House,115,1,414,414,2017-07-26,"Providing for consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes",On Ordering the Previous Question,Passed,230,193,0,10
+House,115,1,415,415,2017-07-26,"Providing for consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes",On Agreeing to the Resolution,Passed,232,192,0,9
+House,115,1,416,416,2017-07-26,,On Agreeing to the Amendment,Failed,107,314,0,12
+House,115,1,418,418,2017-07-26,,On Agreeing to the Amendment,Failed,191,236,0,6
+House,115,1,417,417,2017-07-26,,On Agreeing to the Amendment,Failed,116,309,0,8
+House,115,1,419,419,2017-07-26,,On Agreeing to the Amendment,Failed,178,249,0,6
+House,115,1,420,420,2017-07-26,,On Agreeing to the Amendment,Failed,181,246,0,6
+House,115,1,421,421,2017-07-26,,On Agreeing to the Amendment,Failed,186,241,0,6
+House,115,1,422,422,2017-07-26,,On Agreeing to the Amendment,Failed,203,224,0,6
+House,115,1,423,423,2017-07-26,,On Agreeing to the Amendment,Failed,180,247,0,6
+House,115,1,425,425,2017-07-26,,On Agreeing to the Amendment,Agreed to,234,192,0,7
+House,115,1,424,424,2017-07-26,,On Agreeing to the Amendment,Failed,192,235,0,6
+House,115,1,426,426,2017-07-27,"Providing for further consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending Sept. 30, 2018, and for other purposes, and providing for consideration of motions to suspend the rules",On Ordering the Previous Question,Passed,233,185,0,15
+House,115,1,427,427,2017-07-27,"Providing for further consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending Sept. 30, 2018, and for other purposes, and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,230,196,0,7
+House,115,1,428,428,2017-07-27,,On Agreeing to the Amendment,Failed,140,285,1,7
+House,115,1,429,429,2017-07-27,,On Agreeing to the Amendment,Failed,177,248,0,8
+House,115,1,430,430,2017-07-27,,On Agreeing to the Amendment,Agreed to,214,211,0,8
+House,115,1,431,431,2017-07-27,,On Agreeing to the Amendment,Agreed to,256,169,0,8
+House,115,1,432,432,2017-07-27,,On Agreeing to the Amendment,Failed,172,252,0,9
+House,115,1,433,433,2017-07-27,,On Agreeing to the Amendment,Agreed to,253,172,0,8
+House,115,1,434,434,2017-07-27,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes",On Motion to Recommit with Instructions,Failed,193,234,0,6
+House,115,1,435,435,2017-07-27,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes",On Passage,Passed,235,192,0,6
+House,115,1,437,437,2017-07-28,Intelligence Authorization Act for Fiscal Year 2018,On Passage,Passed,380,35,0,18
+House,115,1,436,436,2017-07-28,"Providing for consideration of the bill (H.R. 3180) Intelligence Authorization Act for FY 2018; and providing for proceedings during the period from July 31, 2017, through September 4, 2017",On Agreeing to the Resolution,Passed,224,186,0,23
+House,115,1,438,438,2017-07-28,Department of Veterans Affairs Bonus Transparency Act,On Passage,Passed,414,0,0,19
+House,115,1,439,439,2017-09-05,Financial Stability Oversight Council Insurance Member Continuity Act,On Motion to Suspend the Rules and Pass,Passed,407,1,0,25
+House,115,1,440,440,2017-09-05,"To direct the Securities and Exchange Commission to allow certain issuers to be exempt from registration requirements, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,403,3,0,27
+House,115,1,441,441,2017-09-06,"Providing for the concurrence by the House in the Senate amendments to H.R. 601, with an amendment.",On Motion to Suspend the Rules and Agree,Passed,419,3,0,11
+House,115,1,442,442,2017-09-06,Providing for consideration of the bill (H.R. 3354) making appropriations for the Dept. of the Interior; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules,On Ordering the Previous Question,Passed,233,187,0,13
+House,115,1,443,443,2017-09-06,Providing for consideration of the bill (H.R. 3354) making appropriations for the Dept. of the Interior; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules,On Agreeing to the Resolution,Passed,230,191,0,12
+House,115,1,444,444,2017-09-06,,On Approving the Journal,Passed,230,182,2,19
+House,115,1,445,445,2017-09-06,,On Agreeing to the Amendment,Failed,176,241,0,16
+House,115,1,446,446,2017-09-06,,On Agreeing to the Amendment,Failed,141,279,0,13
+House,115,1,447,447,2017-09-06,,On Agreeing to the Amendment,Failed,140,280,0,13
+House,115,1,448,448,2017-09-06,,On Agreeing to the Amendment,Failed,159,260,0,14
+House,115,1,449,449,2017-09-06,,On Agreeing to the Amendment,Failed,128,293,0,12
+House,115,1,450,450,2017-09-06,,On Agreeing to the Amendment,Failed,200,220,0,13
+House,115,1,451,451,2017-09-06,,On Agreeing to the Amendment,Failed,124,295,0,14
+House,115,1,452,452,2017-09-06,,On Agreeing to the Amendment,Failed,139,282,0,12
+House,115,1,453,453,2017-09-06,,On Agreeing to the Amendment,Failed,180,241,0,12
+House,115,1,454,454,2017-09-06,,On Agreeing to the Amendment,Failed,140,280,0,13
+House,115,1,455,455,2017-09-06,,On Agreeing to the Amendment,Agreed to,225,195,0,13
+House,115,1,456,456,2017-09-06,,On Agreeing to the Amendment,Failed,173,246,0,14
+House,115,1,457,457,2017-09-07,"Providing for further consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes",On Ordering the Previous Question,Passed,227,186,0,20
+House,115,1,458,458,2017-09-07,"Providing for further consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes",On Agreeing to the Resolution,Passed,222,190,0,21
+House,115,1,459,459,2017-09-07,,On Agreeing to the Amendment,Failed,205,207,0,21
+House,115,1,460,460,2017-09-07,,On Agreeing to the Amendment,Failed,170,241,0,22
+House,115,1,461,461,2017-09-07,,On Agreeing to the Amendment,Failed,203,211,0,19
+House,115,1,462,462,2017-09-07,,On Agreeing to the Amendment,Failed,182,229,0,22
+House,115,1,463,463,2017-09-07,,On Agreeing to the Amendment,Agreed to,245,168,0,20
+House,115,1,464,464,2017-09-07,,On Agreeing to the Amendment,Failed,173,240,0,20
+House,115,1,465,465,2017-09-07,,On Agreeing to the Amendment,Failed,183,230,0,20
+House,115,1,466,466,2017-09-07,,On Agreeing to the Amendment,Failed,180,230,0,23
+House,115,1,468,468,2017-09-07,,On Agreeing to the Amendment,Agreed to,217,193,0,23
+House,115,1,467,467,2017-09-07,,On Agreeing to the Amendment,Failed,163,248,0,22
+House,115,1,469,469,2017-09-07,,On Agreeing to the Amendment,Failed,105,307,0,21
+House,115,1,470,470,2017-09-07,,On Agreeing to the Amendment,Failed,199,212,0,22
+House,115,1,471,471,2017-09-07,,On Agreeing to the Amendment,Failed,191,221,0,21
+House,115,1,472,472,2017-09-07,,On Agreeing to the Amendment,Agreed to,207,205,0,21
+House,115,1,473,473,2017-09-07,,On Agreeing to the Amendment,Failed,190,218,0,25
+House,115,1,474,474,2017-09-07,,On Agreeing to the Amendment,Failed,184,228,0,21
+House,115,1,475,475,2017-09-07,,On Agreeing to the Amendment,Agreed to,220,191,0,22
+House,115,1,476,476,2017-09-07,,On Agreeing to the Amendment,Failed,194,218,0,21
+House,115,1,477,477,2017-09-07,,On Agreeing to the Amendment,Failed,189,220,0,24
+House,115,1,478,478,2017-09-07,,On Agreeing to the Amendment,Agreed to,215,196,0,22
+House,115,1,479,479,2017-09-07,,On Agreeing to the Amendment,Agreed to,214,197,0,22
+House,115,1,480,480,2017-09-08,Reinforcing Education Accountability in Development Act,On Motion to Concur in the Senate Adt to the House Adt to the Senate Adt,Passed,316,90,0,27
+House,115,1,481,481,2017-09-08,,On Agreeing to the Amendment,Failed,156,248,0,29
+House,115,1,482,482,2017-09-08,,On Agreeing to the Amendment,Failed,178,227,0,28
+House,115,1,483,483,2017-09-08,,On Agreeing to the Amendment,Failed,177,230,0,26
+House,115,1,484,484,2017-09-08,,On Agreeing to the Amendment,Agreed to,216,186,0,31
+House,115,1,485,485,2017-09-12,Little Rock Central High School National Historic Site Boundary Modification Act,On Motion to Suspend the Rules and Pass,Passed,390,0,0,43
+House,115,1,486,486,2017-09-13,"Providing for consideration of H.R. 3697, the Criminal Alien Gang Member Removal Act; providing for proceedings during the period from September 15, 2017, through September 22, 2017",On Ordering the Previous Question,Passed,222,184,0,27
+House,115,1,487,487,2017-09-13,"Providing for consideration of H.R. 3697, the Criminal Alien Gang Member Removal Act; providing for proceedings during the period from September 15, 2017, through September 22, 2017",On Agreeing to the Resolution,Passed,222,186,0,25
+House,115,1,488,488,2017-09-13,,On Agreeing to the Amendment,Agreed to,218,195,0,20
+House,115,1,489,489,2017-09-13,,On Agreeing to the Amendment,Agreed to,225,186,0,22
+House,115,1,490,490,2017-09-13,,On Agreeing to the Amendment,Failed,201,212,0,20
+House,115,1,491,491,2017-09-13,,On Agreeing to the Amendment,Failed,198,212,0,23
+House,115,1,492,492,2017-09-13,,On Agreeing to the Amendment,Failed,151,260,0,22
+House,115,1,493,493,2017-09-13,,On Agreeing to the Amendment,Agreed to,279,137,0,17
+House,115,1,494,494,2017-09-13,,On Agreeing to the Amendment,Failed,98,313,0,22
+House,115,1,495,495,2017-09-13,,On Agreeing to the Amendment,Failed,192,223,0,18
+House,115,1,496,496,2017-09-13,,On Agreeing to the Amendment,Failed,189,225,0,19
+House,115,1,497,497,2017-09-13,,On Agreeing to the Amendment,Agreed to,216,199,0,18
+House,115,1,498,498,2017-09-13,,On Agreeing to the Amendment,Agreed to,226,191,0,16
+House,115,1,499,499,2017-09-13,,On Agreeing to the Amendment,Agreed to,247,170,0,16
+House,115,1,500,500,2017-09-13,,On Agreeing to the Amendment,Failed,199,219,0,15
+House,115,1,501,501,2017-09-13,,On Agreeing to the Amendment,Agreed to,220,198,0,15
+House,115,1,502,502,2017-09-13,,On Agreeing to the Amendment,Agreed to,243,175,0,15
+House,115,1,503,503,2017-09-13,,On Agreeing to the Amendment,Agreed to,225,192,0,16
+House,115,1,504,504,2017-09-13,,On Agreeing to the Amendment,Failed,198,219,0,16
+House,115,1,505,505,2017-09-13,,On Agreeing to the Amendment,Agreed to,213,205,0,15
+House,115,1,506,506,2017-09-13,,On Agreeing to the Amendment,Agreed to,228,188,0,17
+House,115,1,507,507,2017-09-13,,On Agreeing to the Amendment,Failed,204,212,0,17
+House,115,1,508,508,2017-09-13,,On Agreeing to the Amendment,Failed,153,263,1,16
+House,115,1,509,509,2017-09-13,,On Agreeing to the Amendment,Failed,131,285,0,17
+House,115,1,510,510,2017-09-13,,On Agreeing to the Amendment,Failed,175,241,0,17
+House,115,1,511,511,2017-09-13,,On Agreeing to the Amendment,Failed,178,238,1,16
+House,115,1,512,512,2017-09-13,,On Agreeing to the Amendment,Agreed to,221,196,0,16
+House,115,1,513,513,2017-09-13,,On Agreeing to the Amendment,Failed,156,260,0,17
+House,115,1,514,514,2017-09-13,,On Agreeing to the Amendment,Failed,191,226,0,16
+House,115,1,515,515,2017-09-13,,On Agreeing to the Amendment,Agreed to,215,201,0,17
+House,115,1,516,516,2017-09-14,Criminal Alien Gang Member Removal Act,On Motion to Recommit with Instructions,Failed,184,220,0,29
+House,115,1,517,517,2017-09-14,Criminal Alien Gang Member Removal Act,On Passage,Passed,233,175,0,25
+House,115,1,518,518,2017-09-14,,On Agreeing to the Amendment,Agreed to,214,194,0,25
+House,115,1,519,519,2017-09-14,,On Agreeing to the Amendment,Failed,186,223,0,24
+House,115,1,521,521,2017-09-14,,On Agreeing to the Amendment,Failed,183,226,0,24
+House,115,1,520,520,2017-09-14,,On Agreeing to the Amendment,Failed,186,222,0,25
+House,115,1,522,522,2017-09-14,,On Agreeing to the Amendment,Failed,163,245,0,25
+House,115,1,523,523,2017-09-14,,On Agreeing to the Amendment,Failed,186,221,0,26
+House,115,1,524,524,2017-09-14,,On Agreeing to the Amendment,Failed,166,241,0,26
+House,115,1,525,525,2017-09-14,,On Agreeing to the Amendment,Agreed to,211,195,0,27
+House,115,1,526,526,2017-09-14,,On Agreeing to the Amendment,Agreed to,265,143,0,25
+House,115,1,527,527,2017-09-14,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes",On Motion to Recommit with Instructions,Failed,186,223,0,24
+House,115,1,528,528,2017-09-14,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes",On Passage,Passed,211,198,0,25
+House,115,1,529,529,2017-09-14,Joint Counterterrorism Awareness Workshop Series Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,398,4,0,31
+House,115,1,530,530,2017-09-25,Disaster Tax Relief and Airport and Airway Extension Act,On Motion to Suspend the Rules and Pass,Failed,245,171,0,17
+House,115,1,531,531,2017-09-25,North Korean Human Rights Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,415,0,0,18
+House,115,1,532,532,2017-09-26,Providing for consideration of the bill (H.R. 2824) Increasing Opportunity through Evidence-Based Home Visiting Act and providing for consideration of the bill (H.R. 2792) Control Unlawful Fugitive Felons Act,On Ordering the Previous Question,Passed,230,189,0,14
+House,115,1,533,533,2017-09-26,Providing for consideration of the bill (H.R. 2824) Increasing Opportunity through Evidence-Based Home Visiting Act and providing for consideration of the bill (H.R. 2792) Control Unlawful Fugitive Felons Act,On Agreeing to the Resolution,Passed,230,190,0,13
+House,115,1,534,534,2017-09-26,,On Approving the Journal,Passed,214,199,1,19
+House,115,1,535,535,2017-09-26,,On Agreeing to the Amendment,Failed,191,231,0,11
+House,115,1,536,536,2017-09-26,Increasing Opportunity and Success for Children and Parents through Evidence-Based Home Visiting Act,On Motion to Recommit with Instructions,Failed,191,232,0,10
+House,115,1,537,537,2017-09-26,Increasing Opportunity and Success for Children and Parents through Evidence-Based Home Visiting Act,On Passage,Passed,214,209,0,10
+House,115,1,538,538,2017-09-27,"Providing for consideration of H.R. 3823, Disaster Tax Relief and Airport and Airway Extension Act of 2017; and providing for consideration of motions to suspend the rules",On Ordering the Previous Question,Passed,223,187,0,23
+House,115,1,539,539,2017-09-27,"Providing for consideration of H.R. 3823, Disaster Tax Relief and Airport and Airway Extension Act of 2017; and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,223,190,0,20
+House,115,1,540,540,2017-09-27,"Recognizing that for 50 years the Association of South East Asian Nations (ASEAN) has worked toward stability, prosperity, and peace in Southeast Asia","On Motion to Suspend the Rules and Agree, as Amended",Passed,413,0,0,20
+House,115,1,541,541,2017-09-28,Disaster Tax Relief and Airport and Airway Extension Act of 2017,On Motion to Recommit with Instructions,Failed,188,227,0,18
+House,115,1,542,542,2017-09-28,Disaster Tax Relief and Airport and Airway Extension Act of 2017,On Passage,Passed,264,155,0,14
+House,115,1,543,543,2017-09-28,Control Unlawful Fugitive Felons Act of 2017,On Passage,Passed,244,171,0,18
+House,115,1,544,544,2017-10-02,Udall Park Land Exchange Completion Act,On Motion to Suspend the Rules and Pass,Passed,401,0,0,32
+House,115,1,545,545,2017-10-02,Saint-Gaudens National Historical Park Redesignation Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,401,0,0,32
+House,115,1,546,546,2017-10-03,"Providing for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes",On Ordering the Previous Question,Passed,233,184,0,16
+House,115,1,547,547,2017-10-03,"Providing for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes",On Agreeing to the Resolution,Passed,233,187,0,13
+House,115,1,548,548,2017-10-03,Pain-Capable Unborn Child Protection Act,On Motion to Recommit with Instructions,Failed,187,238,0,8
+House,115,1,549,549,2017-10-03,Pain-Capable Unborn Child Protection Act,On Passage,Passed,237,189,0,7
+House,115,1,550,550,2017-10-03,"To reauthorize the National Internet Crimes Against Children Task Force Program, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,417,3,0,13
+House,115,1,551,551,2017-10-04,Providing for consideration of the concurrent resolution (H. Con. Res. 71) establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027,On Ordering the Previous Question,Passed,231,189,0,13
+House,115,1,552,552,2017-10-04,Providing for consideration of the concurrent resolution (H. Con. Res. 71) establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027,On Agreeing to the Resolution,Passed,232,188,0,13
+House,115,1,553,553,2017-10-04,,On Agreeing to the Amendment,Failed,108,314,0,11
+House,115,1,554,554,2017-10-04,,On Agreeing to the Amendment,Failed,130,292,0,11
+House,115,1,555,555,2017-10-05,,On Agreeing to the Amendment,Failed,139,281,0,13
+House,115,1,556,556,2017-10-05,,On Agreeing to the Amendment,Failed,156,268,0,9
+House,115,1,557,557,2017-10-05,Establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027,On Agreeing to the Resolution,Passed,219,206,0,9
+House,115,1,558,558,2017-10-10,"To designate the facility of the United States Postal Service located at 4514 Williamson Trail in Liberty, Pennsylvania, as the “Staff Sergeant Ryan Scott Ostrom Post Office”",On Motion to Suspend the Rules and Pass,Passed,397,0,0,36
+House,115,1,559,559,2017-10-10,"To designate the facility of the United States Postal Service located at 25 New Chardon Street Lobby in Boston, Massachusetts, as the “John Fitzgerald Kennedy Post Office”",On Motion to Suspend the Rules and Pass,Passed,395,0,0,38
+House,115,1,560,560,2017-10-11,"Providing for consideration of S. 585, the Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017; providing for proceedings during the period from October 16, 2017, through October 20, 2017; and providing for consideration of motions to suspend the rules",On Ordering the Previous Question,Passed,227,190,0,16
+House,115,1,561,561,2017-10-11,"Providing for consideration of S. 585, the Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017; providing for proceedings during the period from October 16, 2017, through October 20, 2017; and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,234,185,0,14
+House,115,1,562,562,2017-10-11,"To designate the facility of the United States Postal Service located at 324 West Saint Louis Street in Pacific, Missouri, as the “Specialist Jeffrey L. White, Jr. Post Office”",On Motion to Suspend the Rules and Pass,Passed,418,0,0,15
+House,115,1,563,563,2017-10-11,FITARA Enhancement Act of 2017,On Motion to Suspend the Rules and Pass,Passed,418,0,0,15
+House,115,1,564,564,2017-10-12,National Defense Authorization Act for Fiscal Year 2018,On Motion to Instruct Conferees,Failed,184,237,0,12
+House,115,1,565,565,2017-10-12,National Defense Authorization Act for Fiscal Year 2018,On Closing Portions of the Conference,Passed,414,8,0,11
+House,115,1,566,566,2017-10-12,"Providing for the concurrence by the House in the Senate amendment to H.R. 2266, with an amendment",On Motion to Suspend the Rules and Agree,Passed,353,69,0,11
+House,115,1,567,567,2017-10-12,Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017,On Motion to Recommit with Instructions,Failed,190,232,0,11
+House,115,1,568,568,2017-10-12,Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017,On Passage,Passed,420,0,0,13
+House,115,1,569,569,2017-10-23,C-TPAT Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,402,1,0,29
+House,115,1,570,570,2017-10-23,Asia-Pacific Economic Cooperation Business Travel Cards Act,On Motion to Suspend the Rules and Pass,Passed,401,2,0,29
+House,115,1,571,571,2017-10-23,,On Approving the Journal,Passed,236,158,2,36
+House,115,1,572,572,2017-10-24,"Providing for consideration of H.R. 469, the Sunshine for Regulations and Regulatory Decrees and Settlements Act of 2017; providing for consideration of H.R. 732, the Stop Settlement Slush Funds Act of 2017",On Ordering the Previous Question,Passed,228,189,0,15
+House,115,1,573,573,2017-10-24,"Providing for consideration of H.R. 469, the Sunshine for Regulations and Regulatory Decrees and Settlements Act of 2017; providing for consideration of H.R. 732, the Stop Settlement Slush Funds Act of 2017",On Agreeing to the Resolution,Passed,227,190,0,15
+House,115,1,574,574,2017-10-24,International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,412,3,0,17
+House,115,1,575,575,2017-10-24,,On Agreeing to the Amendment,Failed,187,233,0,12
+House,115,1,576,576,2017-10-24,,On Agreeing to the Amendment,Failed,183,235,1,13
+House,115,1,577,577,2017-10-24,,On Agreeing to the Amendment,Failed,185,234,0,13
+House,115,1,578,578,2017-10-24,,On Agreeing to the Amendment,Failed,189,231,0,12
+House,115,1,579,579,2017-10-24,,On Agreeing to the Amendment,Failed,191,229,0,12
+House,115,1,580,580,2017-10-24,Stop Settlement Slush Funds Act,On Passage,Passed,238,183,0,11
+House,115,1,581,581,2017-10-24,Otto Warmbier North Korea Nuclear Sanctions Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,415,2,0,15
+House,115,1,582,582,2017-10-25,"Providing for consideration of the Senate amendment to H.Con.Res. 71, establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027",On Ordering the Previous Question,Passed,229,188,0,15
+House,115,1,583,583,2017-10-25,"Providing for consideration of the Senate amendment to H.Con.Res. 71, establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027",On Agreeing to the Resolution,Passed,233,188,0,11
+House,115,1,584,584,2017-10-25,,On Approving the Journal,Passed,230,180,2,20
+House,115,1,585,585,2017-10-25,,On Agreeing to the Amendment,Failed,185,231,0,16
+House,115,1,586,586,2017-10-25,,On Agreeing to the Amendment,Failed,187,226,0,19
+House,115,1,587,587,2017-10-25,,On Agreeing to the Amendment,Failed,186,232,0,14
+House,115,1,589,589,2017-10-26,Establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027,On Motion to Concur in the Senate Amendment,Passed,216,212,0,5
+House,115,1,588,588,2017-10-25,Sunshine for Regulations and Regulatory Decrees and Settlements Act,On Passage,Passed,234,187,0,11
+House,115,1,590,590,2017-10-26,Iran Ballistic Missiles and International Sanctions Enforcement Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,423,2,0,7
+House,115,1,591,591,2017-10-31,South Carolina Peanut Parity Act of 2017,On Motion to Suspend the Rules and Pass,Passed,394,1,0,37
+House,115,1,592,592,2017-11-01,Providing for consideration of the bill (H.R. 2936) Resilient Federal Forests Act and for other purposes,On Ordering the Previous Question,Passed,232,184,0,16
+House,115,1,593,593,2017-11-01,Providing for consideration of the bill (H.R. 2936) Resilient Federal Forests Act and for other purposes,On Agreeing to the Resolution,Passed,232,184,0,16
+House,115,1,594,594,2017-11-01,,On Agreeing to the Amendment,Failed,189,232,0,11
+House,115,1,595,595,2017-11-01,,On Agreeing to the Amendment,Failed,194,226,0,12
+House,115,1,596,596,2017-11-01,,On Agreeing to the Amendment,Agreed to,236,184,0,12
+House,115,1,598,598,2017-11-01,Resilient Federal Forests Act of 2017,On Passage,Passed,232,188,0,12
+House,115,1,599,599,2017-11-01,Encouraging Public Offerings Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,419,0,0,13
+House,115,1,597,597,2017-11-01,Resilient Federal Forests Act of 2017,On Motion to Recommit with Instructions,Failed,189,230,0,13
+House,115,1,600,600,2017-11-02,"Providing for consideration of the bill H.R. 849, Protecting Seniors Access to Medicare Act.",On Ordering the Previous Question,Passed,230,193,0,9
+House,115,1,602,602,2017-11-02,"Providing for consideration of H.R. 3922, the Community Health and Medical Professionals Improve Our Nation Act",On Ordering the Previous Question,Passed,230,191,0,11
+House,115,1,601,601,2017-11-02,"Providing for consideration of the bill H.R. 849, Protecting Seniors Access to Medicare Act.",On Agreeing to the Resolution,Passed,240,178,0,14
+House,115,1,604,604,2017-11-02,Protecting Seniors Access to Medicare Act,On Passage,Passed,307,111,0,14
+House,115,1,603,603,2017-11-02,"Providing for consideration of H.R. 3922, the Community Health and Medical Professionals Improve Our Nation Act",On Agreeing to the Resolution,Passed,231,192,0,9
+House,115,1,605,605,2017-11-03,Community Health and Medical Professionals Improve Our Nation Act of 2017,On Motion to Recommit with Instructions,Failed,187,231,0,14
+House,115,1,606,606,2017-11-03,Community Health and Medical Professionals Improve Our Nation Act of 2017,On Passage,Passed,242,174,0,16
+House,115,1,607,607,2017-11-06,"To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to furnish assistance for adaptations of residences of veterans in rehabilitation programs under chapter 31 of such title, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,400,0,0,32
+House,115,1,608,608,2017-11-06,VA Management Alignment Act,On Motion to Suspend the Rules and Pass,Passed,399,0,0,33
+House,115,1,609,609,2017-11-06,,On Approving the Journal,Passed,222,169,3,38
+House,115,1,610,610,2017-11-07,Providing for consideration of the bill (H.R. 3043) Hydropower Policy Modernization Act and providing for consideration of the bill (H.R. 3441) Save Local Business Act,On Ordering the Previous Question,Passed,233,182,0,17
+House,115,1,611,611,2017-11-07,Providing for consideration of the bill (H.R. 3043) Hydropower Policy Modernization Act and providing for consideration of the bill (H.R. 3441) Save Local Business Act,On Agreeing to the Resolution,Passed,233,182,0,17
+House,115,1,612,612,2017-11-07,,On Approving the Journal,Passed,225,184,3,20
+House,115,1,613,613,2017-11-07,Save Local Business Act,On Motion to Recommit with Instructions,Failed,186,235,0,11
+House,115,1,614,614,2017-11-07,Save Local Business Act,On Passage,Passed,242,181,0,9
+House,115,1,615,615,2017-11-07,Risk-Based Credit Examination Act,On Motion to Suspend the Rules and Pass,Passed,389,32,0,11
+House,115,1,616,616,2017-11-08,"Providing for consideration of H.R. 2201, the Micro Offering Safe Harbor Act",On Ordering the Previous Question,Passed,224,190,0,18
+House,115,1,617,617,2017-11-08,"Providing for consideration of H.R. 2201, the Micro Offering Safe Harbor Act",On Agreeing to the Resolution,Passed,233,190,0,9
+House,115,1,618,618,2017-11-08,Veterans Crisis Line Study Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,420,0,0,12
+House,115,1,620,620,2017-11-08,Hydropower Policy Modernization Act of 2017,On Passage,Passed,257,166,0,9
+House,115,1,619,619,2017-11-08,,On Agreeing to the Amendment,Failed,185,234,0,13
+House,115,1,621,621,2017-11-08,Veterans Fair Debt Notice Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,422,0,0,10
+House,115,1,623,623,2017-11-13,"Expressing the sense of the House of Representatives with respect to United States policy towards Yemen, and for other purposes",On Agreeing to the Resolution,Passed,366,30,1,35
+House,115,1,622,622,2017-11-09,Micro Offering Safe Harbor Act,On Passage,Passed,232,188,0,12
+House,115,1,624,624,2017-11-13,Federal Acquisition Savings Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,396,0,0,37
+House,115,1,626,626,2017-11-14,"Providing for consideration of H.R. 2874, the 21st Century Flood Reform Act; and the conference report to accompany H.R. 2810, the National Defense Authorization Act for Fiscal Year 2018",On Ordering the Previous Question,Passed,234,189,0,10
+House,115,1,625,625,2017-11-13,,On Approving the Journal,Passed,220,165,2,46
+House,115,1,627,627,2017-11-14,"Providing for consideration of H.R. 2874, the 21st Century Flood Reform Act; and the conference report to accompany H.R. 2810, the National Defense Authorization Act for Fiscal Year 2018",On Agreeing to the Resolution,Passed,233,187,0,13
+House,115,1,628,628,2017-11-14,,On Approving the Journal,Passed,224,190,1,18
+House,115,1,629,629,2017-11-14,21st Century Flood Reform Act,On Motion to Recommit with Instructions,Failed,190,236,0,7
+House,115,1,630,630,2017-11-14,21st Century Flood Reform Act,On Passage,Passed,237,189,0,7
+House,115,1,631,631,2017-11-14,National Defense Authorization Act for Fiscal Year 2018,On Agreeing to the Conference Report,Passed,356,70,0,7
+House,115,1,632,632,2017-11-15,"Providing for consideration of H.R. 1, Tax Cuts and Jobs Act; and providing for proceedings during the period from November 17, 2017, through November 27, 2017",On Ordering the Previous Question,Passed,234,193,0,6
+House,115,1,635,635,2017-11-15,"To designate the facility of the United States Postal Service located at 430 Main Street in Clermont, Georgia, as the “Zachary Addington Post Office”","On Motion to Suspend the Rules and Pass, as Amended",Passed,420,0,0,13
+House,115,1,633,633,2017-11-15,"Providing for consideration of H.R. 1, Tax Cuts and Jobs Act; and providing for proceedings during the period from November 17, 2017, through November 27, 2017",On Agreeing to the Resolution,Passed,235,191,0,7
+House,115,1,634,634,2017-11-15,Connected Government Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,423,0,0,10
+House,115,1,638,638,2017-11-28,Fowler and Boskoff Peaks Designation Act,On Motion to Suspend the Rules and Pass,Passed,409,0,0,24
+House,115,1,637,637,2017-11-16,Tax Cuts and Jobs Act,On Passage,Passed,227,205,0,2
+House,115,1,636,636,2017-11-15,"To designate the facility of the United States Postal Service located at 520 Carter Street in Fairview, Illinois, as the “Sgt. Douglas J. Riney Post Office”",On Motion to Suspend the Rules and Pass,Passed,423,0,0,10
+House,115,1,639,639,2017-11-28,Superior National Forest Land Exchange Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,309,99,0,25
+House,115,1,640,640,2017-11-29,"Providing for the consideration of the bill (H.R. 3017) Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act, and providing for consideration of the bill (H.R. 3905) Minnesota’s Economic Rights in the Superior National Forest Act",On Ordering the Previous Question,Passed,227,189,0,17
+House,115,1,641,641,2017-11-29,"Providing for the consideration of the bill (H.R. 3017) Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act, and providing for consideration of the bill (H.R. 3905) Minnesota’s Economic Rights in the Superior National Forest Act",On Agreeing to the Resolution,Passed,228,186,0,19
+House,115,1,642,642,2017-11-30,,On Agreeing to the Amendment,Failed,182,237,0,14
+House,115,1,643,643,2017-11-30,Minnesota’s Economic Rights in the Superior National Forest Act,On Passage,Passed,216,204,0,13
+House,115,1,644,644,2017-11-30,"Providing for consideration of H.R. 4182, the Ensuring a Qualified Civil Service Act of 2017; and H.R. 1699, the Preserving Access to Manufactured Housing Act of 2017",On Ordering the Previous Question,Passed,229,189,0,15
+House,115,1,646,646,2017-11-30,,On Agreeing to the Amendment,Failed,195,221,0,17
+House,115,1,645,645,2017-11-30,"Providing for consideration of H.R. 4182, the Ensuring a Qualified Civil Service Act of 2017; and H.R. 1699, the Preserving Access to Manufactured Housing Act of 2017",On Agreeing to the Resolution,Passed,226,186,0,21
+House,115,1,647,647,2017-11-30,,On Agreeing to the Amendment,Failed,193,223,0,17
+House,115,1,649,649,2017-11-30,"Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act",On Passage,Passed,409,8,0,16
+House,115,1,648,648,2017-11-30,Ensuring a Qualified Civil Service Act,On Passage,Passed,213,204,0,16
+House,115,1,650,650,2017-12-01,Preserving Access to Manufactured Housing Act,On Motion to Recommit with Instructions,Failed,193,227,0,13
+House,115,1,651,651,2017-12-01,Preserving Access to Manufactured Housing Act,On Passage,Passed,256,163,0,14
+House,115,1,652,652,2017-12-01,,On Approving the Journal,Passed,209,169,2,53
+House,115,1,653,653,2017-12-04,Tax Cuts and Jobs Act,On Motion to go to Conference,Passed,222,192,0,19
+House,115,1,655,655,2017-12-05,Secret Service Recruitment and Retention Act of 2017,On Motion to Suspend the Rules and Pass,Passed,407,4,0,22
+House,115,1,654,654,2017-12-04,Tax Cuts and Jobs Act,On Motion to Instruct Conferees,Failed,186,233,0,14
+House,115,1,656,656,2017-12-05,Stopping Abusive Female Exploitation Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,0,0,24
+House,115,1,657,657,2017-12-05,,On Approving the Journal,Passed,224,183,1,25
+House,115,1,659,659,2017-12-06,"Providing for consideration of the bill (H.R. 38) to amend title 18, United States Code, to provide a means by which nonresidents of a State whose residents may carry concealed firearms may also do so in the State",On Ordering the Previous Question,Passed,236,189,0,7
+House,115,1,658,658,2017-12-06,,On Motion to Table,Passed,364,58,4,6
+House,115,1,661,661,2017-12-06,Enhancing Veteran Care Act,On Motion to Suspend the Rules and Pass,Passed,423,0,0,9
+House,115,1,660,660,2017-12-06,"Providing for consideration of the bill (H.R. 38) to amend title 18, United States Code, to provide a means by which nonresidents of a State whose residents may carry concealed firearms may also do so in the State",On Agreeing to the Resolution,Passed,232,194,0,6
+House,115,1,662,662,2017-12-06,Concealed Carry Reciprocity Act of 2017,On Motion to Recommit with Instructions,Failed,190,236,0,6
+House,115,1,663,663,2017-12-06,Concealed Carry Reciprocity Act of 2017,On Passage,Passed,231,198,0,4
+House,115,1,664,664,2017-12-06,Condemning ethnic cleansing of the Rohingya and calling for an end to the attacks in and an immediate restoration of humanitarian access to the state of Rakhine in Burma,"On Motion to Suspend the Rules and Agree, as Amended",Passed,423,3,0,6
+House,115,1,665,665,2017-12-07,"Providing for consideration of H.R. 477, Small Business Mergers, Acquisitions Sales, and Brokerage Simplification Act of 2017; providing for consideration of H.R. 3971, Community Institution Mortgage Relief Act of 2017; and providing for consideration of H.J. Res. 123, Making further continuing appropriations, FY 2018",On Ordering the Previous Question,Passed,236,190,0,6
+House,115,1,666,666,2017-12-07,"Providing for consideration of H.R. 477, Small Business Mergers, Acquisitions Sales, and Brokerage Simplification Act of 2017; providing for consideration of H.R. 3971, Community Institution Mortgage Relief Act of 2017; and providing for consideration of H.J. Res. 123, Making further continuing appropriations, FY 2018",On Agreeing to the Resolution,Passed,238,188,0,6
+House,115,1,667,667,2017-12-07,"Expressing concern and condemnation over the political, economic, social, and humanitarian crisis in Venezuela","On Motion to Suspend the Rules and Agree, as Amended",Passed,419,8,0,5
+House,115,1,668,668,2017-12-07,,On Approving the Journal,Passed,212,205,2,13
+House,115,1,669,669,2017-12-07,"Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2017",On Passage,Passed,426,0,0,6
+House,115,1,670,670,2017-12-07,"Making further continuing appropriations for fiscal year 2018, and for other purposes",On Passage,Passed,235,193,0,5
+House,115,1,671,671,2017-12-07,Venezuela Humanitarian Assistance and Defense of Democratic Governance Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,388,29,0,15
+House,115,1,672,672,2017-12-11,Financial Institution Customer Protection Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,395,2,0,34
+House,115,1,673,673,2017-12-11,Protecting Religiously Affiliated Institutions Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",Passed,402,2,0,27
+House,115,1,674,674,2017-12-12,Community Institution Mortgage Relief Act of 2017,On Motion to Recommit with Instructions,Failed,190,233,0,8
+House,115,1,675,675,2017-12-12,Community Institution Mortgage Relief Act of 2017,On Passage,Passed,294,129,0,8
+House,115,1,676,676,2017-12-13,"Providing for consideration of H.R. 1638, the Iranian Leadership Asset Transparency Act; and providing for consideration of H.R. 4324, the Strengthening Oversight of Iran’s Access to Finance Act",On Ordering the Previous Question,Passed,229,189,0,13
+House,115,1,677,677,2017-12-13,"Providing for consideration of H.R. 1638, the Iranian Leadership Asset Transparency Act; and providing for consideration of H.R. 4324, the Strengthening Oversight of Iran’s Access to Finance Act",On Agreeing to the Resolution,Passed,238,182,0,11
+House,115,1,678,678,2017-12-13,"Providing for consideration of H.R. 2396, the Privacy Notification Technical Clarifications Act; and providing for consideration of H.R. 4015, the Corporate Governance Reform and Transparency Act of 2017",On Ordering the Previous Question,Passed,236,187,0,8
+House,115,1,679,679,2017-12-13,"Providing for consideration of H.R. 2396, the Privacy Notification Technical Clarifications Act; and providing for consideration of H.R. 4015, the Corporate Governance Reform and Transparency Act of 2017",On Agreeing to the Resolution,Passed,240,184,0,7
+House,115,1,680,680,2017-12-13,Iranian Leadership Asset Transparency Act,On Passage,Passed,289,135,0,7
+House,115,1,681,681,2017-12-14,Privacy Notification Technical Clarification Act,On Motion to Recommit with Instructions,Failed,185,235,0,11
+House,115,1,682,682,2017-12-14,Privacy Notification Technical Clarification Act,On Passage,Passed,275,146,0,10
+House,115,1,683,683,2017-12-14,Strengthening Oversight of Iran’s Access to Finance Act,On Motion to Recommit with Instructions,Failed,188,233,0,10
+House,115,1,684,684,2017-12-14,Strengthening Oversight of Iran’s Access to Finance Act,On Passage,Passed,252,167,0,12
+House,115,1,685,685,2017-12-18,,On Motion to Fix the Convening Time,Passed,216,169,0,46
+House,115,1,686,686,2017-12-18,STEM Research and Education Effectiveness and Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,376,9,0,46
+House,115,1,687,687,2017-12-18,Keep America’s Refuges Operational Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,371,14,0,46
+House,115,1,688,688,2017-12-19,Providing for consideration of the conference report to accompany the bill (H.R. 1) the Tax Cuts and Jobs Act; providing for consideration of the bill (H.R. 3312) the Systemic Risk Designation Improvement Act; waiving a requirement of clause 6(a) of rule XIII; and motions to suspend the rules,On Ordering the Previous Question,Passed,233,187,0,11
+House,115,1,689,689,2017-12-19,Providing for consideration of the conference report to accompany the bill (H.R. 1) the Tax Cuts and Jobs Act; providing for consideration of the bill (H.R. 3312) the Systemic Risk Designation Improvement Act; waiving a requirement of clause 6(a) of rule XIII; and motions to suspend the rules,On Agreeing to the Resolution,Passed,233,193,0,5
+House,115,1,690,690,2017-12-19,Women in Aerospace Education Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,17,0,5
+House,115,1,691,691,2017-12-19,Tax Cuts and Jobs Act,On Motion to Recommit Conference Report with Instructions,Failed,191,236,0,4
+House,115,1,692,692,2017-12-19,Tax Cuts and Jobs Act,On Agreeing to the Conference Report,Passed,227,203,0,2
+House,115,1,693,693,2017-12-19,Supporting Veterans in STEM Careers Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,420,1,0,10
+House,115,1,695,695,2017-12-19,Combating Human Trafficking in Commercial Vehicles Act,On Motion to Suspend the Rules and Pass,Passed,418,1,0,12
+House,115,1,694,694,2017-12-19,Systemic Risk Designation Improvement Act of 2017,On Passage,Passed,288,130,0,13
+House,115,1,696,696,2017-12-19,,On Approving the Journal,Passed,227,180,1,23
+House,115,1,697,697,2017-12-20,"Providing for consideration of the Senate amendment to H.R. 1, the Tax Cuts and Jobs Act",On Ordering the Previous Question,Passed,234,188,0,9
+House,115,1,698,698,2017-12-20,"Providing for consideration of the Senate amendment to H.R. 1, the Tax Cuts and Jobs Act",On Agreeing to the Resolution,Passed,232,190,0,9
+House,115,1,699,699,2017-12-20,Tax Cuts and Jobs Act,On Motion to Concur in the Senate Amendment,Passed,224,201,0,7
+House,115,1,701,701,2017-12-20,Corporate Governance Reform and Transparency Act,On Motion to Recommit with Instructions,Failed,189,231,0,11
+House,115,1,700,700,2017-12-20,United States and Israel Space Cooperation Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,411,0,0,20
+House,115,1,702,702,2017-12-20,Corporate Governance Reform and Transparency Act,On Passage,Passed,238,182,0,11
+House,115,1,703,703,2017-12-20,,On Approving the Journal,Passed,217,194,2,18
+House,115,1,704,704,2017-12-21,"Providing for consideration of the Senate Amendment to H.R. 1370, the Department of Homeland Security Blue Campaign Authorization Act of 2017; and providing for consideration of H.R. 4667, making further supplemental appropriations for FY 2018, for disaster assistance for Hurricanes and Wildfires in calendar year 2017",On Ordering the Previous Question,Passed,232,188,0,11
+House,115,1,705,705,2017-12-21,"Providing for consideration of the Senate Amendment to H.R. 1370, the Department of Homeland Security Blue Campaign Authorization Act of 2017; and providing for consideration of H.R. 4667, making further supplemental appropriations for FY 2018, for disaster assistance for Hurricanes and Wildfires in calendar year 2017",On Agreeing to the Resolution,Passed,228,188,0,15
+House,115,1,706,706,2017-12-21,Jobs for Our Heroes Act,On Motion to Suspend the Rules and Pass,Passed,418,0,0,13
+House,115,1,707,707,2017-12-21,,On Approving the Journal,Passed,225,187,1,18
+House,115,1,708,708,2017-12-21,Department of Homeland Security Blue Campaign Authorization Act of 2017,On Motion to Concur in the Senate Amendment with an Amendment,Passed,231,188,0,13
+House,115,1,710,710,2017-12-21,No Human Trafficking on Our Roads Act,On Motion to Suspend the Rules and Pass,Passed,393,0,0,38
+House,115,1,709,709,2017-12-21,"Making further supplemental appropriations for the fiscal year ending September 30, 2018, for disaster assistance for Hurricanes Harvey, Irma, and Maria, and calendar year 2017 wildfires, and for other purposes",On Passage,Passed,251,169,0,12

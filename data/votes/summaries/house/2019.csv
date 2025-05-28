@@ -1,0 +1,702 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+House,116,1,1,1,2019-01-03,,Call by States,Passed,0,0,431,3
+House,116,1,2,2,2019-01-03,,Election of the Speaker,Pelosi,0,0,0,0
+House,116,1,3,3,2019-01-03,"Providing for consideration of H.Res. 6, adopting the Rules of the House of Representatives for the 116th Congress; providing for consideration of H.R. 21, making appropriations for the FY ending September 30, 2019, and for other purposes",On Motion to Table the Motion to Refer,Passed,230,197,0,5
+House,116,1,4,4,2019-01-03,"Providing for consideration of H.Res. 6, adopting the Rules of the House of Representatives for the 116th Congress; H.R. 21, making appropriations for the FY ending September 30, 2019; H.J.Res. 1, making further continuing appropriations for the Department of Homeland Security for FY 2019, and for other purposes",On Ordering the Previous Question,Passed,233,197,0,2
+House,116,1,5,5,2019-01-03,"Providing for consideration of H.Res. 6, adopting the Rules of the House of Representatives for the 116th Congress; H.R. 21, making appropriations for the FY ending September 30, 2019; H.J.Res. 1, making further continuing appropriations for the Department of Homeland Security for FY 2019, and for other purposes",On Motion to Commit with Instructions,Failed,197,232,0,3
+House,116,1,6,6,2019-01-03,"Providing for consideration of H.Res. 6, adopting the Rules of the House of Representatives for the 116th Congress; H.R. 21, making appropriations for the FY ending September 30, 2019; H.J.Res. 1, making further continuing appropriations for the Department of Homeland Security for FY 2019, and for other purposes",On Agreeing to the Resolution,Passed,234,194,0,4
+House,116,1,7,7,2019-01-03,"Adopting the Rules of the House of Representatives for the One Hundred Sixteenth Congress, and for other purposes",On Agreeing to Title I of the Resolution,Passed,234,197,0,1
+House,116,1,8,8,2019-01-03,"Making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,197,233,0,2
+House,116,1,9,9,2019-01-03,"Making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes",On Passage,Passed,239,192,0,1
+House,116,1,10,10,2019-01-03,"Making appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,199,232,0,1
+House,116,1,11,11,2019-01-03,"Making appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Passage,Passed,241,190,0,2
+House,116,1,12,12,2019-01-04,"Adopting the Rules of the House of Representatives for the One Hundred Sixteenth Congress, and for other purposes",On Agreeing to Title II of the Resolution,Passed,418,12,0,2
+House,116,1,13,13,2019-01-08,Pandemic and All-Hazards Preparedness and Advancing Innovation Act,On Motion to Suspend the Rules and Pass,Passed,401,17,0,15
+House,116,1,14,14,2019-01-08,Chemical Facility Anti-Terrorism Standards Program Extension Act,On Motion to Suspend the Rules and Pass,Passed,414,3,0,16
+House,116,1,15,15,2019-01-08,,On Approving the Journal,Passed,235,161,2,35
+House,116,1,16,16,2019-01-09,"Providing for consideration of H.R. 264, H.R. 265, H.R. 266, and H.R. 267; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules",On Ordering the Previous Question,Passed,231,195,0,7
+House,116,1,17,17,2019-01-09,"Providing for consideration of H.R. 264, H.R. 265, H.R. 266, and H.R. 267; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules",On Agreeing to the Resolution,Passed,231,195,0,7
+House,116,1,18,18,2019-01-09,Clarity on Small Business Participation in Category Management Act,On Motion to Suspend the Rules and Pass,Passed,414,11,0,8
+House,116,1,20,20,2019-01-09,"Making appropriations for financial services and general government for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,200,227,0,6
+House,116,1,19,19,2019-01-09,"Adopting the Rules of the House of Representatives for the One Hundred Sixteenth Congress, and for other purposes",On Agreeing to Title III of the Resolution,Passed,235,192,0,6
+House,116,1,21,21,2019-01-09,"Making appropriations for financial services and general government for the fiscal year ending September 30, 2019, and for other purposes",On Passage,Passed,240,188,0,5
+House,116,1,22,22,2019-01-10,"Making appropriations for the Department of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,193,228,0,12
+House,116,1,23,23,2019-01-10,"Making appropriations for the Department of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2019, and for other purposes",On Passage,Passed,244,180,0,9
+House,116,1,24,24,2019-01-10,"Making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,197,229,0,7
+House,116,1,25,25,2019-01-10,"Making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2019, and for other purposes",On Passage,Passed,243,183,0,7
+House,116,1,26,26,2019-01-11,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,190,229,0,14
+House,116,1,27,27,2019-01-11,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2019, and for other purposes",On Passage,Passed,240,179,0,14
+House,116,1,28,28,2019-01-11,Government Employee Fair Treatment Act,On Motion to Suspend the Rules and Pass,Passed,411,7,0,16
+House,116,1,29,29,2019-01-11,Special Envoy to Monitor and Combat Anti-Semitism Act,On Motion to Suspend the Rules and Pass,Passed,411,1,0,21
+House,116,1,30,30,2019-01-14,Investing in Main Street Act,On Motion to Suspend the Rules and Pass,Passed,403,2,0,28
+House,116,1,31,31,2019-01-15,"Making further continuing appropriations for fiscal year 2019, and for other purposes",On Motion to Suspend the Rules and Pass,Failed,237,187,0,9
+House,116,1,32,32,2019-01-15,Rejecting White nationalism and White supremacy,On Motion to Suspend the Rules and Agree,Passed,424,1,0,9
+House,116,1,33,33,2019-01-15,Federal Employee Antidiscrimination Act,On Motion to Suspend the Rules and Pass,Passed,424,0,0,9
+House,116,1,34,34,2019-01-16,"Providing for consideration of the bill (H.R. 268) making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes, and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules",On Ordering the Previous Question,Passed,230,194,0,9
+House,116,1,35,35,2019-01-16,"Providing for consideration of the bill (H.R. 268) making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes, and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules",On Agreeing to the Resolution,Passed,230,193,0,10
+House,116,1,36,36,2019-01-16,Expanding Contracting Opportunities for Small Businesses Act,On Motion to Suspend the Rules and Pass,Passed,415,6,0,12
+House,116,1,38,38,2019-01-16,"Making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,193,231,0,9
+House,116,1,37,37,2019-01-16,,On Agreeing to the Amendment,Agreed to,230,197,0,12
+House,116,1,39,39,2019-01-16,"Making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Passage,Passed,237,187,0,9
+House,116,1,40,40,2019-01-17,"Providing for consideration of the joint resolution (H.J. Res. 28) making further continuing appropriations for fiscal year 2019, and for other purposes, and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,230,190,0,13
+House,116,1,41,41,2019-01-17,Grant Reporting Efficiency and Agreements Transparency Act or GREAT Act,On Motion to Suspend the Rules and Pass,Passed,422,0,0,11
+House,116,1,42,42,2019-01-17,Disapproving the President’s proposal to take an action relating to the application of certain sanctions with respect to the Russian Federation,On Motion to Suspend the Rules and Pass,Passed,362,53,0,18
+House,116,1,43,43,2019-01-17,"Making further continuing appropriations for fiscal year 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,195,222,0,16
+House,116,1,44,44,2019-01-22,NATO Support Act,On Motion to Suspend the Rules and Pass,Passed,357,22,0,54
+House,116,1,45,45,2019-01-22,Hack Your State Department Act,On Motion to Suspend the Rules and Pass,Passed,377,3,0,53
+House,116,1,46,46,2019-01-23,"Making further continuing appropriations for fiscal year 2019, and for other purposes",On Passage,Passed,229,184,0,19
+House,116,1,47,47,2019-01-23,"Providing for consideration of the bill H.R. 648, and consideration of the joint resolution, H.J. Res. 31; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules",On Agreeing to the Resolution,Passed,223,190,0,19
+House,116,1,48,48,2019-01-23,"Consolidated Appropriations Act, 2019",On Motion to Recommit with Instructions,Failed,200,215,0,17
+House,116,1,49,49,2019-01-23,"Consolidated Appropriations Act, 2019",On Passage,Passed,234,180,0,18
+House,116,1,50,50,2019-01-24,"Making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,200,214,0,18
+House,116,1,51,51,2019-01-24,"Making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes",On Passage,Passed,231,180,0,21
+House,116,1,52,52,2019-01-28,Promoting Transparent Standards for Corporate Insiders Act,On Motion to Suspend the Rules and Pass,Passed,413,3,0,16
+House,116,1,53,53,2019-01-28,Fight Illicit Networks and Detect Trafficing Act,On Motion to Suspend the Rules and Pass,Passed,412,3,0,17
+House,116,1,54,54,2019-01-28,,On Approving the Journal,Passed,234,170,2,26
+House,116,1,55,55,2019-01-29,,On Motion to Adjourn,Failed,14,395,0,23
+House,116,1,56,56,2019-01-29,Homeland Security Assessment of Terrorists’ Use of Virtual Currencies Act,On Motion to Suspend the Rules and Pass,Passed,422,3,0,7
+House,116,1,57,57,2019-01-29,Pathways to Improving Homeland Security at the Local Level Act,On Motion to Suspend the Rules and Pass,Passed,412,12,0,8
+House,116,1,59,59,2019-01-29,Expressing the sense of Congress that financial institutions and other companies should work proactively with their customers affected by the shutdown of the Federal Government who may be facing short-term financial hardship and long-term damage to their creditworthiness through no fault of their own,Table Motion to Reconsider,Passed,240,176,0,16
+House,116,1,58,58,2019-01-29,Counterterrorism Advisory Board Act,On Motion to Suspend the Rules and Pass,Passed,414,12,0,6
+House,116,1,60,60,2019-01-30,"Providing for consideration of the bill (H.R. 790) to provide for a pay increase in 2019 for certain civilian employees of the Federal Government, and for other purposes, and providing for consideration of motions to suspend the rules",On Ordering the Previous Question,Passed,232,190,0,10
+House,116,1,61,61,2019-01-30,"Providing for consideration of the bill (H.R. 790) to provide for a pay increase in 2019 for certain civilian employees of the Federal Government, and for other purposes, and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,231,189,0,12
+House,116,1,62,62,2019-01-30,,On Agreeing to the Amendment,Agreed to,243,183,0,12
+House,116,1,63,63,2019-01-30,Federal Civilian Workforce Pay Raise Fairness Act,On Motion to Recommit with Instructions,Failed,206,216,0,10
+House,116,1,65,65,2019-01-30,Expressing the sense of the House of Representatives that Government shutdowns are detrimental to the Nation and should not occur,"On Motion to Suspend the Rules and Agree, as Amended",Failed,249,163,0,20
+House,116,1,64,64,2019-01-30,Federal Civilian Workforce Pay Raise Fairness Act,On Passage,Passed,259,161,0,12
+House,116,1,66,66,2019-02-06,Reviving America’s Scenic Byways Act,On Motion to Suspend the Rules and Pass,Passed,404,19,0,9
+House,116,1,67,67,2019-02-06,Route 66 Centennial Commission Act,On Motion to Suspend the Rules and Pass,Passed,399,22,0,11
+House,116,1,68,68,2019-02-07,"Providing for consideration of H.R. 840, the Veterans’ Access to Child Care Act; providing for adoption of H.Res. 86, providing amounts for the expenses of the Select Committee on the Climate Crisis and the Select Committee on the Modernization of Congress; providing for consideration of motions to suspend the rules",On Ordering the Previous Question,Passed,227,189,0,16
+House,116,1,69,69,2019-02-07,"Providing for consideration of H.R. 840, the Veterans’ Access to Child Care Act; providing for adoption of H.Res. 86, providing amounts for the expenses of the Select Committee on the Climate Crisis and the Select Committee on the Modernization of Congress; providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,225,193,0,14
+House,116,1,71,71,2019-02-07,Put Trafficking Victims First Act of 2019,On Motion to Suspend the Rules and Pass,Passed,414,1,0,17
+House,116,1,70,70,2019-02-07,Preventing Crimes Against Veterans Act of 2019,"On Motion to Suspend the Rules and Pass, as Amended",Passed,417,0,0,15
+House,116,1,72,72,2019-02-08,,On Agreeing to the Amendment,Failed,172,246,0,20
+House,116,1,73,73,2019-02-08,,On Agreeing to the Amendment,Agreed to,401,19,0,18
+House,116,1,74,74,2019-02-08,Veterans’ Access to Child Care Act,On Motion to Recommit with Instructions,Failed,200,214,0,18
+House,116,1,75,75,2019-02-08,Veterans’ Access to Child Care Act,On Passage,Passed,400,9,0,23
+House,116,1,76,76,2019-02-11,Social Media Use in Clearance Investigations Act,On Motion to Suspend the Rules and Pass,Passed,377,3,0,51
+House,116,1,78,78,2019-02-13,"Providing for consideration of H.J. Res.37, directing the removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules",On Ordering the Previous Question,Passed,227,195,0,9
+House,116,1,77,77,2019-02-11,Creating Advanced Streamlined Electronic Services for Constituents Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,379,0,0,52
+House,116,1,79,79,2019-02-13,"Providing for consideration of H.J. Res.37, directing the removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules",On Agreeing to the Resolution,Passed,228,193,0,10
+House,116,1,80,80,2019-02-13,,On Approving the Journal,Passed,215,199,1,16
+House,116,1,81,81,2019-02-13,,On Agreeing to the Amendment,Agreed to,252,177,0,8
+House,116,1,83,83,2019-02-13,Directing the removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress,On Passage,Passed,248,177,1,5
+House,116,1,82,82,2019-02-13,Directing the removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress,On Motion to Recommit with Instructions,Passed,424,0,2,5
+House,116,1,84,84,2019-02-13,Settlement Agreement Information Database Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,418,0,0,13
+House,116,1,86,86,2019-02-14,"Providing for consideration of the conference report to accompany H.J. Res. 31, making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes; providing for proceedings during the period from February 15, 2019 through February 22, 2019",On Agreeing to the Resolution,Passed,230,196,0,5
+House,116,1,85,85,2019-02-14,"Providing for consideration of the conference report to accompany H.J. Res. 31, making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes; providing for proceedings during the period from February 15, 2019 through February 22, 2019",On Ordering the Previous Question,Passed,229,195,0,7
+House,116,1,87,87,2019-02-14,"Making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes",On Agreeing to the Conference Report,Passed,300,128,0,4
+House,116,1,88,88,2019-02-25,Innovators to Entrepreneurs Act,On Motion to Suspend the Rules and Pass,Passed,385,18,0,28
+House,116,1,89,89,2019-02-25,Recognizing Achievement in Classified School Employees Act,On Motion to Suspend the Rules and Pass,Passed,387,19,0,25
+House,116,1,90,90,2019-02-26,"Providing for consideration of the bill (H.R. 8) Bipartisan Background Checks Act, and providing for consideration of the bill (H.R. 1112) Enhanced Background Checks Act",On Ordering the Previous Question,Passed,229,191,0,11
+House,116,1,91,91,2019-02-26,"Providing for consideration of the bill (H.R. 8) Bipartisan Background Checks Act, and providing for consideration of the bill (H.R. 1112) Enhanced Background Checks Act",On Agreeing to the Resolution,Passed,227,194,0,10
+House,116,1,92,92,2019-02-26,"Providing for consideration of the joint resolution (H.J. Res. 46) relating to a national emergency declared by the President on February 15, 2019",On Ordering the Previous Question,Passed,228,193,0,10
+House,116,1,93,93,2019-02-26,"Providing for consideration of the joint resolution (H.J. Res. 46) relating to a national emergency declared by the President on February 15, 2019",On Agreeing to the Resolution,Passed,229,193,0,9
+House,116,1,94,94,2019-02-26,"Relating to a national emergency declared by the President on February 15, 2019",On Passage,Passed,245,182,0,5
+House,116,1,95,95,2019-02-26,Natural Resources Management Act,On Motion to Suspend the Rules and Pass,Passed,363,62,0,6
+House,116,1,96,96,2019-02-27,,On Agreeing to the Amendment,Failed,182,250,0,5
+House,116,1,98,98,2019-02-27,Bipartisan Background Checks Act,On Motion to Recommit with Instructions,Passed,220,209,0,3
+House,116,1,97,97,2019-02-27,,On Agreeing to the Amendment,Agreed to,310,119,0,8
+House,116,1,99,99,2019-02-27,Bipartisan Background Checks Act,On Passage,Passed,240,190,0,2
+House,116,1,100,100,2019-02-28,,On Agreeing to the Amendment,Agreed to,282,144,0,11
+House,116,1,101,101,2019-02-28,,On Agreeing to the Amendment,Agreed to,234,193,0,10
+House,116,1,102,102,2019-02-28,Enhanced Background Checks Act,On Motion to Recommit with Instructions,Failed,194,232,0,5
+House,116,1,103,103,2019-02-28,Enhanced Background Checks Act,On Passage,Passed,228,198,0,6
+House,116,1,104,104,2019-03-05,Burn Pit Registry Enhancement Act,On Motion to Suspend the Rules and Pass,Passed,416,0,0,15
+House,116,1,105,105,2019-03-05,"To designate the outstation of the Department of Veterans Affairs in North Ogden, Utah, as the Major Brent Taylor Vet Center Outstation",On Motion to Suspend the Rules and Pass,Passed,417,0,0,14
+House,116,1,106,106,2019-03-06,"Providing for consideration of H.R. 1, the For the People Act of 2019; and providing for consideration of motions to suspend the rules",On Ordering the Previous Question,Passed,232,191,0,8
+House,116,1,107,107,2019-03-06,"Providing for consideration of H.R. 1, the For the People Act of 2019; and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,232,192,0,7
+House,116,1,108,108,2019-03-07,Condemning anti-Semitism as hateful expressions of intolerance that are contradictory to the values and aspirations that define the people of the United States and condemning anti-Muslim discrimination and bigotry against minorities as hateful expressions of intolerance that are contrary to the values and aspirations,"On Motion to Suspend the Rules and Agree, as Amended",Passed,407,23,1,1
+House,116,1,109,109,2019-03-07,,On Agreeing to the Amendment,Agreed to,219,215,0,3
+House,116,1,110,110,2019-03-07,,On Agreeing to the Amendment,Failed,199,235,0,3
+House,116,1,111,111,2019-03-07,,On Agreeing to the Amendment,Failed,126,305,2,4
+House,116,1,112,112,2019-03-07,,On Agreeing to the Amendment,Failed,200,233,0,4
+House,116,1,113,113,2019-03-07,,On Agreeing to the Amendment,Failed,194,238,0,5
+House,116,1,114,114,2019-03-07,,On Agreeing to the Amendment,Failed,195,237,0,5
+House,116,1,115,115,2019-03-08,,On Agreeing to the Amendment,Agreed to,237,188,0,12
+House,116,1,116,116,2019-03-08,,On Agreeing to the Amendment,Agreed to,239,186,0,12
+House,116,1,117,117,2019-03-08,For the People Act,On Motion to Recommit with Instructions,Failed,197,228,0,7
+House,116,1,118,118,2019-03-08,For the People Act,On Passage,Passed,234,193,0,5
+House,116,1,119,119,2019-03-11,Housing Choice Voucher Mobility Demonstration Act,On Motion to Suspend the Rules and Pass,Passed,387,22,0,22
+House,116,1,120,120,2019-03-11,Cooperate with Law Enforcement Agencies and Watch Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,404,7,0,20
+House,116,1,121,121,2019-03-12,Calling for accountability and justice for the assassination of Boris Nemtsov,"On Motion to Suspend the Rules and Agree, as Amended",Passed,416,1,0,14
+House,116,1,122,122,2019-03-12,Crimea Annexation Non-recognition Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,427,1,0,3
+House,116,1,123,123,2019-03-12,Federal Register Modernization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,426,1,0,4
+House,116,1,124,124,2019-03-13,"Providing for consideration of H. Con. Res. 24, expressing the sense of Congress that the report of Special Counsel Mueller should be made available to the public and to Congress; providing for proceedings during the period from March 15, 2019, through March 22, 2019",On Agreeing to the Resolution,Passed,233,195,0,3
+House,116,1,125,125,2019-03-14,Expressing the sense of Congress that the report of Special Counsel Mueller should be made available to the public and to Congress,On Agreeing to the Resolution,Passed,420,0,4,7
+House,116,1,126,126,2019-03-25,European Energy Security and Diversification Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,391,24,0,16
+House,116,1,128,128,2019-03-26,Lytton Rancheria Homelands Act,On Motion to Suspend the Rules and Pass,Passed,404,21,0,6
+House,116,1,127,127,2019-03-26,"Relating to a national emergency declared by the President on February 15, 2019","On Passage, Objections of the President to the Contrary Notwithstanding",Failed,248,181,0,3
+House,116,1,129,129,2019-03-26,Little Shell Tribe of Chippewa Indians Restoration Act,On Motion to Suspend the Rules and Pass,Passed,403,21,0,7
+House,116,1,130,130,2019-03-27,"Providing for consideration of H.R. 7, the Paycheck Fairness Act; H. Res. 124, expressing opposition to banning service in the Amred Forces by openly transgender individuals",On Ordering the Previous Question,Passed,231,192,0,8
+House,116,1,131,131,2019-03-27,"Providing for consideration of H.R. 7, the Paycheck Fairness Act; H. Res. 124, expressing opposition to banning service in the Amred Forces by openly transgender individuals",On Agreeing to the Resolution,Passed,232,190,0,9
+House,116,1,132,132,2019-03-27,,On Agreeing to the Amendment,Agreed to,406,24,0,7
+House,116,1,133,133,2019-03-27,Paycheck Fairness Act,On Motion to Recommit with Instructions,Failed,191,236,0,4
+House,116,1,134,134,2019-03-27,Paycheck Fairness Act,On Passage,Passed,242,187,0,3
+House,116,1,135,135,2019-03-28,Expressing opposition to banning service in the Armed Forces by openly transgender individuals,On Agreeing to the Resolution,Passed,238,185,1,8
+House,116,1,136,136,2019-03-28,,On Approving the Journal,Passed,216,179,1,35
+House,116,1,137,137,2019-04-01,Coordinating and Leveraging Activities for School Security Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,384,18,0,29
+House,116,1,138,138,2019-04-01,Terrorist and Foreign Fighter Travel Exercise Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,394,7,0,30
+House,116,1,140,140,2019-04-02,Consideration of (S.J.Res. 7) to direct the removal of the United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress; consideration of (H.Res. 271) Condemning the Trump Administration’s Legal Campaign to Take Away Americans’ Health Care; and suspension authority.,On Ordering the Previous Question,Passed,231,191,0,9
+House,116,1,139,139,2019-04-01,,On Approving the Journal,Passed,207,181,1,42
+House,116,1,141,141,2019-04-02,Consideration of (S.J.Res. 7) to direct the removal of the United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress; consideration of (H.Res. 271) Condemning the Trump Administration’s Legal Campaign to Take Away Americans’ Health Care; and suspension authority.,On Agreeing to the Resolution,Passed,230,188,0,13
+House,116,1,142,142,2019-04-02,"To designate the facility of the United States Postal Service located at 770 Ayrault Road in Fairport, New York, as the “Louise and Bob Slaughter Post Office”",On Motion to Suspend the Rules and Pass,Passed,414,7,0,11
+House,116,1,143,143,2019-04-02,,On Approving the Journal,Passed,222,189,1,19
+House,116,1,144,144,2019-04-03,"Providing for consideration of the bill (H.R. 1585) to reauthorize the Violence Against Women Act of 1994, and for other purposes",On Ordering the Previous Question,Passed,231,193,0,7
+House,116,1,146,146,2019-04-03,Condemning the Trump Administration’s Legal Campaign to Take Away Americans’ Health Care,On Agreeing to the Resolution,Passed,240,186,1,5
+House,116,1,145,145,2019-04-03,"Providing for consideration of the bill (H.R. 1585) to reauthorize the Violence Against Women Act of 1994, and for other purposes",On Agreeing to the Resolution,Passed,231,194,0,6
+House,116,1,148,148,2019-04-03,,On Agreeing to the Amendment,Agreed to,394,36,0,7
+House,116,1,149,149,2019-04-03,,On Agreeing to the Amendment,Agreed to,258,173,0,6
+House,116,1,147,147,2019-04-03,,On Agreeing to the Amendment,Agreed to,363,67,0,7
+House,116,1,150,150,2019-04-03,,On Agreeing to the Amendment,Agreed to,429,0,0,8
+House,116,1,151,151,2019-04-04,"To designate the facility of the United States Postal Service located at 1450 Montauk Highway in Mastic, New York, as the “Army Specialist Thomas J. Wilwerth Post Office Building”",On Motion to Suspend the Rules and Pass,Passed,423,0,0,8
+House,116,1,152,152,2019-04-04,To direct the removal of the United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress,On Motion to Commit with Instructions,Failed,194,228,1,8
+House,116,1,153,153,2019-04-04,To direct the removal of the United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress,On Passage,Passed,247,175,1,9
+House,116,1,154,154,2019-04-04,,On Agreeing to the Amendment,Agreed to,425,0,0,12
+House,116,1,155,155,2019-04-04,Violence Against Women Reauthorization Act,On Motion to Recommit with Instructions,Failed,185,237,0,9
+House,116,1,156,156,2019-04-04,Violence Against Women Reauthorization Act,On Passage,Passed,263,158,1,9
+House,116,1,157,157,2019-04-08,Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby,On Motion to Suspend the Rules and Agree,Passed,386,0,0,45
+House,116,1,158,158,2019-04-08,Local Water Protection Act,On Motion to Suspend the Rules and Pass,Passed,329,56,0,46
+House,116,1,159,159,2019-04-08,,On Approving the Journal,Passed,194,182,1,54
+House,116,1,160,160,2019-04-09,"Providing for consideration of H.R. 1644, Save the Internet Act; and providing for consideration of H.R. 2021, Investing for the People Act",On Ordering the Previous Question,Passed,225,192,0,14
+House,116,1,161,161,2019-04-09,"Providing for consideration of H.R. 1644, Save the Internet Act; and providing for consideration of H.R. 2021, Investing for the People Act",On Agreeing to the Resolution,Passed,219,201,0,11
+House,116,1,162,162,2019-04-09,Building on Reemployment Improvements to Deliver Good Employment for Workers Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,393,24,0,14
+House,116,1,163,163,2019-04-10,,On Agreeing to the Amendment,Agreed to,363,60,0,14
+House,116,1,164,164,2019-04-10,,On Agreeing to the Amendment,Agreed to,376,46,0,15
+House,116,1,166,166,2019-04-10,Save the Internet Act,On Motion to Recommit with Instructions,Failed,204,216,0,11
+House,116,1,167,167,2019-04-10,Save the Internet Act,On Passage,Passed,232,190,0,10
+House,116,1,165,165,2019-04-10,,On Agreeing to the Amendment,Agreed to,423,0,0,14
+House,116,1,169,169,2019-04-29,,On Approving the Journal,Passed,227,182,1,21
+House,116,1,168,168,2019-04-29,Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act,On Motion to Suspend the Rules and Pass,Passed,396,18,0,17
+House,116,1,170,170,2019-04-30,National Senior Investor Initiative Act,On Motion to Suspend the Rules and Pass,Passed,392,20,0,19
+House,116,1,172,172,2019-05-01,"Providing for consideration of the bill (H.R. 9) to direct the President to develop a plan for the United States to meet its nationally determined contribution under the Paris Agreement, and for other purposes",On Ordering the Previous Question,Passed,228,191,0,12
+House,116,1,171,171,2019-04-30,Supporting the protection of elders through financial literacy,On Motion to Suspend the Rules and Agree,Passed,411,6,0,14
+House,116,1,173,173,2019-05-01,"Providing for consideration of the bill (H.R. 9) to direct the President to develop a plan for the United States to meet its nationally determined contribution under the Paris Agreement, and for other purposes",On Agreeing to the Resolution,Passed,226,188,0,17
+House,116,1,174,174,2019-05-01,Raising a question of the privileges of the House,On Motion to Table,Passed,226,183,0,22
+House,116,1,175,175,2019-05-02,,On Agreeing to the Amendment,Agreed to,237,185,0,15
+House,116,1,176,176,2019-05-02,,On Agreeing to the Amendment,Failed,189,234,0,14
+House,116,1,177,177,2019-05-02,,On Agreeing to the Amendment,Failed,189,234,0,14
+House,116,1,178,178,2019-05-02,,On Agreeing to the Amendment,Agreed to,262,163,0,12
+House,116,1,179,179,2019-05-02,,On Agreeing to the Amendment,Agreed to,305,121,0,11
+House,116,1,180,180,2019-05-02,,On Agreeing to the Amendment,Agreed to,295,132,0,10
+House,116,1,181,181,2019-05-02,,On Agreeing to the Amendment,Agreed to,257,167,0,13
+House,116,1,182,182,2019-05-02,,On Agreeing to the Amendment,Agreed to,259,166,0,12
+House,116,1,184,184,2019-05-02,Climate Action Now Act,On Passage,Passed,231,190,0,11
+House,116,1,183,183,2019-05-02,Climate Action Now Act,On Motion to Recommit with Instructions,Failed,206,214,0,11
+House,116,1,185,185,2019-05-07,Reaffirming the United States commitment to Taiwan and to the implementation of the Taiwan Relations Act,On Motion to Suspend the Rules and Agree,Passed,414,0,0,17
+House,116,1,186,186,2019-05-07,Championing American Business Through Diplomacy Act,On Motion to Suspend the Rules and Pass,Passed,400,16,0,15
+House,116,1,187,187,2019-05-08,Orange Book Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,422,0,0,9
+House,116,1,188,188,2019-05-08,Purple Book Continuity Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,421,0,0,10
+House,116,1,189,189,2019-05-09,"Providing for consideration of the bill (H.R. 986) Protecting Americans with Preexisting Conditions Act, and providing for consideration of the bill (H.R. 2157) making supplemental appropriations for fiscal year ending September 30, 2019, and for other purposes",On Ordering the Previous Question,Passed,227,190,1,13
+House,116,1,190,190,2019-05-09,"Providing for consideration of the bill (H.R. 986) Protecting Americans with Preexisting Conditions Act, and providing for consideration of the bill (H.R. 2157) making supplemental appropriations for fiscal year ending September 30, 2019, and for other purposes",On Agreeing to the Resolution,Passed,227,191,0,13
+House,116,1,191,191,2019-05-09,,On Agreeing to the Amendment,Agreed to,351,70,0,16
+House,116,1,192,192,2019-05-09,,On Agreeing to the Amendment,Failed,184,237,0,16
+House,116,1,193,193,2019-05-09,,On Agreeing to the Amendment,Agreed to,302,117,0,18
+House,116,1,194,194,2019-05-09,,On Agreeing to the Amendment,Agreed to,308,112,0,17
+House,116,1,195,195,2019-05-09,Protecting Americans with Preexisting Conditions Act,On Motion to Recommit with Instructions,Failed,182,231,0,18
+House,116,1,196,196,2019-05-09,Protecting Americans with Preexisting Conditions Act,On Passage,Passed,230,183,1,17
+House,116,1,197,197,2019-05-10,,On Agreeing to the Amendment,Agreed to,247,165,0,25
+House,116,1,198,198,2019-05-10,,On Agreeing to the Amendment,Agreed to,268,143,0,26
+House,116,1,199,199,2019-05-10,,On Agreeing to the Amendment,Agreed to,241,168,0,28
+House,116,1,200,200,2019-05-10,,On Agreeing to the Amendment,Agreed to,393,20,0,24
+House,116,1,201,201,2019-05-10,"Making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,189,215,0,27
+House,116,1,202,202,2019-05-10,"Making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Passage,Passed,257,150,0,24
+House,116,1,203,203,2019-05-14,Blue Water Navy Vietnam Veterans Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,0,0,21
+House,116,1,205,205,2019-05-15,"Providing for consideration of the bill (H.R. 5) Equality Act, providing for consideration of the bill (H.R. 312) Mashpee Wampanoag Tribe Reservation Reaffirmation Act, and providing for consideration of (H.R. 987) Strengthening Health Care and Lowering Prescription Drug Costs Act",On Ordering the Previous Question,Passed,228,189,1,13
+House,116,1,204,204,2019-05-14,To reauthorize the Bulletproof Vest Partnership Grant Program.,"On Motion to Suspend the Rules and Pass, as Amended",Passed,400,9,0,22
+House,116,1,206,206,2019-05-15,"Providing for consideration of the bill (H.R. 5) Equality Act, providing for consideration of the bill (H.R. 312) Mashpee Wampanoag Tribe Reservation Reaffirmation Act, and providing for consideration of (H.R. 987) Strengthening Health Care and Lowering Prescription Drug Costs Act",On Agreeing to the Resolution,Passed,229,188,0,14
+House,116,1,208,208,2019-05-15,"To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian Tribes, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,323,96,0,12
+House,116,1,207,207,2019-05-15,Mashpee Wampanoag Tribe Reservation Reaffirmation Act,On Passage,Passed,275,146,0,10
+House,116,1,209,209,2019-05-15,Quadrennial Homeland Security Review Technical Corrections Act,On Motion to Suspend the Rules and Pass,Passed,415,0,0,16
+House,116,1,211,211,2019-05-16,,On Agreeing to the Amendment,Agreed to,243,174,0,20
+House,116,1,210,210,2019-05-16,,On Agreeing to the Amendment,Failed,189,230,0,18
+House,116,1,212,212,2019-05-16,,On Agreeing to the Amendment,Agreed to,232,185,0,20
+House,116,1,214,214,2019-05-16,MORE Health Education Act,On Passage,Passed,234,183,0,15
+House,116,1,213,213,2019-05-16,MORE Health Education Act,On Motion to Recommit with Instructions,Failed,188,228,0,15
+House,116,1,215,215,2019-05-17,,On Approving the Journal,Passed,215,191,1,24
+House,116,1,216,216,2019-05-17,Equality Act,On Motion to Recommit with Instructions,Failed,181,228,0,23
+House,116,1,217,217,2019-05-17,Equality Act,On Passage,Passed,236,173,0,23
+House,116,1,218,218,2019-05-20,Intercountry Adoption Information Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,397,0,0,34
+House,116,1,219,219,2019-05-20,Denouncing female genital mutilation/cutting as a violation of the human rights of women and girls and urging the international community and the Federal Government to increase efforts to eliminate the harmful practice,On Motion to Suspend the Rules and Agree,Passed,393,0,0,38
+House,116,1,220,220,2019-05-21,"Providing for consideration of the bill (H.R. 1500) Consumers First Act, providing for consideration of the bill (H.R. 1994) Setting Every Community Up for Retirement Enhancement Act, and providing for proceedings during the period from May 24, 2019, through May 31, 2019, and for other purposes.",On Ordering the Previous Question,Passed,227,191,0,13
+House,116,1,221,221,2019-05-21,"Providing for consideration of the bill (H.R. 1500) Consumers First Act, providing for consideration of the bill (H.R. 1994) Setting Every Community Up for Retirement Enhancement Act, and providing for proceedings during the period from May 24, 2019, through May 31, 2019, and for other purposes.",On Agreeing to the Resolution,Passed,230,190,0,11
+House,116,1,222,222,2019-05-22,,On Agreeing to the Amendment,Failed,190,234,0,13
+House,116,1,223,223,2019-05-22,,On Agreeing to the Amendment,Failed,191,236,0,10
+House,116,1,224,224,2019-05-22,,On Agreeing to the Amendment,Failed,192,235,0,10
+House,116,1,225,225,2019-05-22,,On Agreeing to the Amendment,Agreed to,418,10,0,9
+House,116,1,226,226,2019-05-22,,On Agreeing to the Amendment,Agreed to,235,193,0,9
+House,116,1,227,227,2019-05-22,Consumers First Act,On Motion to Recommit with Instructions,Failed,191,231,0,9
+House,116,1,228,228,2019-05-22,Consumers First Act,On Passage,Passed,231,191,0,9
+House,116,1,229,229,2019-05-23,,On Approving the Journal,Passed,223,194,2,12
+House,116,1,230,230,2019-05-23,Setting Every Community Up for Retirement Enhancement Act,On Motion to Recommit with Instructions,Failed,200,222,0,9
+House,116,1,231,231,2019-05-23,Setting Every Community Up for Retirement Enhancement Act,On Passage,Passed,417,3,0,11
+House,116,1,232,232,2019-06-03,"Making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,354,58,0,19
+House,116,1,233,233,2019-06-03,"To extend the program of block grants to States for temporary assistance for needy families and related programs through September 30, 2019",On Motion to Suspend the Rules and Pass,Passed,357,55,0,19
+House,116,1,234,234,2019-06-03,,On Approving the Journal,Passed,206,189,1,36
+House,116,1,235,235,2019-06-04,"Providing for consideration of the bill (H.R. 6) to authorize the cancellation of removal and adjustment of status of certain aliens, and for other purposes",On Ordering the Previous Question,Passed,228,192,0,12
+House,116,1,236,236,2019-06-04,"Providing for consideration of the bill (H.R. 6) to authorize the cancellation of removal and adjustment of status of certain aliens, and for other purposes",On Agreeing to the Resolution,Passed,219,203,0,10
+House,116,1,237,237,2019-06-04,,On Approving the Journal,Passed,212,203,2,15
+House,116,1,238,238,2019-06-04,"Remembering the victims of the violent suppression of democracy protests in Tiananmen Square and elsewhere in China on June 3 and 4, 1989, and calling on the Government of the People’s Republic of China to respect the universally recognized human rights of all people living in China and around the world","On Motion to Suspend the Rules and Agree, as Amended",Passed,423,0,0,10
+House,116,1,239,239,2019-06-04,American Dream and Promise Act,On Motion to Recommit with Instructions,Failed,202,221,0,10
+House,116,1,240,240,2019-06-04,American Dream and Promise Act,On Passage,Passed,237,187,0,9
+House,116,1,241,241,2019-06-05,Ocean Acidification Innovation Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,395,22,0,15
+House,116,1,242,242,2019-06-10,Supporting Research and Development for First Responders Act,On Motion to Suspend the Rules and Pass,Passed,395,3,0,34
+House,116,1,243,243,2019-06-10,Strengthening Local Transportation Security Capabilities Act,On Motion to Suspend the Rules and Pass,Passed,384,13,0,35
+House,116,1,244,244,2019-06-10,DHS Overseas Personnel Enhancement Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,394,2,0,36
+House,116,1,245,245,2019-06-11,Providing for consideration of H.R. 2740 and H. Res. 430,On Ordering the Previous Question,Passed,227,190,0,15
+House,116,1,246,246,2019-06-11,Providing for consideration of H.R. 2740 and H. Res. 430,On Agreeing to the Resolution,Passed,227,190,0,15
+House,116,1,247,247,2019-06-11,Authorizing the Committee on the Judiciary to initiate or intervene in judicial proceedings to enforce certain subpoenas and for other purposes,On Agreeing to the Resolution,Passed,229,191,0,13
+House,116,1,248,248,2019-06-11,DHS Acquisition Review Board Act,On Motion to Suspend the Rules and Pass,Passed,419,0,0,13
+House,116,1,249,249,2019-06-12,,On Motion to Adjourn,Failed,146,244,0,42
+House,116,1,250,250,2019-06-12,,On Motion to Adjourn,Failed,140,254,1,37
+House,116,1,251,251,2019-06-12,,On Agreeing to the Amendment,Agreed to,338,83,0,17
+House,116,1,252,252,2019-06-12,,On Agreeing to the Amendment,Agreed to,243,179,0,16
+House,116,1,253,253,2019-06-12,,On Agreeing to the Amendment,Agreed to,290,134,0,14
+House,116,1,254,254,2019-06-12,,On Agreeing to the Amendment,Agreed to,381,42,0,15
+House,116,1,255,255,2019-06-12,,On Agreeing to the Amendment,Agreed to,347,76,0,15
+House,116,1,257,257,2019-06-12,,On Agreeing to the Amendment,Agreed to,413,11,0,14
+House,116,1,256,256,2019-06-12,,On Agreeing to the Amendment,Agreed to,369,55,0,14
+House,116,1,258,258,2019-06-12,,On Agreeing to the Amendment,Agreed to,241,181,0,16
+House,116,1,259,259,2019-06-12,,On Agreeing to the Amendment,Agreed to,313,109,0,16
+House,116,1,260,260,2019-06-12,,On Agreeing to the Amendment,Agreed to,317,105,0,16
+House,116,1,261,261,2019-06-12,,On Agreeing to the Amendment,Agreed to,312,109,0,17
+House,116,1,263,263,2019-06-12,,On Agreeing to the Amendment,Agreed to,410,12,0,16
+House,116,1,262,262,2019-06-12,,On Agreeing to the Amendment,Agreed to,413,10,0,15
+House,116,1,264,264,2019-06-12,"Providing for further consideration of the bill (H.R. 2740) Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2020",On Ordering the Previous Question,Passed,230,184,0,18
+House,116,1,265,265,2019-06-12,"Providing for further consideration of the bill (H.R. 2740) Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2020",On Agreeing to the Resolution,Passed,232,189,0,11
+House,116,1,266,266,2019-06-12,,On Agreeing to the Amendment,Failed,192,230,0,16
+House,116,1,267,267,2019-06-12,,On Agreeing to the Amendment,Failed,191,231,0,16
+House,116,1,268,268,2019-06-12,,On Agreeing to the Amendment,Agreed to,401,23,0,14
+House,116,1,269,269,2019-06-12,,On Agreeing to the Amendment,Agreed to,356,67,0,15
+House,116,1,270,270,2019-06-12,,On Agreeing to the Amendment,Agreed to,246,178,0,14
+House,116,1,271,271,2019-06-12,,On Agreeing to the Amendment,Agreed to,336,87,0,15
+House,116,1,272,272,2019-06-12,,On Agreeing to the Amendment,Agreed to,260,164,0,14
+House,116,1,273,273,2019-06-12,,On Agreeing to the Amendment,Agreed to,358,66,0,14
+House,116,1,274,274,2019-06-12,,On Agreeing to the Amendment,Agreed to,341,83,0,14
+House,116,1,275,275,2019-06-12,,On Agreeing to the Amendment,Agreed to,415,9,0,14
+House,116,1,276,276,2019-06-12,,On Agreeing to the Amendment,Agreed to,356,68,0,14
+House,116,1,277,277,2019-06-12,,On Agreeing to the Amendment,Agreed to,408,15,0,15
+House,116,1,278,278,2019-06-12,,On Agreeing to the Amendment,Agreed to,405,19,0,14
+House,116,1,279,279,2019-06-13,,On Agreeing to the Amendment,Agreed to,348,75,0,15
+House,116,1,281,281,2019-06-13,,On Agreeing to the Amendment,Agreed to,420,4,0,14
+House,116,1,280,280,2019-06-13,,On Agreeing to the Amendment,Agreed to,376,48,0,14
+House,116,1,282,282,2019-06-13,,On Agreeing to the Amendment,Agreed to,386,38,0,14
+House,116,1,283,283,2019-06-13,,On Agreeing to the Amendment,Agreed to,236,188,0,14
+House,116,1,284,284,2019-06-13,,On Agreeing to the Amendment,Failed,186,237,1,14
+House,116,1,285,285,2019-06-13,,On Agreeing to the Amendment,Failed,158,266,0,14
+House,116,1,286,286,2019-06-13,,On Agreeing to the Amendment,Agreed to,401,23,0,14
+House,116,1,287,287,2019-06-13,,On Agreeing to the Amendment,Agreed to,356,68,0,14
+House,116,1,288,288,2019-06-13,,On Agreeing to the Amendment,Agreed to,365,59,0,14
+House,116,1,289,289,2019-06-13,,On Agreeing to the Amendment,Failed,150,273,0,15
+House,116,1,290,290,2019-06-13,,On Agreeing to the Amendment,Agreed to,283,141,0,14
+House,116,1,291,291,2019-06-13,,On Agreeing to the Amendment,Agreed to,421,3,0,14
+House,116,1,292,292,2019-06-13,,On Agreeing to the Amendment,Agreed to,327,97,0,14
+House,116,1,294,294,2019-06-13,,On Agreeing to the Amendment,Agreed to,355,68,0,15
+House,116,1,293,293,2019-06-13,,On Agreeing to the Amendment,Agreed to,396,27,0,15
+House,116,1,295,295,2019-06-13,,On Agreeing to the Amendment,Agreed to,275,148,0,15
+House,116,1,296,296,2019-06-13,,On Agreeing to the Amendment,Agreed to,266,150,0,22
+House,116,1,297,297,2019-06-13,,On Agreeing to the Amendment,Agreed to,358,65,0,15
+House,116,1,298,298,2019-06-13,,On Agreeing to the Amendment,Agreed to,307,115,0,16
+House,116,1,299,299,2019-06-13,,On Agreeing to the Amendment,Agreed to,359,64,0,15
+House,116,1,300,300,2019-06-13,,On Agreeing to the Amendment,Agreed to,285,138,0,15
+House,116,1,301,301,2019-06-13,,On Agreeing to the Amendment,Agreed to,376,47,0,15
+House,116,1,302,302,2019-06-13,,On Agreeing to the Amendment,Agreed to,366,55,0,17
+House,116,1,303,303,2019-06-13,,On Agreeing to the Amendment,Agreed to,264,158,0,16
+House,116,1,304,304,2019-06-13,,On Agreeing to the Amendment,Failed,91,331,0,16
+House,116,1,305,305,2019-06-13,,On Agreeing to the Amendment,Agreed to,388,30,0,20
+House,116,1,306,306,2019-06-13,,On Agreeing to the Amendment,Agreed to,371,49,0,18
+House,116,1,307,307,2019-06-13,,On Agreeing to the Amendment,Agreed to,365,54,0,19
+House,116,1,308,308,2019-06-13,,On Agreeing to the Amendment,Agreed to,383,36,0,19
+House,116,1,309,309,2019-06-13,,On Agreeing to the Amendment,Agreed to,376,41,0,21
+House,116,1,310,310,2019-06-13,,On Agreeing to the Amendment,Agreed to,390,29,0,19
+House,116,1,311,311,2019-06-13,,On Agreeing to the Amendment,Agreed to,316,103,0,19
+House,116,1,312,312,2019-06-13,,On Agreeing to the Amendment,Agreed to,311,110,0,17
+House,116,1,314,314,2019-06-13,,On Agreeing to the Amendment,Agreed to,281,138,0,19
+House,116,1,313,313,2019-06-13,,On Agreeing to the Amendment,Agreed to,235,183,0,20
+House,116,1,315,315,2019-06-13,,On Agreeing to the Amendment,Agreed to,233,187,0,18
+House,116,1,316,316,2019-06-13,,On Agreeing to the Amendment,Agreed to,342,77,1,18
+House,116,1,317,317,2019-06-13,,On Agreeing to the Amendment,Agreed to,364,54,0,20
+House,116,1,318,318,2019-06-13,,On Agreeing to the Amendment,Agreed to,374,44,0,20
+House,116,1,320,320,2019-06-13,,On Agreeing to the Amendment,Agreed to,333,86,0,19
+House,116,1,319,319,2019-06-13,,On Agreeing to the Amendment,Agreed to,345,73,0,20
+House,116,1,321,321,2019-06-13,,On Agreeing to the Amendment,Agreed to,225,193,0,20
+House,116,1,322,322,2019-06-13,,On Agreeing to the Amendment,Agreed to,382,32,0,24
+House,116,1,323,323,2019-06-18,"Making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2020, and for other purposes",On Motion that the Committee Rise,Passed,317,82,1,38
+House,116,1,324,324,2019-06-18,,On Agreeing to the Amendment,Failed,188,225,0,25
+House,116,1,325,325,2019-06-18,,On Agreeing to the Amendment,Agreed to,414,6,0,18
+House,116,1,326,326,2019-06-18,,On Agreeing to the Amendment,Agreed to,339,79,0,20
+House,116,1,327,327,2019-06-18,,On Agreeing to the Amendment,Failed,174,244,0,20
+House,116,1,328,328,2019-06-18,,On Agreeing to the Amendment,Agreed to,310,109,0,19
+House,116,1,329,329,2019-06-18,,On Agreeing to the Amendment,Failed,170,248,0,20
+House,116,1,330,330,2019-06-18,,On Agreeing to the Amendment,Agreed to,268,152,0,18
+House,116,1,331,331,2019-06-18,,On Agreeing to the Amendment,Agreed to,387,33,0,18
+House,116,1,332,332,2019-06-18,,On Agreeing to the Amendment,Agreed to,231,187,0,20
+House,116,1,333,333,2019-06-18,"Empowering Beneficiaries, Ensuring Access, and Strengthening Accountability Act","On Motion to Suspend the Rules and Pass, as Amended",Passed,371,46,0,15
+House,116,1,335,335,2019-06-18,,On Agreeing to the Amendment,Failed,110,315,0,13
+House,116,1,336,336,2019-06-18,,On Agreeing to the Amendment,Failed,184,241,0,13
+House,116,1,334,334,2019-06-18,,On Agreeing to the Amendment,Failed,131,292,0,15
+House,116,1,337,337,2019-06-18,,On Agreeing to the Amendment,Failed,174,251,0,13
+House,116,1,338,338,2019-06-18,,On Agreeing to the Amendment,Failed,123,303,0,12
+House,116,1,339,339,2019-06-18,,On Agreeing to the Amendment,Agreed to,283,144,0,11
+House,116,1,340,340,2019-06-18,,On Agreeing to the Amendment,Failed,134,293,0,11
+House,116,1,341,341,2019-06-18,,On Agreeing to the Amendment,Agreed to,381,46,0,11
+House,116,1,342,342,2019-06-18,,On Agreeing to the Amendment,Agreed to,355,73,0,10
+House,116,1,343,343,2019-06-18,,On Agreeing to the Amendment,Agreed to,277,151,0,10
+House,116,1,344,344,2019-06-18,,On Agreeing to the Amendment,Agreed to,243,183,0,12
+House,116,1,345,345,2019-06-18,,On Agreeing to the Amendment,Failed,175,253,0,10
+House,116,1,346,346,2019-06-18,,On Agreeing to the Amendment,Agreed to,327,101,0,10
+House,116,1,347,347,2019-06-18,,On Agreeing to the Amendment,Agreed to,389,39,0,10
+House,116,1,348,348,2019-06-18,,On Agreeing to the Amendment,Agreed to,254,174,0,10
+House,116,1,349,349,2019-06-18,,On Agreeing to the Amendment,Agreed to,237,191,0,10
+House,116,1,350,350,2019-06-18,,On Agreeing to the Amendment,Failed,203,225,0,10
+House,116,1,351,351,2019-06-18,,On Agreeing to the Amendment,Failed,192,236,0,10
+House,116,1,352,352,2019-06-18,,On Agreeing to the Amendment,Agreed to,424,3,0,11
+House,116,1,353,353,2019-06-18,,On Agreeing to the Amendment,Failed,138,289,1,10
+House,116,1,354,354,2019-06-18,,On Agreeing to the Amendment,Agreed to,277,151,0,10
+House,116,1,355,355,2019-06-18,,On Agreeing to the Amendment,Agreed to,404,22,0,12
+House,116,1,356,356,2019-06-19,"Providing for consideration of H.R. 3055, relating to consideration of H.R. 2740, and providing for proceedings during the period from June 28, 2019, through July 8, 2019",On Ordering the Previous Question,Passed,232,193,0,7
+House,116,1,357,357,2019-06-19,"Providing for consideration of H.R. 3055, relating to consideration of H.R. 2740, and providing for proceedings during the period from June 28, 2019, through July 8, 2019",On Agreeing to the Resolution,Passed,231,195,0,6
+House,116,1,358,358,2019-06-19,,On Agreeing to the Amendment,Failed,146,288,0,4
+House,116,1,359,359,2019-06-19,,On Agreeing to the Amendment,Failed,197,237,0,4
+House,116,1,360,360,2019-06-19,,On Agreeing to the Amendment,Agreed to,233,200,0,5
+House,116,1,361,361,2019-06-19,,On Agreeing to the Amendment,Agreed to,382,52,0,4
+House,116,1,363,363,2019-06-19,,On Agreeing to the Amendment,Agreed to,233,201,0,4
+House,116,1,362,362,2019-06-19,,On Agreeing to the Amendment,Failed,186,248,0,4
+House,116,1,364,364,2019-06-19,,On Agreeing to the Amendment,Failed,162,269,1,6
+House,116,1,365,365,2019-06-19,,On Agreeing to the Amendment,Failed,132,302,0,4
+House,116,1,366,366,2019-06-19,"Making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2020, and for other purposes",On Motion to Recommit,Failed,196,231,0,5
+House,116,1,367,367,2019-06-19,"Making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2020, and for other purposes",On Passage,Passed,226,203,0,3
+House,116,1,368,368,2019-06-20,,On Agreeing to the Amendment,Failed,186,245,1,6
+House,116,1,369,369,2019-06-20,,On Agreeing to the Amendment,Failed,192,240,0,6
+House,116,1,370,370,2019-06-20,,On Agreeing to the Amendment,Agreed to,267,165,0,6
+House,116,1,371,371,2019-06-20,,On Agreeing to the Amendment,Failed,135,296,0,7
+House,116,1,372,372,2019-06-20,,On Agreeing to the Amendment,Failed,84,345,0,9
+House,116,1,373,373,2019-06-20,,On Agreeing to the Amendment,Agreed to,381,50,0,7
+House,116,1,374,374,2019-06-20,,On Agreeing to the Amendment,Agreed to,238,194,0,6
+House,116,1,375,375,2019-06-20,,On Agreeing to the Amendment,Failed,113,318,0,7
+House,116,1,376,376,2019-06-20,,On Agreeing to the Amendment,Agreed to,425,6,0,7
+House,116,1,377,377,2019-06-20,,On Agreeing to the Amendment,Agreed to,408,22,0,8
+House,116,1,378,378,2019-06-20,,On Agreeing to the Amendment,Agreed to,252,178,0,8
+House,116,1,379,379,2019-06-20,,On Agreeing to the Amendment,Agreed to,247,185,0,6
+House,116,1,381,381,2019-06-20,,On Agreeing to the Amendment,Failed,192,240,0,6
+House,116,1,380,380,2019-06-20,,On Agreeing to the Amendment,Agreed to,239,192,0,7
+House,116,1,382,382,2019-06-20,,On Agreeing to the Amendment,Agreed to,243,188,0,7
+House,116,1,384,384,2019-06-20,,On Agreeing to the Amendment,Failed,198,233,0,7
+House,116,1,383,383,2019-06-20,,On Agreeing to the Amendment,Failed,178,254,0,6
+House,116,1,385,385,2019-06-20,,On Agreeing to the Amendment,Failed,191,241,0,6
+House,116,1,386,386,2019-06-20,,On Agreeing to the Amendment,Failed,189,243,0,6
+House,116,1,387,387,2019-06-20,,On Agreeing to the Amendment,Failed,193,239,0,6
+House,116,1,388,388,2019-06-20,,On Agreeing to the Amendment,Failed,128,304,0,6
+House,116,1,389,389,2019-06-20,,On Agreeing to the Amendment,Failed,132,299,0,7
+House,116,1,390,390,2019-06-20,,On Agreeing to the Amendment,Failed,157,275,0,6
+House,116,1,391,391,2019-06-20,,On Agreeing to the Amendment,Agreed to,245,187,0,6
+House,116,1,392,392,2019-06-20,,On Agreeing to the Amendment,Agreed to,325,107,0,6
+House,116,1,393,393,2019-06-20,,On Agreeing to the Amendment,Agreed to,238,192,0,8
+House,116,1,394,394,2019-06-20,,On Agreeing to the Amendment,Agreed to,377,55,0,6
+House,116,1,395,395,2019-06-20,,On Agreeing to the Amendment,Agreed to,253,177,0,8
+House,116,1,396,396,2019-06-21,,On Agreeing to the Amendment,Agreed to,373,51,0,14
+House,116,1,397,397,2019-06-21,,On Agreeing to the Amendment,Agreed to,418,6,0,14
+House,116,1,398,398,2019-06-21,,On Agreeing to the Amendment,Agreed to,420,3,0,15
+House,116,1,399,399,2019-06-24,,On Agreeing to the Amendment,Agreed to,221,195,0,22
+House,116,1,400,400,2019-06-24,,On Agreeing to the Amendment,Failed,180,236,0,22
+House,116,1,401,401,2019-06-24,,On Agreeing to the Amendment,Failed,181,236,0,21
+House,116,1,402,402,2019-06-24,,On Agreeing to the Amendment,Failed,145,273,0,20
+House,116,1,403,403,2019-06-25,"Providing for consideration of H.R. 2722, waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of H.R. 3351",On Ordering the Previous Question,Passed,228,188,0,16
+House,116,1,404,404,2019-06-25,"Providing for consideration of H.R. 2722, waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of H.R. 3351",On Agreeing to the Resolution,Passed,225,190,0,17
+House,116,1,405,405,2019-06-25,,On Agreeing to the Amendment,Failed,131,287,0,20
+House,116,1,406,406,2019-06-25,,On Agreeing to the Amendment,Agreed to,294,127,0,17
+House,116,1,407,407,2019-06-25,"Making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2020, and for other purposes",On Motion to Recommit with Instructions,Failed,201,220,0,11
+House,116,1,408,408,2019-06-25,"Making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2020, and for other purposes",On Passage,Passed,227,194,0,11
+House,116,1,409,409,2019-06-25,"Providing for consideration of the bill (H.R. 3401) making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Ordering the Previous Question,Passed,226,188,0,18
+House,116,1,410,410,2019-06-25,"Providing for consideration of the bill (H.R. 3401) making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Agreeing to the Resolution,Passed,225,189,0,18
+House,116,1,411,411,2019-06-25,,On Agreeing to the Amendment,Failed,191,226,0,21
+House,116,1,412,412,2019-06-25,,On Agreeing to the Amendment,Agreed to,226,198,0,14
+House,116,1,413,413,2019-06-25,"Making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Recommit with Instructions,Failed,205,218,0,9
+House,116,1,414,414,2019-06-25,"Making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Passage,Passed,230,195,0,8
+House,116,1,415,415,2019-06-26,,On Agreeing to the Amendment,Failed,151,274,0,13
+House,116,1,416,416,2019-06-26,,On Agreeing to the Amendment,Agreed to,227,200,0,11
+House,116,1,417,417,2019-06-26,,On Agreeing to the Amendment,Failed,141,285,0,12
+House,116,1,418,418,2019-06-26,,On Agreeing to the Amendment,Agreed to,406,19,0,13
+House,116,1,419,419,2019-06-26,,On Agreeing to the Amendment,Agreed to,400,27,0,11
+House,116,1,421,421,2019-06-26,,On Agreeing to the Amendment,Agreed to,408,17,0,13
+House,116,1,420,420,2019-06-26,,On Agreeing to the Amendment,Agreed to,373,51,0,14
+House,116,1,422,422,2019-06-26,,On Agreeing to the Amendment,Agreed to,362,65,0,11
+House,116,1,423,423,2019-06-26,"Making appropriations for financial services and general government for the fiscal year ending September 30, 2020, and for other purposes",On Motion to Recommit with Instructions,Passed,226,195,0,11
+House,116,1,424,424,2019-06-26,"Making appropriations for financial services and general government for the fiscal year ending September 30, 2020, and for other purposes",On Passage,Passed,224,196,0,12
+House,116,1,425,425,2019-06-27,"Providing for consideration of the Senate amendment to the bill (H.R. 3401) making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Consideration of the Resolution,Passed,226,188,0,18
+House,116,1,426,426,2019-06-27,"Providing for consideration of the Senate amendment to the bill (H.R. 3401) making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Agreeing to the Resolution,Passed,322,85,0,25
+House,116,1,427,427,2019-06-27,SAFE Act,On Motion to Recommit with Instructions,Failed,189,220,0,23
+House,116,1,428,428,2019-06-27,SAFE Act,On Passage,Passed,225,184,0,23
+House,116,1,429,429,2019-06-27,"Making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes",On Motion to Concur in the Senate Amendment,Passed,305,102,0,25
+House,116,1,430,430,2019-06-27,,On Approving the Journal,Passed,159,149,1,123
+House,116,1,431,431,2019-07-09,Whistleblower Protection Reform Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,12,0,10
+House,116,1,432,432,2019-07-09,Expanding Investment in Small Businesses Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,417,2,0,13
+House,116,1,433,433,2019-07-09,Expanding Access to Capital for Rural Job Creators Act,On Motion to Suspend the Rules and Pass,Passed,413,7,0,12
+House,116,1,434,434,2019-07-10,"Providing for consideration of H.R. 2500, the National Defense Authorization Act for Fiscal Year 2020, and providing for consideration of motions to suspend the rules",On Ordering the Previous Question on the Amendment and the Resolution,Passed,232,197,0,3
+House,116,1,435,435,2019-07-10,,On Agreeing to the Amendment,Agreed to,234,197,0,1
+House,116,1,436,436,2019-07-10,"Providing for consideration of H.R. 2500, the National Defense Authorization Act for Fiscal Year 2020, and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,234,197,0,1
+House,116,1,437,437,2019-07-10,Fairness for High-Skilled Immigrants Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,365,65,0,2
+House,116,1,438,438,2019-07-11,,On Agreeing to the Amendment,Agreed to,236,193,0,9
+House,116,1,439,439,2019-07-11,,On Agreeing to the Amendment,Agreed to,242,187,0,9
+House,116,1,440,440,2019-07-11,,On Agreeing to the Amendment,Agreed to,231,199,0,8
+House,116,1,442,442,2019-07-11,,On Agreeing to the Amendment,Agreed to,225,205,0,8
+House,116,1,441,441,2019-07-11,,On Agreeing to the Amendment,Agreed to,243,187,0,8
+House,116,1,443,443,2019-07-11,,On Agreeing to the Amendment,Agreed to,247,182,0,9
+House,116,1,445,445,2019-07-11,,On Agreeing to the Amendment,Agreed to,219,210,0,9
+House,116,1,444,444,2019-07-11,,On Agreeing to the Amendment,Agreed to,251,178,0,9
+House,116,1,446,446,2019-07-11,,On Agreeing to the Amendment,Agreed to,243,186,1,8
+House,116,1,447,447,2019-07-11,,On Agreeing to the Amendment,Agreed to,234,195,0,9
+House,116,1,448,448,2019-07-11,,On Agreeing to the Amendment,Agreed to,239,187,0,12
+House,116,1,449,449,2019-07-11,,On Agreeing to the Amendment,Agreed to,246,180,0,12
+House,116,1,450,450,2019-07-11,,On Agreeing to the Amendment,Agreed to,240,185,0,13
+House,116,1,451,451,2019-07-11,,On Agreeing to the Amendment,Agreed to,252,173,0,13
+House,116,1,452,452,2019-07-11,,On Agreeing to the Amendment,Agreed to,241,183,0,14
+House,116,1,453,453,2019-07-11,,On Agreeing to the Amendment,Agreed to,236,189,0,13
+House,116,1,454,454,2019-07-11,,On Agreeing to the Amendment,Failed,164,264,0,10
+House,116,1,455,455,2019-07-11,,On Agreeing to the Amendment,Failed,198,229,0,11
+House,116,1,456,456,2019-07-11,,On Agreeing to the Amendment,Agreed to,215,214,0,9
+House,116,1,457,457,2019-07-11,,On Agreeing to the Amendment,Agreed to,223,205,1,9
+House,116,1,458,458,2019-07-11,,On Agreeing to the Amendment,Agreed to,221,207,0,10
+House,116,1,459,459,2019-07-12,,On Agreeing to the Amendment,Failed,115,307,0,16
+House,116,1,460,460,2019-07-12,,On Agreeing to the Amendment,Failed,187,236,0,15
+House,116,1,461,461,2019-07-12,,On Agreeing to the Amendment,Agreed to,417,6,0,15
+House,116,1,462,462,2019-07-12,,On Agreeing to the Amendment,Failed,201,221,0,16
+House,116,1,463,463,2019-07-12,,On Agreeing to the Amendment,Agreed to,251,170,0,17
+House,116,1,464,464,2019-07-12,,On Agreeing to the Amendment,Agreed to,242,180,0,16
+House,116,1,465,465,2019-07-12,,On Agreeing to the Amendment,Agreed to,237,183,0,18
+House,116,1,466,466,2019-07-12,,On Agreeing to the Amendment,Failed,198,223,0,17
+House,116,1,467,467,2019-07-12,,On Agreeing to the Amendment,Failed,179,241,1,17
+House,116,1,468,468,2019-07-12,,On Agreeing to the Amendment,Failed,173,245,0,20
+House,116,1,469,469,2019-07-12,,On Agreeing to the Amendment,Agreed to,213,204,0,21
+House,116,1,470,470,2019-07-12,,On Agreeing to the Amendment,Agreed to,236,182,0,20
+House,116,1,471,471,2019-07-12,,On Agreeing to the Amendment,Agreed to,230,189,0,19
+House,116,1,472,472,2019-07-12,National Defense Authorization Act for Fiscal Year 2020,On Motion to Recommit with Instructions,Failed,204,212,0,16
+House,116,1,473,473,2019-07-12,National Defense Authorization Act for Fiscal Year 2020,On Passage,Passed,220,197,0,16
+House,116,1,474,474,2019-07-12,"Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent Authorization of the September 11th Victim Compensation Fund Act","On Motion to Suspend the Rules and Pass, as Amended",Passed,402,12,0,19
+House,116,1,475,475,2019-07-15,USAID Branding Modernization Act,On Motion to Suspend the Rules and Pass,Passed,414,1,0,17
+House,116,1,476,476,2019-07-15,Condemning the attacks on peaceful protesters and supporting an immediate peaceful transition to a civilian-led democratic government in Sudan,"On Motion to Suspend the Rules and Agree, as Amended",Passed,414,1,0,17
+House,116,1,477,477,2019-07-15,Saudi Arabia Human Rights and Accountability Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,405,7,0,20
+House,116,1,479,479,2019-07-16,"Providing for consideration of H.R. 3494, relating to the consideration of House Report 116-125 and an accompanying resolution, relating to the consideration of measures disapproving of sales, exports, or approvals pursuant to the Arms Export Control Act, and providing for consideration of H. Res. 489",On Agreeing to the Resolution,Passed,233,190,0,9
+House,116,1,478,478,2019-07-16,"Providing for consideration of H.R. 3494, relating to the consideration of House Report 116-125 and an accompanying resolution, relating to the consideration of measures disapproving of sales, exports, or approvals pursuant to the Arms Export Control Act, and providing for consideration of H. Res. 489",On Ordering the Previous Question,Passed,230,189,0,13
+House,116,1,480,480,2019-07-16,Condemning President Trump’s racist comments directed at Members of Congress,On Motion to Strike Words from the Record,Failed,190,232,0,10
+House,116,1,482,482,2019-07-16,Condemning President Trump’s racist comments directed at Members of Congress,On Agreeing to the Resolution,Passed,240,187,0,6
+House,116,1,481,481,2019-07-16,Condemning President Trump’s racist comments directed at Members of Congress,On Motion to Proceed in Order,Passed,231,190,0,11
+House,116,1,483,483,2019-07-17,"Impeaching Donald John Trump, President of the United States, of high misdemeanors",On Motion to Table,Passed,332,95,1,4
+House,116,1,485,485,2019-07-17,"Providing for consideration of the bill (H.R. 582) to provide for increases in the Federal minimum wage, and for other purposes",On Agreeing to the Resolution,Passed,231,197,0,4
+House,116,1,484,484,2019-07-17,"Providing for consideration of the bill (H.R. 582) to provide for increases in the Federal minimum wage, and for other purposes",On Ordering the Previous Question,Passed,231,194,0,7
+House,116,1,486,486,2019-07-17,"Providing for congressional disapproval of the proposed transfer to the Kingdom of Saudi Arabia, the United Kingdom of Great Britain, and Northern Ireland, the Kingdom of Spain, and the Italian Republic of certain defense articles and services",On Passage,Passed,238,190,0,4
+House,116,1,487,487,2019-07-17,"Providing for congressional disapproval of the proposed export to the United Arab Emirates, the United Kingdom of Great Britain and Northern Ireland, and the Republic of France of certain defense articles and services",On Passage,Passed,238,190,0,4
+House,116,1,488,488,2019-07-17,Providing for congressional disapproval of the proposed export to the Kingdom of Saudi Arabia and the United Kingdom of Great Britain and Northern Ireland of certain defense articles and services,On Passage,Passed,237,190,0,5
+House,116,1,489,489,2019-07-17,"Recommending that the House of Representatives find William P. Barr, Attorney General of the United States, and Wilbur L. Ross, Jr., Secretary of Commerce, In Contempt of Congress for Refusal to Comply with Subpoenas Duly Issued by the Committee on Oversight and Reform",On Agreeing to the Resolution,Passed,230,198,0,4
+House,116,1,490,490,2019-07-17,,On Agreeing to the Amendment,Failed,178,255,0,5
+House,116,1,491,491,2019-07-17,,On Agreeing to the Amendment,Agreed to,237,196,0,5
+House,116,1,492,492,2019-07-17,"To authorize appropriations for fiscal year 2020 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes",On Passage,Passed,397,31,0,4
+House,116,1,494,494,2019-07-18,,On Agreeing to the Amendment,Agreed to,248,181,0,3
+House,116,1,493,493,2019-07-17,Middle Class Health Benefits Tax Repeal Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,419,6,0,8
+House,116,1,495,495,2019-07-18,Raise the Wage Act,On Motion to Recommit with Instructions,Failed,210,218,0,4
+House,116,1,496,496,2019-07-18,Raise the Wage Act,On Passage,Passed,231,199,0,3
+House,116,1,497,497,2019-07-23,"Opposing efforts to delegitimize the State of Israel and the Global Boycott, Divestment, and Sanctions Movement targeting Israel","On Motion to Suspend the Rules and Agree, as Amended",Passed,398,17,5,12
+House,116,1,498,498,2019-07-23,Venezuela TPS Act,"On Motion to Suspend the Rules and Pass, as Amended",Failed,268,154,0,10
+House,116,1,499,499,2019-07-23,"To exempt for an additional 4-year period, from the application of the means-test presumption of abuse under chapter 7, qualifying members of reserve components of the Armed Forces and members of the National Guard who, after September 11, 2001, are called to active duty or to perform a homeland defense activity","On Motion to Suspend the Rules and Pass, as Amended",Passed,417,1,0,14
+House,116,1,500,500,2019-07-24,"Providing for consideration of the bill (H.R. 397) Rehabilitation for Multiemployer Pensions Act of 2019; providing for consideration of the bill (H.R. 3239) Humanitarian Standards for Individuals in Customs and Border Protection Custody Act; and providing for proceedings from July 29, 2019 through September 6, 2019",On Ordering the Previous Question,Passed,234,198,0,0
+House,116,1,501,501,2019-07-24,"Providing for consideration of the bill (H.R. 397) Rehabilitation for Multiemployer Pensions Act of 2019; providing for consideration of the bill (H.R. 3239) Humanitarian Standards for Individuals in Customs and Border Protection Custody Act; and providing for proceedings from July 29, 2019 through September 6, 2019",On Agreeing to the Resolution,Passed,234,195,0,3
+House,116,1,502,502,2019-07-24,Stopping Bad Robocalls Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,429,3,0,0
+House,116,1,503,503,2019-07-24,,On Agreeing to the Amendment,Failed,186,245,0,1
+House,116,1,504,504,2019-07-24,Rehabilitation for Multiemployer Pensions Act,On Motion to Recommit with Instructions,Failed,200,232,0,0
+House,116,1,505,505,2019-07-24,Rehabilitation for Multiemployer Pensions Act,On Passage,Passed,264,169,0,0
+House,116,1,506,506,2019-07-24,Humanitarian Standards for Individuals in Customs and Border Protection Custody Act,On Motion to Recommit with Instructions,Passed,239,192,0,1
+House,116,1,507,507,2019-07-24,Humanitarian Standards for Individuals in Customs and Border Protection Custody Act,On Passage,Passed,233,195,0,4
+House,116,1,508,508,2019-07-25,Providing for consideration of the bill (H.R. 3877) the Bipartisan Budget Act of 2019; providing for consideration of the bill (H.R. 549) the Venezuela TPS Act of 2019; and waiving a requirement of clause 6(a) of Rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules,On Ordering the Previous Question,Passed,234,195,0,3
+House,116,1,509,509,2019-07-25,Providing for consideration of the bill (H.R. 3877) the Bipartisan Budget Act of 2019; providing for consideration of the bill (H.R. 549) the Venezuela TPS Act of 2019; and waiving a requirement of clause 6(a) of Rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules,On Agreeing to the Resolution,Passed,232,197,0,3
+House,116,1,510,510,2019-07-25,PAST Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,333,96,0,3
+House,116,1,511,511,2019-07-25,Bipartisan Budget Act,On Passage,Passed,284,149,0,0
+House,116,1,512,512,2019-07-25,Bipartisan Budget Act,On Agreeing to the Massie of Kentucky Amendment to the Title,Failed,47,384,0,1
+House,116,1,513,513,2019-07-25,Venezuela TPS Act,On Motion to Recommit with Instructions,Failed,215,217,0,0
+House,116,1,514,514,2019-07-25,Venezuela TPS Act,On Passage,Passed,272,158,0,2
+House,116,1,515,515,2019-09-09,Energy Efficient Government Technology Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,384,23,0,25
+House,116,1,516,516,2019-09-09,Diesel Emissions Reduction Act,On Motion to Suspend the Rules and Pass,Passed,295,114,0,23
+House,116,1,517,517,2019-09-10,Providing for consideration of the bill (H.R. 205) Protecting and Securing Florida’s Coastline Act; providing for consideration of the bill (H.R. 1146) Arctic Cultural and Coastal Plain Protection Act; and providing for consideration of the bill (H.R. 1941) Coastal and Marine Economies Protection Act,On Ordering the Previous Question,Passed,232,196,0,4
+House,116,1,518,518,2019-09-10,Providing for consideration of the bill (H.R. 205) Protecting and Securing Florida’s Coastline Act; providing for consideration of the bill (H.R. 1146) Arctic Cultural and Coastal Plain Protection Act; and providing for consideration of the bill (H.R. 1941) Coastal and Marine Economies Protection Act,On Agreeing to the Resolution,Passed,231,196,0,5
+House,116,1,519,519,2019-09-10,Homebuyer Assistance Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,419,5,0,8
+House,116,1,520,520,2019-09-11,,On Agreeing to the Amendment,Failed,182,251,0,5
+House,116,1,521,521,2019-09-11,Protecting and Securing Florida’s Coastline Act of 2019,On Passage,Passed,248,180,0,4
+House,116,1,522,522,2019-09-11,,On Agreeing to the Amendment,Failed,161,272,0,5
+House,116,1,523,523,2019-09-11,,On Agreeing to the Amendment,Failed,179,252,0,7
+House,116,1,524,524,2019-09-11,Coastal and Marine Economies Protection Act,On Motion to Recommit with Instructions,Failed,194,233,0,5
+House,116,1,525,525,2019-09-11,Coastal and Marine Economies Protection Act,On Passage,Passed,238,189,0,5
+House,116,1,526,526,2019-09-12,,On Agreeing to the Amendment,Failed,193,230,0,15
+House,116,1,527,527,2019-09-12,,On Agreeing to the Amendment,Failed,184,237,0,17
+House,116,1,528,528,2019-09-12,,On Agreeing to the Amendment,Failed,187,237,0,14
+House,116,1,529,529,2019-09-12,Arctic Cultural and Coastal Plain Protection Act,On Motion to Recommit with Instructions,Failed,189,229,0,14
+House,116,1,530,530,2019-09-12,Arctic Cultural and Coastal Plain Protection Act,On Passage,Passed,225,193,0,14
+House,116,1,531,531,2019-09-17,National Defense Authorization Act for Fiscal Year 2020,On Motion to Instruct Conferees,Failed,198,219,0,15
+House,116,1,532,532,2019-09-17,National Defense Authorization Act for Fiscal Year 2020,On Closing Portions of the Conference,Passed,407,4,0,23
+House,116,1,533,533,2019-09-18,Providing for consideration of the bill (H.R. 1423) FAIR Act; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for consideration of motions to suspend the rules,On Ordering the Previous Question,Passed,228,195,0,11
+House,116,1,534,534,2019-09-18,Providing for consideration of the bill (H.R. 1423) FAIR Act; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for consideration of motions to suspend the rules,On Agreeing to the Resolution,Passed,228,196,0,10
+House,116,1,535,535,2019-09-18,Department of Veterans Affairs Expiring Authorities Act,On Motion to Suspend the Rules and Pass,Passed,417,1,0,16
+House,116,1,536,536,2019-09-19,"Providing for consideration of H.R. 4378, making continuing appropriations for fiscal year 2020, and for other purposes",On Ordering the Previous Question,Passed,228,197,0,9
+House,116,1,537,537,2019-09-19,"Providing for consideration of H.R. 4378, making continuing appropriations for fiscal year 2020, and for other purposes",On Agreeing to the Resolution,Passed,227,196,0,11
+House,116,1,538,538,2019-09-19,"Making continuing appropriations for fiscal year 2020, and for other purposes",On Passage,Passed,301,123,0,10
+House,116,1,539,539,2019-09-20,,On Agreeing to the Amendment,Failed,161,253,0,26
+House,116,1,540,540,2019-09-20,Forced Arbitration Injustice Repeal Act,On Passage,Passed,225,186,0,23
+House,116,1,541,541,2019-09-24,BURMA Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,394,21,0,18
+House,116,1,542,542,2019-09-25,"Providing for consideration of H.R. 2203, the Homeland Security Improvement Act; H.R. 3525, the US Border Patrol Medical Screening Standards Act ; and H.Res. 576, expressing the sense of the House with respect to the whistleblower complaint of Aug 12, 2019, made to the Inspector General of the Intelligence Community",On Ordering the Previous Question on the Amendment and the Resolution,Passed,227,191,0,15
+House,116,1,543,543,2019-09-25,"Providing for consideration of H.R. 2203, the Homeland Security Improvement Act; H.R. 3525, the US Border Patrol Medical Screening Standards Act ; and H.Res. 576, expressing the sense of the House with respect to the whistleblower complaint of Aug 12, 2019, made to the Inspector General of the Intelligence Community",On Agreeing to the Resolution,Passed,228,191,0,14
+House,116,1,544,544,2019-09-25,SAFE Banking Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,321,103,0,9
+House,116,1,545,545,2019-09-25,Homeland Security Improvement Act,On Motion to Recommit with Instructions,Failed,207,216,0,10
+House,116,1,546,546,2019-09-25,Homeland Security Improvement Act,On Passage,Passed,230,194,0,9
+House,116,1,547,547,2019-09-25,Raising a question of the privileges of the House,On Motion to Table,Passed,232,193,0,8
+House,116,1,548,548,2019-09-25,"Expressing the sense of the House of Representatives with respect to the whistleblower complaint of August 12, 2019, made to the Inspector General of the Intelligence Community",On Agreeing to the Resolution,Passed,421,0,2,10
+House,116,1,549,549,2019-09-26,"Providing for consideration of S.J. Res. 54, relating to a national emergency declared by the President on February 15, 2019",On Ordering the Previous Question,Passed,230,187,0,16
+House,116,1,551,551,2019-09-26,U.S. Border Patrol Medical Screening Standards Act,On Motion to Recommit with Instructions,Failed,202,213,0,18
+House,116,1,550,550,2019-09-26,"Providing for consideration of S.J. Res. 54, relating to a national emergency declared by the President on February 15, 2019",On Agreeing to the Resolution,Passed,229,186,0,18
+House,116,1,552,552,2019-09-26,U.S. Border Patrol Medical Screening Standards Act,On Passage,Passed,230,184,0,19
+House,116,1,553,553,2019-09-27,"Relating to a national emergency declared by the President on February 15, 2019",On Passage,Passed,236,174,0,23
+House,116,1,554,554,2019-09-27,Joint Task Force to Combat Opioid Trafficking Act,On Motion to Suspend the Rules and Pass,Passed,403,1,0,29
+House,116,1,555,555,2019-09-27,Raising a question of the privileges of the House,On Motion to Table,Passed,222,184,0,27
+House,116,1,556,556,2019-10-15,To permit the Secretary of Veterans Affairs to establish a grant program to conduct cemetery research and produce educational materials for the Veterans Legacy Program,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,1,0,22
+House,116,1,557,557,2019-10-15,Homeless Veteran Families Act,On Motion to Suspend the Rules and Pass,Passed,408,0,0,24
+House,116,1,558,558,2019-10-16,"Providing for consideration of the bill (H.R. 1815) SEC Disclosure Effectiveness Testing Act, and providing for consideration of the bill (H.R. 3624) Outsourcing Accountability Act",On Ordering the Previous Question,Passed,228,191,0,13
+House,116,1,559,559,2019-10-16,"Providing for consideration of the bill (H.R. 1815) SEC Disclosure Effectiveness Testing Act, and providing for consideration of the bill (H.R. 3624) Outsourcing Accountability Act",On Agreeing to the Resolution,Passed,228,190,0,14
+House,116,1,560,560,2019-10-16,Opposing the decision to end certain United States efforts to prevent Turkish military operations against Syrian Kurdish forces in Northeast Syria,On Motion to Suspend the Rules and Pass,Passed,354,60,4,14
+House,116,1,561,561,2019-10-17,,On Agreeing to the Amendment,Failed,188,229,0,20
+House,116,1,562,562,2019-10-17,,On Agreeing to the Amendment,Agreed to,240,178,0,19
+House,116,1,563,563,2019-10-17,,On Agreeing to the Amendment,Failed,188,230,0,19
+House,116,1,564,564,2019-10-17,SEC Disclosure Effectiveness Testing Act,On Passage,Passed,229,186,0,16
+House,116,1,565,565,2019-10-18,,On Agreeing to the Amendment,Failed,184,229,0,24
+House,116,1,566,566,2019-10-18,,On Agreeing to the Amendment,Failed,187,224,0,26
+House,116,1,567,567,2019-10-18,Outsourcing Accountability Act of 2019,On Passage,Passed,226,184,0,21
+House,116,1,568,568,2019-10-21,Raising a question of the privileges of the House,On Motion to Table,Passed,218,185,0,28
+House,116,1,569,569,2019-10-21,Small Business Development Centers Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,375,25,0,31
+House,116,1,570,570,2019-10-21,SCORE for Small Business Act,On Motion to Suspend the Rules and Pass,Passed,389,8,0,34
+House,116,1,571,571,2019-10-22,Providing for consideration of the bill (H.R. 2513) Corporate Transparency Act,On Ordering the Previous Question,Passed,228,194,0,9
+House,116,1,572,572,2019-10-22,Providing for consideration of the bill (H.R. 2513) Corporate Transparency Act,On Agreeing to the Resolution,Passed,227,195,0,9
+House,116,1,573,573,2019-10-22,,On Agreeing to the Amendment,Agreed to,395,23,0,19
+House,116,1,574,574,2019-10-22,,On Agreeing to the Amendment,Agreed to,235,188,0,14
+House,116,1,575,575,2019-10-22,,On Agreeing to the Amendment,Failed,166,258,0,13
+House,116,1,576,576,2019-10-22,Corporate Transparency Act,On Motion to Recommit with Instructions,Failed,197,224,0,10
+House,116,1,577,577,2019-10-22,Corporate Transparency Act,On Passage,Passed,249,173,0,9
+House,116,1,578,578,2019-10-22,Copyright Alternative in Small-Claims Enforcement Act of 2019,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,6,0,15
+House,116,1,579,579,2019-10-23,"Providing for consideration of H.R. 4617, the Stopping Harmful Interference in Elections for a Lasting Democracy Act",On Ordering the Previous Question,Passed,223,180,0,28
+House,116,1,580,580,2019-10-23,"Providing for consideration of H.R. 4617, the Stopping Harmful Interference in Elections for a Lasting Democracy Act",On Agreeing to the Resolution,Passed,226,180,0,25
+House,116,1,581,581,2019-10-23,,On Agreeing to the Amendment,Failed,180,231,0,26
+House,116,1,582,582,2019-10-23,SHIELD Act,On Motion to Recommit with Instructions,Failed,182,225,0,24
+House,116,1,583,583,2019-10-23,SHIELD Act,On Passage,Passed,227,181,0,23
+House,116,1,584,584,2019-10-23,Debbie Smith Reauthorization Act of 2019,"On Motion to Suspend the Rules and Pass, as Amended",Passed,402,1,0,28
+House,116,1,585,585,2019-10-28,Full Utilization of the Harbor Maintenance Trust Fund Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,296,109,0,26
+House,116,1,586,586,2019-10-28,Public Disclosure of Drug Discounts and Real-Time Beneficiary Drug Cost Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,403,0,0,28
+House,116,1,587,587,2019-10-29,"Providing for consideration of H. Res. 296, affirming the United States record on the Armenian Genocide",On Ordering the Previous Question,Passed,224,189,0,18
+House,116,1,588,588,2019-10-29,"Providing for consideration of H. Res. 296, affirming the United States record on the Armenian Genocide",On Agreeing to the Resolution,Passed,223,191,0,17
+House,116,1,589,589,2019-10-29,"Providing for consideration of H.R. 823, the Colorado Outdoor Recreation and Economy Act; H.R. 1373, the Grand Canyon Centennial Protection Act; H.R. 2181, the Chaco Cultural Heritage Area Protection Act of 2019; providing for proceedings during the period from November 1, 2019 through November 11, 2019",On Ordering the Previous Question,Passed,222,191,0,18
+House,116,1,590,590,2019-10-29,"Providing for consideration of H.R. 823, the Colorado Outdoor Recreation and Economy Act; H.R. 1373, the Grand Canyon Centennial Protection Act; H.R. 2181, the Chaco Cultural Heritage Area Protection Act of 2019; providing for proceedings during the period from November 1, 2019 through November 11, 2019",On Agreeing to the Resolution,Passed,221,187,0,23
+House,116,1,591,591,2019-10-29,Affirming the United States record on the Armenian Genocide,On Agreeing to the Resolution,Passed,405,11,3,13
+House,116,1,592,592,2019-10-29,Protect Against Conflict by Turkey Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,403,16,0,12
+House,116,1,593,593,2019-10-30,,On Agreeing to the Amendment,Failed,191,233,0,13
+House,116,1,594,594,2019-10-30,,On Agreeing to the Amendment,Failed,181,243,0,13
+House,116,1,595,595,2019-10-30,,On Agreeing to the Amendment,Failed,181,245,0,11
+House,116,1,596,596,2019-10-30,Chaco Cultural Heritage Area Protection Act,On Motion to Recommit with Instructions,Failed,199,222,0,10
+House,116,1,597,597,2019-10-30,Chaco Cultural Heritage Area Protection Act,On Passage,Passed,245,174,0,12
+House,116,1,598,598,2019-10-30,,On Agreeing to the Amendment,Failed,185,240,0,12
+House,116,1,599,599,2019-10-30,,On Agreeing to the Amendment,Failed,178,243,0,16
+House,116,1,600,600,2019-10-30,,On Agreeing to the Amendment,Failed,186,237,0,14
+House,116,1,601,601,2019-10-30,Grand Canyon Centennial Protection Act,On Motion to Recommit with Instructions,Failed,196,226,0,9
+House,116,1,602,602,2019-10-30,Grand Canyon Centennial Protection Act,On Passage,Passed,236,185,0,10
+House,116,1,603,603,2019-10-31,"Directing certain committees to continue their ongoing investigations as part of the existing House of Representatives inquiry into whether sufficient grounds exist for the House of Representatives to exercise its Constitutional power to impeach Donald John Trump, President of the United States of America",On Ordering the Previous Question,Passed,231,196,0,4
+House,116,1,604,604,2019-10-31,"Directing certain committees to continue their ongoing investigations as part of the existing House of Representatives inquiry into whether sufficient grounds exist for the House of Representatives to exercise its Constitutional power to impeach Donald John Trump, President of the United States of America",On Agreeing to the Resolution,Passed,232,196,0,4
+House,116,1,605,605,2019-10-31,,On Agreeing to the Amendment,Failed,180,240,0,17
+House,116,1,606,606,2019-10-31,,On Agreeing to the Amendment,Failed,185,231,0,21
+House,116,1,607,607,2019-10-31,,On Agreeing to the Amendment,Agreed to,410,6,0,21
+House,116,1,608,608,2019-10-31,Colorado Outdoor Recreation and Economy Act,On Motion to Recommit with Instructions,Failed,199,210,0,22
+House,116,1,609,609,2019-10-31,Colorado Outdoor Recreation and Economy Act,On Passage,Passed,227,182,0,22
+House,116,1,610,610,2019-11-12,GI Bill Planning Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,408,0,0,22
+House,116,1,611,611,2019-11-12,Deborah Sampson Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,399,11,0,20
+House,116,1,612,612,2019-11-13,Veteran Entrepreneurship Training Act,On Motion to Suspend the Rules and Pass,Passed,424,1,0,5
+House,116,1,613,613,2019-11-13,Service-Disabled Veterans Small Business Continuation Act,On Motion to Suspend the Rules and Pass,Passed,423,0,0,7
+House,116,1,614,614,2019-11-13,SERV Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,421,3,0,6
+House,116,1,615,615,2019-11-14,"Providing for consideration of H.R. 4863, the United States Export Finance Agency Act of 2019; and for other purposes",On Ordering the Previous Question,Passed,226,198,0,6
+House,116,1,616,616,2019-11-14,"Providing for consideration of H.R. 4863, the United States Export Finance Agency Act of 2019; and for other purposes",On Agreeing to the Resolution,Passed,228,198,0,4
+House,116,1,617,617,2019-11-15,,On Agreeing to the Amendment,Agreed to,419,2,0,15
+House,116,1,618,618,2019-11-15,,On Agreeing to the Amendment,Failed,188,232,0,16
+House,116,1,619,619,2019-11-15,,On Agreeing to the Amendment,Agreed to,414,1,0,21
+House,116,1,620,620,2019-11-15,,On Agreeing to the Amendment,Failed,210,214,0,12
+House,116,1,621,621,2019-11-15,,On Agreeing to the Amendment,Agreed to,396,27,0,13
+House,116,1,622,622,2019-11-15,,On Agreeing to the Amendment,Agreed to,417,2,0,17
+House,116,1,623,623,2019-11-15,United States Export Finance Agency Act,On Motion to Recommit with Instructions,Failed,203,218,0,9
+House,116,1,624,624,2019-11-15,United States Export Finance Agency Act,On Passage,Passed,235,184,0,11
+House,116,1,625,625,2019-11-18,Reforming Disaster Recovery Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,290,118,0,22
+House,116,1,626,626,2019-11-18,Terrorism Risk Insurance Program Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,385,22,0,23
+House,116,1,627,627,2019-11-18,Investor Protection and Capital Markets Fairness Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,314,95,0,21
+House,116,1,628,628,2019-11-19,"Providing for consideration of the Senate amendment to the bill (H.R. 3055) making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2020, and for other purposes",On Ordering the Previous Question,Passed,228,192,0,10
+House,116,1,629,629,2019-11-19,"Providing for consideration of the Senate amendment to the bill (H.R. 3055) making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2020, and for other purposes",On Agreeing to the Resolution,Passed,230,194,0,6
+House,116,1,630,630,2019-11-19,Improving Corporate Governance Through Diversity Act,On Motion to Suspend the Rules and Pass,Passed,281,135,0,14
+House,116,1,631,631,2019-11-19,"Making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2020, and for other purposes",On Motion to Concur in the Senate Amendment with an Amendment,Passed,231,192,0,7
+House,116,1,632,632,2019-11-20,"Providing for consideration of H.R. 1309, the Workplace Violence Prevention for Health Care and Social Service Workers Act; providing for proceedings during the period from November 22, 2019 through December 2, 2019; and providing for consideration of motions to suspend the rules",On Ordering the Previous Question,Passed,223,194,0,13
+House,116,1,633,633,2019-11-20,"Providing for consideration of H.R. 1309, the Workplace Violence Prevention for Health Care and Social Service Workers Act; providing for proceedings during the period from November 22, 2019 through December 2, 2019; and providing for consideration of motions to suspend the rules",On Agreeing to the Resolution,Passed,209,205,0,16
+House,116,1,634,634,2019-11-20,Shark Fin Sales Elimination Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,310,107,0,13
+House,116,1,635,635,2019-11-20,Hong Kong Human Rights and Democracy Act,On Motion to Suspend the Rules and Pass,Passed,417,1,0,13
+House,116,1,636,636,2019-11-20,To prohibit the commercial export of covered munitions items to the Hong Kong Police Force,On Motion to Suspend the Rules and Pass,Passed,417,0,0,14
+House,116,1,637,637,2019-11-21,,On Agreeing to the Amendment,Failed,177,238,0,21
+House,116,1,638,638,2019-11-21,,On Agreeing to the Amendment,Agreed to,414,1,0,21
+House,116,1,639,639,2019-11-21,,On Agreeing to the Amendment,Agreed to,415,1,0,20
+House,116,1,640,640,2019-11-21,,On Agreeing to the Amendment,Agreed to,242,176,0,18
+House,116,1,641,641,2019-11-21,Workplace Violence Prevention for Heath Care and Social Service Workers Act,Table Appeal of the Ruling of the Chair,Passed,222,188,0,20
+House,116,1,642,642,2019-11-21,Workplace Violence Prevention for Heath Care and Social Service Workers Act,On Passage,Passed,251,158,0,21
+House,116,1,643,643,2019-12-03,Disapproving the Russian Federation’s inclusion in future Group of Seven summits until it respects the territorial integrity of its neighbors and adheres to the standards of democratic societies,On Motion to Suspend the Rules and Agree,Passed,339,71,0,20
+House,116,1,644,644,2019-12-03,Uighur Intervention and Global Humanitarian Unified Response Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,407,1,0,23
+House,116,1,645,645,2019-12-04,"Providing for consideration of H.R. 2534, the Insider Trading Prohibition Act; relating to the consideration of H. Con. Res. 77, directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from hostilities in the Syrian Arab Republic that have not been authorized",On Ordering the Previous Question,Passed,226,193,0,11
+House,116,1,646,646,2019-12-04,"Providing for consideration of H.R. 2534, the Insider Trading Prohibition Act; relating to the consideration of H. Con. Res. 77, directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from hostilities in the Syrian Arab Republic that have not been authorized",On Agreeing to the Resolution,Passed,225,196,0,9
+House,116,1,647,647,2019-12-04,Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,417,3,0,10
+House,116,1,648,648,2019-12-05,,On Agreeing to the Amendment,Failed,196,231,0,9
+House,116,1,649,649,2019-12-05,Insider Trading Prohibition Act,On Passage,Passed,410,13,0,7
+House,116,1,650,650,2019-12-05,Providing for consideration of the bill (H.R. 4) Voting Rights Advancement Act and providing for consideration of the resolution (H.Res. 326) Expressing the sense of the House of Representatives regarding United States efforts to resolve the Israeli-Palestinian conflict through a negotiated two-state solution,On Ordering the Previous Question,Passed,228,196,0,6
+House,116,1,651,651,2019-12-05,Providing for consideration of the bill (H.R. 4) Voting Rights Advancement Act and providing for consideration of the resolution (H.Res. 326) Expressing the sense of the House of Representatives regarding United States efforts to resolve the Israeli-Palestinian conflict through a negotiated two-state solution,On Agreeing to the Resolution,Passed,226,196,0,8
+House,116,1,652,652,2019-12-06,Expressing the sense of the House of Representatives regarding United States efforts to resolve the Israeli-Palestinian conflict through a negotiated two-state solution,On Agreeing to the Resolution,Passed,226,188,2,14
+House,116,1,653,653,2019-12-06,Voting Rights Advancement Act,On Motion to Recommit with Instructions,Failed,200,215,0,15
+House,116,1,654,654,2019-12-06,Voting Rights Advancement Act,On Passage,Passed,228,187,0,16
+House,116,1,655,655,2019-12-09,DHS Opioid Detection Resilience Act,On Motion to Suspend the Rules and Pass,Passed,393,1,0,36
+House,116,1,656,656,2019-12-09,Synthetic Opioid Exposure Prevention and Training Act,On Motion to Suspend the Rules and Pass,Passed,393,0,0,37
+House,116,1,657,657,2019-12-10,Providing for consideration of the bill (H.R. 729) Tribal Coastal Resiliency Act,On Ordering the Previous Question,Passed,226,188,0,16
+House,116,1,658,658,2019-12-10,Providing for consideration of the bill (H.R. 729) Tribal Coastal Resiliency Act,On Agreeing to the Resolution,Passed,226,189,0,15
+House,116,1,659,659,2019-12-10,FUTURE Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,319,96,0,15
+House,116,1,660,660,2019-12-10,,On Agreeing to the Amendment,Agreed to,249,166,0,21
+House,116,1,661,661,2019-12-10,,On Agreeing to the Amendment,Agreed to,235,179,0,22
+House,116,1,662,662,2019-12-10,,On Agreeing to the Amendment,Agreed to,297,121,0,18
+House,116,1,663,663,2019-12-10,,On Agreeing to the Amendment,Agreed to,389,29,0,18
+House,116,1,664,664,2019-12-10,,On Agreeing to the Amendment,Agreed to,285,134,0,17
+House,116,1,665,665,2019-12-10,,On Agreeing to the Amendment,Agreed to,368,51,0,17
+House,116,1,666,666,2019-12-10,,On Agreeing to the Amendment,Failed,160,259,0,17
+House,116,1,667,667,2019-12-10,Tribal Coastal Resiliency Act,On Passage,Passed,262,151,0,17
+House,116,1,668,668,2019-12-11,"Providing for consideration of H.R. 3, the Elijah E. Cummings Lower Drug Costs Now Act; H.R. 5038, the Farm Workforce Modernization Act of 2019; the conference report to accompany S. 1790, the National Defense Authorization Act",On Ordering the Previous Question,Passed,227,189,0,14
+House,116,1,669,669,2019-12-11,"Providing for consideration of H.R. 3, the Elijah E. Cummings Lower Drug Costs Now Act; H.R. 5038, the Farm Workforce Modernization Act of 2019; the conference report to accompany S. 1790, the National Defense Authorization Act",On Agreeing to the Resolution,Passed,222,190,0,18
+House,116,1,670,670,2019-12-11,Tribal Coastal Resiliency Act,Table Motion to Reconsider,Passed,229,192,0,9
+House,116,1,671,671,2019-12-11,"Providing for consideration of H.R. 3, the Elijah E. Cummings Lower Drug Costs Now Act; H.R. 5038, the Farm Workforce Modernization Act of 2019; the conference report to accompany S. 1790, the National Defense Authorization Act",Table Motion to Reconsider,Passed,196,170,0,64
+House,116,1,672,672,2019-12-11,National Defense Authorization Act for Fiscal Year 2020,On Agreeing to the Conference Report,Passed,377,48,0,5
+House,116,1,673,673,2019-12-11,Farm Workforce Modernization Act,On Motion to Recommit with Instructions,Failed,193,230,0,7
+House,116,1,674,674,2019-12-11,Farm Workforce Modernization Act,On Passage,Passed,260,165,1,5
+House,116,1,675,675,2019-12-11,Farm Workforce Modernization Act,Table Motion to Reconsider,Passed,216,164,0,50
+House,116,1,676,676,2019-12-12,,On Agreeing to the Amendment,Failed,201,223,0,12
+House,116,1,677,677,2019-12-12,,On Agreeing to the Amendment,Agreed to,351,73,0,12
+House,116,1,678,678,2019-12-12,,On Agreeing to the Amendment,Agreed to,380,45,0,11
+House,116,1,679,679,2019-12-12,,On Agreeing to the Amendment,Agreed to,231,192,0,13
+House,116,1,680,680,2019-12-12,,On Agreeing to the Amendment,Agreed to,234,192,0,10
+House,116,1,681,681,2019-12-12,Elijah E. Cummings Lower Drug Costs Now Act,On Motion to Recommit with Instructions,Failed,196,226,0,8
+House,116,1,682,682,2019-12-12,Elijah E. Cummings Lower Drug Costs Now Act,On Passage,Passed,230,192,0,8
+House,116,1,683,683,2019-12-17,"Providing for consideration of the Senate amendment to the bill (H.R. 1158), and for other purposes; providing for consideration of the Senate amendment to the bill (H.R. 1865), and for other purposes; and providing for the adoption of the resolution (H. Res. 761)",On Ordering the Previous Question,Passed,220,192,0,18
+House,116,1,684,684,2019-12-17,"Providing for consideration of the Senate amendment to the bill (H.R. 1158), and for other purposes; providing for consideration of the Senate amendment to the bill (H.R. 1865), and for other purposes; and providing for the adoption of the resolution (H. Res. 761)",On Agreeing to the Resolution,Passed,219,189,0,22
+House,116,1,685,685,2019-12-17,Identifying Barriers and Best Practices Study Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,408,1,0,21
+House,116,1,686,686,2019-12-17,Improving Confidence in Veterans’ Care Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,1,0,20
+House,116,1,687,687,2019-12-17,Miracle Mountain Designation Act,On Motion to Suspend the Rules and Pass,Passed,410,0,0,20
+House,116,1,688,688,2019-12-17,Hazard Eligilbiltiy and Local Projects Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,7,0,14
+House,116,1,689,689,2019-12-17,National Law Enforcement Museum Commemorative Coin Act,On Motion to Concur in the Senate Amendment with an Amendment,Passed,297,120,0,13
+House,116,1,690,690,2019-12-17,DHS Cyber Hunt and Incident Response Teams Act,On Motion to Concur in the Senate Amendment with an Amendment,Passed,280,138,0,12
+House,116,1,691,691,2019-12-18,,On Motion to Adjourn,Failed,188,226,0,16
+House,116,1,692,692,2019-12-18,Raising a question of the privileges of the House,On Motion to Table,Passed,226,191,0,13
+House,116,1,693,693,2019-12-18,"Providing for consideration of the resolution (H. Res. 755) impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",On Ordering the Previous Question,Passed,229,197,0,4
+House,116,1,694,694,2019-12-18,"Providing for consideration of the resolution (H. Res. 755) impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",On Agreeing to the Resolution,Passed,228,197,0,5
+House,116,1,695,695,2019-12-18,"Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",On Agreeing to Article I of the Resolution,Passed,230,197,1,3
+House,116,1,696,696,2019-12-18,"Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",On Agreeing to Article II of the Resolution,Passed,229,198,1,3
+House,116,1,698,698,2019-12-19,"Providing for consideration of the bill (H.R. 5377) to amend the Internal Revenue Code of 1986 to modify the limitation on deduction of State and local taxes, and for other purposes",On Agreeing to the Resolution,Passed,227,196,0,7
+House,116,1,697,697,2019-12-19,"Providing for consideration of the bill (H.R. 5377) to amend the Internal Revenue Code of 1986 to modify the limitation on deduction of State and local taxes, and for other purposes",On Ordering the Previous Question,Passed,227,195,0,8
+House,116,1,699,699,2019-12-19,Restoring Tax Fairness for States and Localities Act,On Motion to Recommit with Instructions,Passed,388,36,0,6
+House,116,1,701,701,2019-12-19,United States-Mexico-Canada Agreement Implementation Act,On Passage,Passed,385,41,0,5
+House,116,1,700,700,2019-12-19,Restoring Tax Fairness for States and Localities Act,On Passage,Passed,218,206,0,6

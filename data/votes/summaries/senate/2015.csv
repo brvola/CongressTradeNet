@@ -1,0 +1,340 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+Senate,114,1,3,3,2015-01-12,Motion to Invoke Cloture on the Motion to Proceed to S.1,On Cloture on the Motion to Proceed S. 1,Cloture on the Motion to Proceed Agreed to,63,32,0,5
+Senate,114,1,2,2,2015-01-08,H.R. 26,On Passage of the Bill H.R. 26,Bill Passed,93,4,0,3
+Senate,114,1,1,1,2015-01-08,Warren Amdt. No. 1,On the Amendment S.Amdt. 1 to H.R. 26 (Terrorism Risk Insurance Program Reauthorization Act of 2015),Amendment Rejected,31,66,0,3
+Senate,114,1,6,6,2015-01-20,Portman Amdt. No. 3 As Modified,On the Amendment S.Amdt. 3 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Agreed to,94,5,0,1
+Senate,114,1,4,4,2015-01-20,Motion to Table Markey Amdt. No. 13,On the Motion to Table S.Amdt. 13 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Motion to Table Agreed to,57,42,0,1
+Senate,114,1,5,5,2015-01-20,Motion to Table Franken Amdt. No. 17,On the Motion to Table S.Amdt. 17 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Motion to Table Agreed to,53,46,0,1
+Senate,114,1,8,8,2015-01-21,Durbin Amdt. No. 69,On the Amendment S.Amdt. 69 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,41,58,0,1
+Senate,114,1,7,7,2015-01-21,Lee Amdt. No. 33,On the Amendment S.Amdt. 33 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,54,45,0,1
+Senate,114,1,9,9,2015-01-21,Toomey Amdt. No. 41,On the Amendment S.Amdt. 41 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,54,45,0,1
+Senate,114,1,11,11,2015-01-21,"Hoeven Amdt. No. 87, As Modified",On the Amendment S.Amdt. 87 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,59,40,0,1
+Senate,114,1,12,12,2015-01-21,Schatz Amdt. No. 58,On the Amendment S.Amdt. 58 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,50,49,0,1
+Senate,114,1,10,10,2015-01-21,Whitehouse Amdt. No. 29,On the Amendment S.Amdt. 29 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Agreed to,98,1,0,1
+Senate,114,1,13,13,2015-01-22,Boxer Amdt. No. 113,On the Amendment S.Amdt. 113 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,55,44,0,1
+Senate,114,1,14,14,2015-01-22,"Fischer Amdt. No. 18, As Modified",On the Amendment S.Amdt. 18 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,54,45,0,1
+Senate,114,1,15,15,2015-01-22,Motion to Table Manchin Amdt. No. 99,On the Motion to Table S.Amdt. 99 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Motion to Table Agreed to,53,46,0,1
+Senate,114,1,16,16,2015-01-22,Motion to Table Sanders Amdt. No. 24,On the Motion to Table S.Amdt. 24 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Motion to Table Agreed to,56,42,0,2
+Senate,114,1,17,17,2015-01-22,Lee Amdt. No. 71,On the Amendment S.Amdt. 71 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,51,47,0,2
+Senate,114,1,18,18,2015-01-22,Murkowski Amdt. No. 123,On the Amendment S.Amdt. 123 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Agreed to,75,23,0,2
+Senate,114,1,19,19,2015-01-22,Wyden Amdt. No. 27,On the Amendment S.Amdt. 27 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,50,47,0,3
+Senate,114,1,20,20,2015-01-22,Blunt Amdt. No. 78 As Modified,On the Amendment S.Amdt. 78 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,51,46,0,3
+Senate,114,1,21,21,2015-01-22,Cornyn Amdt. No. 126 As Modified,On the Amendment S.Amdt. 126 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Agreed to,64,33,0,3
+Senate,114,1,22,22,2015-01-22,Menendez Amdt. No. 72 As Modified,On the Amendment S.Amdt. 72 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,43,54,0,3
+Senate,114,1,23,23,2015-01-22,Motion to Instruct the Sgt. at Arms,On the Motion for Attendance S. 1,Motion for Attendance Agreed to,89,5,0,6
+Senate,114,1,24,24,2015-01-22,Motion to Table Markey Amdt. No. 25,On the Motion to Table S.Amdt. 25 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Motion to Table Agreed to,53,42,0,5
+Senate,114,1,25,25,2015-01-22,Motion to Table Carper Amdt. No. 121,On the Motion to Table S.Amdt. 121 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Motion to Table Agreed to,57,38,0,5
+Senate,114,1,26,26,2015-01-22,Motion to Table Whitehouse Amdt. No. 28,On the Motion to Table S.Amdt. 28 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Motion to Table Agreed to,52,43,0,5
+Senate,114,1,27,27,2015-01-22,Motion to Table Leahy Amdt. No. 30,On the Motion to Table S.Amdt. 30 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Motion to Table Agreed to,53,41,0,6
+Senate,114,1,28,28,2015-01-22,Motion to Table Reed Amdt. No. 74,On the Motion to Table S.Amdt. 74 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Motion to Table Agreed to,49,45,0,6
+Senate,114,1,29,29,2015-01-26,Motion to Invoke Cloture on the Murkowski Amdt. No. 2,On the Cloture Motion S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Cloture Motion Rejected,53,39,0,8
+Senate,114,1,30,30,2015-01-26,Motion to Invoke Cloture on S. 1,On the Cloture Motion S. 1,Cloture Motion Rejected,53,39,0,8
+Senate,114,1,31,31,2015-01-28,Cardin Amdt. No. 75,On the Amendment S.Amdt. 75 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,36,62,0,2
+Senate,114,1,32,32,2015-01-28,Peters Amdt. No. 70,On the Amendment S.Amdt. 70 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,40,58,0,2
+Senate,114,1,33,33,2015-01-28,Sanders Amdt. No. 23,On the Amendment S.Amdt. 23 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,40,58,0,2
+Senate,114,1,34,34,2015-01-28,Cruz Amdt. No 15,On the Amendment S.Amdt. 15 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,53,45,0,2
+Senate,114,1,35,35,2015-01-28,Moran Amdt. No. 73,On the Amendment S.Amdt. 73 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,54,44,0,2
+Senate,114,1,36,36,2015-01-28,Whitehouse Amdt. No. 148,On the Amendment S.Amdt. 148 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,44,52,0,4
+Senate,114,1,37,37,2015-01-28,Daines Amdt. No. 132,On the Amendment S.Amdt. 132 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,50,47,0,3
+Senate,114,1,38,38,2015-01-28,Coons Amdt. No. 115,On the Amendment S.Amdt. 115 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,47,51,0,2
+Senate,114,1,39,39,2015-01-28,Murkowski Amdt. No. 166,On the Amendment S.Amdt. 166 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,50,48,0,2
+Senate,114,1,40,40,2015-01-28,Heitkamp Amdt. No. 133,On the Amendment S.Amdt. 133 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,47,51,0,2
+Senate,114,1,41,41,2015-01-28,Gillibrand Amdt. No. 48,On the Amendment S.Amdt. 48 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,35,63,0,2
+Senate,114,1,42,42,2015-01-29,Daines Admt. No. 246,On the Amendment S.Amdt. 246 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,47,51,0,2
+Senate,114,1,43,43,2015-01-29,Burr Amdt. No. 92 As Modified,On the Amendment S.Amdt. 92 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,59,39,0,2
+Senate,114,1,44,44,2015-01-29,Udall Amdt. No. 77,On the Amendment S.Amdt. 77 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,45,53,0,2
+Senate,114,1,45,45,2015-01-29,Upon Reconsideration Motion to Invoke Cloture on S.1,On the Cloture Motion S. 1,Cloture Motion Agreed to,62,35,0,3
+Senate,114,1,46,46,2015-01-29,Booker Amdt. No. 155,On the Amendment S.Amdt. 155 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,41,56,0,3
+Senate,114,1,47,47,2015-01-29,Markey Amdt. No. 141,On the Amendment S.Amdt. 141 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,36,62,0,2
+Senate,114,1,48,48,2015-01-29,Markey Amdt. No. 178,On the Amendment S.Amdt. 178 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act),Amendment Rejected,44,54,0,2
+Senate,114,1,49,49,2015-01-29,S.1 As Amended,On Passage of the Bill S. 1,Bill Passed,62,36,0,2
+Senate,114,1,50,50,2015-02-03,H.R. 203,On Passage of the Bill H.R. 203,Bill Passed,99,0,0,1
+Senate,114,1,51,51,2015-02-03,Motion to Invoke Cloture on the Motion to Proceed to H.R. 240,On Cloture on the Motion to Proceed H.R. 240,Cloture on the Motion to Proceed Rejected,51,48,0,1
+Senate,114,1,52,52,2015-02-04,Upon Reconsideration Motion to Invoke Cloture on the Motion to Proceed to H.R. 240,On Cloture on the Motion to Proceed H.R. 240,Cloture on the Motion to Proceed Rejected,53,47,0,0
+Senate,114,1,53,53,2015-02-05,Motion to Invoke Cloture on the Motion to Proceed to H.R. 240,On Cloture on the Motion to Proceed H.R. 240,Cloture on the Motion to Proceed Rejected,52,47,0,1
+Senate,114,1,54,54,2015-02-09,"Confirmation Michael P. Botticelli, of the District of Columbia, to be Director of National Drug Control Policy",On the Nomination PN60,Nomination Confirmed,92,0,0,8
+Senate,114,1,55,55,2015-02-11,S. 295 As Amended,On Passage of the Bill S. 295,Bill Passed,98,0,0,2
+Senate,114,1,56,56,2015-02-12,"Confirmation Ashton B. Carter, of Massachusetts, to be Secretary of Defense",On the Nomination PN1,Nomination Confirmed,93,5,0,2
+Senate,114,1,57,57,2015-02-23,Motion to Invoke Cloture on the Motion to Proceed to H.R. 240,On Cloture on the Motion to Proceed H.R. 240,Cloture on the Motion to Proceed Rejected,47,46,0,7
+Senate,114,1,58,58,2015-02-25,"Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 240",On Cloture on the Motion to Proceed H.R. 240,Cloture on the Motion to Proceed Agreed to,98,2,0,0
+Senate,114,1,59,59,2015-02-27,Motion to Invoke Cloture on H.R. 240,On the Cloture Motion H.R. 240,Cloture Motion Agreed to,68,31,0,1
+Senate,114,1,60,60,2015-02-27,Motion to Table Amdt. No. 258,"On the Motion to Table S.Amdt. 258 to S.Amdt. 257 to H.R. 240 (Department of Homeland Security Appropriations Act, 2015)",Motion to Table Failed,34,65,0,1
+Senate,114,1,62,62,2015-02-27,"H.R. 240, As Amended",On Passage of the Bill H.R. 240,Bill Passed,68,31,0,1
+Senate,114,1,61,61,2015-02-27,Cochran Amdt. No. 255,"On the Amendment S.Amdt. 255 to H.R. 240 (Department of Homeland Security Appropriations Act, 2015)",Amendment Agreed to,66,33,0,1
+Senate,114,1,63,63,2015-02-27,Motion to Invoke Cloture on the Motion to Proceed to S.534,On Cloture on the Motion to Proceed S. 534,Cloture on the Motion to Proceed Rejected,57,42,0,1
+Senate,114,1,64,64,2015-03-02,"Motion to Invoke Cloture on the Motion to Insist on Senate Amdt., Agree to a Conference, and Authorize Appointment of Conferees Re: H.R. 240",On the Cloture Motion H.R. 240,Cloture Motion Rejected,47,43,0,10
+Senate,114,1,66,66,2015-03-03,Motion to Proceed to S.J.Res.8,On the Motion to Proceed S.J.Res. 8,Motion to Proceed Agreed to,53,45,0,2
+Senate,114,1,65,65,2015-03-02,Motion to Table the House Message to Accompany H.R. 240,On the Motion to Table H.R. 240,Motion to Table Agreed to,58,31,0,11
+Senate,114,1,67,67,2015-03-04,S.J.Res.8,On the Joint Resolution S.J.Res. 8,Joint Resolution Passed,53,46,0,1
+Senate,114,1,68,68,2015-03-04,"Shall the Bill S.1 Pass, Over the Objections of the President",On Overriding the Veto S. 1,Veto Sustained,62,37,0,1
+Senate,114,1,69,69,2015-03-09,"Confirmation of Daniel Henry Marti, of Virginia, to be Intellectual Property Enforcement Coordinator",On the Nomination PN62,Nomination Confirmed,92,0,0,8
+Senate,114,1,70,70,2015-03-12,"Confirmation Christopher A. Hart, of Colorado, to be Chairman of the National Transportation Safety Board",On the Nomination PN173,Nomination Confirmed,97,0,0,3
+Senate,114,1,71,71,2015-03-16,"Confirmation Carlos A. Monje, Jr., of Louisiana, to be an Assistant Secretary of Transportation",On the Nomination PN68,Nomination Confirmed,94,0,0,6
+Senate,114,1,72,72,2015-03-17,Motion to Invoke Cloture on the Committee Reported Substitute Amendment to S.178,On the Cloture Motion S. 178,Cloture Motion Rejected,55,43,0,2
+Senate,114,1,73,73,2015-03-17,Motion to Invoke Cloture on S.178,On the Cloture Motion S. 178,Cloture Motion Rejected,55,43,0,2
+Senate,114,1,75,75,2015-03-19,Motion to Invoke Cloture on the Committee Reported Substitute Amdt. to S. 178,On the Cloture Motion S. 178,Cloture Motion Rejected,56,42,0,2
+Senate,114,1,74,74,2015-03-18,"Upon Reconsideration, Motion to Invoke Cloture on the Committee Reported Substitute Amdt. to S.178",On the Cloture Motion S. 178,Cloture Motion Rejected,57,41,0,2
+Senate,114,1,76,76,2015-03-19,Motion to Invoke Cloture on S.178,On the Cloture Motion S. 178,Cloture Motion Rejected,56,42,0,2
+Senate,114,1,77,77,2015-03-23,"Confirmation of William P. Doyle, of Pennsylvania, to be a Federal Maritime Commissioner",On the Nomination PN130,Nomination Confirmed,89,0,0,11
+Senate,114,1,78,78,2015-03-24,Sanders Amdt. No. 323 As Modified,On the Amendment S.Amdt. 323 to S.Con.Res. 11 (No short title on file),Amendment Rejected,45,52,0,3
+Senate,114,1,79,79,2015-03-24,Sanders Amdt. No. 386,On the Amendment S.Amdt. 386 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,94,3,0,3
+Senate,114,1,80,80,2015-03-24,Portman Amdt. No. 349,On the Amendment S.Amdt. 349 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,96,0,0,4
+Senate,114,1,81,81,2015-03-24,Fischer Amdt. No. 409,On the Amendment S.Amdt. 409 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,56,43,0,1
+Senate,114,1,82,82,2015-03-24,Mikulski Amdt. No. 362,On the Amendment S.Amdt. 362 to S.Con.Res. 11 (No short title on file),Amendment Rejected,45,54,0,1
+Senate,114,1,83,83,2015-03-24,Hatch Amdt. No. 498,On the Amendment S.Amdt. 498 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,75,24,0,1
+Senate,114,1,84,84,2015-03-24,Motion to Waive All Applicable Budgetary Discipline Re: Wyden Amdt. No. 471,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Wyden Amdt. No. 471),Motion Rejected,51,48,0,1
+Senate,114,1,85,85,2015-03-24,Cornyn Amdt. No. 357,On the Amendment S.Amdt. 357 to S.Con.Res. 11 (No short title on file),Amendment Rejected,1,98,0,1
+Senate,114,1,86,86,2015-03-25,Warren Amdt. No. 652,On the Amendment S.Amdt. 652 to S.Con.Res. 11 (No short title on file),Amendment Rejected,46,53,0,1
+Senate,114,1,87,87,2015-03-25,Stabenow Amdt. No. 755,On the Amendment S.Amdt. 755 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,99,0,0,1
+Senate,114,1,88,88,2015-03-25,Barrasso Amdt. No. 347,On the Amendment S.Amdt. 347 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,59,40,0,1
+Senate,114,1,89,89,2015-03-25,Sanders Amdt. No. 777 As Modified,On the Amendment S.Amdt. 777 to S.Con.Res. 11 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,114,1,90,90,2015-03-25,Motion to Waive All Applicable Budgetary Discipline Re: Bennet Amdt. No. 601,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Bennet Amdt. No. 601),Motion Rejected,46,53,0,1
+Senate,114,1,91,91,2015-03-25,Murray Amdt. No. 801,On the Amendment S.Amdt. 801 to S.Con.Res. 11 (No short title on file),Amendment Rejected,46,53,0,1
+Senate,114,1,92,92,2015-03-25,Cotton Amdt. No. 481,On the Amendment S.Amdt. 481 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,99,0,0,1
+Senate,114,1,93,93,2015-03-26,Sanders Amdt. No. 881,On the Amendment S.Amdt. 881 to S.Con.Res. 11 (No short title on file),Amendment Rejected,48,52,0,0
+Senate,114,1,94,94,2015-03-26,Stabenow Amdt. No. 523,On the Amendment S.Amdt. 523 to S.Con.Res. 11 (No short title on file),Amendment Rejected,46,54,0,0
+Senate,114,1,95,95,2015-03-26,Wyden Admt. No. 1012,On the Amendment S.Amdt. 1012 to S.Con.Res. 11 (No short title on file),Amendment Rejected,47,53,0,0
+Senate,114,1,96,96,2015-03-26,Motion to Waive All Applicable Budgetary Discipline Rubio Amdt. No. 423 As Modified,On the Motion (Motion to Waive All Applicable Budgetary Discipline Rubio Amdt. No. 423 As Modified),Motion Rejected,32,68,0,0
+Senate,114,1,97,97,2015-03-26,Motion to Waive All Applicable Budgetary Discipline Paul Amdt. No. 940 As Modified,On the Motion (Motion to Waive All Applicable Budgetary Discipline Paul Amdt. No. 940 As Modified),Motion Rejected,4,96,0,0
+Senate,114,1,98,98,2015-03-26,Murray Amdt. No. 798,On the Amendment S.Amdt. 798 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,61,39,0,0
+Senate,114,1,99,99,2015-03-26,Moran Amdt. No. 356,On the Amendment S.Amdt. 356 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,100,0,0,0
+Senate,114,1,100,100,2015-03-26,Baldwin Amdt. No. 432,On the Amendment S.Amdt. 432 to S.Con.Res. 11 (No short title on file),Amendment Rejected,45,55,0,0
+Senate,114,1,101,101,2015-03-26,Franken Amdt. No. 828,On the Amendment S.Amdt. 828 to S.Con.Res. 11 (No short title on file),Amendment Rejected,46,54,0,0
+Senate,114,1,102,102,2015-03-26,Scott Amdt. No. 692,On the Amendment S.Amdt. 692 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,56,44,0,0
+Senate,114,1,103,103,2015-03-26,Blunt Amdt. No. 928,On the Amendment S.Amdt. 928 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,58,42,0,0
+Senate,114,1,104,104,2015-03-26,Durbin Amdt. No. 817,On the Amendment S.Amdt. 817 to S.Con.Res. 11 (No short title on file),Amendment Rejected,46,54,0,0
+Senate,114,1,105,105,2015-03-26,Vitter Amdt. No. 515,On the Amendment S.Amdt. 515 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,54,46,0,0
+Senate,114,1,106,106,2015-03-26,Murkowski Amdt. No. 838,On the Amendment S.Amdt. 838 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,51,49,0,0
+Senate,114,1,107,107,2015-03-26,Whitehouse Amdt No. 867,On the Amendment S.Amdt. 867 to S.Con.Res. 11 (No short title on file),Amendment Rejected,47,52,0,1
+Senate,114,1,108,108,2015-03-26,Inhofe Amdt. No. 649 As Modified,On the Amendment S.Amdt. 649 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,59,41,0,0
+Senate,114,1,109,109,2015-03-26,Kirk Amdt. No. 545 As Modified,On the Amendment S.Amdt. 545 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,100,0,0,0
+Senate,114,1,110,110,2015-03-26,Coons Amdt. No. 966 As Modified,On the Amendment S.Amdt. 966 to S.Con.Res. 11 (No short title on file),Amendment Rejected,46,54,0,0
+Senate,114,1,111,111,2015-03-26,Stabenow Amdt. No. 1072,On the Amendment S.Amdt. 1072 to S.Con.Res. 11 (No short title on file),Amendment Rejected,46,54,0,0
+Senate,114,1,112,112,2015-03-26,Portman Amdt. No. 689,On the Amendment S.Amdt. 689 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,59,41,0,0
+Senate,114,1,113,113,2015-03-26,Casey Amdt. No. 632,On the Amendment S.Amdt. 632 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,100,0,0,0
+Senate,114,1,114,114,2015-03-26,Thune Amdt. No. 607,On the Amendment S.Amdt. 607 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,54,46,0,0
+Senate,114,1,115,115,2015-03-26,Bennet Amdt. No. 1014,On the Amendment S.Amdt. 1014 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,53,47,0,0
+Senate,114,1,116,116,2015-03-26,McConnell Amdt. No. 836,On the Amendment S.Amdt. 836 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,57,43,0,0
+Senate,114,1,117,117,2015-03-26,Merkley Amdt. No. 842,On the Amendment S.Amdt. 842 to S.Con.Res. 11 (No short title on file),Amendment Rejected,46,54,0,0
+Senate,114,1,118,118,2015-03-26,Gardner Amdt. No. 443,On the Amendment S.Amdt. 443 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,59,41,0,0
+Senate,114,1,119,119,2015-03-26,Murray Amdt. No. 951,On the Amendment S.Amdt. 951 to S.Con.Res. 11 (No short title on file),Amendment Rejected,46,54,0,0
+Senate,114,1,120,120,2015-03-26,Flake Amdt. No. 665,On the Amendment S.Amdt. 665 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,51,49,0,0
+Senate,114,1,121,121,2015-03-26,Schatz Amdt. No. 1063 As Modified,On the Amendment S.Amdt. 1063 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,57,43,0,0
+Senate,114,1,122,122,2015-03-26,Kirk Amdt. No. 1038,On the Amendment S.Amdt. 1038 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,57,43,0,0
+Senate,114,1,123,123,2015-03-26,Motion to Waive All Applicable Budgetary Discipline Re: Nelson Amdt. No 944,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Nelson Amdt. No 944),Motion Rejected,51,49,0,0
+Senate,114,1,124,124,2015-03-26,McCain Amdt. No. 360 As Modified,On the Amendment S.Amdt. 360 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,58,42,0,0
+Senate,114,1,125,125,2015-03-26,Wyden Amdt. No. 968,On the Amendment S.Amdt. 968 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,73,27,0,0
+Senate,114,1,126,126,2015-03-26,Lee Amdt. No. 750 As Modified,On the Amendment S.Amdt. 750 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,56,43,0,1
+Senate,114,1,127,127,2015-03-27,Reed Amdt. No. 919,On the Amendment S.Amdt. 919 to S.Con.Res. 11 (No short title on file),Amendment Rejected,44,54,0,2
+Senate,114,1,128,128,2015-03-27,Cotton Amdt. No. 659,On the Amendment S.Amdt. 659 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,52,42,0,6
+Senate,114,1,129,129,2015-03-27,Motion to Waive Applicable Budgetary Discipline Cotton Amdt. No. 664,On the Motion (Motion to Waive Applicable Budgetary Discipline Cotton Amdt. No. 664),Motion Rejected,49,48,0,3
+Senate,114,1,130,130,2015-03-27,Vitter Amdt. No. 811,On the Amendment S.Amdt. 811 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,52,46,0,2
+Senate,114,1,131,131,2015-03-27,Warren Amdt. No. 1094 As Modified,On the Amendment S.Amdt. 1094 to S.Con.Res. 11 (No short title on file),Amendment Rejected,42,56,0,2
+Senate,114,1,132,132,2015-03-27,Lee Amdt. No. 855,On the Amendment S.Amdt. 855 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,54,44,0,2
+Senate,114,1,133,133,2015-03-27,Cardin Amdt. No. 367,On the Amendment S.Amdt. 367 to S.Con.Res. 11 (No short title on file),Amendment Rejected,47,51,0,2
+Senate,114,1,134,134,2015-03-27,Kaine Amdt. No. 1047 As Modified ,On the Amendment S.Amdt. 1047 to S.Con.Res. 11 (No short title on file),Amendment Agreed to,50,48,0,2
+Senate,114,1,135,135,2015-03-27,S.Con.Res. 11 As Amended,On the Concurrent Resolution S.Con.Res. 11,Concurrent Resolution Agreed to,52,46,0,2
+Senate,114,1,136,136,2015-04-13,"Confirmation Alfred H. Bennett, of Texas, to be U.S. District Judge for the Southern District of Texas",On the Nomination PN21,Nomination Confirmed,95,0,0,5
+Senate,114,1,137,137,2015-04-14,Cornyn Amdt. No. 1114,On the Amendment S.Amdt. 1114 to H.R. 2 (Medicare Access and CHIP Reauthorization Act of 2015),Amendment Rejected,54,45,0,1
+Senate,114,1,138,138,2015-04-14,Motion to Waive Applicable Budgetary Discipline Bennet Amdt. No. 1115,On the Motion (Motion to Waive Applicable Budgetary Discipline Bennet Amdt. No. 1115),Motion Rejected,50,50,0,0
+Senate,114,1,139,139,2015-04-14,Lee Amdt. No. 1116,On the Amendment S.Amdt. 1116 to H.R. 2 (Medicare Access and CHIP Reauthorization Act of 2015),Amendment Rejected,42,58,0,0
+Senate,114,1,140,140,2015-04-14,Motion to Waive Applicable Budgetary Discipline Murray Amdt. No. 1117,On the Motion (Motion to Waive Applicable Budgetary Discipline Murray Amdt. No. 1117),Motion Rejected,43,57,0,0
+Senate,114,1,141,141,2015-04-14,Cotton Amdt. No. 1118,On the Amendment S.Amdt. 1118 to H.R. 2 (Medicare Access and CHIP Reauthorization Act of 2015),Amendment Rejected,11,89,0,0
+Senate,114,1,142,142,2015-04-14,Motion to Waive All Applicable Budgetary Discipline Re: Cardin Amdt. No. 1119,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Cardin Amdt. No. 1119),Motion Rejected,58,42,0,0
+Senate,114,1,143,143,2015-04-14,Motion to Waive Applicable Budgetary Discipline Re: H.R. 2,On the Motion (Motion to Waive Applicable Budgetary Discipline Re: H.R. 2),Motion Agreed to,71,29,0,0
+Senate,114,1,144,144,2015-04-14,H.R. 2,On Passage of the Bill H.R. 2,Bill Passed,92,8,0,0
+Senate,114,1,145,145,2015-04-15,"Motion to Disagree in the House Amendment, Agree to the Request for a Conference, and Authorize the Presiding Officer to Appoint Conferees.","On the Motion (Motion to Disagree in the House Amendment, Agree to the Request for a Conference, and Authorize the Presiding Officer to Appoint Conferees.)",Motion Agreed to,54,43,0,3
+Senate,114,1,146,146,2015-04-15,Brown Motion to Instruct (Wall Street Banks) Re: S.Con.Res. 11,On the Motion (Brown Motion to Instruct (Wall Street Banks) Re: S.Con.Res. 11),Motion Agreed to,86,11,0,3
+Senate,114,1,147,147,2015-04-15,Sanders Motion to Instruct (Postal Plant Closures) Re: S.Con.Res. 11,On the Motion (Sanders Motion to Instruct (Postal Plant Closures) Re: S.Con.Res. 11),Motion Agreed to,85,11,0,4
+Senate,114,1,148,148,2015-04-15,Burr Motion to Instruct (Student Loans) Re: S.Con.Res. 11,On the Motion (Burr Motion to Instruct (Student Loans) Re: S.Con.Res. 11),Motion Agreed to,97,0,0,3
+Senate,114,1,149,149,2015-04-15,Warren Motion to Instruct (Student Loans) Re: S.Con.Res. 11,On the Motion (Warren Motion to Instruct (Student Loans) Re: S.Con.Res. 11),Motion Rejected,45,52,0,3
+Senate,114,1,150,150,2015-04-15,Sanders Motion to Instruct (Social Security) Re: S.Con.Res. 11,On the Motion (Sanders Motion to Instruct (Social Security) Re: S.Con.Res. 11),Motion Agreed to,84,13,0,3
+Senate,114,1,151,151,2015-04-15,Fischer Motion to Instruct (Equal Pay) Re: S.Con.Res. 11,On the Motion (Fischer Motion to Instruct (Equal Pay) Re: S.Con.Res. 11),Motion Agreed to,57,40,0,3
+Senate,114,1,152,152,2015-04-15,Mikulski Motion to Instruct (Equal Pay) Re: S.Con.Res. 11,On the Motion (Mikulski Motion to Instruct (Equal Pay) Re: S.Con.Res. 11),Motion Rejected,44,53,0,3
+Senate,114,1,154,154,2015-04-16,"Confirmation Russell C. Deyo, of New Jersey, to be Under Secretary for Management, Department of Homeland Security",On the Nomination PN56,Nomination Confirmed,95,2,0,3
+Senate,114,1,153,153,2015-04-15,Stabenow Motion to Instruct (Medicare Cuts) Re: S.Con.Res. 11,On the Motion (Stabenow Motion to Instruct (Medicare Cuts) Re: S.Con.Res. 11),Motion Rejected,45,52,0,3
+Senate,114,1,155,155,2015-04-20,"Confirmation George C. Hanks, Jr., of Texas, to be U.S. District Judge for the Southern District",On the Nomination PN16,Nomination Confirmed,91,0,0,9
+Senate,114,1,156,156,2015-04-22,Leahy Amdt. No. 301,On the Amendment S.Amdt. 301 to S. 178 (Justice for Victims of Trafficking Act of 2015),Amendment Rejected,43,55,0,2
+Senate,114,1,157,157,2015-04-22,Cornyn Amdt. No. 1124,On the Amendment S.Amdt. 1124 to S. 178 (Justice for Victims of Trafficking Act of 2015),Amendment Agreed to,98,0,0,2
+Senate,114,1,158,158,2015-04-22,Cornyn Amdt. No. 1127,On the Amendment S.Amdt. 1127 to S. 178 (Justice for Victims of Trafficking Act of 2015),Amendment Rejected,45,53,0,2
+Senate,114,1,159,159,2015-04-22,Leahy Amdt. No. 290,On the Amendment S.Amdt. 290 to S. 178 (Justice for Victims of Trafficking Act of 2015),Amendment Rejected,56,43,0,1
+Senate,114,1,160,160,2015-04-22,Brown Amdt. No. 311,On the Amendment S.Amdt. 311 to S. 178 (Justice for Victims of Trafficking Act of 2015),Amendment Agreed to,99,0,0,1
+Senate,114,1,161,161,2015-04-22,Burr Amdt. No. 1121,On the Amendment S.Amdt. 1121 to S. 178 (Justice for Victims of Trafficking Act of 2015),Amendment Agreed to,98,0,0,2
+Senate,114,1,162,162,2015-04-22,Kirk Amdt. No. 273 As Modified,On the Amendment S.Amdt. 273 to S. 178 (Justice for Victims of Trafficking Act of 2015),Amendment Agreed to,97,2,0,1
+Senate,114,1,163,163,2015-04-22,S. 178 As Amended,On Passage of the Bill S. 178,Bill Passed,99,0,0,1
+Senate,114,1,164,164,2015-04-23,"Motion to Invoke Cloture on the Nomination of Loretta Lynch, to be Attorney General",On the Cloture Motion PN4,Cloture Motion Agreed to,66,34,0,0
+Senate,114,1,165,165,2015-04-23,"Confirmation Loretta E. Lynch, of New York, to be Attorney General",On the Nomination PN4,Nomination Confirmed,56,43,0,1
+Senate,114,1,166,166,2015-04-27,"Confirmation Dava J. Newman, of Massachusetts, to be Deputy Administrator of the NASA",On the Nomination PN43,Nomination Confirmed,87,0,0,13
+Senate,114,1,167,167,2015-04-28,Johnson Amdt. No. 1150,On the Amendment S.Amdt. 1150 to S.Amdt. 1140 to H.R. 1191 (Protecting Volunteer Firefighters and Emergency Responders Act),Amendment Rejected,39,57,0,4
+Senate,114,1,168,168,2015-04-29,Barrasso Amdt. No. 1147,On the Amendment S.Amdt. 1147 to S.Amdt. 1140 to H.R. 1191 (Protecting Volunteer Firefighters and Emergency Responders Act),Amendment Rejected,45,54,0,1
+Senate,114,1,169,169,2015-05-04,"Confirmation Willie E. May, of Maryland, to be Under Secretary of Commerce for Standards and Technology",On the Nomination PN209,Nomination Confirmed,93,0,0,7
+Senate,114,1,170,170,2015-05-05,Motion to Proceed Re: Conference Report to Accompany S. Con. Res. 11,On the Motion to Proceed S.Con.Res. 11,Motion to Proceed Agreed to,53,44,0,3
+Senate,114,1,171,171,2015-05-05,Conference Report to Accompany S. Con. Res. 11,On the Conference Report S.Con.Res. 11,Conference Report Agreed to,51,48,0,1
+Senate,114,1,172,172,2015-05-05,Motion to Table Veto Message to Accompany S.J. Res. 8,On the Motion to Table S.J.Res. 8,Motion to Table Agreed to,96,3,0,1
+Senate,114,1,173,173,2015-05-07,Motion to Invoke Cloture on Amdt. No. 1140 to H.R. 1191,On the Cloture Motion S.Amdt. 1140 to H.R. 1191 (Iran Nuclear Agreement Review Act of 2015),Cloture Motion Agreed to,93,6,0,1
+Senate,114,1,174,174,2015-05-07,H.R. 1191 As Amended,On Passage of the Bill H.R. 1191,Bill Passed,98,1,0,1
+Senate,114,1,175,175,2015-05-11,S. Con. Res. 16,On the Concurrent Resolution S.Con.Res. 16,Concurrent Resolution Agreed to,90,0,0,10
+Senate,114,1,176,176,2015-05-12,Motion to Invoke Cloture on the Motion to Proceed to H.R. 1314,On Cloture on the Motion to Proceed H.R. 1314,Cloture on the Motion to Proceed Rejected,52,45,0,3
+Senate,114,1,178,178,2015-05-14,"H.R. 1295, As Amended",On Passage of the Bill H.R. 1295,Bill Passed,97,1,0,2
+Senate,114,1,177,177,2015-05-13,"Confirmation Sally Quillian Yates, of Georgia, to be Deputy Attorney General",On the Nomination PN31,Nomination Confirmed,84,12,0,4
+Senate,114,1,179,179,2015-05-14,"H.R. 644, As Amended",On Passage of the Bill H.R. 644,Bill Passed,78,20,0,2
+Senate,114,1,180,180,2015-05-14,"Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 1314",On Cloture on the Motion to Proceed H.R. 1314,Cloture on the Motion to Proceed Agreed to,65,33,0,2
+Senate,114,1,181,181,2015-05-18,Brown Amdt. No. 1242,On the Amendment S.Amdt. 1242 to S.Amdt. 1221 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act),Amendment Rejected,45,41,0,14
+Senate,114,1,182,182,2015-05-18,Lankford Amdt. No. 1237 As Modified,On the Amendment S.Amdt. 1237 to S.Amdt. 1221 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act),Amendment Agreed to,92,0,0,8
+Senate,114,1,183,183,2015-05-21,Motion to Invoke Cloture on Hatch Amdt. No. 1221 to H.R. 1314,On the Cloture Motion S.Amdt. 1221 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act),Cloture Motion Agreed to,62,38,0,0
+Senate,114,1,184,184,2015-05-21,"Confirmation Jill N. Parrish, of Utah, to be United States District Judge",On the Nomination PN20,Nomination Confirmed,100,0,0,0
+Senate,114,1,185,185,2015-05-21,"Confirmation Jose Rolando Olvera, Jr., of Texas, to be U.S. District Judge for the Southern District of Texas",On the Nomination PN19,Nomination Confirmed,100,0,0,0
+Senate,114,1,186,186,2015-05-22,Hatch Amdt. No. 1411 As Modified,On the Amendment S.Amdt. 1411 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act),Amendment Agreed to,70,29,0,1
+Senate,114,1,187,187,2015-05-22,Portman Amdt. No. 1299,On the Amendment S.Amdt. 1299 to S.Amdt. 1221 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act),Amendment Rejected,48,51,0,1
+Senate,114,1,188,188,2015-05-22,Warren Amdt. No. 1327,On the Amendment S.Amdt. 1327 to S.Amdt. 1221 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act),Amendment Rejected,39,60,0,1
+Senate,114,1,189,189,2015-05-22,Brown Amdt. No. 1251,On the Amendment S.Amdt. 1251 to S.Amdt. 1221 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act),Amendment Rejected,47,52,0,1
+Senate,114,1,190,190,2015-05-22,Flake Amdt. No. 1243,On the Amendment S.Amdt. 1243 to S.Amdt. 1221 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act),Amendment Rejected,36,62,1,1
+Senate,114,1,191,191,2015-05-22,Hatch Amdt. No. 1221 As Amended,On the Amendment S.Amdt. 1221 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act),Amendment Agreed to,62,37,0,1
+Senate,114,1,192,192,2015-05-22,Motion to Invoke Cloture on H.R. 1314,On the Cloture Motion H.R. 1314,Cloture Motion Agreed to,61,38,0,1
+Senate,114,1,193,193,2015-05-22,H.R. 1314 As Amended,On Passage of the Bill H.R. 1314,Bill Passed,62,37,0,1
+Senate,114,1,194,194,2015-05-23,Motion to Invoke Cloture on the Motion to Proceed to H.R. 2048,On Cloture on the Motion to Proceed H.R. 2048,Cloture on the Motion to Proceed Rejected,57,42,0,1
+Senate,114,1,195,195,2015-05-23,Motion to Invoke Cloture on the Motion to Proceed to S. 1357,On Cloture on the Motion to Proceed S. 1357,Cloture on the Motion to Proceed Rejected,45,54,0,1
+Senate,114,1,196,196,2015-05-31,Upon Reconsideration Motion to Invoke Cloture on the Motion to Proceed to H.R. 2048,On Cloture on the Motion to Proceed H.R. 2048,Cloture on the Motion to Proceed Agreed to,77,17,0,6
+Senate,114,1,197,197,2015-06-02,Motion to Invoke Cloture on H.R. 2048,On the Cloture Motion H.R. 2048,Cloture Motion Agreed to,83,14,0,3
+Senate,114,1,198,198,2015-06-02,McConnell Amdt. No. 1451,On the Amendment S.Amdt. 1451 to S.Amdt. 1450 to S.Amdt. 1449 to H.R. 2048,Amendment Rejected,42,56,0,2
+Senate,114,1,199,199,2015-06-02,McConnell Amdt. No. 1450,On the Amendment S.Amdt. 1450 to S.Amdt. 1449 to H.R. 2048 (USA FREEDOM Act of 2015),Amendment Rejected,44,54,0,2
+Senate,114,1,200,200,2015-06-02,McConnell Amdt. No. 1449,On the Amendment S.Amdt. 1449 to H.R. 2048 (USA FREEDOM Act of 2015),Amendment Rejected,43,56,0,1
+Senate,114,1,201,201,2015-06-02,H.R. 2048,On Passage of the Bill H.R. 2048,Bill Passed,67,32,0,1
+Senate,114,1,202,202,2015-06-04,Portman Amdt. No. 1522,On the Amendment S.Amdt. 1522 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Amendment Agreed to,61,34,0,5
+Senate,114,1,203,203,2015-06-04,Shaheen Amdt. No. 1494,On the Amendment S.Amdt. 1494 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Amendment Rejected,53,42,0,5
+Senate,114,1,204,204,2015-06-04,Tillis Amdt. No. 1506,On the Amendment S.Amdt. 1506 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Amendment Agreed to,48,44,0,8
+Senate,114,1,205,205,2015-06-09,Reed Amdt. No. 1521,On the Amendment S.Amdt. 1521 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Amendment Rejected,46,51,0,3
+Senate,114,1,206,206,2015-06-10,Motion to Table Kirk Amdt. No. 1986,On the Motion to Table S.Amdt. 1986 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Motion to Table Failed,31,65,0,4
+Senate,114,1,207,207,2015-06-11,Motion to Invoke Cloture on Burr Amdt. No. 1569 As Modified,On the Cloture Motion S.Amdt. 1569 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Cloture Motion Rejected,56,40,0,4
+Senate,114,1,208,208,2015-06-15,"Confirmation Matthew T. McGuire, of the District of Columbia, to be U.S. Executive Director of the International Bank for Reconstruction and Development",On the Nomination PN88,Nomination Confirmed,62,24,0,14
+Senate,114,1,209,209,2015-06-16,McCain Amdt. No. 1889,On the Amendment S.Amdt. 1889 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Amendment Agreed to,78,21,0,1
+Senate,114,1,210,210,2015-06-16,Ernst Amdt. No. 1549,On the Amendment S.Amdt. 1549 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Amendment Rejected,54,45,0,1
+Senate,114,1,211,211,2015-06-16,Gillibrand Amdt. No. 1578,On the Amendment S.Amdt. 1578 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Amendment Rejected,50,49,0,1
+Senate,114,1,212,212,2015-06-16,Motion to Invoke Cloture on McCain Amdt. No. 1463,On the Cloture Motion S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Cloture Motion Agreed to,83,15,0,2
+Senate,114,1,213,213,2015-06-16,Vitter Amdt. No. 1473 As Further Modified,On the Amendment S.Amdt. 1473 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016),Amendment Rejected,26,73,0,1
+Senate,114,1,214,214,2015-06-17,Motion to Invoke Cloture on H.R. 1735,On the Cloture Motion H.R. 1735,Cloture Motion Agreed to,84,14,0,2
+Senate,114,1,215,215,2015-06-18,H.R. 1735 As Amended,On Passage of the Bill H.R. 1735,Bill Passed,71,25,0,4
+Senate,114,1,216,216,2015-06-18,Motion to Invoke Cloture on the Motion to Proceed to H.R. 2685,On Cloture on the Motion to Proceed H.R. 2685,Cloture on the Motion to Proceed Rejected,50,45,0,5
+Senate,114,1,217,217,2015-06-22,"Confirmation Peter V. Neffenger, of Ohio, to be an Assistant Secretary of Homeland Security",On the Nomination PN414,Nomination Confirmed,81,1,0,18
+Senate,114,1,218,218,2015-06-23,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2146,On the Cloture Motion H.R. 2146,Cloture Motion Agreed to,60,37,0,3
+Senate,114,1,219,219,2015-06-24,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2146,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2146),Motion Agreed to,60,38,0,2
+Senate,114,1,220,220,2015-06-24,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1295 with Amendment No. 2065,On the Cloture Motion H.R. 1295,Cloture Motion Agreed to,76,22,0,2
+Senate,114,1,222,222,2015-07-08,Reed. Amdt. No. 2085,On the Amendment S.Amdt. 2085 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,98,0,0,2
+Senate,114,1,221,221,2015-07-07,"Confirmation Kara Farnandez Stoll, of Virginia, to be U.S. Circuit Judge for the Federal Circuit",On the Nomination PN12,Nomination Confirmed,95,0,0,5
+Senate,114,1,223,223,2015-07-08,Hirono Amdt. No. 2109,On the Amendment S.Amdt. 2109 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,47,50,0,3
+Senate,114,1,224,224,2015-07-08,Tester Amdt. No. 2107,On the Amendment S.Amdt. 2107 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,56,41,0,3
+Senate,114,1,225,225,2015-07-08,Alexander Amdt. No. 2139,On the Amendment S.Amdt. 2139 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,45,52,0,3
+Senate,114,1,226,226,2015-07-09,Daines Amdt. No. 2110,On the Amendment S.Amdt. 2110 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,44,54,0,2
+Senate,114,1,227,227,2015-07-09,Brown Amdt. No. 2099,On the Amendment S.Amdt. 2099 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,98,0,0,2
+Senate,114,1,228,228,2015-07-09,Toomey Amdt. No. 2094 As Modified,On the Amendment S.Amdt. 2094 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,98,0,0,2
+Senate,114,1,229,229,2015-07-09,"Motion to Invoke Cloture on the Motion to Insist on the Senate Amendment, Agree to the Request for Conference, and Authorize the Presiding Officer to Appoint Conferees Re: H.R. 1735",On the Cloture Motion H.R. 1735,Cloture Motion Agreed to,81,15,0,4
+Senate,114,1,230,230,2015-07-09,Reed Motion to Instruct Conferees Re: H.R. 1735,On the Motion (Reed Motion to Instruct Conferees Re: H.R. 1735),Motion Rejected,44,52,0,4
+Senate,114,1,231,231,2015-07-13,Hatch Amdt. No. 2080,On the Amendment S.Amdt. 2080 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,89,0,0,11
+Senate,114,1,232,232,2015-07-14,Scott Amdt. No. 2132,On the Amendment S.Amdt. 2132 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,45,51,0,4
+Senate,114,1,233,233,2015-07-14,Booker Amdt. No. 2169,On the Amendment S.Amdt. 2169 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,56,40,0,4
+Senate,114,1,234,234,2015-07-14,Isakson Amdt. No. 2194,On the Amendment S.Amdt. 2194 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,97,0,0,3
+Senate,114,1,235,235,2015-07-14,Lee Amdt No. 2162,On the Amendment S.Amdt. 2162 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,32,64,0,4
+Senate,114,1,236,236,2015-07-14,Franken Amdt. No. 2093,On the Amendment S.Amdt. 2093 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,52,45,0,3
+Senate,114,1,237,237,2015-07-15,Motion to Invoke Cloture on the Alexander Amdt. No. 2089,On the Cloture Motion S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Cloture Motion Agreed to,86,12,0,2
+Senate,114,1,238,238,2015-07-15,Markey Amdt. No. 2176,On the Amendment S.Amdt. 2176 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,44,53,0,3
+Senate,114,1,239,239,2015-07-15,Heitkamp Amdt. No. 2171,On the Amendment S.Amdt. 2171 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,58,39,0,3
+Senate,114,1,240,240,2015-07-15,Kirk Amdt. No. 2161,On the Amendment S.Amdt. 2161 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,46,50,0,4
+Senate,114,1,242,242,2015-07-16,Cruz Amdt. No. 2180,On the Amendment S.Amdt. 2180 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,40,58,0,2
+Senate,114,1,243,243,2015-07-16,Sanders Amdt. No. 2177,On the Amendment S.Amdt. 2177 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,43,55,0,2
+Senate,114,1,241,241,2015-07-15,Murphy Amdt. No. 2241,On the Amendment S.Amdt. 2241 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,43,54,0,3
+Senate,114,1,245,245,2015-07-16,Burr Amdt. No. 2247 As Modified,On the Amendment S.Amdt. 2247 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,59,39,0,2
+Senate,114,1,244,244,2015-07-16,Coons Amdt. No. 2243,On the Amendment S.Amdt. 2243 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,68,30,0,2
+Senate,114,1,246,246,2015-07-16,Brown Amdt. No. 2100,On the Amendment S.Amdt. 2100 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Agreed to,53,44,0,3
+Senate,114,1,247,247,2015-07-16,Casey Amdt. No. 2242,On the Amendment S.Amdt. 2242 to S.Amdt. 2089 to S. 1177 (Every Child Achieves Act of 2015),Amendment Rejected,45,52,0,3
+Senate,114,1,248,248,2015-07-16,Motion to Invoke Cloture on S. 1177,On the Cloture Motion S. 1177,Cloture Motion Agreed to,79,18,0,3
+Senate,114,1,249,249,2015-07-16,S. 1177 As Amended,On Passage of the Bill S. 1177,Bill Passed,81,17,0,2
+Senate,114,1,251,251,2015-07-22,Upon Reconsideration Motion to Invoke Cloture on the Motion to Proceed to H.R. 22,On Cloture on the Motion to Proceed H.R. 22,Cloture on the Motion to Proceed Agreed to,62,36,0,2
+Senate,114,1,250,250,2015-07-21,Motion to Invoke Cloture on the Motion to Proceed to H.R. 22,On Cloture on the Motion to Proceed H.R. 22,Cloture on the Motion to Proceed Rejected,41,56,0,3
+Senate,114,1,252,252,2015-07-24,Motion to Proceed to H.R. 22,On the Motion to Proceed H.R. 22,Motion to Proceed Agreed to,51,26,0,23
+Senate,114,1,253,253,2015-07-26,Motion to Invoke Cloture on McConnell Amdt. No. 2328,On the Cloture Motion S.Amdt. 2328 to S.Amdt. 2327 to S.Amdt. 2266 to H.R. 22,Cloture Motion Rejected,49,43,0,8
+Senate,114,1,254,254,2015-07-26,Motion to Invoke Cloture on Kirk Amdt. No. 2327,On the Cloture Motion S.Amdt. 2327 to S.Amdt. 2266 to H.R. 22 (Hire More Heroes Act of 2015),Cloture Motion Agreed to,67,26,0,7
+Senate,114,1,255,255,2015-07-27,Motion to Instruct the Sergeant at Arms,On the Motion for Attendance H.R. 22,Motion for Attendance Agreed to,79,14,0,7
+Senate,114,1,256,256,2015-07-27,Kirk Amdt. No. 2327,On the Amendment S.Amdt. 2327 to S.Amdt. 2266 to H.R. 22 (Hire More Heroes Act of 2015),Amendment Agreed to,64,29,0,7
+Senate,114,1,257,257,2015-07-27,"Motion to Invoke Cloture on McConnell Amdt. No. 2266, As Modified",On the Cloture Motion S.Amdt. 2266 to H.R. 22 (Hire More Heroes Act of 2015),Cloture Motion Agreed to,62,32,0,6
+Senate,114,1,258,258,2015-07-29,McConnell Amdt. No. 2266 As Amended,On the Amendment S.Amdt. 2266 to H.R. 22 (Hire More Heroes Act of 2015),Amendment Agreed to,62,38,0,0
+Senate,114,1,259,259,2015-07-29,Motion to Invoke Cloture on H.R. 22 As Amended,On the Cloture Motion H.R. 22,Cloture Motion Agreed to,65,35,0,0
+Senate,114,1,260,260,2015-07-30,H.R. 22 As Amended,On Passage of the Bill H.R. 22,Bill Passed,65,34,0,1
+Senate,114,1,261,261,2015-07-30,H.R. 3236,On Passage of the Bill H.R. 3236,Bill Passed,91,4,0,5
+Senate,114,1,263,263,2015-09-08,"Confirmation Roseann A. Ketchmark, of Missouri, to be U.S. District Judge for the Western District",On the Nomination PN17,Nomination Confirmed,96,0,0,4
+Senate,114,1,264,264,2015-09-10,Motion to Invoke Cloture on McConnell Amdt. No. 2640,On the Cloture Motion S.Amdt. 2640 to H.J.Res. 61 (Hire More Heroes Act of 2015),Cloture Motion Rejected,58,42,0,0
+Senate,114,1,262,262,2015-08-03,Motion to Invoke Cloture on the Motion to Proceed to S. 1881,On Cloture on the Motion to Proceed S. 1881,Cloture on the Motion to Proceed Rejected,53,46,0,1
+Senate,114,1,265,265,2015-09-15,Motion to Invoke Cloture on McConnell Amdt. No. 2640,On the Cloture Motion S.Amdt. 2640 to H.J.Res. 61 (Hire More Heroes Act of 2015),Cloture Motion Rejected,56,42,0,2
+Senate,114,1,266,266,2015-09-17,Motion to Invoke Cloture on McConnell Amdt. No. 2656,On the Cloture Motion S.Amdt. 2656 to S.Amdt. 2640 to H.J.Res. 61 (Hire More Heroes Act of 2015),Cloture Motion Rejected,53,45,0,2
+Senate,114,1,267,267,2015-09-17,Motion to Invoke Cloture on McConnell Amdt. No. 2640,On the Cloture Motion S.Amdt. 2640 to H.J.Res. 61 (Hire More Heroes Act of 2015),Cloture Motion Rejected,56,42,0,2
+Senate,114,1,268,268,2015-09-22,Motion to Invoke Cloture on the Motion to Proceed to H.R. 36,On Cloture on the Motion to Proceed H.R. 36,Cloture on the Motion to Proceed Rejected,54,42,0,4
+Senate,114,1,269,269,2015-09-22,"Motion to Invoke Cloture on the Motion to Proceed to H.R. 2685, Upon Reconsideration",On Cloture on the Motion to Proceed H.R. 2685,Cloture on the Motion to Proceed Rejected,54,42,0,4
+Senate,114,1,270,270,2015-09-24,Motion to Invoke Cloture on Cochran Amdt. No. 2669,On the Cloture Motion S.Amdt. 2669 to H.J.Res. 61 (Hire More Heroes Act of 2015),Cloture Motion Rejected,47,52,0,1
+Senate,114,1,271,271,2015-09-28,Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment with Further Amendment to H.R. 719,On the Cloture Motion H.R. 719,Cloture Motion Agreed to,77,19,0,4
+Senate,114,1,272,272,2015-09-30,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 719 with Further Amendment,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 719 with Further Amendment),Motion Agreed to,78,20,0,2
+Senate,114,1,273,273,2015-10-01,Motion to Invoke Cloture on the Motion to Proceed to H.R. 2029,On Cloture on the Motion to Proceed H.R. 2029,Cloture on the Motion to Proceed Rejected,50,44,0,6
+Senate,114,1,274,274,2015-10-05,"Confirmation Dale A. Drozd, of California, to be U.S. District Judge for the Eastern District",On the Nomination PN14,Nomination Confirmed,69,21,0,10
+Senate,114,1,275,275,2015-10-06,Motion to Invoke Cloture Re: Conference Report to Accompany H.R. 1735,On the Cloture Motion H.R. 1735,Cloture Motion Agreed to,73,26,0,1
+Senate,114,1,276,276,2015-10-07,Motion to Waive All Applicable Budgetary Discipline Re: Conference Report to Accompany H.R. 1735,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Conference Report to Accompany H.R. 1735),Motion Agreed to,71,26,0,3
+Senate,114,1,277,277,2015-10-07,Conference Report to Accompany H.R. 1735,On the Conference Report H.R. 1735,Conference Report Agreed to,70,27,0,3
+Senate,114,1,278,278,2015-10-08,Motion to Invoke Cloture Re: Motion to Proceed to H.R. 2028,On Cloture on the Motion to Proceed H.R. 2028,Cloture on the Motion to Proceed Rejected,49,47,0,4
+Senate,114,1,279,279,2015-10-20,"Confirmation Ann Donnelly, of New York, to be U.S. District Judge for the Eastern District",On the Nomination PN13,Nomination Confirmed,95,2,0,3
+Senate,114,1,280,280,2015-10-20,Motion to Invoke Cloture on the Motion to Proceed to S. 2146,On Cloture on the Motion to Proceed S. 2146,Cloture on the Motion to Proceed Rejected,54,45,0,1
+Senate,114,1,281,281,2015-10-22,Motion to Invoke Cloture Burr Amdt. No. 2716,On the Cloture Motion S.Amdt. 2716 to S. 754 (Cybersecurity Information Sharing Act of 2015),Cloture Motion Agreed to,83,14,0,3
+Senate,114,1,282,282,2015-10-22,Paul Amdt. No. 2564 As Modified,On the Amendment S.Amdt. 2564 to S.Amdt. 2716 to S. 754 (Cybersecurity Information Sharing Act of 2015),Amendment Rejected,32,65,0,3
+Senate,114,1,283,283,2015-10-22,"Nomination Julie Furuta-Toy, of Wyoming, to be Ambassador to the Republic of Equatorial Guinea",On the Nomination PN581,Nomination Confirmed,93,0,0,7
+Senate,114,1,284,284,2015-10-26,"Confirmation Lawrence Joseph Vilardo, of New York, to be U.S. District Judge for the Western District",On the Nomination PN154,Nomination Confirmed,88,0,0,12
+Senate,114,1,285,285,2015-10-27,"Wyden Amdt. No. 2621, As Modified",On the Amendment S.Amdt. 2621 to S.Amdt. 2716 to S. 754 (Cybersecurity Information Sharing Act of 2015),Amendment Rejected,41,55,0,4
+Senate,114,1,286,286,2015-10-27,"Heller Amdt. No. 2548, As Modified",On the Amendment S.Amdt. 2548 to S.Amdt. 2716 to S. 754 (Cybersecurity Information Sharing Act of 2015),Amendment Rejected,47,49,0,4
+Senate,114,1,287,287,2015-10-27,"Leahy Amdt. No. 2587, As Modified",On the Amendment S.Amdt. 2587 to S.Amdt. 2716 to S. 754 (Cybersecurity Information Sharing Act of 2015),Amendment Rejected,37,59,0,4
+Senate,114,1,288,288,2015-10-27,Franken Amdt. No. 2612 As Further Modified,On the Amendment S.Amdt. 2612 to S.Amdt. 2716 to S. 754 (Cybersecurity Information Sharing Act of 2015),Amendment Rejected,35,60,0,5
+Senate,114,1,289,289,2015-10-27,"Coons Amdt. No. 2552, As Further Modified",On the Amendment S.Amdt. 2552 to S.Amdt. 2716 to S. 754 (Cybersecurity Information Sharing Act of 2015),Amendment Rejected,41,54,0,5
+Senate,114,1,290,290,2015-10-27,"Cotton Amdt. No. 2581, As Modified",On the Amendment S.Amdt. 2581 to S.Amdt. 2716 to S. 754 (Cybersecurity Information Sharing Act of 2015),Amendment Rejected,22,73,0,5
+Senate,114,1,291,291,2015-10-27,"S. 754, As Amended",On Passage of the Bill S. 754,Bill Passed,74,21,0,5
+Senate,114,1,292,292,2015-10-30,Motion to Invoke Cloture in the House Amendment to the Senate Amendment to H.R. 1314,On the Cloture Motion H.R. 1314,Cloture Motion Agreed to,63,35,0,2
+Senate,114,1,293,293,2015-10-30,Motion to Waive All Applicable Budgetary Discipline Re: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1314,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1314),Motion Agreed to,64,35,0,1
+Senate,114,1,294,294,2015-10-30,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1314,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1314),Motion Agreed to,64,35,0,1
+Senate,114,1,295,295,2015-11-03,Motion to Invoke Cloture on the Motion to Proceed to S. 1140,On Cloture on the Motion to Proceed S. 1140,Cloture on the Motion to Proceed Rejected,57,41,0,2
+Senate,114,1,296,296,2015-11-03,Motion to Proceed to S. J. Res. 22,On the Motion to Proceed S.J.Res. 22,Motion to Proceed Agreed to,55,43,0,2
+Senate,114,1,297,297,2015-11-04,S. J. Res. 22,On the Joint Resolution S.J.Res. 22,Joint Resolution Passed,53,44,0,3
+Senate,114,1,298,298,2015-11-05,Motion to Invoke Cloture on the Motion to Proceed to H.R. 2685,On Cloture on the Motion to Proceed H.R. 2685,Cloture on the Motion to Proceed Rejected,51,44,0,5
+Senate,114,1,299,299,2015-11-05,Motion to Proceed to H.R. 2029,On the Motion to Proceed H.R. 2029,Motion to Proceed Agreed to,93,0,0,7
+Senate,114,1,300,300,2015-11-09,"Confirmation Scott Allen, of Maryland, to be Director of the European Bank for Reconstruction and Development",On the Nomination PN569,Nomination Confirmed,83,0,0,17
+Senate,114,1,301,301,2015-11-10,Motion to Concur in the House Amendment to S. 1356,On the Motion (Motion to Concur in the House Amendment to S. 1356),Motion Agreed to,91,3,0,6
+Senate,114,1,302,302,2015-11-10,H.R. 2029 As Amended,On Passage of the Bill H.R. 2029,Bill Passed,93,0,0,7
+Senate,114,1,303,303,2015-11-10,"Motion to Invoke Cloture on the Motion to Disagree to the House Amendment to the Senate Amendment to H.R. 22, Agree to the Request for Conference, and Authorize Conferees to be Appointed",On the Cloture Motion H.R. 22,Cloture Motion Agreed to,82,7,0,11
+Senate,114,1,304,304,2015-11-10,Wicker Motion to Instruct Conferees (Re: Combination Length Limitations),On the Motion (Wicker Motion to Instruct Conferees (Re: Combination Length Limitations)),Motion Agreed to,56,31,0,13
+Senate,114,1,305,305,2015-11-16,"Nomination LaShann Moutique DeArcy Hall, of New York, to be U.S. District Judge for the Eastern District",On the Nomination PN15,Nomination Confirmed,93,1,0,6
+Senate,114,1,306,306,2015-11-17,S.J.Res. 24,On the Joint Resolution S.J.Res. 24,Joint Resolution Passed,52,46,0,2
+Senate,114,1,307,307,2015-11-17,S.J.Res. 23,On the Joint Resolution S.J.Res. 23,Joint Resolution Passed,52,46,0,2
+Senate,114,1,309,309,2015-11-19,"Nomination Peter William Bodde, of Maryland, to be Ambassador to Libya",On the Nomination PN629,Nomination Confirmed,95,0,0,5
+Senate,114,1,308,308,2015-11-18,"Motion to Invoke Cloture on the Motion to Disagree to the House Amendment, Agree to the Request for Conference, and Authorize the Presiding Officer to Appoint Conferees Re: S. 1177",On the Cloture Motion S. 1177,Cloture Motion Agreed to,91,6,0,3
+Senate,114,1,310,310,2015-11-30,"Nomination Gayle Smith, of Ohio, to be Administrator of the United States Agency for International Development",On the Nomination PN420,Nomination Confirmed,79,7,0,14
+Senate,114,1,311,311,2015-12-03,Motion to Table Murray Amdt. No. 2876,On the Motion to Table S.Amdt. 2876 to S.Amdt. 2874 to H.R. 3762 (Restoring Americans' Healthcare Freedom Reconciliation Act of 2015),Motion to Table Agreed to,54,46,0,0
+Senate,114,1,312,312,2015-12-03,Johnson Amdt. No. 2875,On the Amendment S.Amdt. 2875 to S.Amdt. 2874 to H.R. 3762 (Restoring Americans' Healthcare Freedom Reconciliation Act of 2015),Amendment Rejected,56,44,0,0
+Senate,114,1,313,313,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Brown Amdt. No. 2883,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Brown Amdt. No. 2883),Motion Rejected,45,55,0,0
+Senate,114,1,314,314,2015-12-03,Collins Amdt. No. 2885,On the Amendment S.Amdt. 2885 to S.Amdt. 2874 to H.R. 3762 (Restoring Americans' Healthcare Freedom Reconciliation Act of 2015),Amendment Rejected,48,52,0,0
+Senate,114,1,315,315,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Casey Amdt. No. 2893,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Casey Amdt. No. 2893),Motion Rejected,46,54,0,0
+Senate,114,1,316,316,2015-12-03,Heller Amdt. No. 2882,On the Amendment S.Amdt. 2882 to S.Amdt. 2874 to H.R. 3762 (Restoring Americans' Healthcare Freedom Reconciliation Act of 2015),Amendment Agreed to,90,10,0,0
+Senate,114,1,317,317,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Shaheen Amdt. No. 2892,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Shaheen Amdt. No. 2892),Motion Rejected,47,52,0,1
+Senate,114,1,318,318,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Cornyn Amdt. No. 2912,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Cornyn Amdt. No. 2912),Motion Rejected,55,44,0,1
+Senate,114,1,319,319,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Feinstein Amdt. No. 2910,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Feinstein Amdt. No. 2910),Motion Rejected,45,54,0,1
+Senate,114,1,320,320,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Grassley Amdt. No. 2914,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Grassley Amdt. No. 2914),Motion Rejected,53,46,0,1
+Senate,114,1,321,321,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Manchin Amdt. No. 2908,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Manchin Amdt. No. 2908),Motion Rejected,48,50,0,2
+Senate,114,1,322,322,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Bennet Amdt. No. 2907,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Bennet Amdt. No. 2907),Motion Rejected,47,52,0,1
+Senate,114,1,323,323,2015-12-03,Paul Amdt. No. 2899,On the Amendment S.Amdt. 2899 to S.Amdt. 2874 to H.R. 3762 (Restoring Americans' Healthcare Freedom Reconciliation Act of 2015),Amendment Rejected,10,89,0,1
+Senate,114,1,324,324,2015-12-03,Coats Amdt. No. 2888,On the Amendment S.Amdt. 2888 to S.Amdt. 2874 to H.R. 3762 (Restoring Americans' Healthcare Freedom Reconciliation Act of 2015),Amendment Agreed to,60,39,0,1
+Senate,114,1,325,325,2015-12-03,Paul Amdt. No. 2915,On the Amendment S.Amdt. 2915 to S.Amdt. 2874 to H.R. 3762 (Restoring Americans' Healthcare Freedom Reconciliation Act of 2015),Amendment Rejected,54,45,0,1
+Senate,114,1,326,326,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: McConnell Amdt. No. 2916,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: McConnell Amdt. No. 2916),Motion Rejected,52,47,0,1
+Senate,114,1,327,327,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Baldwin Amdt. No. 2919,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Baldwin Amdt. No. 2919),Motion Rejected,45,54,0,1
+Senate,114,1,328,328,2015-12-03,Motion to Waive All Applicable Budgetary Discipline Re: Murphy Amdt. No. 2918,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Murphy Amdt. No. 2918),Motion Rejected,46,53,0,1
+Senate,114,1,329,329,2015-12-03,H.R. 3762 As Amended,On Passage of the Bill H.R. 3762,Bill Passed,52,47,0,1
+Senate,114,1,330,330,2015-12-03,Motion to Waive Rule XXVIII Relative to Section 32205 Re: the Conference Report to Accompany H.R. 22,On the Motion (Motion to Waive Rule XXVIII Relative to Section 32205 Re: the Conference Report to Accompany H.R. 22),Motion Agreed to,77,22,0,1
+Senate,114,1,331,331,2015-12-03,Conference Report to Accompany H.R. 22,On the Conference Report H.R. 22,Conference Report Agreed to,83,16,0,1
+Senate,114,1,332,332,2015-12-07,"Confirmation Travis Randall McDonough, of Tennessee, to be U.S. District Judge for the Eastern District",On the Nomination PN18,Nomination Confirmed,89,0,0,11
+Senate,114,1,333,333,2015-12-08,Motion to Invoke Cloture Re: Conference Report to Accompany S. 1177,On the Cloture Motion S. 1177,Cloture Motion Agreed to,84,12,0,4
+Senate,114,1,334,334,2015-12-09,Conference Report to Accompany S.1177,On the Conference Report S. 1177,Conference Report Agreed to,85,12,0,3
+Senate,114,1,335,335,2015-12-14,"Confirmation Alissa M. Starzak, of New York, to be General Counsel of the Department of the Army",On the Nomination PN64,Nomination Confirmed,45,34,0,21
+Senate,114,1,336,336,2015-12-18,Motion to Invoke Cloture on the Motion to Concur in the House Amendments to the Senate Amendment to H.R. 2029,On the Cloture Motion H.R. 2029,Cloture Motion Agreed to,72,26,0,2
+Senate,114,1,337,337,2015-12-18,Motion to Table the First House Amendment to the Senate Amendment to H.R. 2029,On the Motion to Table H.R. 2029,Motion to Table Failed,31,67,0,2
+Senate,114,1,338,338,2015-12-18,Motion to Waive All Applicable Budgetary Discipline Re: Motion to Concur in the House Amendments to the Senate Amendment to H.R. 2029,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Motion to Concur in the House Amendments to the Senate Amendment to H.R. 2029),Motion Agreed to,73,25,0,2
+Senate,114,1,339,339,2015-12-18,Motion to Concur in the House Amendments to the Senate Amendment to H.R. 2029,On the Motion (Motion to Concur in the House Amendments to the Senate Amendment to H.R. 2029),Motion Agreed to,65,33,0,2

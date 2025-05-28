@@ -141,19 +141,56 @@ def fetch_senate_roll(congress,session,info):
     time.sleep(RATE_LIMIT_DELAY+random.random()*0.1)
     return summary,votes
 
-def fetch_house_roll(year,roll):
-    url=f"https://clerk.house.gov/evs/{year}/roll{roll:03d}.xml"
-    r=http_session.get(url,headers={'User-Agent':random.choice(USER_AGENTS)})
-    if r.status_code==429:time.sleep(5);r=http_session.get(url,headers={'User-Agent':random.choice(USER_AGENTS)})
-    if is_blocked(r) or r.status_code!=200 or '<vote-metadata>' not in r.text:return None
-    root=ET.fromstring(r.text);meta=root.find('vote-metadata')
-    summary={'chamber':'House','congress':meta.findtext('congress'),'session':meta.findtext('session')[0],'roll_number':roll,'chamber_roll_number':f"{roll}",'vote_date':parse_date(meta.findtext('action-date')),'title':meta.findtext('vote-desc'),'question':meta.findtext('vote-question'),'result':meta.findtext('vote-result'),'yeas':get_int(meta.find('vote-totals/totals-by-vote'),'yea-total'),'nays':get_int(meta.find('vote-totals/totals-by-vote'),'nay-total'),'present':get_int(meta.find('vote-totals/totals-by-vote'),'present-total'),'not_voting':get_int(meta.find('vote-totals/totals-by-vote'),'not-voting-total')}
-    votes=[]
+def fetch_house_roll(year, roll):
+    url = f"https://clerk.house.gov/evs/{year}/roll{roll:03d}.xml"
+    r = http_session.get(url, headers={'User-Agent': random.choice(USER_AGENTS)})
+    
+    if r.status_code == 429:
+        time.sleep(5)
+        r = http_session.get(url, headers={'User-Agent': random.choice(USER_AGENTS)})
+    
+    if is_blocked(r) or r.status_code != 200 or '<vote-metadata>' not in r.text:
+        return None
+
+    try:
+        xml_str = r.content.decode('utf-8-sig')
+        root = ET.fromstring(xml_str)
+    except ET.ParseError as e:
+        logging.error(f"ParseError for House {year} roll {roll}: {e}")
+        return None
+
+    meta = root.find('vote-metadata')
+    summary = {
+        'chamber': 'House',
+        'congress':    meta.findtext('congress'),
+        'session':    meta.findtext('session')[0],
+        'roll_number': roll,
+        'chamber_roll_number': f"{roll}",
+        'vote_date':    parse_date(meta.findtext('action-date')),
+        'title':        meta.findtext('vote-desc'),
+        'question':    meta.findtext('vote-question'),
+        'result':        meta.findtext('vote-result'),
+        'yeas':        get_int(meta.find('vote-totals/totals-by-vote'),'yea-total'),
+        'nays':        get_int(meta.find('vote-totals/totals-by-vote'),'nay-total'),
+        'present':    get_int(meta.find('vote-totals/totals-by-vote'),'present-total'),
+        'not_voting': get_int(meta.find('vote-totals/totals-by-vote'),'not-voting-total')
+    }
+
+    votes = []
     for rec in root.findall('vote-data/recorded-vote'):
-        member=rec.find('legislator')
-        votes.append({'chamber':'House','roll_number':roll,'member_id':member.get('name-id'),'legislator_name':member.text.strip(),'party':member.get('party'),'state':member.get('state'),'vote':normalize_vote_label(rec.findtext('vote'))})
-    time.sleep(RATE_LIMIT_DELAY+random.random()*0.1)
-    return summary,votes
+        member = rec.find('legislator')
+        votes.append({
+            'chamber': 'House',
+            'roll_number': roll,
+            'member_id': member.get('name-id'),
+            'legislator_name': member.text.strip(),
+            'party': member.get('party'),
+            'state': member.get('state'),
+            'vote': normalize_vote_label(rec.findtext('vote'))
+        })
+    time.sleep(RATE_LIMIT_DELAY + random.random() * 0.1)
+    return summary, votes
+
 
 def scrape_year(year):
     congress,session=get_congress_session(year)
