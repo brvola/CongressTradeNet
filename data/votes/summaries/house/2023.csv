@@ -1,0 +1,725 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+House,118,1,1,1,2023-01-03,,Call By States,Passed,0,0,434,1
+House,118,1,2,2,2023-01-03,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,3,3,2023-01-03,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,4,4,2023-01-03,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,5,5,2023-01-04,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,6,6,2023-01-04,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,7,7,2023-01-04,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,8,8,2023-01-04,,On Motion to Adjourn,Passed,216,214,0,4
+House,118,1,9,9,2023-01-05,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,10,10,2023-01-05,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,11,11,2023-01-05,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,12,12,2023-01-05,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,13,13,2023-01-05,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,14,14,2023-01-05,,On Motion to Adjourn,Passed,219,213,0,2
+House,118,1,15,15,2023-01-06,,Election of the Speaker,McCarthy,0,0,0,0
+House,118,1,16,16,2023-01-06,,Election of the Speaker,McCarthy,0,0,0,0
+House,118,1,17,17,2023-01-06,,On Motion to Adjourn,Passed,220,212,0,2
+House,118,1,18,18,2023-01-06,,Election of the Speaker,McCarthy,0,0,0,0
+House,118,1,19,19,2023-01-06,,On Motion to Adjourn,Failed,155,279,0,0
+House,118,1,20,20,2023-01-07,,Election of the Speaker,McCarthy,0,0,0,0
+House,118,1,21,21,2023-01-09,"Adopting the Rules of the House of Representatives for the One Hundred Eighteenth Congress, and for other purposes",On Ordering the Previous Question,Passed,211,205,0,18
+House,118,1,22,22,2023-01-09,"Adopting the Rules of the House of Representatives for the One Hundred Eighteenth Congress, and for other purposes",On Motion to Commit,Failed,210,220,0,4
+House,118,1,23,23,2023-01-09,"Adopting the Rules of the House of Representatives for the One Hundred Eighteenth Congress, and for other purposes",On Agreeing to the Resolution,Passed,220,213,0,1
+House,118,1,24,24,2023-01-09,Family and Small Business Taxpayer Protection Act,On Motion to Recommit,Failed,208,221,0,5
+House,118,1,25,25,2023-01-09,Family and Small Business Taxpayer Protection Act,On Passage,Passed,221,210,0,3
+House,118,1,26,26,2023-01-10,Establishing the Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party,On Agreeing to the Resolution,Passed,365,65,0,4
+House,118,1,27,27,2023-01-10,Establishing a Select Subcommittee on the Weaponization of the Federal Government as a select investigative subcommittee of the Committee on the Judiciary,On Agreeing to the Resolution,Passed,221,211,0,2
+House,118,1,28,28,2023-01-11,Born-Alive Abortion Survivors Protection Act,On Motion to Recommit,Failed,212,219,0,3
+House,118,1,29,29,2023-01-11,Born-Alive Abortion Survivors Protection Act,On Passage,Passed,220,210,1,3
+House,118,1,30,30,2023-01-11,"Expressing the sense of Congress condemning the recent attacks on pro-life facilities, groups, and churches",On Agreeing to the Resolution,Passed,222,209,0,3
+House,118,1,31,31,2023-01-12,Protecting Americaâs Strategic Petroleum Reserve from China Act,On Passage,Passed,331,97,0,6
+House,118,1,32,32,2023-01-24,Chance to Compete Act of 2023,"On Motion to Suspend the Rules and Pass, as Amended",Passed,422,2,0,10
+House,118,1,33,33,2023-01-24,Settlement Agreement Information Database Act of 2023,"On Motion to Suspend the Rules and Pass, as Amended",Passed,425,0,0,9
+House,118,1,34,34,2023-01-25,NOTAM Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,424,4,0,6
+House,118,1,35,35,2023-01-25,Investing in Main Street Act,On Motion to Suspend the Rules and Pass,Passed,411,13,0,10
+House,118,1,36,36,2023-01-25,"Commending the bravery, courage, and resolve of the women and men of Iran demonstrating in more than 133 cities and risking their safety to speak out against the Iranian regimeâs human rights abuses","On Motion to Suspend the Rules and Agree to the Resolution, as Amended",Passed,420,1,0,13
+House,118,1,37,37,2023-01-26,,On Agreeing to the Amendment,Failed,205,220,0,15
+House,118,1,38,38,2023-01-26,,On Agreeing to the Amendment,Failed,213,218,0,9
+House,118,1,39,39,2023-01-26,,On Agreeing to the Amendment,Failed,214,219,0,7
+House,118,1,40,40,2023-01-26,,On Agreeing to the Amendment,Failed,214,219,0,7
+House,118,1,41,41,2023-01-26,,On Agreeing to the Amendment,Agreed to,389,42,0,8
+House,118,1,42,42,2023-01-26,,On Agreeing to the Amendment,Failed,14,418,0,7
+House,118,1,43,43,2023-01-26,,On Agreeing to the Amendment,Failed,213,218,0,8
+House,118,1,44,44,2023-01-26,,On Agreeing to the Amendment,Agreed to,220,212,0,7
+House,118,1,45,45,2023-01-26,,On Agreeing to the Amendment,Failed,213,218,0,8
+House,118,1,46,46,2023-01-26,,On Agreeing to the Amendment,Failed,212,218,0,9
+House,118,1,47,47,2023-01-26,,On Agreeing to the Amendment,Failed,205,225,0,9
+House,118,1,48,48,2023-01-26,,On Agreeing to the Amendment,Failed,213,218,0,8
+House,118,1,49,49,2023-01-26,,On Agreeing to the Amendment,Failed,213,218,0,8
+House,118,1,50,50,2023-01-26,,On Agreeing to the Amendment,Failed,213,219,0,7
+House,118,1,51,51,2023-01-26,,On Agreeing to the Amendment,Failed,210,222,0,7
+House,118,1,52,52,2023-01-26,,On Agreeing to the Amendment,Failed,213,219,0,7
+House,118,1,53,53,2023-01-26,,On Agreeing to the Amendment,Failed,213,219,0,7
+House,118,1,54,54,2023-01-26,,On Agreeing to the Amendment,Failed,197,235,0,7
+House,118,1,56,56,2023-01-26,,On Agreeing to the Amendment,Failed,204,228,0,7
+House,118,1,55,55,2023-01-26,,On Agreeing to the Amendment,Failed,212,220,0,7
+House,118,1,57,57,2023-01-26,,On Agreeing to the Amendment,Agreed to,419,13,0,7
+House,118,1,58,58,2023-01-26,,On Agreeing to the Amendment,Agreed to,418,12,0,9
+House,118,1,59,59,2023-01-26,,On Agreeing to the Amendment,Failed,199,232,0,8
+House,118,1,60,60,2023-01-26,,On Agreeing to the Amendment,Failed,199,230,0,10
+House,118,1,61,61,2023-01-27,,On Agreeing to the Amendment,Failed,207,223,0,9
+House,118,1,62,62,2023-01-27,,On Agreeing to the Amendment,Failed,211,217,0,11
+House,118,1,63,63,2023-01-27,,On Agreeing to the Amendment,Failed,212,215,0,13
+House,118,1,64,64,2023-01-27,,On Agreeing to the Amendment,Failed,209,215,0,16
+House,118,1,65,65,2023-01-27,,On Agreeing to the Amendment,Failed,204,222,0,14
+House,118,1,66,66,2023-01-27,,On Agreeing to the Amendment,Failed,205,220,0,15
+House,118,1,67,67,2023-01-27,,On Agreeing to the Amendment,Failed,171,256,0,12
+House,118,1,68,68,2023-01-27,,On Agreeing to the Amendment,Failed,193,228,0,18
+House,118,1,69,69,2023-01-27,,On Agreeing to the Amendment,Failed,199,229,0,11
+House,118,1,70,70,2023-01-27,,On Agreeing to the Amendment,Failed,205,224,0,10
+House,118,1,71,71,2023-01-27,,On Agreeing to the Amendment,Failed,207,220,0,12
+House,118,1,72,72,2023-01-27,,On Agreeing to the Amendment,Failed,212,218,0,9
+House,118,1,73,73,2023-01-27,,On Agreeing to the Amendment,Failed,199,231,0,9
+House,118,1,74,74,2023-01-27,,On Agreeing to the Amendment,Failed,195,229,0,15
+House,118,1,75,75,2023-01-27,,On Agreeing to the Amendment,Failed,191,237,0,11
+House,118,1,76,76,2023-01-27,,On Agreeing to the Amendment,Failed,206,220,0,13
+House,118,1,77,77,2023-01-27,,On Agreeing to the Amendment,Failed,207,221,0,11
+House,118,1,78,78,2023-01-27,,On Agreeing to the Amendment,Failed,207,221,0,11
+House,118,1,79,79,2023-01-27,,On Agreeing to the Amendment,Failed,173,256,0,10
+House,118,1,80,80,2023-01-27,,On Agreeing to the Amendment,Failed,204,224,0,11
+House,118,1,81,81,2023-01-27,,On Agreeing to the Amendment,Failed,187,240,0,12
+House,118,1,82,82,2023-01-27,,On Agreeing to the Amendment,Failed,211,217,0,11
+House,118,1,83,83,2023-01-27,,On Agreeing to the Amendment,Failed,208,221,0,10
+House,118,1,84,84,2023-01-27,,On Agreeing to the Amendment,Failed,197,230,0,12
+House,118,1,86,86,2023-01-27,,On Agreeing to the Amendment,Failed,209,221,0,10
+House,118,1,85,85,2023-01-27,,On Agreeing to the Amendment,Failed,209,219,0,12
+House,118,1,87,87,2023-01-27,,On Agreeing to the Amendment,Failed,210,219,0,11
+House,118,1,88,88,2023-01-27,,On Agreeing to the Amendment,Failed,201,229,0,10
+House,118,1,90,90,2023-01-27,,On Agreeing to the Amendment,Failed,210,220,0,10
+House,118,1,89,89,2023-01-27,,On Agreeing to the Amendment,Failed,210,218,0,12
+House,118,1,91,91,2023-01-27,,On Agreeing to the Amendment,Failed,198,229,0,13
+House,118,1,93,93,2023-01-27,Strategic Production Response Act,On Passage,Passed,221,205,0,8
+House,118,1,92,92,2023-01-27,,On Agreeing to the Amendment,Failed,207,222,0,11
+House,118,1,94,94,2023-01-30,Financial Exploitation Prevention Act,On Motion to Suspend the Rules and Pass,Passed,419,0,0,15
+House,118,1,95,95,2023-01-31,"Providing for consideration of the bill (H.J. Res. 7) relating to a national emergency declared by the President on March 13, 2020; consideration of (H.R. 139) the SHOW UP Act; consideration of (H.R. 382) the Pandemic is Over Act; and consideration of (H.R. 497) the Freedom for Health Care Workers Act",On Ordering the Previous Question,Passed,218,209,0,6
+House,118,1,96,96,2023-01-31,"Providing for consideration of the bill (H.J. Res. 7) relating to a national emergency declared by the President on March 13, 2020; consideration of (H.R. 139) the SHOW UP Act; consideration of (H.R. 382) the Pandemic is Over Act; and consideration of (H.R. 497) the Freedom for Health Care Workers Act",On Agreeing to the Resolution,Passed,216,208,0,9
+House,118,1,97,97,2023-01-31,Freedom for Health Care Workers Act,On Motion to Recommit,Failed,210,219,0,5
+House,118,1,98,98,2023-01-31,Freedom for Health Care Workers Act,On Passage,Passed,227,203,0,4
+House,118,1,99,99,2023-01-31,Pandemic is Over Act,On Motion to Recommit,Failed,210,220,0,4
+House,118,1,100,100,2023-01-31,Pandemic is Over Act,On Passage,Passed,220,210,0,4
+House,118,1,101,101,2023-02-01,Providing for consideration of the concurrent resolution (H. Con. Res. 9) denouncing the horrors of Socialism; and providing for consideration of the resolution (H. Res. 76) removing a certain member from a certain standing committee of the House,On Ordering the Previous Question,Passed,219,207,0,8
+House,118,1,102,102,2023-02-01,Providing for consideration of the concurrent resolution (H. Con. Res. 9) denouncing the horrors of Socialism; and providing for consideration of the resolution (H. Res. 76) removing a certain member from a certain standing committee of the House,On Agreeing to the Resolution,Passed,218,209,0,7
+House,118,1,103,103,2023-02-01,SHOW UP Act,On Passage,Passed,221,206,0,6
+House,118,1,104,104,2023-02-01,"Relating to a national emergency declared by the President on March 13, 2020",On Passage,Passed,229,197,0,7
+House,118,1,105,105,2023-02-02,Removing a certain Member from a certain standing committee of the House,On Agreeing to the Resolution,Passed,218,211,1,4
+House,118,1,106,106,2023-02-02,Denouncing the horrors of socialism,On Agreeing to the Resolution,Passed,328,86,14,6
+House,118,1,107,107,2023-02-06,Energy Cybersecurity University Leadership Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,357,56,0,20
+House,118,1,108,108,2023-02-07,"Providing for consideration of H.R. 185, To terminate the requirement imposed by the Dir. of the CDC for proof of COVID-19 vaccination for foreign travelers; H.J. Res. 24, Disapproving the action of the DC Council in approving the Local Voting Rights Amendment; H.J. Res. 26, Disapproving the action of the DC Council",On Ordering the Previous Question,Passed,217,208,0,9
+House,118,1,109,109,2023-02-07,"Providing for consideration of H.R. 185, To terminate the requirement imposed by the Dir. of the CDC for proof of COVID-19 vaccination for foreign travelers; H.J. Res. 24, Disapproving the action of the DC Council in approving the Local Voting Rights Amendment; H.J. Res. 26, Disapproving the action of the DC Council",On Agreeing to the Resolution,Passed,217,208,0,9
+House,118,1,110,110,2023-02-08,,On Agreeing to the Amendment,Failed,210,222,0,8
+House,118,1,111,111,2023-02-08,,On Agreeing to the Amendment,Agreed to,253,168,0,19
+House,118,1,112,112,2023-02-08,,On Agreeing to the Amendment,Failed,207,220,0,13
+House,118,1,114,114,2023-02-08,,On Agreeing to the Amendment,Failed,209,224,0,7
+House,118,1,113,113,2023-02-08,,On Agreeing to the Amendment,Agreed to,426,8,0,6
+House,118,1,115,115,2023-02-08,"To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes",On Motion to Recommit,Failed,208,220,0,6
+House,118,1,116,116,2023-02-08,"To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes",On Passage,Passed,227,201,0,6
+House,118,1,117,117,2023-02-09,Condemning the Chinese Communist Partyâs use of a high-altitude surveillance balloon over United States territory as a brazen violation of United States sovereignty,On Motion to Suspend the Rules and Agree,Passed,419,0,0,15
+House,118,1,118,118,2023-02-09,Disapproving the action of the District of Columbia Council in approving the Local Resident Voting Rights Amendment Act of 2022,On Passage,Passed,260,162,0,12
+House,118,1,119,119,2023-02-09,Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act,On Passage,Passed,250,173,0,11
+House,118,1,120,120,2023-02-27,"Responding to the earthquakes in Turkiye and Syria on February 6, 2023",On Motion to Suspend the Rules and Agree,Passed,414,2,0,17
+House,118,1,121,121,2023-02-27,Informing Consumers about Smart Devices Act,On Motion to Suspend the Rules and Pass,Passed,406,12,0,15
+House,118,1,122,122,2023-02-28,"Providing for consideration of (H.R. 347) Reduce Exacerbated Inflation Negatively Impacting the Nation Act; (H.J.Res. 30) congressional disapproval under chapter 8 of tile 5, U.S.C., of the rule submitted by the Dept. of Labor relating to Prudence & Loyalty in Selecting Plan Investments & Exercising Shareholder Rights",On Ordering the Previous Question,Passed,213,201,0,19
+House,118,1,123,123,2023-02-28,"Providing for consideration of (H.R. 347) Reduce Exacerbated Inflation Negatively Impacting the Nation Act; (H.J.Res. 30) congressional disapproval under chapter 8 of tile 5, U.S.C., of the rule submitted by the Dept. of Labor relating to Prudence & Loyalty in Selecting Plan Investments & Exercising Shareholder Rights",On Agreeing to the Resolution,Passed,216,205,0,13
+House,118,1,124,124,2023-02-28,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Labor relating to âPrudence and Loyalty in Selecting Plan Investments and Exercising Shareholder Rightsâ",On Passage,Passed,216,204,0,13
+House,118,1,125,125,2023-03-01,,On Agreeing to the Amendment,Agreed to,324,83,0,32
+House,118,1,126,126,2023-03-01,,On Agreeing to the Amendment,Agreed to,386,31,0,22
+House,118,1,127,127,2023-03-01,,On Agreeing to the Amendment,Failed,181,236,0,22
+House,118,1,128,128,2023-03-01,,On Agreeing to the Amendment,Failed,187,232,0,20
+House,118,1,129,129,2023-03-01,,On Agreeing to the Amendment,Agreed to,364,56,0,19
+House,118,1,130,130,2023-03-01,,On Agreeing to the Amendment,Failed,199,226,0,14
+House,118,1,131,131,2023-03-01,Reduce Exacerbated Inflation Negatively Impacting the Nation Act,On Passage,Passed,272,148,0,14
+House,118,1,132,132,2023-03-07,Wounded Warrior Access Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,422,0,0,12
+House,118,1,133,133,2023-03-07,Understanding Cybersecurity of Mobile Networks Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,393,22,0,19
+House,118,1,134,134,2023-03-08,Providing for consideration of the bill (H.R. 140) the Protecting Speech from Government Interference Act; consideration of the resolution (H.J. Res. 27) relating to Revised Definition of Waters of the United States; consideration of the bill (S.619) the COVID-19 Origin Act; and for other purposes,On Ordering the Previous Question,Passed,217,205,0,12
+House,118,1,135,135,2023-03-08,Providing for consideration of the bill (H.R. 140) the Protecting Speech from Government Interference Act; consideration of the resolution (H.J. Res. 27) relating to Revised Definition of Waters of the United States; consideration of the bill (S.619) the COVID-19 Origin Act; and for other purposes,"On Agreeing to the Resolution, as Amended",Passed,216,206,0,12
+House,118,1,136,136,2023-03-08,"Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Syria",On Agreeing to the Resolution,Failed,103,321,0,11
+House,118,1,137,137,2023-03-08,VA COST SAVINGS Enhancements Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,426,0,0,8
+House,118,1,138,138,2023-03-08,,On Agreeing to the Amendment,Failed,207,223,0,10
+House,118,1,139,139,2023-03-08,,On Agreeing to the Amendment,Failed,209,221,0,10
+House,118,1,140,140,2023-03-09,Protecting Speech from Government Interference Act,On Motion to Recommit,Failed,204,218,0,13
+House,118,1,141,141,2023-03-09,Protecting Speech from Government Interference Act,On Passage,Passed,219,206,0,9
+House,118,1,142,142,2023-03-09,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of the Army, Corps of Engineers, Department of Defense and the Environmental Protection Agency relating to âRevised Definition of âWaters of the United Statesâ â",On Passage,Passed,227,198,0,9
+House,118,1,143,143,2023-03-10,COVID-19 Origin Act,On Passage,Passed,419,0,0,16
+House,118,1,144,144,2023-03-22,"To direct the Secretary of State to submit to Congress a report on implementation of the advanced capabilities pillar of the trilateral security partnership between Australia, the United Kingdom, and the United States",On Motion to Suspend the Rules and Pass,Passed,393,4,0,37
+House,118,1,145,145,2023-03-22,To amend the Taiwan Assurance Act of 2020 to require periodic reviews and updated reports relating to the Department of Stateâs Taiwan Guidelines,On Motion to Suspend the Rules and Pass,Passed,404,7,0,23
+House,118,1,146,146,2023-03-23,Providing for consideration of the bill (H.R. 5) Parents Bill of Rights Act,On Ordering the Previous Question,Passed,219,204,0,12
+House,118,1,147,147,2023-03-23,Providing for consideration of the bill (H.R. 5) Parents Bill of Rights Act,On Agreeing to the Resolution,Passed,218,205,0,12
+House,118,1,148,148,2023-03-23,PARTNER with ASEAN Act,On Motion to Suspend the Rules and Pass,Passed,388,33,0,14
+House,118,1,149,149,2023-03-23,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Labor relating to âPrudence and Loyalty in Selecting Plan Investments and Exercising Shareholder Rightsâ","Passage, Objections of the President To The Contrary Notwithstanding",Failed,219,200,0,15
+House,118,1,150,150,2023-03-23,,On Agreeing to the Amendment,Failed,203,223,0,14
+House,118,1,151,151,2023-03-23,,On Agreeing to the Amendment,Failed,61,365,0,14
+House,118,1,152,152,2023-03-23,,On Agreeing to the Amendment,Failed,89,338,0,13
+House,118,1,153,153,2023-03-23,,On Agreeing to the Amendment,Agreed to,386,39,0,15
+House,118,1,154,154,2023-03-24,,On Agreeing to the Amendment,Agreed to,420,5,0,15
+House,118,1,155,155,2023-03-24,,On Agreeing to the Amendment,Failed,203,217,0,21
+House,118,1,156,156,2023-03-24,,On Agreeing to the Amendment,Failed,161,265,0,15
+House,118,1,157,157,2023-03-24,,On Agreeing to the Amendment,Failed,107,317,0,16
+House,118,1,158,158,2023-03-24,,On Agreeing to the Amendment,Failed,113,311,0,16
+House,118,1,159,159,2023-03-24,,On Agreeing to the Amendment,Failed,83,331,0,26
+House,118,1,160,160,2023-03-24,Parents Bill of Rights Act,On Motion to Recommit,Failed,203,218,0,13
+House,118,1,161,161,2023-03-24,Parents Bill of Rights Act,On Passage,Passed,213,208,0,14
+House,118,1,162,162,2023-03-24,Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust,On Motion to Suspend the Rules and Agree,Passed,405,0,0,30
+House,118,1,163,163,2023-03-27,Stop Forced Organ Harvesting Act,On Motion to Suspend the Rules and Pass,Passed,413,2,0,19
+House,118,1,164,164,2023-03-27,PRC Is Not a Developing Country Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,415,0,0,19
+House,118,1,165,165,2023-03-28,Providing for consideration of the bill (H.R. 1) the Lower Energy Costs Act,On Ordering the Previous Question,Passed,218,203,0,13
+House,118,1,167,167,2023-03-29,,On Agreeing to the Amendment,Agreed to,221,208,0,11
+House,118,1,166,166,2023-03-28,Providing for consideration of the bill (H.R. 1) the Lower Energy Costs Act,On Agreeing to the Resolution,Passed,218,203,0,13
+House,118,1,168,168,2023-03-29,,On Agreeing to the Amendment,Agreed to,228,206,0,6
+House,118,1,169,169,2023-03-29,,On Agreeing to the Amendment,Agreed to,245,189,0,6
+House,118,1,170,170,2023-03-29,,On Agreeing to the Amendment,Agreed to,268,163,0,9
+House,118,1,171,171,2023-03-29,,On Agreeing to the Amendment,Agreed to,251,181,0,8
+House,118,1,172,172,2023-03-29,,On Agreeing to the Amendment,Failed,210,223,0,7
+House,118,1,173,173,2023-03-29,,On Agreeing to the Amendment,Failed,96,336,0,8
+House,118,1,174,174,2023-03-30,,On Agreeing to the Amendment,Agreed to,407,26,0,7
+House,118,1,175,175,2023-03-30,,On Agreeing to the Amendment,Agreed to,323,109,0,8
+House,118,1,176,176,2023-03-30,,On Agreeing to the Amendment,Failed,205,228,0,7
+House,118,1,177,177,2023-03-30,,On Agreeing to the Amendment,Agreed to,405,24,0,11
+House,118,1,178,178,2023-03-30,,On Agreeing to the Amendment,Failed,201,230,0,9
+House,118,1,179,179,2023-03-30,,On Agreeing to the Amendment,Agreed to,244,189,0,7
+House,118,1,180,180,2023-03-30,,On Agreeing to the Amendment,Agreed to,220,213,0,7
+House,118,1,181,181,2023-03-30,Lower Energy Costs Act,On Motion to Recommit,Failed,207,222,0,6
+House,118,1,182,182,2023-03-30,Lower Energy Costs Act,On Passage,Passed,225,204,0,6
+House,118,1,183,183,2023-04-17,Upholding Sovereignty of Airspace Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,405,6,0,23
+House,118,1,184,184,2023-04-17,Condemning recent actions taken by the Russian military to down a United States Air Force drone,"On Motion to Suspend the Rules and Agree, as Amended",Passed,410,0,0,24
+House,118,1,185,185,2023-04-18,Providing for consideration of the bill (H.R. 734) Protection of Women and Girls in Sports Act and providing for consideration of the joint resolution (H.J.Res 42) disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act of 2022,On Ordering the Previous Question,Passed,218,203,0,13
+House,118,1,186,186,2023-04-18,Providing for consideration of the bill (H.R. 734) Protection of Women and Girls in Sports Act and providing for consideration of the joint resolution (H.J.Res 42) disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act of 2022,On Agreeing to the Resolution,Passed,217,202,0,15
+House,118,1,187,187,2023-04-18,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of the Army, Corps of Engineers, Department of Defense and the Environmental Protection Agency relating to âRevised Definition of âWaters of the United Statesâ â","Passage, Objections of the President To The Contrary Notwithstanding",Failed,227,196,0,11
+House,118,1,188,188,2023-04-19,Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act,On Passage,Passed,229,189,0,17
+House,118,1,189,189,2023-04-19,Countering Untrusted Telecommunications Abroad Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,8,0,17
+House,118,1,190,190,2023-04-20,,On Agreeing to the Amendment,Agreed to,216,205,0,19
+House,118,1,191,191,2023-04-20,Protection of Women and Girls in Sports Act,On Motion to Recommit,Failed,204,218,0,13
+House,118,1,192,192,2023-04-20,Protection of Women and Girls in Sports Act,On Passage,Passed,219,203,0,13
+House,118,1,193,193,2023-04-25,Demanding that the Government of the Peopleâs Republic of China and the Communist Party of China immediately release Mark Swidan,"On Motion to Suspend the Rules and Agree, as Amended",Passed,418,0,0,16
+House,118,1,194,194,2023-04-25,Encouraging the expansion and strengthening of the Abraham Accords to urge other nations to normalize relations with Israel and ensure that existing agreements reap tangible security and economic benefits for the citizens of those countries and all peoples in the region,On Motion to Suspend the Rules and Agree,Passed,401,19,0,15
+House,118,1,195,195,2023-04-26,"Providing for consideration of the bill (H.R. 2811) Limit, Save, Grow Act, and providing for consideration of (H.J.Res.39) disapproving the rule submitted by the Dept. of Commerce relating to âProcedures Covering Suspension of Liquidation, Duties and Estimated Duties in Accord With Presidential Proclamation 10414â",On Ordering the Previous Question,Passed,218,210,0,6
+House,118,1,196,196,2023-04-26,"Providing for consideration of the bill (H.R. 2811) Limit, Save, Grow Act, and providing for consideration of (H.J.Res.39) disapproving the rule submitted by the Dept. of Commerce relating to âProcedures Covering Suspension of Liquidation, Duties and Estimated Duties in Accord With Presidential Proclamation 10414â",On Agreeing to the Resolution,Passed,219,210,0,5
+House,118,1,197,197,2023-04-26,ALERT Parity Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,422,1,0,11
+House,118,1,198,198,2023-04-26,"Limit, Save, Grow Act",On Motion to Recommit,Failed,211,221,0,3
+House,118,1,200,200,2023-04-26,Precision Agriculture Satellite Connectivity Act,On Motion to Suspend the Rules and Pass,Passed,409,11,0,15
+House,118,1,199,199,2023-04-26,"Limit, Save, Grow Act",On Passage,Passed,217,215,0,3
+House,118,1,201,201,2023-04-27,"Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove all United States Armed Forces, other than United States Armed Forces assigned to protect the United States Embassy, from Somalia",On Agreeing to the Resolution,Failed,102,321,0,11
+House,118,1,202,202,2023-04-28,"Disapproving the rule submitted by the Department of Commerce relating to âProcedures Covering Suspension of Liquidation, Duties and Estimated Duties in Accord with Presidential Proclamation 10414â",On Passage,Passed,221,202,0,12
+House,118,1,203,203,2023-05-09,Coastal Communities Ocean Acidification Act,On Motion to Suspend the Rules and Pass,Passed,351,58,0,25
+House,118,1,204,204,2023-05-09,Advanced Weather Model Computing Development Act,On Motion to Suspend the Rules and Pass,Passed,356,50,0,28
+House,118,1,205,205,2023-05-10,Providing for consideration of the bill (H.R. 2) Secure the Border Act and providing for consideration of the bill (H.R. 1163) Protecting Taxpayers and Victims of Unemployment Fraud Act,On Ordering the Previous Question,Passed,215,211,0,9
+House,118,1,206,206,2023-05-10,,On Agreeing to the Amendment,Agreed to,236,190,0,9
+House,118,1,207,207,2023-05-10,Providing for consideration of the bill (H.R. 2) Secure the Border Act and providing for consideration of the bill (H.R. 1163) Protecting Taxpayers and Victims of Unemployment Fraud Act,On Agreeing to the Resolution,Passed,215,209,0,11
+House,118,1,208,208,2023-05-11,Secure the Border Act,On Motion to Recommit,Failed,211,221,0,3
+House,118,1,209,209,2023-05-11,Secure the Border Act,On Passage,Passed,219,213,0,3
+House,118,1,211,211,2023-05-11,Protecting Taxpayers and Victims of Unemployment Fraud Act,On Passage,Passed,230,200,0,5
+House,118,1,210,210,2023-05-11,Protecting Taxpayers and Victims of Unemployment Fraud Act,On Motion to Recommit,Failed,210,221,0,4
+House,118,1,212,212,2023-05-11,TRANQ Research Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,425,0,0,10
+House,118,1,214,214,2023-05-15,Expressing support for recognizing âNational Police Weekâ,"On Motion to Suspend the Rules and Agree, as Amended",Passed,413,2,0,20
+House,118,1,213,213,2023-05-15,NDO Fairness Act,On Motion to Suspend the Rules and Pass,Passed,412,0,0,23
+House,118,1,215,215,2023-05-16,Providing for consideration of (H.R. 2494) the POLICE Act; (H.R. 3091) the Federal Law Enforcement Officer Service Weapon Purchase Act; and (H. Con. Res. 40) Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enforcement agencies,On Ordering the Previous Question,Passed,220,209,0,5
+House,118,1,216,216,2023-05-16,Providing for consideration of (H.R. 2494) the POLICE Act; (H.R. 3091) the Federal Law Enforcement Officer Service Weapon Purchase Act; and (H. Con. Res. 40) Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enforcement agencies,On Agreeing to the Resolution,Passed,222,203,0,9
+House,118,1,217,217,2023-05-17,In the matter of George Santos,On Motion to Refer,Passed,221,204,7,3
+House,118,1,218,218,2023-05-17,,On Agreeing to the Amendment,Failed,216,219,0,5
+House,118,1,219,219,2023-05-17,,On Agreeing to the Amendment,Agreed to,248,184,0,8
+House,118,1,220,220,2023-05-17,,On Agreeing to the Amendment,Agreed to,232,202,0,6
+House,118,1,221,221,2023-05-17,,On Agreeing to the Amendment,Agreed to,218,217,0,6
+House,118,1,222,222,2023-05-17,Federal Law Enforcement Officer Service Weapon Purchase Act,On Passage,Passed,232,198,0,4
+House,118,1,223,223,2023-05-17,,On Agreeing to the Amendment,Agreed to,303,126,0,11
+House,118,1,224,224,2023-05-17,,On Agreeing to the Amendment,Failed,209,225,0,7
+House,118,1,225,225,2023-05-17,POLICE Act,On Passage,Passed,255,175,0,5
+House,118,1,226,226,2023-05-18,,On Agreeing to the Amendment,Agreed to,268,156,0,10
+House,118,1,227,227,2023-05-18,Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enforcement agencies,On Agreeing to the Resolution,Passed,301,119,3,11
+House,118,1,228,228,2023-05-22,Preventing the Financing of Illegal Synthetic Drugs Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,402,2,0,30
+House,118,1,230,230,2023-05-23,"Providing for consideration of the bill (H.R. 467) HALT Fentanyl Act; S.J.Res. 11, Congressional Disapproval âControl of Air Pollution From New Motor Vehicles: Heavy-Duty Engine and Vehicle Standardsâ; and H.J.Res. 45, Congressional Disapproval âWaivers and Modifications of Federal Student Loansâ",On Ordering the Previous Question,Passed,219,208,0,8
+House,118,1,229,229,2023-05-22,China Financial Threat Mitigation Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,400,5,0,29
+House,118,1,233,233,2023-05-24,"Disapproving the rule submitted by the Department of Commerce relating to âProcedures Covering Suspension of Liquidation, Duties and Estimated Duties in Accord with Presidential Proclamation 10414â","Passage, Objections of the President To The Contrary Notwithstanding",Failed,214,205,0,16
+House,118,1,232,232,2023-05-23,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to âControl of Air Pollution From New Motor Vehicles: Heavy-Duty Engine and Vehicle Standardsâ",On Passage,Passed,221,203,0,10
+House,118,1,231,231,2023-05-23,"Providing for consideration of the bill (H.R. 467) HALT Fentanyl Act; S.J.Res. 11, Congressional Disapproval âControl of Air Pollution From New Motor Vehicles: Heavy-Duty Engine and Vehicle Standardsâ; and H.J.Res. 45, Congressional Disapproval âWaivers and Modifications of Federal Student Loansâ",On Agreeing to the Resolution,Passed,217,204,0,14
+House,118,1,236,236,2023-05-25,,On Agreeing to the Amendment,Failed,190,233,0,18
+House,118,1,234,234,2023-05-24,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to âWaivers and Modifications of Federal Student Loansâ",On Passage,Passed,218,203,0,14
+House,118,1,235,235,2023-05-24,VET-TEC Authorization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,9,0,17
+House,118,1,237,237,2023-05-25,HALT Fentanyl Act,On Passage,Passed,289,133,0,13
+House,118,1,239,239,2023-05-30,Enhancing Multi-Class Share Disclosures Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,347,30,0,58
+House,118,1,238,238,2023-05-30,Small Entity Update Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,367,8,0,60
+House,118,1,240,240,2023-05-30,Promoting Opportunities for Non-Traditional Capital Formation Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,309,67,0,58
+House,118,1,241,241,2023-05-31,"Providing for consideration of H.R. 3746, the Fiscal Responsibility Act of 2023",On Agreeing to the Resolution,Passed,241,187,0,7
+House,118,1,242,242,2023-05-31,Condemning the rise of antisemitism and calling on elected officials to identify and educate others on the contributions of the Jewish American community,"On Motion to Suspend the Rules and Agree, as Amended",Passed,429,0,0,6
+House,118,1,243,243,2023-05-31,Fiscal Responsibility Act,On Passage,Passed,314,117,0,4
+House,118,1,244,244,2023-05-31,Equal Opportunity for All Investors Act of 2023,"On Motion to Suspend the Rules and Pass, as Amended",Passed,383,18,0,34
+House,118,1,245,245,2023-06-05,Encouraging Public Offerings Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,384,13,0,36
+House,118,1,246,246,2023-06-05,Middle Market IPO Cost Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,390,10,0,33
+House,118,1,247,247,2023-06-06,Providing for consideration of the bill (H.R. 277) REINS Act; providing for consideration of the bill (H.R. 288) Separation of Powers Restoration Act; providing for consideration of the bill (H.R. 1615) Gas Stove Protection and Freedom Act; and providing for consideration of the bill (H.R. 1640) Save Our Stoves Act,On Ordering the Previous Question,Passed,215,203,0,16
+House,118,1,248,248,2023-06-06,Providing for consideration of the bill (H.R. 277) REINS Act; providing for consideration of the bill (H.R. 288) Separation of Powers Restoration Act; providing for consideration of the bill (H.R. 1615) Gas Stove Protection and Freedom Act; and providing for consideration of the bill (H.R. 1640) Save Our Stoves Act,On Agreeing to the Resolution,Failed,206,220,0,8
+House,118,1,249,249,2023-06-13,Providing for consideration of the joint resolution (H.J.Res. 44); providing for consideration of the bill (H.R. 277); providing for consideration of the bill (H.R. 288); providing for consideration of the bill (H.R. 1615); and providing for consideration of the bill (H.R. 1640),On Ordering the Previous Question,Passed,216,209,0,8
+House,118,1,250,250,2023-06-13,Providing for consideration of the joint resolution (H.J.Res. 44); providing for consideration of the bill (H.R. 277); providing for consideration of the bill (H.R. 288); providing for consideration of the bill (H.R. 1615); and providing for consideration of the bill (H.R. 1640),On Agreeing to the Resolution,Passed,218,209,0,6
+House,118,1,251,251,2023-06-13,Special Envoy for the Abraham Accords Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,413,13,0,7
+House,118,1,253,253,2023-06-13,Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act,"Passage, Objections of the President To The Contrary Notwithstanding",Failed,233,197,0,4
+House,118,1,254,254,2023-06-13,,On Agreeing to the Amendment,Agreed to,222,210,0,7
+House,118,1,252,252,2023-06-13,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives relating to âFactoring Criteria for Firearms with Attached âStabilizing Bracesââ",On Passage,Passed,219,210,0,5
+House,118,1,255,255,2023-06-13,Gas Stove Protection and Freedom Act,On Passage,Passed,248,180,0,5
+House,118,1,256,256,2023-06-13,"Calling for the immediate release of Evan Gershkovich, a United States citizen and journalist, who was wrongfully detained by the Government of the Russian Federation in March 2023","On Motion to Suspend the Rules and Agree, as Amended",Passed,422,0,0,11
+House,118,1,257,257,2023-06-14,,On Agreeing to the Amendment,Failed,211,223,0,5
+House,118,1,258,258,2023-06-14,,On Agreeing to the Amendment,Failed,211,223,0,5
+House,118,1,259,259,2023-06-14,,On Agreeing to the Amendment,Failed,207,225,0,7
+House,118,1,260,260,2023-06-14,,On Agreeing to the Amendment,Failed,213,221,0,5
+House,118,1,261,261,2023-06-14,,On Agreeing to the Amendment,Failed,151,285,0,3
+House,118,1,262,262,2023-06-14,,On Agreeing to the Amendment,Failed,217,219,0,3
+House,118,1,263,263,2023-06-14,,On Agreeing to the Amendment,Agreed to,219,217,0,3
+House,118,1,264,264,2023-06-14,REINS Act,On Motion to Recommit,Failed,210,220,0,3
+House,118,1,265,265,2023-06-14,REINS Act,On Passage,Passed,221,210,0,2
+House,118,1,266,266,2023-06-14,,On Agreeing to the Amendment,Failed,207,224,0,8
+House,118,1,267,267,2023-06-14,,On Agreeing to the Amendment,Failed,209,225,0,5
+House,118,1,268,268,2023-06-14,Save Our Gas Stoves Act,On Passage,Passed,249,181,0,3
+House,118,1,269,269,2023-06-14,"Censuring and condemning Adam Schiff, Representative of Californiaâs 30th Congressional District",On Motion to Table,Passed,225,196,7,5
+House,118,1,270,270,2023-06-15,Separation of Powers Restoration Act,On Motion to Recommit,Failed,210,220,0,3
+House,118,1,271,271,2023-06-15,Separation of Powers Restoration Act,On Passage,Passed,220,211,0,2
+House,118,1,272,272,2023-06-20,Veteran Entrepreneurship Training Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,407,0,0,26
+House,118,1,273,273,2023-06-20,"To designate the clinic of the Department of Veterans Affairs in Indian River, Michigan, as the âPfc. Justin T. Paton Department of Veterans Affairs Clinicâ",On Motion to Suspend the Rules and Pass,Passed,409,0,1,23
+House,118,1,274,274,2023-06-21,Providing for consideration of the bill (H.R. 3564) the Middle Class Borrower Protection Act; consideration of (H.R. 3799) the CHOICE Arrangement Act; consideration of (H. Res. 461) Condemning the use of elementary and secondary school facilities to provide shelter for aliens who are not admitted to the United States,On Ordering the Previous Question,Passed,215,207,0,11
+House,118,1,275,275,2023-06-21,Providing for consideration of the bill (H.R. 3564) the Middle Class Borrower Protection Act; consideration of (H.R. 3799) the CHOICE Arrangement Act; consideration of (H. Res. 461) Condemning the use of elementary and secondary school facilities to provide shelter for aliens who are not admitted to the United States,On Agreeing to the Resolution,Passed,215,211,0,8
+House,118,1,276,276,2023-06-21,"Censuring Adam Schiff, Representative of the 30th Congressional District of California",On Motion to Table,Failed,208,218,0,8
+House,118,1,277,277,2023-06-21,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to âWaivers and Modifications of Federal Student Loansâ","Passage, Objections of the President To The Contrary Notwithstanding",Failed,221,206,0,7
+House,118,1,278,278,2023-06-21,,On Agreeing to the Amendment,Failed,211,220,0,9
+House,118,1,279,279,2023-06-21,,On Agreeing to the Amendment,Agreed to,281,151,0,7
+House,118,1,280,280,2023-06-21,,On Agreeing to the Amendment,Agreed to,228,206,0,6
+House,118,1,281,281,2023-06-21,CHOICE Arrangement Act,On Motion to Recommit,Failed,209,220,0,5
+House,118,1,282,282,2023-06-21,CHOICE Arrangement Act,On Passage,Passed,220,209,0,5
+House,118,1,283,283,2023-06-21,"Censuring Adam Schiff, Representative of the 30th Congressional District of California",On Agreeing to the Resolution,Passed,213,209,6,6
+House,118,1,284,284,2023-06-22,"Relating to the resolution (H. Res. 503) impeaching Joseph R. Biden, Jr., President of the United States, for high crimes and misdemeanors",On Ordering the Previous Question,Passed,214,206,0,14
+House,118,1,285,285,2023-06-22,"Relating to the resolution (H. Res. 503) impeaching Joseph R. Biden, Jr., President of the United States, for high crimes and misdemeanors",On Agreeing to the Resolution,Passed,219,208,0,7
+House,118,1,286,286,2023-06-22,Condemning the use of elementary and secondary school facilities to provide shelter for aliens who are not admitted to the United States,On Agreeing to the Resolution,Passed,223,201,0,10
+House,118,1,287,287,2023-06-23,,On Agreeing to the Amendment,Failed,204,216,0,19
+House,118,1,289,289,2023-06-23,Middle Class Borrower Protection Act,On Passage,Passed,230,189,0,14
+House,118,1,288,288,2023-06-23,Middle Class Borrower Protection Act,On Motion to Recommit,Failed,197,214,0,22
+House,118,1,290,290,2023-07-11,Improving Access to Small Business Information Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,398,11,0,24
+House,118,1,291,291,2023-07-11,250th Anniversary of the United States Marine Corps Commemorative Coin Act,On Motion to Suspend the Rules and Pass,Passed,409,1,0,23
+House,118,1,292,292,2023-07-12,Providing for consideration of the bill (H.R. 2670) National Defense Authorization Act for FY 2024,On Ordering the Previous Question,Passed,215,201,0,18
+House,118,1,293,293,2023-07-12,,On Agreeing to the Amendment,Agreed to,218,207,0,9
+House,118,1,294,294,2023-07-12,Providing for consideration of the bill (H.R. 2670) National Defense Authorization Act for FY 2024,"On Agreeing to the Resolution, as Amended",Passed,217,207,0,10
+House,118,1,295,295,2023-07-13,Providing for further consideration of the bill (H.R. 2670) the National Defense Authorization Act for FY 2024,On Ordering the Previous Question,Passed,214,207,0,12
+House,118,1,296,296,2023-07-13,Providing for further consideration of the bill (H.R. 2670) the National Defense Authorization Act for FY 2024,On Agreeing to the Resolution,Passed,220,208,0,6
+House,118,1,298,298,2023-07-13,,On Agreeing to the Amendment,Failed,198,217,0,24
+House,118,1,297,297,2023-07-13,,On Agreeing to the Amendment,Agreed to,399,31,0,9
+House,118,1,299,299,2023-07-13,,On Agreeing to the Amendment,Failed,160,266,0,13
+House,118,1,300,300,2023-07-13,,On Agreeing to the Amendment,Agreed to,221,213,0,6
+House,118,1,301,301,2023-07-13,,On Agreeing to the Amendment,Agreed to,222,211,0,7
+House,118,1,302,302,2023-07-13,,On Agreeing to the Amendment,Agreed to,222,210,0,8
+House,118,1,303,303,2023-07-13,,On Agreeing to the Amendment,Failed,89,341,0,9
+House,118,1,304,304,2023-07-13,,On Agreeing to the Amendment,Failed,70,358,0,11
+House,118,1,305,305,2023-07-13,,On Agreeing to the Amendment,Failed,95,332,2,10
+House,118,1,306,306,2023-07-13,,On Agreeing to the Amendment,Failed,129,301,0,9
+House,118,1,307,307,2023-07-13,,On Agreeing to the Amendment,Failed,71,360,0,8
+House,118,1,308,308,2023-07-13,,On Agreeing to the Amendment,Agreed to,217,212,0,10
+House,118,1,309,309,2023-07-13,,On Agreeing to the Amendment,Agreed to,227,201,1,10
+House,118,1,310,310,2023-07-13,,On Agreeing to the Amendment,Agreed to,214,210,0,15
+House,118,1,311,311,2023-07-13,,On Agreeing to the Amendment,Failed,216,216,0,7
+House,118,1,312,312,2023-07-13,,On Agreeing to the Amendment,Agreed to,214,213,0,6
+House,118,1,313,313,2023-07-13,,On Agreeing to the Amendment,Agreed to,218,213,0,8
+House,118,1,314,314,2023-07-13,,On Agreeing to the Amendment,Agreed to,222,209,0,8
+House,118,1,315,315,2023-07-13,,On Agreeing to the Amendment,Agreed to,234,198,0,7
+House,118,1,316,316,2023-07-13,,On Agreeing to the Amendment,Failed,177,253,0,9
+House,118,1,317,317,2023-07-13,,On Agreeing to the Amendment,Failed,147,276,2,14
+House,118,1,318,318,2023-07-13,,On Agreeing to the Amendment,Agreed to,218,213,0,8
+House,118,1,319,319,2023-07-13,,On Agreeing to the Amendment,Failed,79,353,0,7
+House,118,1,320,320,2023-07-13,,On Agreeing to the Amendment,Failed,212,218,0,9
+House,118,1,321,321,2023-07-13,,On Agreeing to the Amendment,Failed,210,221,0,8
+House,118,1,322,322,2023-07-13,,On Agreeing to the Amendment,Failed,193,237,0,9
+House,118,1,323,323,2023-07-13,,On Agreeing to the Amendment,Agreed to,247,185,0,7
+House,118,1,324,324,2023-07-13,,On Agreeing to the Amendment,Agreed to,218,213,0,8
+House,118,1,326,326,2023-07-14,,On Agreeing to the Amendment,Agreed to,217,216,0,7
+House,118,1,325,325,2023-07-14,,On Agreeing to the Amendment,Agreed to,218,210,0,11
+House,118,1,327,327,2023-07-14,National Defense Authorization Act,On Motion to Recommit,Failed,210,217,0,7
+House,118,1,328,328,2023-07-14,National Defense Authorization Act,On Passage,Passed,219,210,0,5
+House,118,1,329,329,2023-07-17,Providing Accountability Through Transparency Act,On Motion to Suspend the Rules and Pass,Passed,400,0,0,33
+House,118,1,330,330,2023-07-17,Global Investment in American Jobs Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,386,22,0,25
+House,118,1,331,331,2023-07-18,Providing for consideration of the bill (H.R. 3935) the Securing Growth and Robust Leadership in American Aviation Act; and providing for consideration of the bill (H.R. 3941) the Schools Not Shelters Act,On Ordering the Previous Question,Passed,213,207,0,13
+House,118,1,332,332,2023-07-18,Providing for consideration of the bill (H.R. 3935) the Securing Growth and Robust Leadership in American Aviation Act; and providing for consideration of the bill (H.R. 3941) the Schools Not Shelters Act,On Agreeing to the Resolution,Passed,213,206,0,15
+House,118,1,333,333,2023-07-18,"Relating to a national emergency declared by the President on October 27, 2006",On Passage,Failed,27,381,0,25
+House,118,1,334,334,2023-07-18,"Relating to a national emergency declared by the President on February 25, 2011",On Passage,Failed,30,388,0,15
+House,118,1,335,335,2023-07-18,"Relating to a national emergency declared by the President on May 16, 2012",On Passage,Failed,27,393,0,13
+House,118,1,336,336,2023-07-18,"Relating to a national emergency declared by the President on May 22, 2003",On Passage,Failed,26,394,0,13
+House,118,1,337,337,2023-07-18,"Relating to a national emergency declared by the President on May 11, 2004",On Passage,Failed,24,394,0,15
+House,118,1,338,338,2023-07-18,Expressing the sense of Congress supporting the State of Israel,On Motion to Suspend the Rules and Agree,Passed,412,9,1,11
+House,118,1,339,339,2023-07-19,Schools Not Shelters Act,On Motion to Recommit,Failed,200,212,0,22
+House,118,1,340,340,2023-07-19,Schools Not Shelters Act,On Passage,Passed,222,201,0,11
+House,118,1,341,341,2023-07-19,,On Agreeing to the Amendment,Agreed to,243,191,0,6
+House,118,1,342,342,2023-07-19,,On Agreeing to the Amendment,Failed,203,231,0,6
+House,118,1,343,343,2023-07-19,,On Agreeing to the Amendment,Agreed to,392,41,0,7
+House,118,1,344,344,2023-07-19,,On Agreeing to the Amendment,Failed,193,236,0,11
+House,118,1,345,345,2023-07-19,,On Agreeing to the Amendment,Failed,177,258,0,5
+House,118,1,347,347,2023-07-19,,On Agreeing to the Amendment,Agreed to,220,215,0,5
+House,118,1,348,348,2023-07-19,,On Agreeing to the Amendment,Failed,214,219,0,7
+House,118,1,346,346,2023-07-19,,On Agreeing to the Amendment,Failed,141,294,0,5
+House,118,1,349,349,2023-07-19,,On Agreeing to the Amendment,Failed,211,224,0,5
+House,118,1,351,351,2023-07-19,,On Agreeing to the Amendment,Failed,49,386,0,5
+House,118,1,350,350,2023-07-19,,On Agreeing to the Amendment,Agreed to,240,195,0,5
+House,118,1,352,352,2023-07-19,,On Agreeing to the Amendment,Failed,216,219,0,5
+House,118,1,353,353,2023-07-19,,On Agreeing to the Amendment,Failed,181,254,0,5
+House,118,1,354,354,2023-07-19,,On Agreeing to the Amendment,Agreed to,229,205,0,6
+House,118,1,355,355,2023-07-19,,On Agreeing to the Amendment,Failed,191,244,0,5
+House,118,1,356,356,2023-07-19,,On Agreeing to the Amendment,Failed,206,227,0,7
+House,118,1,357,357,2023-07-19,,On Agreeing to the Amendment,Failed,205,229,0,6
+House,118,1,358,358,2023-07-19,,On Agreeing to the Amendment,Failed,127,308,0,5
+House,118,1,359,359,2023-07-19,,On Agreeing to the Amendment,Failed,52,381,0,7
+House,118,1,360,360,2023-07-19,,On Agreeing to the Amendment,Failed,45,387,0,8
+House,118,1,361,361,2023-07-20,,On Agreeing to the Amendment,Agreed to,348,57,0,34
+House,118,1,362,362,2023-07-20,,On Agreeing to the Amendment,Failed,64,329,0,46
+House,118,1,363,363,2023-07-20,,On Agreeing to the Amendment,Failed,195,226,0,18
+House,118,1,364,364,2023-07-20,Securing Growth and Robust Leadership in American Aviation Act,On Passage,Passed,351,69,0,13
+House,118,1,367,367,2023-07-26,Providing for consideration of the bill (H.R. 4366); providing for consideration of the joint resolution (S.J. Res. 9); and providing for consideration of the joint resolution (S.J. Res. 24),On Ordering the Previous Question,Passed,208,191,0,35
+House,118,1,366,366,2023-07-25,Protecting and Securing Chemical Facilities from Terrorist Attacks Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,409,1,0,23
+House,118,1,365,365,2023-07-25,Satellite And Telecommunications Streamlining Act,"On Motion to Suspend the Rules and Pass, as Amended",Failed,250,163,1,19
+House,118,1,368,368,2023-07-26,Providing for consideration of the bill (H.R. 4366); providing for consideration of the joint resolution (S.J. Res. 9); and providing for consideration of the joint resolution (S.J. Res. 24),"On Agreeing to the Resolution, as Amended",Passed,217,206,0,11
+House,118,1,369,369,2023-07-26,,On Agreeing to the Amendment,Agreed to,394,19,0,27
+House,118,1,370,370,2023-07-26,,On Agreeing to the Amendment,Failed,99,327,0,14
+House,118,1,371,371,2023-07-26,,On Agreeing to the Amendment,Failed,83,347,0,10
+House,118,1,372,372,2023-07-26,,On Agreeing to the Amendment,Failed,204,227,0,9
+House,118,1,373,373,2023-07-26,,On Agreeing to the Amendment,Agreed to,228,206,0,6
+House,118,1,374,374,2023-07-26,,On Agreeing to the Amendment,Agreed to,223,211,0,6
+House,118,1,375,375,2023-07-26,,On Agreeing to the Amendment,Agreed to,224,210,0,6
+House,118,1,376,376,2023-07-26,,On Agreeing to the Amendment,Agreed to,221,212,0,7
+House,118,1,377,377,2023-07-26,,On Agreeing to the Amendment,Agreed to,220,214,0,6
+House,118,1,378,378,2023-07-26,,On Agreeing to the Amendment,Agreed to,222,212,0,6
+House,118,1,379,379,2023-07-27,"Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Motion to Recommit,Failed,206,219,0,9
+House,118,1,381,381,2023-07-27,"Providing for congressional disapproval under chapter 8 of title 5, U.S. Code, relating to âEndangered and Threatened Wildlife and Plants; Lesser Prairie-Chicken; Threatened Status With Sec. 4(d) Rule for the Northern Distinct Population Segment and Endangered Status for the Southern Distinct Population Segmentâ",On Passage,Passed,221,206,0,7
+House,118,1,380,380,2023-07-27,"Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Passage,Passed,219,211,0,4
+House,118,1,382,382,2023-07-27,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to âEndangered and Threatened Wildlife and Plants; Endangered Species Status for Northern Long-Eared Batâ.",On Passage,Passed,220,209,0,4
+House,118,1,383,383,2023-09-12,Fight CRIME Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,403,8,0,22
+House,118,1,384,384,2023-09-12,MAHSA Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,3,0,20
+House,118,1,385,385,2023-09-12,Condemning the Government of Iranâs state-sponsored persecution of the Bahaâi minority and its continued violation of the International Covenants on Human Rights,On Motion to Suspend the Rules and Agree,Passed,413,2,0,18
+House,118,1,386,386,2023-09-13,ACRES Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,406,4,0,23
+House,118,1,387,387,2023-09-13,To extend the authority to collect Shasta-Trinity Marina fees through fiscal year 2029,On Motion to Suspend the Rules and Pass,Passed,415,0,0,18
+House,118,1,388,388,2023-09-14,Providing for consideration of the bill (H.R. 1435) to amend the Clean Air Act to prevent the elimination of the sale of internal combustion engines.,On Ordering the Previous Question,Passed,214,198,0,21
+House,118,1,389,389,2023-09-14,Providing for consideration of the bill (H.R. 1435) to amend the Clean Air Act to prevent the elimination of the sale of internal combustion engines.,On Agreeing to the Resolution,Passed,215,200,0,18
+House,118,1,390,390,2023-09-14,Preserving Choice in Vehicle Purchases Act,On Motion to Recommit,Failed,193,212,0,28
+House,118,1,391,391,2023-09-14,Preserving Choice in Vehicle Purchases Act,On Passage,Passed,222,190,0,22
+House,118,1,392,392,2023-09-18,Isakson-Roe Education Oversight Expansion Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,0,0,22
+House,118,1,393,393,2023-09-18,"To designate the clinic of the Department of Veterans Affairs in Gallup, New Mexico, as the Hiroshi âHersheyâ Miyamura VA Clinic",On Motion to Suspend the Rules and Pass,Passed,409,0,1,22
+House,118,1,394,394,2023-09-18,Native American Child Protection Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,378,32,0,22
+House,118,1,396,396,2023-09-19,National Defense Authorization Act,On Closing Portions of the Conference,Passed,401,19,0,13
+House,118,1,395,395,2023-09-19,National Defense Authorization Act,On Motion to go to Conference,Passed,393,27,0,13
+House,118,1,397,397,2023-09-19,"Providing for consideration of the bill (H.R. 1435) Preserving Choice in Vehicle Purchases Act, and providing for consideration of the bill (H.R. 4365) Department of Defense Appropriations Act, 2024, and for other purposes",On Ordering the Previous Question,Passed,217,209,0,7
+House,118,1,398,398,2023-09-19,"Providing for consideration of the bill (H.R. 1435) Preserving Choice in Vehicle Purchases Act, and providing for consideration of the bill (H.R. 4365) Department of Defense Appropriations Act, 2024, and for other purposes",On Agreeing to the Resolution,Failed,212,214,0,7
+House,118,1,399,399,2023-09-19,"To amend title 38, United States Code, to strengthen benefits for children of Vietnam veterans born with spina bifida, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,422,0,0,11
+House,118,1,400,400,2023-09-20,National Defense Authorization Act,On Motion to Instruct Conferees,Failed,205,214,0,14
+House,118,1,401,401,2023-09-20,Veterans Benefits Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,423,0,0,10
+House,118,1,402,402,2023-09-21,"Providing for consideration of the bill (H.R. 4365) Department of Defense Appropriations Act, 2024; providing for consideration of the bill (H.R. 1130) Unlocking our Domestic LNG Potential Act; and providing for consideration of the resolution (H.Res. 684)",On Ordering the Previous Question,Passed,216,202,0,15
+House,118,1,403,403,2023-09-21,"Providing for consideration of the bill (H.R. 4365) Department of Defense Appropriations Act, 2024; providing for consideration of the bill (H.R. 1130) Unlocking our Domestic LNG Potential Act; and providing for consideration of the resolution (H.Res. 684)",On Agreeing to the Resolution,Failed,212,216,0,5
+House,118,1,404,404,2023-09-26,"Providing for consideration of (H.R. 4365) Dept. of Defense Appropriations Act; (H.R. 4367) Dept. of Homeland Security Appropriations Bill; (H.R. 4368) Agriculture, Rural Development, FDA, and Related Agencies Appropriations Act; (H.R. 4665) Dept. of State, Foreign Operations, and Related Programs Appropriations Act",On Consideration of the Resolution,Passed,209,198,0,26
+House,118,1,405,405,2023-09-26,"Providing for consideration of (H.R. 4365) Dept. of Defense Appropriations Act; (H.R. 4367) Dept. of Homeland Security Appropriations Bill; (H.R. 4368) Agriculture, Rural Development, FDA, and Related Agencies Appropriations Act; (H.R. 4665) Dept. of State, Foreign Operations, and Related Programs Appropriations Act",On Ordering the Previous Question,Passed,215,209,0,9
+House,118,1,406,406,2023-09-26,"Providing for consideration of (H.R. 4365) Dept. of Defense Appropriations Act; (H.R. 4367) Dept. of Homeland Security Appropriations Bill; (H.R. 4368) Agriculture, Rural Development, FDA, and Related Agencies Appropriations Act; (H.R. 4665) Dept. of State, Foreign Operations, and Related Programs Appropriations Act",On Agreeing to the Resolution,Passed,216,212,0,5
+House,118,1,407,407,2023-09-26,Protecting Hunting Heritage and Education Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,424,1,0,8
+House,118,1,408,408,2023-09-27,,On Agreeing to the Amendment,Failed,175,254,0,10
+House,118,1,409,409,2023-09-27,,On Agreeing to the Amendment,Failed,119,307,0,13
+House,118,1,410,410,2023-09-27,,On Agreeing to the Amendment,Failed,106,323,0,10
+House,118,1,411,411,2023-09-27,,On Agreeing to the Amendment,Failed,86,343,0,10
+House,118,1,412,412,2023-09-27,,On Agreeing to the Amendment,Failed,89,341,0,9
+House,118,1,413,413,2023-09-27,,On Agreeing to the Amendment,Failed,68,362,0,9
+House,118,1,414,414,2023-09-27,,On Agreeing to the Amendment,Failed,83,348,0,8
+House,118,1,415,415,2023-09-27,,On Agreeing to the Amendment,Failed,81,350,0,8
+House,118,1,416,416,2023-09-27,,On Agreeing to the Amendment,Failed,105,325,0,9
+House,118,1,417,417,2023-09-27,,On Agreeing to the Amendment,Failed,49,377,0,13
+House,118,1,418,418,2023-09-27,,On Agreeing to the Amendment,Failed,210,216,0,13
+House,118,1,419,419,2023-09-27,,On Agreeing to the Amendment,Failed,97,336,0,6
+House,118,1,420,420,2023-09-27,,On Agreeing to the Amendment,Failed,152,278,0,9
+House,118,1,421,421,2023-09-27,,On Agreeing to the Amendment,Agreed to,217,214,0,8
+House,118,1,422,422,2023-09-27,,On Agreeing to the Amendment,Failed,158,272,0,9
+House,118,1,423,423,2023-09-27,,On Agreeing to the Amendment,Failed,159,272,0,8
+House,118,1,424,424,2023-09-27,,On Agreeing to the Amendment,Failed,156,273,0,10
+House,118,1,425,425,2023-09-27,,On Agreeing to the Amendment,Failed,161,270,0,8
+House,118,1,426,426,2023-09-27,,On Agreeing to the Amendment,Failed,160,271,0,8
+House,118,1,427,427,2023-09-27,,On Agreeing to the Amendment,Failed,163,267,0,9
+House,118,1,428,428,2023-09-27,,On Agreeing to the Amendment,Agreed to,217,216,0,6
+House,118,1,429,429,2023-09-27,,On Agreeing to the Amendment,Agreed to,217,216,0,6
+House,118,1,430,430,2023-09-27,,On Agreeing to the Amendment,Failed,71,362,0,6
+House,118,1,431,431,2023-09-27,,On Agreeing to the Amendment,Agreed to,240,191,0,8
+House,118,1,432,432,2023-09-27,,On Agreeing to the Amendment,Failed,104,330,0,5
+House,118,1,433,433,2023-09-27,,On Agreeing to the Amendment,Failed,203,231,0,5
+House,118,1,434,434,2023-09-27,,On Agreeing to the Amendment,Failed,150,282,0,7
+House,118,1,435,435,2023-09-27,,On Agreeing to the Amendment,Failed,184,248,0,7
+House,118,1,436,436,2023-09-27,,On Agreeing to the Amendment,Failed,172,261,0,6
+House,118,1,437,437,2023-09-27,,On Agreeing to the Amendment,Failed,215,218,0,6
+House,118,1,438,438,2023-09-27,,On Agreeing to the Amendment,Failed,93,339,0,7
+House,118,1,439,439,2023-09-27,,On Agreeing to the Amendment,Failed,160,269,0,10
+House,118,1,440,440,2023-09-27,,On Agreeing to the Amendment,Failed,176,258,0,5
+House,118,1,441,441,2023-09-27,,On Agreeing to the Amendment,Failed,202,231,0,6
+House,118,1,442,442,2023-09-27,,On Agreeing to the Amendment,Failed,206,223,0,10
+House,118,1,443,443,2023-09-27,,On Agreeing to the Amendment,Failed,209,220,0,10
+House,118,1,444,444,2023-09-27,,On Agreeing to the Amendment,Failed,210,220,0,9
+House,118,1,445,445,2023-09-27,,On Agreeing to the Amendment,Failed,108,320,0,10
+House,118,1,447,447,2023-09-27,,On Agreeing to the Amendment,Failed,160,270,0,8
+House,118,1,446,446,2023-09-27,,On Agreeing to the Amendment,Failed,147,282,0,9
+House,118,1,448,448,2023-09-27,,On Agreeing to the Amendment,Failed,168,261,0,9
+House,118,1,450,450,2023-09-27,,On Agreeing to the Amendment,Failed,162,264,0,12
+House,118,1,449,449,2023-09-27,,On Agreeing to the Amendment,Failed,164,265,0,9
+House,118,1,451,451,2023-09-27,,On Agreeing to the Amendment,Failed,159,269,0,10
+House,118,1,452,452,2023-09-27,,On Agreeing to the Amendment,Failed,161,267,0,10
+House,118,1,453,453,2023-09-27,,On Agreeing to the Amendment,Failed,161,268,0,9
+House,118,1,454,454,2023-09-27,,On Agreeing to the Amendment,Failed,211,220,0,8
+House,118,1,455,455,2023-09-27,,On Agreeing to the Amendment,Failed,182,247,0,9
+House,118,1,456,456,2023-09-28,"Providing for consideration of the bills (H.R. 5692) Making supplemental appropriations for the fiscal year ending September 30, 2024; (H.R. 4365) Department of Defense Appropriations Act, 2024; and (H.R. 4367) Department of Homeland Security Appropriations Act, 2024",On Ordering the Previous Question,Passed,214,210,0,9
+House,118,1,457,457,2023-09-28,"Providing for consideration of the bills (H.R. 5692) Making supplemental appropriations for the fiscal year ending September 30, 2024; (H.R. 4365) Department of Defense Appropriations Act, 2024; and (H.R. 4367) Department of Homeland Security Appropriations Act, 2024",On Agreeing to the Resolution,Passed,217,211,0,5
+House,118,1,459,459,2023-09-28,,On Agreeing to the Amendment,Failed,165,263,0,10
+House,118,1,458,458,2023-09-28,,On Agreeing to the Amendment,Failed,169,261,0,8
+House,118,1,460,460,2023-09-28,,On Agreeing to the Amendment,Failed,170,260,0,8
+House,118,1,461,461,2023-09-28,,On Agreeing to the Amendment,Failed,75,347,0,16
+House,118,1,462,462,2023-09-28,,On Agreeing to the Amendment,Failed,134,298,0,6
+House,118,1,463,463,2023-09-28,,On Agreeing to the Amendment,Failed,78,353,1,6
+House,118,1,464,464,2023-09-28,,On Agreeing to the Amendment,Failed,102,326,0,10
+House,118,1,465,465,2023-09-28,,On Agreeing to the Amendment,Failed,111,315,0,12
+House,118,1,466,466,2023-09-28,,On Agreeing to the Amendment,Failed,115,312,0,11
+House,118,1,467,467,2023-09-28,,On Agreeing to the Amendment,Failed,86,346,0,6
+House,118,1,468,468,2023-09-28,,On Agreeing to the Amendment,Failed,133,297,0,8
+House,118,1,469,469,2023-09-28,,On Agreeing to the Amendment,Failed,121,311,0,6
+House,118,1,470,470,2023-09-28,,On Agreeing to the Amendment,Failed,135,295,0,8
+House,118,1,471,471,2023-09-28,,On Agreeing to the Amendment,Failed,199,231,0,8
+House,118,1,472,472,2023-09-28,,On Agreeing to the Amendment,Failed,195,236,0,7
+House,118,1,473,473,2023-09-28,,On Agreeing to the Amendment,Failed,90,342,0,6
+House,118,1,474,474,2023-09-28,,On Agreeing to the Amendment,Failed,92,340,0,6
+House,118,1,475,475,2023-09-28,,On Agreeing to the Amendment,Failed,120,309,1,8
+House,118,1,476,476,2023-09-28,,On Agreeing to the Amendment,Failed,104,327,0,7
+House,118,1,477,477,2023-09-28,,On Agreeing to the Amendment,Agreed to,219,213,0,7
+House,118,1,478,478,2023-09-28,,On Agreeing to the Amendment,Failed,151,278,0,9
+House,118,1,479,479,2023-09-28,,On Agreeing to the Amendment,Failed,166,265,0,7
+House,118,1,480,480,2023-09-28,,On Agreeing to the Amendment,Failed,187,241,0,10
+House,118,1,481,481,2023-09-28,,On Agreeing to the Amendment,Failed,191,238,0,9
+House,118,1,482,482,2023-09-28,,On Agreeing to the Amendment,Failed,132,298,0,8
+House,118,1,483,483,2023-09-28,,On Agreeing to the Amendment,Failed,198,232,0,8
+House,118,1,484,484,2023-09-28,,On Agreeing to the Amendment,Failed,188,242,0,8
+House,118,1,485,485,2023-09-28,,On Agreeing to the Amendment,Failed,213,219,0,7
+House,118,1,486,486,2023-09-28,,On Agreeing to the Amendment,Agreed to,218,215,0,6
+House,118,1,487,487,2023-09-28,,On Agreeing to the Amendment,Failed,170,260,0,8
+House,118,1,488,488,2023-09-28,,On Agreeing to the Amendment,Failed,171,258,0,9
+House,118,1,489,489,2023-09-28,,On Agreeing to the Amendment,Failed,173,255,0,10
+House,118,1,490,490,2023-09-28,,On Agreeing to the Amendment,Agreed to,217,212,0,9
+House,118,1,491,491,2023-09-28,,On Agreeing to the Amendment,Agreed to,360,67,0,11
+House,118,1,493,493,2023-09-28,,On Agreeing to the Amendment,Failed,161,268,0,9
+House,118,1,494,494,2023-09-28,,On Agreeing to the Amendment,Failed,198,232,0,8
+House,118,1,492,492,2023-09-28,,On Agreeing to the Amendment,Agreed to,216,213,0,9
+House,118,1,495,495,2023-09-28,,On Agreeing to the Amendment,Failed,213,218,0,8
+House,118,1,497,497,2023-09-28,,On Agreeing to the Amendment,Failed,178,253,0,7
+House,118,1,496,496,2023-09-28,,On Agreeing to the Amendment,Agreed to,351,81,0,7
+House,118,1,498,498,2023-09-28,,On Agreeing to the Amendment,Failed,187,244,0,7
+House,118,1,500,500,2023-09-28,"Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2024, and for other purposes",On Passage,Passed,216,212,0,5
+House,118,1,499,499,2023-09-28,"Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2024, and for other purposes",On Motion to Recommit,Failed,210,217,0,5
+House,118,1,501,501,2023-09-28,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2024, and for other purposes",On Motion to Recommit,Failed,210,218,0,5
+House,118,1,503,503,2023-09-28,"Making supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes",On Passage,Passed,311,117,0,5
+House,118,1,502,502,2023-09-28,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2024, and for other purposes",On Passage,Passed,218,210,0,5
+House,118,1,504,504,2023-09-28,"Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2024, and for other purposes",On Motion to Recommit,Failed,210,218,0,5
+House,118,1,505,505,2023-09-28,"Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2024, and for other purposes",On Passage,Passed,220,208,0,5
+House,118,1,507,507,2023-09-28,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024",On Passage,Failed,191,237,0,5
+House,118,1,506,506,2023-09-28,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024",On Motion to Recommit,Failed,211,217,0,5
+House,118,1,508,508,2023-09-29,"Providing for consideration of H.R. 5525, the Spending Reduction and Border Security Act",On Ordering the Previous Question,Passed,217,207,0,9
+House,118,1,509,509,2023-09-29,"Providing for consideration of H.R. 5525, the Spending Reduction and Border Security Act",On Agreeing to the Resolution,Passed,218,210,0,5
+House,118,1,510,510,2023-09-29,Spending Reduction and Border Security Act,On Motion to Recommit,Failed,210,216,0,6
+House,118,1,511,511,2023-09-29,Spending Reduction and Border Security Act,On Passage,Failed,198,232,0,3
+House,118,1,512,512,2023-09-30,,On Motion to Adjourn,Failed,0,427,0,6
+House,118,1,514,514,2023-10-02,"To designate the facility of the United States Postal Service located at 616 East Main Street in St. Charles, Illinois, as the âVeterans of the Vietnam War Memorial Post Officeâ.",On Motion to Suspend the Rules and Pass,Passed,390,0,1,42
+House,118,1,513,513,2023-09-30,"Continuing Appropriations Act, 2024 and Other Extensions Act","On Motion to Suspend the Rules and Pass, as Amended",Passed,335,91,0,7
+House,118,1,515,515,2023-10-02,Modernizing the Acquisition of Cybersecurity Experts Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,394,1,0,38
+House,118,1,517,517,2023-10-03,"Providing for consideration of the bill (H.R. 4394) Energy and Water Development and Related Agencies Appropriations Act, 2024; providing for consideration of the bill (H.R. 4364) Legislative Branch Appropriations Act, 2024; and for other purposes",On Agreeing to the Resolution,Passed,218,208,0,7
+House,118,1,516,516,2023-10-03,"Providing for consideration of the bill (H.R. 4394) Energy and Water Development and Related Agencies Appropriations Act, 2024; providing for consideration of the bill (H.R. 4364) Legislative Branch Appropriations Act, 2024; and for other purposes",On Ordering the Previous Question,Passed,218,207,0,7
+House,118,1,518,518,2023-10-03,Declaring the office of Speaker of the House of Representatives to be vacant.,On Motion to Table,Failed,208,218,0,7
+House,118,1,520,520,2023-10-17,,Call of the House,Passed,0,0,432,1
+House,118,1,519,519,2023-10-03,Declaring the office of Speaker of the House of Representatives to be vacant.,On Agreeing to the Resolution,Passed,216,210,0,7
+House,118,1,521,521,2023-10-17,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,522,522,2023-10-18,,Call of the House,Passed,0,0,432,1
+House,118,1,523,523,2023-10-18,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,524,524,2023-10-20,,Call of the House,Passed,0,0,427,6
+House,118,1,525,525,2023-10-20,,Election of the Speaker,Jeffries,0,0,0,0
+House,118,1,526,526,2023-10-25,,Call of the House,Passed,0,0,429,4
+House,118,1,527,527,2023-10-25,,Election of the Speaker,Johnson (LA),0,0,0,0
+House,118,1,528,528,2023-10-25,Standing with Israel as it defends itself against the barbaric war launched by Hamas and other terrorists,On Motion to Suspend the Rules and Agree,Passed,412,10,6,5
+House,118,1,529,529,2023-10-26,,On Agreeing to the Amendment,Failed,156,265,0,17
+House,118,1,530,530,2023-10-26,,On Agreeing to the Amendment,Agreed to,277,142,0,19
+House,118,1,531,531,2023-10-26,,On Agreeing to the Amendment,Failed,212,213,0,13
+House,118,1,532,532,2023-10-26,,On Agreeing to the Amendment,Failed,161,257,0,20
+House,118,1,533,533,2023-10-26,,On Agreeing to the Amendment,Failed,137,287,0,14
+House,118,1,534,534,2023-10-26,,On Agreeing to the Amendment,Failed,135,284,0,19
+House,118,1,535,535,2023-10-26,,On Agreeing to the Amendment,Failed,105,319,0,14
+House,118,1,536,536,2023-10-26,,On Agreeing to the Amendment,Failed,115,306,0,17
+House,118,1,537,537,2023-10-26,,On Agreeing to the Amendment,Failed,123,300,0,15
+House,118,1,538,538,2023-10-26,,On Agreeing to the Amendment,Failed,137,283,0,18
+House,118,1,539,539,2023-10-26,,On Agreeing to the Amendment,Failed,105,316,0,17
+House,118,1,540,540,2023-10-26,,On Agreeing to the Amendment,Failed,134,283,0,21
+House,118,1,541,541,2023-10-26,,On Agreeing to the Amendment,Failed,122,299,0,17
+House,118,1,542,542,2023-10-26,,On Agreeing to the Amendment,Failed,130,287,0,21
+House,118,1,543,543,2023-10-26,,On Agreeing to the Amendment,Failed,122,295,0,21
+House,118,1,544,544,2023-10-26,,On Agreeing to the Amendment,Failed,116,303,0,19
+House,118,1,545,545,2023-10-26,,On Agreeing to the Amendment,Failed,121,299,0,18
+House,118,1,546,546,2023-10-26,,On Agreeing to the Amendment,Failed,176,241,0,21
+House,118,1,547,547,2023-10-26,,On Agreeing to the Amendment,Failed,120,291,0,27
+House,118,1,548,548,2023-10-26,,On Agreeing to the Amendment,Agreed to,207,204,0,28
+House,118,1,549,549,2023-10-26,,On Agreeing to the Amendment,Failed,208,209,0,22
+House,118,1,550,550,2023-10-26,,On Agreeing to the Amendment,Agreed to,207,204,0,22
+House,118,1,551,551,2023-10-26,,On Agreeing to the Amendment,Failed,166,247,0,26
+House,118,1,552,552,2023-10-26,,On Agreeing to the Amendment,Failed,160,250,0,29
+House,118,1,553,553,2023-10-26,,On Agreeing to the Amendment,Failed,164,249,0,26
+House,118,1,554,554,2023-10-26,,On Agreeing to the Amendment,Failed,100,314,0,25
+House,118,1,555,555,2023-10-26,,On Agreeing to the Amendment,Failed,76,335,0,27
+House,118,1,556,556,2023-10-26,,On Agreeing to the Amendment,Failed,192,222,0,25
+House,118,1,557,557,2023-10-26,"Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Motion to Recommit,Failed,199,210,0,23
+House,118,1,558,558,2023-10-26,"Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Passage,Passed,210,199,0,24
+House,118,1,559,559,2023-11-01,"Censuring Representative Rashida Tlaib for antisemitic activity, sympathizing with terrorist organizations, and leading an insurrection at the United States Capitol Complex",On Motion to Table,Passed,222,186,0,24
+House,118,1,560,560,2023-11-01,Declaring it is the policy of the United States that a nuclear Islamic Republic of Iran is not acceptable,On Motion to Suspend the Rules and Agree,Passed,354,53,0,25
+House,118,1,562,562,2023-11-01,"Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2024, and for other purposes",On Motion to Recommit,Failed,201,209,0,22
+House,118,1,561,561,2023-11-01,Hamas and Other Palestinian Terrorist Groups International Financing Prevention Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,363,46,0,23
+House,118,1,563,563,2023-11-01,"Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2024, and for other purposes",On Passage,Passed,214,197,0,22
+House,118,1,564,564,2023-11-01,Providing for the expulsion of Representative George Santos from the House of Representatives,On Agreeing to the Resolution,Failed,179,213,19,22
+House,118,1,565,565,2023-11-02,"Providing for consideration of the bills (H.R. 4821) Dept. of Interior, Environment, and Related Agencies Appropriations Act, 2024; (H.R. 4820) Dept. of Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024; and (H.R. 6126) Israel Security Supplemental Appropriations Act, 2024",On Ordering the Previous Question,Passed,213,200,0,19
+House,118,1,566,566,2023-11-02,"Providing for consideration of the bills (H.R. 4821) Dept. of Interior, Environment, and Related Agencies Appropriations Act, 2024; (H.R. 4820) Dept. of Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024; and (H.R. 6126) Israel Security Supplemental Appropriations Act, 2024",On Agreeing to the Resolution,Passed,213,203,0,16
+House,118,1,567,567,2023-11-02,,On Agreeing to the Amendment,Failed,144,280,0,14
+House,118,1,568,568,2023-11-02,,On Agreeing to the Amendment,Failed,184,239,0,15
+House,118,1,569,569,2023-11-02,,On Agreeing to the Amendment,Failed,166,253,0,19
+House,118,1,570,570,2023-11-02,,On Agreeing to the Amendment,Failed,129,292,0,17
+House,118,1,571,571,2023-11-02,,On Agreeing to the Amendment,Failed,132,292,0,14
+House,118,1,572,572,2023-11-02,,On Agreeing to the Amendment,Failed,177,246,0,15
+House,118,1,573,573,2023-11-02,,On Agreeing to the Amendment,Failed,180,243,0,15
+House,118,1,574,574,2023-11-02,,On Agreeing to the Amendment,Failed,163,261,0,14
+House,118,1,575,575,2023-11-02,,On Agreeing to the Amendment,Agreed to,213,212,0,13
+House,118,1,577,577,2023-11-02,,On Passage,Passed,226,196,0,11
+House,118,1,576,576,2023-11-02,,On Agreeing to the Amendment,Failed,188,237,0,13
+House,118,1,578,578,2023-11-02,"Condemning the support of Hamas, Hezbollah, and other terrorist organizations at institutions of higher education, which may lead to the creation of a hostile environment for Jewish students, faculty, and staff","On Motion to Suspend the Rules and Agree, as Amended",Passed,396,23,0,14
+House,118,1,579,579,2023-11-02,,On Agreeing to the Amendment,Failed,161,251,0,26
+House,118,1,580,580,2023-11-02,,On Agreeing to the Amendment,Failed,191,219,0,28
+House,118,1,581,581,2023-11-02,,On Agreeing to the Amendment,Agreed to,212,202,0,24
+House,118,1,583,583,2023-11-02,,On Agreeing to the Amendment,Failed,191,227,0,20
+House,118,1,582,582,2023-11-02,,On Agreeing to the Amendment,Agreed to,212,206,0,20
+House,118,1,584,584,2023-11-02,,On Agreeing to the Amendment,Failed,166,251,0,21
+House,118,1,585,585,2023-11-02,,On Agreeing to the Amendment,Agreed to,217,202,0,19
+House,118,1,586,586,2023-11-02,,On Agreeing to the Amendment,Failed,151,263,0,24
+House,118,1,587,587,2023-11-02,,On Agreeing to the Amendment,Failed,196,222,0,20
+House,118,1,588,588,2023-11-02,,On Agreeing to the Amendment,Failed,207,213,0,18
+House,118,1,589,589,2023-11-02,,On Agreeing to the Amendment,Failed,159,259,0,20
+House,118,1,590,590,2023-11-02,,On Agreeing to the Amendment,Failed,150,265,0,23
+House,118,1,591,591,2023-11-02,,On Agreeing to the Amendment,Failed,156,263,0,19
+House,118,1,592,592,2023-11-02,,On Agreeing to the Amendment,Failed,175,244,0,19
+House,118,1,593,593,2023-11-03,,On Agreeing to the Amendment,Agreed to,214,204,0,20
+House,118,1,594,594,2023-11-03,,On Agreeing to the Amendment,Agreed to,212,204,0,22
+House,118,1,595,595,2023-11-03,,On Agreeing to the Amendment,Agreed to,208,207,0,24
+House,118,1,596,596,2023-11-03,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Motion to Recommit,Failed,201,215,0,17
+House,118,1,597,597,2023-11-03,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Passage,Passed,213,203,0,17
+House,118,1,598,598,2023-11-03,SHIP Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,342,69,0,22
+House,118,1,599,599,2023-11-06,"To clarify jurisdiction with respect to certain Bureau of Reclamation pumped storage development, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,384,1,0,47
+House,118,1,600,600,2023-11-06,Fort San Geronimo Preservation Act,On Motion to Suspend the Rules and Pass,Passed,359,24,0,49
+House,118,1,601,601,2023-11-07,"Providing for consideration of the bill (H.R. 4664) making appropriations for financial services and general government for the fiscal year ending September 30, 2024, and for other purposes",On Ordering the Previous Question,Passed,217,204,0,12
+House,118,1,602,602,2023-11-07,"Providing for consideration of the bill (H.R. 4664) making appropriations for financial services and general government for the fiscal year ending September 30, 2024, and for other purposes",On Agreeing to the Resolution,Passed,217,204,0,12
+House,118,1,603,603,2023-11-07,,On Agreeing to the Amendment,Failed,212,214,0,12
+House,118,1,604,604,2023-11-07,,On Agreeing to the Amendment,Failed,125,297,0,16
+House,118,1,605,605,2023-11-07,,On Agreeing to the Amendment,Failed,148,277,0,13
+House,118,1,606,606,2023-11-07,,On Agreeing to the Amendment,Agreed to,213,210,0,15
+House,118,1,608,608,2023-11-07,"Censuring Representative Rashida Tlaib for promoting false narratives regarding the October 7, 2023, Hamas attack on Israel and for calling for the destruction of the State of Israel",On Motion to Table,Failed,208,213,1,11
+House,118,1,609,609,2023-11-07,,On Agreeing to the Amendment,Failed,144,282,0,12
+House,118,1,607,607,2023-11-07,,On Agreeing to the Amendment,Failed,174,252,0,12
+House,118,1,610,610,2023-11-07,,On Agreeing to the Amendment,Agreed to,238,185,0,15
+House,118,1,611,611,2023-11-07,,On Agreeing to the Amendment,Failed,106,324,0,8
+House,118,1,612,612,2023-11-07,,On Agreeing to the Amendment,Failed,133,295,0,10
+House,118,1,614,614,2023-11-07,,On Agreeing to the Amendment,Failed,191,238,0,9
+House,118,1,615,615,2023-11-07,,On Agreeing to the Amendment,Failed,211,220,0,8
+House,118,1,613,613,2023-11-07,,On Agreeing to the Amendment,Failed,104,325,0,9
+House,118,1,616,616,2023-11-07,,On Agreeing to the Amendment,Failed,201,229,0,8
+House,118,1,617,617,2023-11-07,,On Agreeing to the Amendment,Failed,164,264,0,10
+House,118,1,618,618,2023-11-07,,On Agreeing to the Amendment,Failed,155,272,0,11
+House,118,1,619,619,2023-11-07,,On Agreeing to the Amendment,Failed,212,217,0,9
+House,118,1,620,620,2023-11-07,,On Agreeing to the Amendment,Failed,112,318,0,8
+House,118,1,621,621,2023-11-07,,On Agreeing to the Amendment,Failed,211,219,0,8
+House,118,1,622,622,2023-11-07,"Censuring Representative Rashida Tlaib for promoting false narratives regarding the October 7, 2023, Hamas attack on Israel and for calling for the destruction of the State of Israel",On Agreeing to the Resolution,Passed,234,188,4,6
+House,118,1,623,623,2023-11-08,,On Agreeing to the Amendment,Agreed to,336,86,0,16
+House,118,1,624,624,2023-11-08,,On Agreeing to the Amendment,Failed,115,306,0,17
+House,118,1,625,625,2023-11-08,,On Agreeing to the Amendment,Failed,187,238,0,13
+House,118,1,626,626,2023-11-08,,On Agreeing to the Amendment,Failed,140,286,0,12
+House,118,1,627,627,2023-11-08,,On Agreeing to the Amendment,Failed,183,246,0,9
+House,118,1,628,628,2023-11-08,,On Agreeing to the Amendment,Failed,172,257,0,9
+House,118,1,629,629,2023-11-08,,On Agreeing to the Amendment,Agreed to,250,174,0,14
+House,118,1,630,630,2023-11-08,,On Agreeing to the Amendment,Agreed to,219,210,0,9
+House,118,1,631,631,2023-11-08,,On Agreeing to the Amendment,Failed,205,220,0,13
+House,118,1,632,632,2023-11-08,,On Agreeing to the Amendment,Failed,175,252,0,11
+House,118,1,633,633,2023-11-08,,On Agreeing to the Amendment,Failed,106,322,0,10
+House,118,1,634,634,2023-11-08,,On Agreeing to the Amendment,Failed,145,273,1,19
+House,118,1,635,635,2023-11-08,,On Agreeing to the Amendment,Failed,205,211,0,22
+House,118,1,636,636,2023-11-08,,On Agreeing to the Amendment,Failed,198,221,0,19
+House,118,1,637,637,2023-11-08,,On Agreeing to the Amendment,Failed,196,223,0,19
+House,118,1,638,638,2023-11-08,,On Agreeing to the Amendment,Failed,142,277,0,19
+House,118,1,639,639,2023-11-08,,On Agreeing to the Amendment,Failed,208,212,0,18
+House,118,1,640,640,2023-11-08,,On Agreeing to the Amendment,Agreed to,222,198,0,18
+House,118,1,641,641,2023-11-09,,On Agreeing to the Amendment,Failed,165,257,1,16
+House,118,1,642,642,2023-11-09,,On Agreeing to the Amendment,Agreed to,220,202,0,16
+House,118,1,643,643,2023-11-13,Debbie Smith Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,405,0,0,27
+House,118,1,644,644,2023-11-13,"To rename the Department of Veterans Affairs community-based outpatient clinic in Hinesville, Georgia, as the âJohn Gibson, Dan James, William Sapp, and Frankie Smiley VA Clinicâ",On Motion to Suspend the Rules and Pass,Passed,409,0,1,23
+House,118,1,645,645,2023-11-13,"Impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors",On Motion to Refer,Passed,209,201,0,23
+House,118,1,646,646,2023-11-14,"Providing for consideration of the bill (H.R. 5894) making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Ordering the Previous Question,Passed,217,208,0,8
+House,118,1,647,647,2023-11-14,"Providing for consideration of the bill (H.R. 5894) making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Agreeing to the Resolution,Passed,217,209,0,8
+House,118,1,648,648,2023-11-14,,On Agreeing to the Amendment,Failed,131,300,0,8
+House,118,1,649,649,2023-11-14,,On Agreeing to the Amendment,Failed,190,241,0,8
+House,118,1,650,650,2023-11-14,,On Agreeing to the Amendment,Failed,140,294,0,5
+House,118,1,651,651,2023-11-14,,On Agreeing to the Amendment,Failed,183,251,0,5
+House,118,1,652,652,2023-11-14,,On Agreeing to the Amendment,Failed,186,247,0,6
+House,118,1,653,653,2023-11-14,,On Agreeing to the Amendment,Failed,109,324,0,6
+House,118,1,654,654,2023-11-14,,On Agreeing to the Amendment,Failed,85,350,0,4
+House,118,1,655,655,2023-11-14,,On Agreeing to the Amendment,Failed,81,353,0,5
+House,118,1,656,656,2023-11-14,,On Agreeing to the Amendment,Failed,81,354,0,4
+House,118,1,657,657,2023-11-14,,On Agreeing to the Amendment,Failed,118,316,0,5
+House,118,1,658,658,2023-11-14,"Further Continuing Appropriations and Other Extensions Act, 2024","On Motion to Suspend the Rules and Pass, as Amended",Passed,336,95,0,3
+House,118,1,659,659,2023-11-15,"Providing for consideration of the bill (H.R. 5893) Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024 and providing for consideration of the bill (H.R. 5961) No Funds for Iranian Terrorism Act",On Ordering the Previous Question,Passed,218,206,0,10
+House,118,1,660,660,2023-11-15,"Providing for consideration of the bill (H.R. 5893) Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024 and providing for consideration of the bill (H.R. 5961) No Funds for Iranian Terrorism Act",On Agreeing to the Resolution,Failed,198,225,0,11
+House,118,1,663,663,2023-11-15,,On Agreeing to the Amendment,Failed,151,273,0,15
+House,118,1,662,662,2023-11-15,,On Agreeing to the Amendment,Failed,173,254,0,12
+House,118,1,661,661,2023-11-15,,On Agreeing to the Amendment,Failed,169,257,0,13
+House,118,1,665,665,2023-11-15,,On Agreeing to the Amendment,Failed,165,260,1,13
+House,118,1,664,664,2023-11-15,,On Agreeing to the Amendment,Failed,170,254,1,14
+House,118,1,666,666,2023-11-15,,On Agreeing to the Amendment,Agreed to,411,14,0,14
+House,118,1,667,667,2023-11-15,,On Agreeing to the Amendment,Failed,148,280,1,10
+House,118,1,668,668,2023-11-15,,On Agreeing to the Amendment,Failed,144,279,1,15
+House,118,1,669,669,2023-11-15,,On Agreeing to the Amendment,Agreed to,373,54,0,12
+House,118,1,670,670,2023-11-15,,On Agreeing to the Amendment,Failed,162,262,1,14
+House,118,1,671,671,2023-11-15,,On Agreeing to the Amendment,Failed,157,268,1,13
+House,118,1,672,672,2023-11-15,,On Agreeing to the Amendment,Failed,155,270,1,13
+House,118,1,673,673,2023-11-15,,On Agreeing to the Amendment,Failed,204,224,0,11
+House,118,1,675,675,2023-11-15,,On Agreeing to the Amendment,Failed,155,268,1,15
+House,118,1,674,674,2023-11-15,,On Agreeing to the Amendment,Agreed to,216,211,0,12
+House,118,1,676,676,2023-11-28,Calling on Hamas to immediately release hostages taken during October 2023 attack on Israel,On Motion to Suspend the Rules and Agree,Passed,414,0,0,20
+House,118,1,678,678,2023-11-29,"Providing for consideration of (H.R. 5283) Protecting our Communities from Failure to Secure the Border Act; (H.R. 5961) No Funds for Iranian Terrorism Act; (S.J. Res. 32) providing for congressional disapproval, relating to âSmall Business Lending Under the Equal Credit Opportunity Act (Regulation B)â",On Ordering the Previous Question,Passed,213,205,1,15
+House,118,1,677,677,2023-11-28,Reaffirming the State of Israelâs right to exist,On Motion to Suspend the Rules and Agree,Passed,412,1,1,21
+House,118,1,679,679,2023-11-29,"Providing for consideration of (H.R. 5283) Protecting our Communities from Failure to Secure the Border Act; (H.R. 5961) No Funds for Iranian Terrorism Act; (S.J. Res. 32) providing for congressional disapproval, relating to âSmall Business Lending Under the Equal Credit Opportunity Act (Regulation B)â",On Agreeing to the Resolution,Passed,212,205,1,16
+House,118,1,680,680,2023-11-30,,On Agreeing to the Amendment,Agreed to,412,11,1,16
+House,118,1,681,681,2023-11-30,,On Agreeing to the Amendment,Agreed to,422,1,1,16
+House,118,1,682,682,2023-11-30,,On Agreeing to the Amendment,Agreed to,241,181,1,17
+House,118,1,683,683,2023-11-30,,On Agreeing to the Amendment,Agreed to,226,199,1,14
+House,118,1,684,684,2023-11-30,,On Agreeing to the Amendment,Agreed to,231,198,1,11
+House,118,1,685,685,2023-11-30,,On Agreeing to the Amendment,Agreed to,399,28,1,12
+House,118,1,686,686,2023-11-30,,On Agreeing to the Amendment,Failed,194,236,1,9
+House,118,1,687,687,2023-11-30,No Funds for Iranian Terrorism Act,On Passage,Passed,307,119,1,8
+House,118,1,688,688,2023-11-30,,On Agreeing to the Amendment,Failed,206,223,1,10
+House,118,1,689,689,2023-11-30,Protecting our Communities from Failure to Secure the Border Act,On Passage,Passed,224,203,1,7
+House,118,1,690,690,2023-12-01,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to âSmall Business Lending Under the Equal Credit Opportunity Act (Regulation B)â",On Passage,Passed,221,202,1,10
+House,118,1,691,691,2023-12-01,Providing for the expulsion of Representative George Santos from the United States House of Representatives,On Agreeing to the Resolution,Passed,311,114,2,8
+House,118,1,692,692,2023-12-05,Providing for consideration of (H.R. 4468) Choice in Automobile Retail Sales Act; (H.R. 5933) DETERRENT Act; and (H.J.Res. 88) congressional disapproval relating to âImproving Income Driven Repayment for the William D. Ford Federal Direct Loan Program and the Federal Family Education Loan (FFEL) Programâ,On Ordering the Previous Question,Passed,209,200,0,24
+House,118,1,693,693,2023-12-05,Providing for consideration of (H.R. 4468) Choice in Automobile Retail Sales Act; (H.R. 5933) DETERRENT Act; and (H.J.Res. 88) congressional disapproval relating to âImproving Income Driven Repayment for the William D. Ford Federal Direct Loan Program and the Federal Family Education Loan (FFEL) Programâ,On Agreeing to the Resolution,Passed,213,201,0,19
+House,118,1,694,694,2023-12-05,One Seat Ride Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,356,61,0,16
+House,118,1,695,695,2023-12-05,Housing our Military Veterans Effectively Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,408,10,0,15
+House,118,1,696,696,2023-12-05,Elizabeth Dole Home- and Community-Based Services for Veterans and Caregivers Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,414,5,0,15
+House,118,1,697,697,2023-12-05,Strongly condemning and denouncing the drastic rise of antisemitism in the United States and around the world,On Motion to Suspend the Rules and Agree,Passed,311,14,92,17
+House,118,1,699,699,2023-12-06,,On Agreeing to the Amendment,Failed,94,320,0,25
+House,118,1,698,698,2023-12-06,,On Agreeing to the Amendment,Agreed to,372,39,0,28
+House,118,1,700,700,2023-12-06,,On Agreeing to the Amendment,Failed,202,213,0,24
+House,118,1,701,701,2023-12-06,DETERRENT Act,On Passage,Passed,246,170,0,17
+House,118,1,702,702,2023-12-06,Choice in Automobile Retail Sales Act,On Motion to Recommit,Failed,201,214,0,18
+House,118,1,703,703,2023-12-06,Choice in Automobile Retail Sales Act,On Passage,Passed,221,197,0,15
+House,118,1,704,704,2023-12-06,Censuring Representative Jamaal Bowman,On Motion to Table,Failed,201,216,1,16
+House,118,1,705,705,2023-12-07,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to âImproving Income Driven Repayment for the William D. Ford Federal Direct Loan Program and the Federal Family Education Loan (FFEL) Program",On Passage,Passed,210,189,0,34
+House,118,1,706,706,2023-12-07,Censuring Representative Jamaal Bowman,On Agreeing to the Resolution,Passed,214,191,5,23
+House,118,1,708,708,2023-12-11,"Lower Costs, More Transparency Act","On Motion to Suspend the Rules and Pass, as Amended",Passed,320,71,1,41
+House,118,1,707,707,2023-12-11,Countering Weapons of Mass Destruction Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,394,0,0,39
+House,118,1,709,709,2023-12-11,"Airport and Airway Extension Act of 2023, Part II",On Motion to Suspend the Rules and Pass,Passed,376,15,0,42
+House,118,1,711,711,2023-12-12,"Providing for consideration of the bill (H.R. 1147) Whole Milk for Healthy Kids Act and providing for consideration of the bill (H.R. 357) Ensuring Accountability in Agency Rulemaking Act, and for other purposes; and for other purposes.",On Agreeing to the Resolution,Passed,215,207,0,11
+House,118,1,710,710,2023-12-12,"Providing for consideration of the bill (H.R. 1147) Whole Milk for Healthy Kids Act and providing for consideration of the bill (H.R. 357) Ensuring Accountability in Agency Rulemaking Act, and for other purposes; and for other purposes.",On Ordering the Previous Question,Passed,216,205,0,12
+House,118,1,712,712,2023-12-12,Duck Stamp Modernization Act,On Motion to Suspend the Rules and Pass,Passed,403,20,0,10
+House,118,1,713,713,2023-12-12,Protect Small Business and Prevent Illicit Financial Activity Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,420,1,0,12
+House,118,1,714,714,2023-12-12,Foreign Affiliates Sharing Pilot Program Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,396,28,0,9
+House,118,1,715,715,2023-12-12,Support for Patients and Communities Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,386,37,0,10
+House,118,1,716,716,2023-12-12,Ensuring Accountability in Agency Rulemaking Act,On Motion to Recommit,Failed,206,211,0,16
+House,118,1,717,717,2023-12-12,Ensuring Accountability in Agency Rulemaking Act,On Passage,Passed,218,203,0,12
+House,118,1,718,718,2023-12-13,Whole Milk for Healthy Kids Act,On Passage,Passed,330,99,0,4
+House,118,1,719,719,2023-12-13,"Directing certain committees to continue their ongoing investigations as part of the existing House of Representatives inquiry into whether sufficient grounds exist for the House of Representatives to exercise its Constitutional power to impeach Joseph Biden, President of the United States of America",On Ordering the Previous Question,Passed,220,212,0,1
+House,118,1,720,720,2023-12-13,"Directing certain committees to continue their ongoing investigations as part of the existing House of Representatives inquiry into whether sufficient grounds exist for the House of Representatives to exercise its Constitutional power to impeach Joseph Biden, President of the United States of America",On Agreeing to the Resolution,Passed,221,212,0,1
+House,118,1,721,721,2023-12-13,Condemning antisemitism on University campuses and the testimony of University Presidents in the House Committee on Education and the Workforce,On Motion to Suspend the Rules and Agree,Passed,303,126,3,2
+House,118,1,722,722,2023-12-14,,On Motion to Adjourn,Failed,23,307,0,103
+House,118,1,723,723,2023-12-14,National Defense Authorization Act,On Motion to Suspend the Rules and Agree to the Conference Report,Passed,310,118,0,6
+House,118,1,724,724,2023-12-14,Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinsonâs Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,407,9,0,18

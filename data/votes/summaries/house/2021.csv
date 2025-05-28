@@ -1,0 +1,450 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+House,117,1,2,2,2021-01-03,,Election of the Speaker,Pelosi,0,0,0,0
+House,117,1,1,1,2021-01-03,,Call By States,Passed,0,0,427,7
+House,117,1,3,3,2021-01-03,Authorizing and directing the Speaker to administer the oath of office,On Agreeing to the Resolution,Passed,371,2,0,59
+House,117,1,4,4,2021-01-04,"Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",On Motion to Table the Motion to Postpone to a Day Certain,Passed,214,204,0,11
+House,117,1,5,5,2021-01-04,"Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",Table Motion to Refer,Passed,214,196,0,19
+House,117,1,6,6,2021-01-04,"Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",On Ordering the Previous Question,Passed,217,204,0,8
+House,117,1,7,7,2021-01-04,"Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",On Motion to Commit with Instructions,Failed,203,217,0,9
+House,117,1,8,8,2021-01-04,"Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",On Agreeing to the Resolution,Passed,217,206,0,6
+House,117,1,9,9,2021-01-05,Congressional Budget Justification Transparency Act of 2021,On Motion to Suspend the Rules and Pass,Passed,412,2,0,16
+House,117,1,10,10,2021-01-06,,On Agreeing to the Objection,Failed,121,303,0,7
+House,117,1,11,11,2021-01-07,,On Agreeing to the Objection,Failed,138,282,0,11
+House,117,1,12,12,2021-01-12,Providing for consideration of H. Res. 21,On Ordering the Previous Question,Passed,219,206,0,7
+House,117,1,13,13,2021-01-12,Providing for consideration of H. Res. 21,On Agreeing to the Resolution,Passed,222,204,0,7
+House,117,1,14,14,2021-01-12,Calling on Vice President Michael R. Pence to convene and mobilize the principal officers of the executive departments of the Cabinet to activate section 4 of the 25th Amendment to declare President Donald J. Trump incapable of executing the duties of his office and to immediately exercise powers as acting President,On Agreeing to the Resolution,Passed,223,205,0,5
+House,117,1,15,15,2021-01-13,"Providing for consideration of the resolution (H. Res. 24) impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",On Ordering the Previous Question,Passed,221,205,0,6
+House,117,1,17,17,2021-01-13,"Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",On Agreeing to the Resolution,Passed,232,197,0,4
+House,117,1,16,16,2021-01-13,"Providing for consideration of the resolution (H. Res. 24) impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",On Agreeing to the Resolution,Passed,221,203,0,8
+House,117,1,18,18,2021-01-21,To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces,On Passage,Passed,326,78,0,27
+House,117,1,20,20,2021-02-02,Providing for consideration of the bill (H.R. 447) National Apprenticeship Act and providing for consideration of the concurrent resolution (H.Con.Res. 11) establishing the congressional budget for the United States Government for FY 2021 and setting forth the appropriate budgetary levels for FY 2022 through 2030,On Agreeing to the Resolution,Passed,216,210,0,6
+House,117,1,19,19,2021-02-02,Providing for consideration of the bill (H.R. 447) National Apprenticeship Act and providing for consideration of the concurrent resolution (H.Con.Res. 11) establishing the congressional budget for the United States Government for FY 2021 and setting forth the appropriate budgetary levels for FY 2022 through 2030,On Ordering the Previous Question,Passed,219,207,0,5
+House,117,1,21,21,2021-02-03,Establishing the congressional budget for the United States Government for fiscal year 2021 and setting forth the appropriate budgetary levels for fiscal years 2022 through 2030,On Agreeing to the Resolution,Passed,218,212,0,1
+House,117,1,22,22,2021-02-04,Providing for consideration of the resolution (H.Res. 72) removing a certain Member from certain standing committees of the House of Representatives,On Ordering the Previous Question,Passed,218,209,0,4
+House,117,1,23,23,2021-02-04,Providing for consideration of the resolution (H.Res. 72) removing a certain Member from certain standing committees of the House of Representatives,On Agreeing to the Resolution,Passed,218,210,0,3
+House,117,1,24,24,2021-02-04,,On Motion to Adjourn,Failed,205,218,0,8
+House,117,1,25,25,2021-02-04,Removing a certain Member from certain standing committees of the House of Representatives,On Agreeing to the Resolution,Passed,230,199,0,2
+House,117,1,26,26,2021-02-05,Providing for the adoption of the concurrent resolution (S. Con. Res. 5) setting forth the congressional budget for the United States Government for fiscal year 2021 and setting forth the appropriate budgetary levels for fiscal years 2022 through 2030,On Ordering the Previous Question,Passed,220,210,0,1
+House,117,1,27,27,2021-02-05,Providing for the adoption of the concurrent resolution (S. Con. Res. 5) setting forth the congressional budget for the United States Government for fiscal year 2021 and setting forth the appropriate budgetary levels for fiscal years 2022 through 2030,On Agreeing to the Resolution,Passed,219,209,0,3
+House,117,1,28,28,2021-02-05,,On Agreeing to the Amendment,Agreed to,243,178,0,10
+House,117,1,29,29,2021-02-05,,On Agreeing to the Amendment,Failed,186,236,0,9
+House,117,1,30,30,2021-02-05,,On Agreeing to the Amendment,Failed,175,245,0,11
+House,117,1,32,32,2021-02-23,"To designate the facility of the United States Postal Service located at 500 West Main Street, Suite 102 in Tupelo, Mississippi, as the âColonel Carlyle âSmittyâ Harris Post Officeâ",On Motion to Suspend the Rules and Pass,Passed,406,15,0,10
+House,117,1,31,31,2021-02-05,National Apprenticeship Act,On Passage,Passed,247,173,0,11
+House,117,1,33,33,2021-02-24,,On Motion to Adjourn,Failed,202,214,0,15
+House,117,1,35,35,2021-02-24,"Providing for consideration of the bill (H.R. 803) the Colorado Wilderness Act, and providing for consideration of the bill (H.R. 5) the Equality Act",On Agreeing to the Resolution,Passed,218,208,0,5
+House,117,1,34,34,2021-02-24,"Providing for consideration of the bill (H.R. 803) the Colorado Wilderness Act, and providing for consideration of the bill (H.R. 5) the Equality Act",On Ordering the Previous Question,Passed,219,211,0,1
+House,117,1,36,36,2021-02-24,Effective Assistance of Counsel in the Digital Era Act,On Motion to Suspend the Rules and Pass,Passed,414,11,0,6
+House,117,1,37,37,2021-02-24,Puerto Rico Recovery Accuracy in Disclosures Act,On Motion to Suspend the Rules and Pass,Passed,429,0,0,2
+House,117,1,38,38,2021-02-25,,On Motion to Adjourn,Failed,199,219,0,13
+House,117,1,39,39,2021-02-25,Equality Act,On Passage,Passed,224,206,0,2
+House,117,1,41,41,2021-02-26,,On Agreeing to the Amendment,Agreed to,229,198,0,4
+House,117,1,40,40,2021-02-25,Equality Act,Table Motion to Reconsider,Passed,211,195,0,25
+House,117,1,42,42,2021-02-26,,On Agreeing to the Amendment,Agreed to,221,205,0,5
+House,117,1,43,43,2021-02-26,,On Agreeing to the Amendment,Failed,197,226,0,8
+House,117,1,44,44,2021-02-26,Colorado Wilderness Act,On Motion to Recommit,Failed,204,221,0,6
+House,117,1,45,45,2021-02-26,Colorado Wilderness Act,On Passage,Passed,227,200,0,4
+House,117,1,46,46,2021-02-26,Providing for consideration of the bill (H.R. 1319) to provide for reconciliation pursuant to title II of S. Con. Res. 5,On Ordering the Previous Question,Passed,217,205,0,9
+House,117,1,47,47,2021-02-26,Providing for consideration of the bill (H.R. 1319) to provide for reconciliation pursuant to title II of S. Con. Res. 5,On Agreeing to the Resolution,Passed,219,210,0,2
+House,117,1,48,48,2021-02-27,American Rescue Plan Act,On Motion to Recommit,Failed,205,218,0,8
+House,117,1,49,49,2021-02-27,American Rescue Plan Act,On Passage,Passed,219,212,0,1
+House,117,1,50,50,2021-03-01,Providing for consideration of the bill (H.R. 1) For the People Act and providing for consideration of the bill (H.R. 1280) George Floyd Justice in Policing Act.,On Ordering the Previous Question,Passed,220,201,0,10
+House,117,1,51,51,2021-03-01,Providing for consideration of the bill (H.R. 1) For the People Act and providing for consideration of the bill (H.R. 1280) George Floyd Justice in Policing Act.,On Agreeing to the Resolution,Passed,218,207,0,6
+House,117,1,53,53,2021-03-02,,On Agreeing to the Amendment,Failed,97,328,0,6
+House,117,1,52,52,2021-03-02,,On Agreeing to the Amendment,Agreed to,218,210,0,3
+House,117,1,54,54,2021-03-02,,On Agreeing to the Amendment,Failed,207,218,0,6
+House,117,1,56,56,2021-03-03,,On Motion to Adjourn,Failed,182,222,0,27
+House,117,1,55,55,2021-03-02,,On Agreeing to the Amendment,Agreed to,221,207,0,3
+House,117,1,57,57,2021-03-03,,On Agreeing to the Amendment,Failed,125,302,0,4
+House,117,1,58,58,2021-03-03,,On Agreeing to the Amendment,Agreed to,223,208,0,0
+House,117,1,59,59,2021-03-03,George Floyd Justice in Policing Act of 2021,On Motion to Recommit,Failed,208,219,0,4
+House,117,1,60,60,2021-03-03,George Floyd Justice in Policing Act of 2021,On Passage,Passed,220,212,0,0
+House,117,1,61,61,2021-03-03,For the People Act,On Motion to Recommit,Failed,210,219,0,2
+House,117,1,62,62,2021-03-03,For the People Act,On Passage,Passed,220,210,0,2
+House,117,1,63,63,2021-03-08,"Providing for consideration of H.R. 842, Protecting the Right to Organize Act; H.R. 8, Bipartisan Background Checks Act; H.R. 1446, Enhanced Background Checks Act; and for other purposes",On Ordering the Previous Question,Passed,213,195,0,23
+House,117,1,65,65,2021-03-09,Providing for consideration of the Senate amendment to the bill (H.R. 1319) to provide for reconciliation pursuant to title II of S. Con. Res. 5,On Ordering the Previous Question,Passed,216,206,0,9
+House,117,1,64,64,2021-03-08,"Providing for consideration of H.R. 842, Protecting the Right to Organize Act; H.R. 8, Bipartisan Background Checks Act; H.R. 1446, Enhanced Background Checks Act; and for other purposes",On Agreeing to the Resolution,Passed,218,197,0,16
+House,117,1,66,66,2021-03-09,Providing for consideration of the Senate amendment to the bill (H.R. 1319) to provide for reconciliation pursuant to title II of S. Con. Res. 5,On Agreeing to the Resolution,Passed,219,210,0,2
+House,117,1,68,68,2021-03-09,,On Agreeing to the Amendment,Failed,185,243,0,3
+House,117,1,67,67,2021-03-09,,On Agreeing to the Amendment,Agreed to,227,196,0,8
+House,117,1,69,69,2021-03-09,Protecting the Right to Organize Act,On Motion to Recommit,Failed,206,218,0,7
+House,117,1,71,71,2021-03-10,,On Motion to Adjourn,Failed,149,235,0,47
+House,117,1,70,70,2021-03-09,Protecting the Right to Organize Act,On Passage,Passed,225,206,0,1
+House,117,1,72,72,2021-03-10,American Rescue Plan Act,On Motion to Concur in the Senate Amendment,Passed,220,211,0,1
+House,117,1,73,73,2021-03-10,,On Agreeing to the Amendment,Agreed to,225,202,0,3
+House,117,1,74,74,2021-03-11,Bipartisan Background Checks Act,On Motion to Recommit,Failed,207,217,0,6
+House,117,1,76,76,2021-03-11,Enhanced Background Checks Act of 2021,On Motion to Recommit,Failed,206,212,0,12
+House,117,1,75,75,2021-03-11,Bipartisan Background Checks Act,On Passage,Passed,227,203,0,1
+House,117,1,77,77,2021-03-11,Enhanced Background Checks Act of 2021,On Passage,Passed,219,210,0,1
+House,117,1,78,78,2021-03-16,"Providing for consideration of the bill H.R. 1620, Violence Against Women Reauthorization Act; H.R. 6, American Dream and Promise Act; H.R. 1603, Farm Workforce Modernization Act; H.R. 1868, to prevent across-the-board direct spending cuts and H.J.Res. 17, removing deadline for the ratification of the equal rights adt",On Ordering the Previous Question,Passed,212,200,0,17
+House,117,1,79,79,2021-03-16,"Providing for consideration of the bill H.R. 1620, Violence Against Women Reauthorization Act; H.R. 6, American Dream and Promise Act; H.R. 1603, Farm Workforce Modernization Act; H.R. 1868, to prevent across-the-board direct spending cuts and H.J.Res. 17, removing deadline for the ratification of the equal rights adt",On Agreeing to the Resolution,Passed,216,204,0,9
+House,117,1,80,80,2021-03-16,PPP Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,415,3,0,11
+House,117,1,81,81,2021-03-16,Stronger Child Abuse Prevention and Treatment Act,On Motion to Suspend the Rules and Pass,Passed,345,73,0,11
+House,117,1,82,82,2021-03-17,Removing the deadline for the ratification of the equal rights amendment,On Passage,Passed,222,204,0,4
+House,117,1,83,83,2021-03-17,,On Agreeing to the Amendment,Agreed to,228,197,0,4
+House,117,1,84,84,2021-03-17,,On Agreeing to the Amendment,Agreed to,242,174,0,13
+House,117,1,85,85,2021-03-17,,On Agreeing to the Amendment,Failed,177,249,0,3
+House,117,1,86,86,2021-03-17,The Violence Against Women Reauthorization Act of 2021,On Passage,Passed,244,172,0,14
+House,117,1,87,87,2021-03-17,"To award three congressional gold medals to the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021","On Motion to Suspend the Rules and Pass, as Amended",Passed,413,12,0,5
+House,117,1,88,88,2021-03-17,COVID-19 Bankruptcy Relief Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,399,14,0,16
+House,117,1,89,89,2021-03-17,VOCA Fix to Sustain the Crime Victims Fund Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,384,38,0,7
+House,117,1,90,90,2021-03-18,Dream Act,On Motion to Recommit,Failed,203,216,0,10
+House,117,1,91,91,2021-03-18,Dream Act,On Passage,Passed,228,197,0,5
+House,117,1,92,92,2021-03-18,Farm Workforce Modernization Act,On Motion to Recommit,Failed,204,218,0,7
+House,117,1,94,94,2021-03-18,Removing a certain Member from a certain committee of the House of Representatives,On Motion to Table,Passed,218,200,3,9
+House,117,1,93,93,2021-03-18,Farm Workforce Modernization Act,On Passage,Passed,247,174,0,8
+House,117,1,95,95,2021-03-19,"To prevent across-the-board direct spending cuts, and for other purposes",On Motion to Recommit,Failed,202,216,0,11
+House,117,1,96,96,2021-03-19,"To prevent across-the-board direct spending cuts, and for other purposes",On Passage,Passed,246,175,0,8
+House,117,1,97,97,2021-03-19,"Condemning the military coup that took place on February 1, 2021, in Burma and the Burmese military detention of civilian leaders, calling for the release of all those detained and for those elected to serve Parliament to resume their duties, and for other purposes",On Motion to Suspend the Rules and Agree,Passed,398,14,1,17
+House,117,1,98,98,2021-04-13,"To prevent across-the-board direct spending cuts, and for other purposes",On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,384,38,0,6
+House,117,1,99,99,2021-04-14,United States Anti-Doping Agency Reauthorization Act,On Motion to Suspend the Rules and Pass,Passed,381,37,0,11
+House,117,1,100,100,2021-04-14,"Food Allergy Safety, Treatment, Education, and Research Act",On Motion to Suspend the Rules and Pass,Passed,415,11,0,3
+House,117,1,101,101,2021-04-14,Advancing Education on Biosimilars Act,On Motion to Suspend the Rules and Pass,Passed,412,8,0,9
+House,117,1,103,103,2021-04-14,"Providing for consideration of H.R. 7, the Paycheck Fairness Act and H.R. 1195, the Workplace Violence Prevention for Health Care and Social Service Workers Act",On Agreeing to the Resolution,Passed,217,207,0,5
+House,117,1,102,102,2021-04-14,"Providing for consideration of H.R. 7, the Paycheck Fairness Act and H.R. 1195, the Workplace Violence Prevention for Health Care and Social Service Workers Act",On Ordering the Previous Question,Passed,217,208,0,4
+House,117,1,104,104,2021-04-15,Fraud and Scam Reduction Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,396,13,0,20
+House,117,1,105,105,2021-04-15,Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act,On Motion to Suspend the Rules and Pass,Passed,362,49,0,18
+House,117,1,106,106,2021-04-15,,On Agreeing to the Amendment,Agreed to,216,207,0,6
+House,117,1,107,107,2021-04-15,,On Agreeing to the Amendment,Failed,183,244,0,2
+House,117,1,108,108,2021-04-15,Paycheck Fairness Act,On Passage,Passed,217,210,0,2
+House,117,1,109,109,2021-04-15,TRANSPLANT Act,On Motion to Suspend the Rules and Pass,Passed,415,2,0,12
+House,117,1,110,110,2021-04-15,Protecting Seniors from Emergency Scams Act,On Motion to Suspend the Rules and Pass,Passed,413,8,0,8
+House,117,1,111,111,2021-04-15,Protecting Indian Tribes from Scams Act,On Motion to Suspend the Rules and Pass,Passed,408,10,0,11
+House,117,1,112,112,2021-04-15,Debarment Enforcement of Bad Actor Registrants Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,411,5,0,13
+House,117,1,113,113,2021-04-15,Ensuring Compliance Against Drug Diversion Act,On Motion to Suspend the Rules and Pass,Passed,412,5,0,12
+House,117,1,114,114,2021-04-15,Microloan Improvement Act,On Motion to Suspend the Rules and Pass,Passed,397,16,0,16
+House,117,1,115,115,2021-04-15,Microloan Transparency and Accountability Act,On Motion to Suspend the Rules and Pass,Passed,409,4,0,16
+House,117,1,116,116,2021-04-15,504 Modernization and Small Manufacturer Enhancement Act,On Motion to Suspend the Rules and Pass,Passed,400,16,0,13
+House,117,1,117,117,2021-04-16,,On Agreeing to the Amendment,Failed,168,256,0,5
+House,117,1,118,118,2021-04-16,Workplace Violence Prevention for Health Care and Social Service Workers Act,On Passage,Passed,254,166,0,9
+House,117,1,119,119,2021-04-16,504 Credit Risk Management Improvement Act,On Motion to Suspend the Rules and Pass,Passed,411,8,0,10
+House,117,1,121,121,2021-04-19,Condemning the continued violation of rights and freedoms of the people of Hong Kong by the Peopleâs Republic of China and the Government of the Hong Kong Special Administrative Region,On Motion to Suspend the Rules and Agree,Passed,418,1,0,11
+House,117,1,122,122,2021-04-20,Raising a question of the privileges of the House,On Motion to Table,Passed,216,210,0,4
+House,117,1,120,120,2021-04-19,SAFE Banking Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,321,101,0,7
+House,117,1,123,123,2021-04-20,"Providing for consideration of the bill (H.R. 51) Washington, D.C. Admission Act; providing for consideration of the bill (H.R. 1573) Access to Counsel Act; providing for consideration of the bill (H.R. 1333) NO BAN Act; and for other purposes",On Ordering the Previous Question,Passed,216,206,0,7
+House,117,1,125,125,2021-04-20,,On Motion to Suspend the Rules and Pass Certain Bills and Agree to a Resolution,Passed,355,69,0,5
+House,117,1,124,124,2021-04-20,"Providing for consideration of the bill (H.R. 51) Washington, D.C. Admission Act; providing for consideration of the bill (H.R. 1573) Access to Counsel Act; providing for consideration of the bill (H.R. 1333) NO BAN Act; and for other purposes",On Agreeing to the Resolution,Passed,214,207,0,8
+House,117,1,127,127,2021-04-21,NO BAN Act,On Passage,Passed,218,208,0,3
+House,117,1,128,128,2021-04-21,Access to Counsel Act,On Motion to Recommit,Failed,209,215,0,5
+House,117,1,126,126,2021-04-21,NO BAN Act,On Motion to Recommit,Failed,208,216,0,5
+House,117,1,130,130,2021-04-21,Protection of Saudi Dissidents Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,350,71,0,8
+House,117,1,129,129,2021-04-21,Access to Counsel Act,On Passage,Passed,217,207,0,5
+House,117,1,131,131,2021-04-22,"Washington, D.C. Admission Act",On Motion to Recommit,Failed,205,215,0,9
+House,117,1,132,132,2021-04-22,"Washington, D.C. Admission Act",On Passage,Passed,216,208,0,6
+House,117,1,133,133,2021-04-22,,Table Motion to Reconsider,Passed,292,123,0,14
+House,117,1,134,134,2021-05-11,Fairness in Orphan Drug Exclusivity Act,On Motion to Suspend the Rules and Pass,Failed,250,168,0,12
+House,117,1,135,135,2021-05-12,Providing for consideration of the bill (H.R. 2547) Comprehensive Debt Collection Improvement Act; providing for consideration of the bill (H.R. 1065) Pregnant Workers Fairness Act and for other purposes,On Ordering the Previous Question,Passed,212,206,0,12
+House,117,1,136,136,2021-05-12,Providing for consideration of the bill (H.R. 2547) Comprehensive Debt Collection Improvement Act; providing for consideration of the bill (H.R. 1065) Pregnant Workers Fairness Act and for other purposes,On Agreeing to the Resolution,Passed,214,210,0,6
+House,117,1,137,137,2021-05-12,,On Motion to Suspend the Rules and Pass Certain Bills,Passed,349,74,0,7
+House,117,1,139,139,2021-05-13,,On Agreeing to the Amendment,Failed,208,214,0,8
+House,117,1,140,140,2021-05-13,,On Agreeing to the Amendment,Failed,199,224,0,7
+House,117,1,138,138,2021-05-13,,On Agreeing to the Amendment,Agreed to,210,202,0,18
+House,117,1,141,141,2021-05-13,Comprehensive Debt Collection Improvement Act,On Passage,Passed,215,207,0,8
+House,117,1,142,142,2021-05-13,Behavioral Intervention Guidelines Act of 2021,On Motion to Suspend the Rules and Pass,Passed,323,93,2,12
+House,117,1,143,143,2021-05-14,Pregnant Workers Fairness Act,On Passage,Passed,315,101,0,14
+House,117,1,144,144,2021-05-17,VA Transparency & Trust Act,On Motion to Suspend the Rules and Pass,Passed,411,4,0,14
+House,117,1,145,145,2021-05-18,COVID-19 Hate Crimes Act,On Motion to Suspend the Rules and Pass,Passed,364,62,0,3
+House,117,1,146,146,2021-05-18,"Providing for consideration of H.R. 1629,the Fairness in Orphan Drug Exclusivity Act; and H. Res. 275, condemning the horrific shootings in Atlanta, GA on March 16, 2021",On Ordering the Previous Question,Passed,217,209,0,3
+House,117,1,147,147,2021-05-18,"Providing for consideration of H.R. 1629,the Fairness in Orphan Drug Exclusivity Act; and H. Res. 275, condemning the horrific shootings in Atlanta, GA on March 16, 2021",On Agreeing to the Resolution,Passed,212,206,0,11
+House,117,1,148,148,2021-05-18,,On Motion to Suspend the Rules and Pass Certain Bills,Passed,350,75,0,4
+House,117,1,149,149,2021-05-19,"Condemning the horrific shootings in Atlanta, Georgia, on March 16, 2021, and reaffirming the House of Representativeâs commitment to combating hate, bigotry, and violence against the Asian-American and Pacific Islander community",On Agreeing to the Resolution,Passed,245,180,0,4
+House,117,1,150,150,2021-05-19,Fairness in Orphan Drug Exclusivity Act,On Passage,Passed,402,23,0,4
+House,117,1,151,151,2021-05-19,"Providing for consideration of the bill (H.R. 3233) National Commission to Investigate the January 6 Attack on the United States Capitol Complex Act; and providing for consideration of the bill (H.R. 3237) Emergency Security Supplemental to Respond to January 6th Appropriations Act, 2021, and for other purposes",On Ordering the Previous Question,Passed,217,208,0,4
+House,117,1,152,152,2021-05-19,"Providing for consideration of the bill (H.R. 3233) National Commission to Investigate the January 6 Attack on the United States Capitol Complex Act; and providing for consideration of the bill (H.R. 3237) Emergency Security Supplemental to Respond to January 6th Appropriations Act, 2021, and for other purposes",On Agreeing to the Resolution,Passed,216,208,0,5
+House,117,1,153,153,2021-05-19,"Directing the Attending Physician to take timely action to provide updated mask wearing guidance applicable to the Hall of the House of Representatives and committee meeting spaces for Members & staff who are vaccinated against Covid-19, consistent with the public guidance released by the CDC & Prevention May 13, 2021",On Motion to Table,Passed,218,210,0,2
+House,117,1,154,154,2021-05-19,National Commission to Investigate the January 6 Attack on the United States Capitol Complex Act,On Passage,Passed,252,175,0,3
+House,117,1,155,155,2021-05-20,"Making emergency supplemental appropriations for the fiscal year ending September 30, 2021, and for other purposes",On Motion to Recommit,Failed,209,218,0,2
+House,117,1,156,156,2021-05-20,"Making emergency supplemental appropriations for the fiscal year ending September 30, 2021, and for other purposes",On Passage,Passed,213,212,3,2
+House,117,1,157,157,2021-06-14,"Providing for consideration of the bill (H.R. 256) to repeal the Authorization for Use of Military Force Against Iraq Resolution of 2002; providing for consideration of the bill (H.R. 1187) ESG Disclosure Simplification Act, and for other purposes; and for other purposes",On Ordering the Previous Question,Passed,217,203,0,10
+House,117,1,158,158,2021-06-14,"Providing for consideration of the bill (H.R. 256) to repeal the Authorization for Use of Military Force Against Iraq Resolution of 2002; providing for consideration of the bill (H.R. 1187) ESG Disclosure Simplification Act, and for other purposes; and for other purposes",On Agreeing to the Resolution,Passed,216,206,0,8
+House,117,1,159,159,2021-06-15,,On Motion to Suspend the Rules and Pass Certain Bills,Passed,287,140,0,3
+House,117,1,160,160,2021-06-15,Equal Access to Contraception for Veterans Act,On Motion to Suspend the Rules and Pass,Failed,240,188,0,2
+House,117,1,161,161,2021-06-15,"To award four congressional gold medals to the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021","On Motion to Suspend the Rules and Pass, as Amended",Passed,406,21,0,4
+House,117,1,162,162,2021-06-15,LGBTQ Business Equal Credit Enforcement and Investment Act,"On Motion to Suspend the Rules and Pass, as Amended",Failed,248,177,0,5
+House,117,1,163,163,2021-06-16,"Providing for consideration of the bill (S. 475) to amend title 5, United States Code, to designate Juneteenth National Independence Day as a legal public holiday",On Agreeing to the Resolution,Passed,214,208,0,8
+House,117,1,164,164,2021-06-16,,On Agreeing to the Amendment,Failed,209,218,0,3
+House,117,1,165,165,2021-06-16,,On Agreeing to the Amendment,Agreed to,215,211,0,4
+House,117,1,166,166,2021-06-16,,On Agreeing to the Amendment,Failed,204,225,0,1
+House,117,1,167,167,2021-06-16,,On Agreeing to the Amendment,Agreed to,380,47,0,3
+House,117,1,168,168,2021-06-16,ESG Disclosure Simplification Act,On Motion to Recommit,Failed,207,218,0,5
+House,117,1,170,170,2021-06-16,Juneteenth National Independence Day Act,On Passage,Passed,415,14,0,2
+House,117,1,169,169,2021-06-16,ESG Disclosure Simplification Act,On Passage,Passed,215,214,0,2
+House,117,1,171,171,2021-06-17,To repeal the Authorization for Use of Military Force Against Iraq Resolution of 2002,On Motion to Recommit,Failed,204,219,0,7
+House,117,1,173,173,2021-06-22,Enhancing State Energy Security Planning and Emergency Preparedness Act,On Motion to Suspend the Rules and Pass,Passed,398,21,0,11
+House,117,1,172,172,2021-06-17,To repeal the Authorization for Use of Military Force Against Iraq Resolution of 2002,On Passage,Passed,268,161,0,2
+House,117,1,174,174,2021-06-22,Preventing Crimes Against Veterans Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,416,5,0,9
+House,117,1,175,175,2021-06-23,Providing for consideration of the bills (H.R. 2062) Protecting Older Workers Against Discrimination Act; (H.R. 239) Equal Access to Contraception for Veterans Act; (H.R. 1443) LGBTQ Business Equal Credit Enforcement and Investment Act; S.J.Res. 13; S.J.Res. 14 and S. J.Res. 15; and for other purposes.,On Ordering the Previous Question,Passed,218,209,0,3
+House,117,1,176,176,2021-06-23,Providing for consideration of the bills (H.R. 2062) Protecting Older Workers Against Discrimination Act; (H.R. 239) Equal Access to Contraception for Veterans Act; (H.R. 1443) LGBTQ Business Equal Credit Enforcement and Investment Act; S.J.Res. 13; S.J.Res. 14 and S. J.Res. 15; and for other purposes.,On Agreeing to the Resolution,Passed,218,205,0,7
+House,117,1,177,177,2021-06-23,,On Motion to Suspend the Rules and Pass Certain Bills,Passed,325,103,0,2
+House,117,1,178,178,2021-06-23,,On Agreeing to the Amendment,Agreed to,231,192,0,7
+House,117,1,179,179,2021-06-23,,On Agreeing to the Amendment,Failed,182,243,0,5
+House,117,1,180,180,2021-06-23,Protecting Older Workers Against Discrimination Act of 2021,On Passage,Passed,247,178,0,5
+House,117,1,181,181,2021-06-24,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of Currency relating to âNational Banks and Federal Savings Associations as Lendersâ",On Passage,Passed,218,208,0,4
+House,117,1,182,182,2021-06-24,LGBTQ Business Equal Credit Enforcement and Investment Act,On Passage,Passed,252,176,0,2
+House,117,1,183,183,2021-06-24,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Equal Employment Opportunity Commission relating to âUpdate of Commissionâs Conciliation Proceduresâ",On Passage,Passed,219,210,0,1
+House,117,1,185,185,2021-06-25,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to âOil and Natural Gas Sector: Emission Standards for New, Reconstructed, and Modified Sources Reviewâ",On Passage,Passed,229,191,0,10
+House,117,1,184,184,2021-06-24,Equal Access to Contraception for Veterans Act,On Passage,Passed,245,181,0,4
+House,117,1,186,186,2021-06-28,National Science Foundation for the Future Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,345,67,0,18
+House,117,1,187,187,2021-06-28,Department of Energy Science for the Future Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,351,68,0,11
+House,117,1,188,188,2021-06-28,Global Health Security Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,307,112,0,11
+House,117,1,189,189,2021-06-29,"Providing for consideration of H.R. 2662, IG Independence and Empowerment Act; H.R. 3005, directing the Joint Committee on the Library to replace certain statues in the Capitol; H.R. 3684, INVEST in America Act; H. Res. 503, establishing a Select Committee to Investigate the January 6th attack on the Capitol",On Ordering the Previous Question,Passed,214,195,0,21
+House,117,1,190,190,2021-06-29,"Providing for consideration of H.R. 2662, IG Independence and Empowerment Act; H.R. 3005, directing the Joint Committee on the Library to replace certain statues in the Capitol; H.R. 3684, INVEST in America Act; H. Res. 503, establishing a Select Committee to Investigate the January 6th attack on the Capitol",On Agreeing to the Resolution,Passed,218,197,0,15
+House,117,1,191,191,2021-06-29,,On Motion to Suspend the Rules and Pass Certain Bills and Agree to Certain Resolutions,Passed,366,46,0,18
+House,117,1,192,192,2021-06-29,Trans-Sahara Counterterrorism Partnership Program Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,395,15,0,20
+House,117,1,193,193,2021-06-29,,On Agreeing to the Amendment,Agreed to,219,184,0,27
+House,117,1,194,194,2021-06-29,,On Agreeing to the Amendment,Failed,182,220,0,28
+House,117,1,195,195,2021-06-29,IG Independence and Empowerment Act,On Passage,Passed,221,182,0,27
+House,117,1,196,196,2021-06-29,Directing the Joint Committee on the Library to replace certain statues in the United States Capitol,On Passage,Passed,285,120,0,26
+House,117,1,197,197,2021-06-30,Establishing the Select Committee to Investigate the January 6th Attack on the United States Capitol,On Agreeing to the Resolution,Passed,222,190,0,19
+House,117,1,198,198,2021-06-30,"Providing for further consideration of the bil (H.R. 3684) to authorize funds for Federal-Aid Highways, Highway Safety Programs, and Transit Programs, and for other purposes; and for other purposes",On Ordering the Previous Question,Passed,219,188,0,23
+House,117,1,199,199,2021-06-30,,On Agreeing to the Amendment,Failed,84,325,0,21
+House,117,1,200,200,2021-06-30,"Providing for further consideration of the bil (H.R. 3684) to authorize funds for Federal-Aid Highways, Highway Safety Programs, and Transit Programs, and for other purposes; and for other purposes",On Agreeing to the Resolution,Passed,219,190,0,21
+House,117,1,201,201,2021-06-30,,On Agreeing to the Amendment,Agreed to,217,186,0,27
+House,117,1,202,202,2021-06-30,,On Agreeing to the Amendment,Failed,180,226,0,24
+House,117,1,203,203,2021-06-30,,On Agreeing to the Amendment,Agreed to,221,187,0,22
+House,117,1,204,204,2021-06-30,,On Agreeing to the Amendment,Agreed to,230,178,0,22
+House,117,1,205,205,2021-07-01,,On Agreeing to the Amendment,Agreed to,217,199,0,14
+House,117,1,206,206,2021-07-01,,On Agreeing to the Amendment,Agreed to,220,200,0,10
+House,117,1,207,207,2021-07-01,INVEST in America Act,On Motion to Recommit,Failed,202,217,0,11
+House,117,1,208,208,2021-07-01,INVEST in America Act,On Passage,Passed,221,201,0,8
+House,117,1,210,210,2021-07-20,"Providing for consideration of H.R. 2467, the PFAS Action Act of 2021; H.R. 2668, the Consumer Protection and Recovery Act; and H.R. 3985, the Allies Act of 2021, and for other purposes",On Ordering the Previous Question,Passed,216,207,0,7
+House,117,1,209,209,2021-07-19,Divided Families Reunification Act,On Motion to Suspend the Rules and Pass,Passed,415,0,0,15
+House,117,1,211,211,2021-07-20,"Providing for consideration of H.R. 2467, the PFAS Action Act of 2021; H.R. 2668, the Consumer Protection and Recovery Act; and H.R. 3985, the Allies Act of 2021, and for other purposes",On Agreeing to the Resolution,Passed,219,208,0,3
+House,117,1,212,212,2021-07-20,,On Motion to Suspend the Rules and Pass Certain Bills and Agree to Certain Resolutions,Passed,319,105,0,6
+House,117,1,213,213,2021-07-20,Consumer Protection and Recovery Act,On Motion to Recommit,Failed,207,217,0,6
+House,117,1,214,214,2021-07-20,Consumer Protection and Recovery Act,On Passage,Passed,221,205,0,4
+House,117,1,215,215,2021-07-21,,On Agreeing to the Amendment,Agreed to,226,195,0,9
+House,117,1,216,216,2021-07-21,PFAS Action Act,On Motion to Recommit,Failed,204,218,0,8
+House,117,1,217,217,2021-07-21,PFAS Action Act,On Passage,Passed,241,183,0,6
+House,117,1,218,218,2021-07-22,Allies Act,On Passage,Passed,407,16,0,7
+House,117,1,219,219,2021-07-26,Raising a Question of the Privileges of the House,On Motion to Table,Passed,218,197,0,15
+House,117,1,220,220,2021-07-26,"To authorize the National Medal of Honor Museum Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,416,0,0,14
+House,117,1,221,221,2021-07-26,Gold Star Mothers Family Monument Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,412,0,0,18
+House,117,1,223,223,2021-07-27,"Providing for consideration of the bill (H.R. 4502) making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2022, and for other purposes; and for other purposes",On Agreeing to the Resolution,Passed,218,207,0,5
+House,117,1,222,222,2021-07-27,"Providing for consideration of the bill (H.R. 4502) making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2022, and for other purposes; and for other purposes",On Ordering the Previous Question,Passed,217,201,0,12
+House,117,1,224,224,2021-07-27,To direct the Secretary of Veterans Affairs to ensure that certain medical facilities of the Department of Veterans Affairs have physical locations for the disposal of controlled substances medications,On Motion to Suspend the Rules and Pass,Passed,424,0,0,6
+House,117,1,225,225,2021-07-27,Major Medical Facility Authorization Act,On Motion to Suspend the Rules and Pass,Passed,413,7,0,10
+House,117,1,226,226,2021-07-27,,On Agreeing to the Amendment,Failed,154,264,0,12
+House,117,1,227,227,2021-07-27,,On Agreeing to the Amendment,Agreed to,220,203,0,7
+House,117,1,228,228,2021-07-27,,On Agreeing to the Amendment,Failed,192,232,0,6
+House,117,1,229,229,2021-07-27,,On Agreeing to the Amendment,Failed,147,276,0,7
+House,117,1,230,230,2021-07-27,,On Agreeing to the Amendment,Failed,140,285,0,5
+House,117,1,231,231,2021-07-28,,On Motion to Adjourn,Failed,197,225,0,8
+House,117,1,232,232,2021-07-28,"Providing for consideration of the bills (H.R. 4346) Legislative Branch Appropriations Act, 2022; (H.R. 4373) Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022; and (H.R. 4505) Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022",On Ordering the Previous Question,Passed,217,208,0,5
+House,117,1,233,233,2021-07-28,"Providing for consideration of the bills (H.R. 4346) Legislative Branch Appropriations Act, 2022; (H.R. 4373) Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022; and (H.R. 4505) Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022",On Agreeing to the Resolution,Passed,217,208,0,6
+House,117,1,234,234,2021-07-28,"Providing for consideration of the bills (H.R. 4346) Legislative Branch Appropriations Act, 2022; (H.R. 4373) Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022; and (H.R. 4505) Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022",Table Motion to Reconsider,Passed,201,192,0,37
+House,117,1,235,235,2021-07-28,,On Motion to Adjourn,Failed,174,216,0,40
+House,117,1,236,236,2021-07-28,,On Agreeing to the Amendment,Agreed to,220,207,0,3
+House,117,1,237,237,2021-07-28,,On Agreeing to the Amendment,Failed,180,243,0,7
+House,117,1,238,238,2021-07-28,"Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",On Motion to Recommit,Failed,202,218,0,10
+House,117,1,239,239,2021-07-28,"Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",On Passage,Passed,215,207,0,8
+House,117,1,240,240,2021-07-28,,On Agreeing to the Amendment,Failed,202,217,0,11
+House,117,1,241,241,2021-07-28,,On Agreeing to the Amendment,Agreed to,217,200,0,13
+House,117,1,242,242,2021-07-28,"Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2022, and for other programs",On Motion to Recommit,Failed,207,217,0,6
+House,117,1,243,243,2021-07-28,"Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2022, and for other programs",On Passage,Passed,217,212,0,2
+House,117,1,244,244,2021-07-29,,On Agreeing to the Amendment,Agreed to,371,55,0,4
+House,117,1,245,245,2021-07-29,,On Agreeing to the Amendment,Agreed to,221,206,0,3
+House,117,1,246,246,2021-07-29,"Making appropriations for the Departments of Labor, Health and Human Services, and Eduction, and related agencies for the fiscal year ending September 30, 2022, and for other purposes",On Motion to Recommit,Failed,208,217,0,5
+House,117,1,247,247,2021-07-29,"Making appropriations for the Departments of Labor, Health and Human Services, and Eduction, and related agencies for the fiscal year ending September 30, 2022, and for other purposes",On Passage,Passed,219,208,0,4
+House,117,1,248,248,2021-07-29,"Making appropriations for the Departments of Labor, Health and Human Services, and Eduction, and related agencies for the fiscal year ending September 30, 2022, and for other purposes",Table Motion to Reconsider,Passed,219,209,0,2
+House,117,1,249,249,2021-07-29,,On Motion to Adjourn,Failed,173,242,0,15
+House,117,1,251,251,2021-07-29,"To authorize the Secretary of the Interior to designate the September 11th National Memorial Trail, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,423,0,0,7
+House,117,1,250,250,2021-07-29,"Making emergency supplemental appropriations for the fiscal year ending September 30, 2021, and for other purposes",On Motion to Suspend the Rules and Concur in the Senate Amendment,Passed,416,11,0,4
+House,117,1,252,252,2021-07-29,"To authorize the Secretary of the Interior to designate the September 11th National Memorial Trail, and for other purposes",Table Motion to Reconsider,Passed,239,181,0,10
+House,117,1,253,253,2021-07-29,Amache National Historic Site Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,416,2,0,12
+House,117,1,254,254,2021-07-29,Alexander Lofgren Veterans in Parks (VIP) Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,420,0,0,10
+House,117,1,255,255,2021-08-23,"To amend the Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act to extend the deadline for a report by the Alyce Spotted Bear and Walter Soboleff Commission on Native Children, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,418,7,0,6
+House,117,1,256,256,2021-08-23,Congressional Budget Justification Transparency Act,On Motion to Suspend the Rules and Pass,Passed,423,1,0,7
+House,117,1,257,257,2021-08-24,Providing for consideration of (H.R. 4) John R. Lewis Voting Rights Advancement Act; providing for consideration of the Senate amendment to (H.R. 3684) Infrastructure Investment and Jobs Act; and providing for the adoption of the concurrent resolution (S. Con. Res. 14); and for other purposes,On Ordering the Previous Question,Passed,220,212,0,0
+House,117,1,258,258,2021-08-24,Providing for consideration of (H.R. 4) John R. Lewis Voting Rights Advancement Act; providing for consideration of the Senate amendment to (H.R. 3684) Infrastructure Investment and Jobs Act; and providing for the adoption of the concurrent resolution (S. Con. Res. 14); and for other purposes,On Agreeing to the Resolution,Passed,220,212,0,0
+House,117,1,260,260,2021-08-24,John R. Lewis Voting Rights Advancement Act,On Passage,Passed,219,212,0,1
+House,117,1,259,259,2021-08-24,John R. Lewis Voting Rights Advancement Act,On Motion to Recommit,Failed,212,218,0,1
+House,117,1,261,261,2021-09-20,Department of Veterans Affairs Expiring Authorities Act,On Motion to Suspend the Rules and Pass,Passed,423,0,0,8
+House,117,1,263,263,2021-09-21,"Providing for consideration of H.R. 3755, the Womenâs Health Protection Act of 2021; H.R. 4350, the National Defense Authorization Act for Fiscal Year 2022; and H.R. 5305, the Extending Government Funding and Delivering Emergency Assistance Act, and for other purposes",On Ordering the Previous Question,Passed,218,210,0,3
+House,117,1,262,262,2021-09-20,Veteransâ Compensation Cost-of-Living Adjustment Act,On Motion to Suspend the Rules and Pass,Passed,423,0,0,8
+House,117,1,264,264,2021-09-21,"Providing for consideration of H.R. 3755, the Womenâs Health Protection Act of 2021; H.R. 4350, the National Defense Authorization Act for Fiscal Year 2022; and H.R. 5305, the Extending Government Funding and Delivering Emergency Assistance Act, and for other purposes",On Agreeing to the Resolution,Passed,217,207,0,7
+House,117,1,265,265,2021-09-21,HAVANA Act,On Motion to Suspend the Rules and Pass,Passed,427,0,0,4
+House,117,1,266,266,2021-09-21,Extending Government Funding and Delivering Emergency Assistance Act,On Motion to Recommit,Failed,209,215,0,7
+House,117,1,267,267,2021-09-21,Extending Government Funding and Delivering Emergency Assistance Act,On Passage,Passed,220,211,0,1
+House,117,1,269,269,2021-09-22,,On Agreeing to the Amendment,Agreed to,219,204,0,8
+House,117,1,268,268,2021-09-21,,On Motion to Adjourn,Failed,163,216,0,52
+House,117,1,270,270,2021-09-22,,On Agreeing to the Amendment,Agreed to,235,190,0,6
+House,117,1,271,271,2021-09-22,,On Agreeing to the Amendment,Agreed to,222,203,0,6
+House,117,1,272,272,2021-09-22,,On Agreeing to the Amendment,Agreed to,236,186,0,9
+House,117,1,273,273,2021-09-22,,On Agreeing to the Amendment,Agreed to,222,200,0,9
+House,117,1,274,274,2021-09-22,,On Agreeing to the Amendment,Agreed to,224,204,0,3
+House,117,1,275,275,2021-09-23,"Making supplemental appropriations for the fiscal year ending September 30, 2022, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,420,9,2,1
+House,117,1,276,276,2021-09-23,,On Agreeing to the Amendment,Failed,141,286,0,4
+House,117,1,277,277,2021-09-23,,On Agreeing to the Amendment,Agreed to,219,202,0,10
+House,117,1,278,278,2021-09-23,,On Agreeing to the Amendment,Agreed to,219,207,0,5
+House,117,1,279,279,2021-09-23,,On Agreeing to the Amendment,Agreed to,223,204,0,4
+House,117,1,280,280,2021-09-23,,On Agreeing to the Amendment,Agreed to,223,202,0,6
+House,117,1,281,281,2021-09-23,,On Agreeing to the Amendment,Failed,198,231,0,2
+House,117,1,282,282,2021-09-23,,On Agreeing to the Amendment,Failed,118,299,0,14
+House,117,1,283,283,2021-09-23,,On Agreeing to the Amendment,Failed,167,256,0,8
+House,117,1,284,284,2021-09-23,,On Agreeing to the Amendment,Failed,86,332,0,13
+House,117,1,285,285,2021-09-23,,On Agreeing to the Amendment,Failed,142,286,0,3
+House,117,1,286,286,2021-09-23,,On Agreeing to the Amendment,Agreed to,225,187,0,19
+House,117,1,287,287,2021-09-23,,On Agreeing to the Amendment,Agreed to,234,183,0,14
+House,117,1,288,288,2021-09-23,,On Agreeing to the Amendment,Agreed to,367,59,0,5
+House,117,1,289,289,2021-09-23,,On Agreeing to the Amendment,Agreed to,362,59,0,10
+House,117,1,290,290,2021-09-23,,On Agreeing to the Amendment,Agreed to,360,66,0,5
+House,117,1,291,291,2021-09-23,,On Agreeing to the Amendment,Agreed to,240,185,0,6
+House,117,1,292,292,2021-09-23,,On Agreeing to the Amendment,Agreed to,215,213,0,3
+House,117,1,293,293,2021-09-23,National Defense Authorization Act for Fiscal Year 2022,On Passage,Passed,316,113,0,2
+House,117,1,294,294,2021-09-24,Womenâs Health Protection Act,On Motion to Recommit,Failed,210,219,0,2
+House,117,1,295,295,2021-09-24,Womenâs Health Protection Act,On Passage,Passed,218,211,0,3
+House,117,1,296,296,2021-09-27,,On Motion to Adjourn,Failed,193,228,0,10
+House,117,1,297,297,2021-09-28,Eliminating a Quantifiably Unjust Application of the Law Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,361,66,0,4
+House,117,1,298,298,2021-09-28,"To amend the Fentanyl Sanctions Act, to modify certain deadlines relating to the Commission on Combating Synthetic Opioid Trafficking",On Motion to Suspend the Rules and Pass,Passed,410,14,0,7
+House,117,1,299,299,2021-09-28,War Crimes Rewards Expansion Act,On Motion to Suspend the Rules and Pass,Passed,412,9,0,10
+House,117,1,300,300,2021-09-28,Libya Stabilization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,386,35,0,10
+House,117,1,301,301,2021-09-28,Cambodia Democracy Act of 2021,"On Motion to Suspend the Rules and Pass, as Amended",Passed,403,17,0,11
+House,117,1,302,302,2021-09-28,Consider Teachers Act,On Motion to Suspend the Rules and Pass,Passed,406,16,0,9
+House,117,1,303,303,2021-09-28,Great Dismal Swamp National Heritage Area Act,On Motion to Suspend the Rules and Pass,Passed,391,36,0,4
+House,117,1,304,304,2021-09-28,Performance Enhancement Reform Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,414,10,0,7
+House,117,1,305,305,2021-09-29,Providing for consideration of the bill (S. 1301) to provide for the publication by the Secretary of Health and Human Services of physical activity recommendations for Americans,On Ordering the Previous Question,Passed,217,206,2,6
+House,117,1,306,306,2021-09-29,Providing for consideration of the bill (S. 1301) to provide for the publication by the Secretary of Health and Human Services of physical activity recommendations for Americans,On Agreeing to the Resolution,Passed,214,212,0,5
+House,117,1,307,307,2021-09-29,Federal Rotational Cyber Workforce Program Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,15,0,6
+House,117,1,308,308,2021-09-29,District of Columbia Chief Financial Officer Salary Home Rule Act,On Motion to Suspend the Rules and Pass,Failed,259,170,0,2
+House,117,1,309,309,2021-09-29,Promoting Physical Activity for Americans Act,On Motion to Commit,Failed,211,219,0,1
+House,117,1,311,311,2021-09-30,Extending Government Funding and Delivering Emergency Assistance Act,On Motion to Concur in the Senate Amendment,Passed,254,175,0,3
+House,117,1,310,310,2021-09-29,Promoting Physical Activity for Americans Act,On Passage,Passed,219,212,0,1
+House,117,1,312,312,2021-09-30,"To establish occupational series for Federal positions in software development, software engineering, data science, and data management, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,416,9,0,6
+House,117,1,313,313,2021-10-01,Surface Transportation Extension Act,On Motion to Suspend the Rules and Pass,Passed,365,51,0,15
+House,117,1,314,314,2021-10-12,,On Motion to Adjourn,Failed,198,223,0,10
+House,117,1,315,315,2021-10-12,"Providing for consideration of H.R. 2119, the Family Violence and Services Improvement Act; H.R. 3110, PUMP for Nursing Mothers Act; H.R. 3992, POJA Act of 2021; relating to consideration of the Senate amendment to the House amendment to S. 1301, Promoting Physical Activity for Americans Act, and for other purposes",On Agreeing to the Resolution,Passed,219,206,0,7
+House,117,1,316,316,2021-10-19,Free Veterans from Fees Act,On Motion to Suspend the Rules and Pass,Passed,421,3,0,7
+House,117,1,317,317,2021-10-19,Darren Drake Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,379,51,0,1
+House,117,1,318,318,2021-10-19,National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufacturing Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,368,56,0,7
+House,117,1,319,319,2021-10-20,DHS Software Supply Chain Risk Management Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,412,2,0,17
+House,117,1,320,320,2021-10-20,State Opiod Response Grant Authorization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,380,46,0,5
+House,117,1,321,321,2021-10-20,Drug-Free Communities Pandemic Relief Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,395,30,0,6
+House,117,1,322,322,2021-10-20,Strengthening Americaâs Strategic National Stockpile Act,On Motion to Suspend the Rules and Pass,Passed,397,22,0,12
+House,117,1,323,323,2021-10-20,Secure Equipment Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,420,4,0,7
+House,117,1,324,324,2021-10-20,Open RAN Outreach Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,17,0,4
+House,117,1,326,326,2021-10-20,Information and Communication Technology Strategy Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,413,14,0,4
+House,117,1,325,325,2021-10-20,"Communications Security, Reliability, and Interoperability Council Act","On Motion to Suspend the Rules and Pass, as Amended",Passed,397,29,0,5
+House,117,1,327,327,2021-10-21,Relating to the consideration of House Report 117-152 and an accompanying resolution,On Ordering the Previous Question,Passed,221,206,0,4
+House,117,1,329,329,2021-10-21,Recommending that the House of Representatives find Stephen K. Bannon in contempt of Congress for refusal to comply with a subpoena duly issued by the Select Committee to Investigate the January 6th Attack on the United States Capitol,On Agreeing to the Resolution,Passed,229,202,0,1
+House,117,1,328,328,2021-10-21,Relating to the consideration of House Report 117-152 and an accompanying resolution,On Agreeing to the Resolution,Passed,221,205,0,5
+House,117,1,330,330,2021-10-22,PUMP for Nursing Mothers Act,On Motion to Recommit,Failed,200,224,0,7
+House,117,1,332,332,2021-10-25,Sovereign Debt Contract Capacity Act,On Motion to Suspend the Rules and Pass,Passed,391,29,0,11
+House,117,1,331,331,2021-10-22,PUMP for Nursing Mothers Act,On Passage,Passed,276,149,0,6
+House,117,1,333,333,2021-10-25,Financial Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,400,19,0,12
+House,117,1,334,334,2021-10-26,,On Agreeing to the Amendment,Agreed to,238,189,0,4
+House,117,1,335,335,2021-10-26,,On Agreeing to the Amendment,Failed,175,250,0,6
+House,117,1,336,336,2021-10-26,Family Violence Prevention and Services Improvement Act,On Passage,Passed,228,200,0,3
+House,117,1,337,337,2021-10-27,Confidentiality Opportunities for Peer Support Counseling Act,On Motion to Suspend the Rules and Pass,Passed,424,3,0,4
+House,117,1,338,338,2021-10-27,Protecting Americaâs First Responders Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,420,3,0,8
+House,117,1,339,339,2021-10-28,Further Surface Transportation Extension Act of 2021,On Motion to Suspend the Rules and Pass,Passed,358,59,0,14
+House,117,1,340,340,2021-11-01,Catawba Indian Nation Lands Act,On Motion to Suspend the Rules and Pass,Passed,361,55,3,12
+House,117,1,341,341,2021-11-01,Lumbee Recognition Act,On Motion to Suspend the Rules and Pass,Passed,357,59,1,14
+House,117,1,342,342,2021-11-02,Pala Band of Mission Indians Land Transfer Act,On Motion to Suspend the Rules and Pass,Passed,397,25,0,9
+House,117,1,344,344,2021-11-02,Bear River National Heritage Area Study Act,On Motion to Suspend the Rules and Pass,Passed,399,23,0,9
+House,117,1,343,343,2021-11-02,Urban Indian Health Confer Act,On Motion to Suspend the Rules and Pass,Passed,406,17,0,8
+House,117,1,345,345,2021-11-02,"To authorize the Seminole Tribe of Florida to lease or transfer certain land, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,425,2,0,4
+House,117,1,346,346,2021-11-02,Old Pascua Community Land Acquisition Act,On Motion to Suspend the Rules and Pass,Passed,375,45,1,10
+House,117,1,347,347,2021-11-02,Eastern Band of Cherokee Historic Lands Reacquisition Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,407,16,0,8
+House,117,1,348,348,2021-11-02,Veteran Entrepreneurship Training Act of 2021,On Motion to Suspend the Rules and Pass,Passed,418,2,0,11
+House,117,1,349,349,2021-11-02,Investing in Main Street Act of 2021,"On Motion to Suspend the Rules and Pass, as Amended",Passed,413,10,0,8
+House,117,1,350,350,2021-11-02,SBA Cyber Awareness Act,On Motion to Suspend the Rules and Pass,Passed,423,0,0,8
+House,117,1,351,351,2021-11-02,Small Business 7(a) Loan Agent Transparency Act,On Motion to Suspend the Rules and Pass,Passed,407,9,0,15
+House,117,1,352,352,2021-11-02,7(a) Loan Agent Oversight Act,On Motion to Suspend the Rules and Pass,Passed,411,9,0,11
+House,117,1,353,353,2021-11-02,Small Business Development Center Cyber Training Act of 2021,On Motion to Suspend the Rules and Pass,Passed,409,14,0,8
+House,117,1,354,354,2021-11-03,RENACER Act,On Motion to Suspend the Rules and Pass,Passed,387,35,4,5
+House,117,1,355,355,2021-11-03,"Expressing solidarity with Cuban citizens demonstrating peacefully for fundamental freedoms, condemning the Cuban regimeâs acts of repression, and calling for the immediate release of arbitrarily detained Cuban citizens",On Motion to Suspend the Rules and Agree,Passed,382,40,4,5
+House,117,1,356,356,2021-11-04,,On Agreeing to the Amendment,Agreed to,225,201,0,5
+House,117,1,357,357,2021-11-04,,On Agreeing to the Amendment,Failed,197,228,0,6
+House,117,1,359,359,2021-11-04,Hazard Eligibility and Local Projects Act,On Motion to Suspend the Rules and Pass,Passed,409,16,0,6
+House,117,1,358,358,2021-11-04,Protect Older Job Applicants Act of 2021,On Passage,Passed,224,200,0,7
+House,117,1,360,360,2021-11-04,Advanced Air Mobility Coordination and Leadership Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,383,41,0,9
+House,117,1,361,361,2021-11-04,E-BRIDGE Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,16,0,7
+House,117,1,362,362,2021-11-04,Preliminary Damage Assessment Improvement Act,On Motion to Suspend the Rules and Pass,Passed,402,11,0,20
+House,117,1,363,363,2021-11-04,"To amend title 40, United States Code, to modify the treatment of certain bargain-price options to purchase at less than fair market value, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,416,4,0,13
+House,117,1,364,364,2021-11-04,"To redesignate the Federal building located at 167 North Main Street in Memphis, Tennessee as the âOdell Horton Federal Buildingâ",On Motion to Suspend the Rules and Pass,Passed,422,2,1,8
+House,117,1,365,365,2021-11-04,"To designate the Federal building located at 1200 New Jersey Avenue Southeast in Washington, DC, as the âNorman Yoshio Mineta Federal Buildingâ",On Motion to Suspend the Rules and Pass,Passed,409,14,1,9
+House,117,1,366,366,2021-11-04,"To designate the Federal Building and United States Courthouse located at 1125 Chapline Street in Wheeling, West Virginia, as the âFrederick P. Stamp, Jr. Federal Building and United States Courthouseâ",On Motion to Suspend the Rules and Pass,Passed,416,4,1,12
+House,117,1,367,367,2021-11-05,,On Motion to Adjourn,Failed,207,219,0,7
+House,117,1,368,368,2021-11-05,Providing for consideration of the bill (H.R. 5376) to provide for reconciliation pursuant to title II of S. Con Res. 14; and for other purposes,On Consideration of the Resolution,Passed,215,212,0,7
+House,117,1,369,369,2021-11-05,INVEST in America Act,On Motion to Concur in the Senate Amendment,Passed,228,206,0,0
+House,117,1,370,370,2021-11-05,INVEST in America Act,Table Motion to Reconsider,Passed,228,205,0,1
+House,117,1,371,371,2021-11-06,Providing for consideration of the bill (H.R. 5376) to provide for reconciliation pursuant to title II of S. Con Res. 14; and for other purposes,On Ordering the Previous Question,Passed,221,213,0,0
+House,117,1,372,372,2021-11-06,Providing for consideration of the bill (H.R. 5376) to provide for reconciliation pursuant to title II of S. Con Res. 14; and for other purposes,On Agreeing to the Resolution,Passed,221,213,0,0
+House,117,1,373,373,2021-11-15,Colonel John M. McHugh Tuition Fairness for Survivors Act,On Motion to Suspend the Rules and Pass,Passed,424,0,0,9
+House,117,1,374,374,2021-11-16,Protecting Moms Who Served Act,On Motion to Suspend the Rules and Pass,Passed,414,9,0,10
+House,117,1,375,375,2021-11-16,Student Veterans Counseling Centers Eligibility Act,On Motion to Suspend the Rules and Pass,Passed,420,4,0,9
+House,117,1,376,376,2021-11-16,BRAVE Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,427,0,0,6
+House,117,1,377,377,2021-11-17,Providing for consideration of the resolution (H.Res. 789) censuring Representative Paul Gosar,On Ordering the Previous Question,Passed,221,207,0,5
+House,117,1,378,378,2021-11-17,Providing for consideration of the resolution (H.Res. 789) censuring Representative Paul Gosar,On Agreeing to the Resolution,Passed,222,208,0,3
+House,117,1,379,379,2021-11-17,Censuring Representative Paul Gosar,On Agreeing to the Resolution,Passed,223,207,1,3
+House,117,1,380,380,2021-11-18,"To amend title 38, United States Code, to establish in the Department of Veterans Affairs an Advisory Committee on United States Outlying Areas and Freely Associated States, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",Passed,420,4,0,9
+House,117,1,381,381,2021-11-18,TRANSLATE Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,369,49,0,15
+House,117,1,383,383,2021-11-18,Providing for further consideration of the bill (H.R. 5376) to provide for reconciliation pursuant to title II of S. Con. Res. 14,On Agreeing to the Resolution,Passed,220,211,0,2
+House,117,1,382,382,2021-11-18,Providing for further consideration of the bill (H.R. 5376) to provide for reconciliation pursuant to title II of S. Con. Res. 14,On Ordering the Previous Question,Passed,220,210,0,3
+House,117,1,384,384,2021-11-19,Build Back Better Act,On Motion to Recommit,Failed,208,220,0,6
+House,117,1,385,385,2021-11-19,Build Back Better Act,On Passage,Passed,220,213,0,1
+House,117,1,386,386,2021-11-19,Build Back Better Act,Table Motion to Reconsider,Passed,217,105,0,112
+House,117,1,387,387,2021-11-30,Social Determinants of Health Data Analysis Act,On Motion to Suspend the Rules and Pass,Passed,399,28,0,6
+House,117,1,388,388,2021-11-30,Immunization Infrastructure Modernization Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,294,130,0,9
+House,117,1,390,390,2021-12-01,FUTURE Networks Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,394,27,0,12
+House,117,1,389,389,2021-12-01,Understanding Cybersecurity of Mobile Networks Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,404,19,0,10
+House,117,1,391,391,2021-12-01,American Cybersecurity Literacy Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,408,17,0,8
+House,117,1,392,392,2021-12-01,Courthouse Ethics and Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,422,4,0,7
+House,117,1,393,393,2021-12-01,"To amend the Act of June18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian Tribes, and for other purposes",On Motion to Suspend the Rules and Pass,Passed,302,127,0,4
+House,117,1,394,394,2021-12-02,,On Motion to Adjourn,Failed,200,224,0,9
+House,117,1,395,395,2021-12-02,"Providing for consideration of H.R. 6119, making further continuing appropriations for the fiscal year ending September 30, 2022; and for other purposes",On Ordering the Previous Question,Passed,218,209,0,6
+House,117,1,396,396,2021-12-02,"Providing for consideration of H.R. 6119, making further continuing appropriations for the fiscal year ending September 30, 2022; and for other purposes",On Agreeing to the Resolution,Passed,219,208,0,6
+House,117,1,397,397,2021-12-02,"Providing for consideration of H.R. 6119, making further continuing appropriations for the fiscal year ending September 30, 2022; and for other purposes",Table Motion to Reconsider,Passed,217,202,0,14
+House,117,1,398,398,2021-12-02,Further Extending Government Funding Act,On Motion to Recommit,Failed,211,219,0,3
+House,117,1,399,399,2021-12-02,Further Extending Government Funding Act,On Passage,Passed,221,212,0,0
+House,117,1,400,400,2021-12-02,Further Extending Government Funding Act,Table Motion to Reconsider,Passed,217,209,0,7
+House,117,1,401,401,2021-12-02,Safeguard Tribal Objects of Patrimony Act of 2021,"On Motion to Suspend the Rules and Pass, as Amended",Passed,364,57,0,12
+House,117,1,402,402,2021-12-07,Providing for consideration of the bill (H.R. 5314) Protecting Our Democracy Act; providing for consideration of the bill (S. 1605) to designate the National Pulse Memorial; and providing for consideration of the bill (S. 610) to address behavioral health and well-being among health care professionals,On Ordering the Previous Question,Passed,218,210,0,5
+House,117,1,403,403,2021-12-07,Providing for consideration of the bill (H.R. 5314) Protecting Our Democracy Act; providing for consideration of the bill (S. 1605) to designate the National Pulse Memorial; and providing for consideration of the bill (S. 610) to address behavioral health and well-being among health care professionals,On Agreeing to the Resolution,Passed,219,213,0,1
+House,117,1,404,404,2021-12-07,Dr. Lorna Breen Health Care Provider Protection Act,On Passage,Passed,222,212,0,0
+House,117,1,405,405,2021-12-07,"To designate the National Pulse Memorial located at 1912 South Orange Avenue in Orlando, Florida, and for other purposes",On Passage,Passed,363,70,0,0
+House,117,1,406,406,2021-12-08,Ocean Shipping Reform Act of 2021,"On Motion to Suspend the Rules and Pass, as Amended",Passed,364,60,0,9
+House,117,1,407,407,2021-12-08,Adjustable Interest Rate (LIBOR) Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,415,9,0,9
+House,117,1,408,408,2021-12-08,To extend authorization for livestock mandatory reporting,On Motion to Suspend the Rules and Pass,Passed,418,9,0,6
+House,117,1,409,409,2021-12-08,Cattle Contract Library Act,On Motion to Suspend the Rules and Pass,Passed,411,13,0,9
+House,117,1,410,410,2021-12-08,National Forest Restoration and Remediation Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,385,42,0,6
+House,117,1,411,411,2021-12-08,Chronic Wasting Disease Research and Management Act,On Motion to Suspend the Rules and Pass,Passed,393,33,0,7
+House,117,1,412,412,2021-12-08,Uyghur Forced Labor Prevention Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,428,1,0,5
+House,117,1,413,413,2021-12-08,Expressing the sense of the House of Representatives that the International Olympic Committee failed to adhere to its own human rights commitments,"On Motion to Suspend the Rules and Agree, as Amended",Passed,428,0,0,6
+House,117,1,414,414,2021-12-08,Condemning the ongoing genocide and crimes against humanity being committed against Uyghurs and members of other religious and ethnic minority groups by the Peopleâs Republic of China,"On Motion to Suspend the Rules and Agree, as Amended",Passed,427,1,0,5
+House,117,1,415,415,2021-12-08,Accelerating Access to Critical Therapies for ALS Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,423,3,0,7
+House,117,1,416,416,2021-12-08,SHINE for Autumn Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,408,18,0,7
+House,117,1,417,417,2021-12-08,Early Hearing Detection and Intervention Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,17,0,6
+House,117,1,418,418,2021-12-08,Improving the Health of Children Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,405,20,0,8
+House,117,1,419,419,2021-12-08,Dr. Lorna Breen Health Care Provider Protection Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,392,36,0,5
+House,117,1,420,420,2021-12-08,Oral Health Literacy and Awareness Act of 2021,On Motion to Suspend the Rules and Pass,Passed,369,58,0,6
+House,117,1,421,421,2021-12-08,To amend title VI of the Social Security Act to extend the coverage of Coronavirus Relief Fund payments to Tribal Governments,"On Motion to Suspend the Rules and Pass, as Amended",Passed,386,41,0,6
+House,117,1,422,422,2021-12-08,Opiod Prescription Verification Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,410,15,0,8
+House,117,1,423,423,2021-12-08,Synthetic Opiod Danger Awareness Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,411,14,0,8
+House,117,1,424,424,2021-12-08,Supporting the Foundation for the National Institutes of Health and the Reagan-Udall Foundation for the Food and Drug Administration Act,On Motion to Suspend the Rules and Pass,Passed,374,52,0,7
+House,117,1,425,425,2021-12-08,CARING for Social Determinants Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,378,48,0,7
+House,117,1,426,426,2021-12-08,Agua Calinete Land Exchange Fee to Trust Confirmation Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,395,30,0,8
+House,117,1,427,427,2021-12-08,Indian Buffalo Management Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,373,52,0,8
+House,117,1,428,428,2021-12-08,Women Who Worked on the Home Front World War II Memorial Act,"On Motion to Suspend the Rules and Pass, as Amended",Passed,425,1,0,7
+House,117,1,429,429,2021-12-08,Blackwell School National Historic Site Act,On Motion to Suspend the Rules and Pass,Passed,417,8,0,8
+House,117,1,430,430,2021-12-08,"To make technical amendments to update statutory references to certain provisions classified to title 2, United States Code, title 50, United States Code, and title 52, United States Code",On Motion to Suspend the Rules and Pass,Passed,414,1,0,18
+House,117,1,431,431,2021-12-08,"To make technical amendments to update statutory references to certain provisions classified to title 7, title 20, and title 43, United States Code",On Motion to Suspend the Rules and Pass,Passed,418,2,0,13
+House,117,1,432,432,2021-12-08,"To make technical amendments to update statutory references to certain provisions which were formerly classified to chapters 14 and 19 of title 25, United States Code",On Motion to Suspend the Rules and Pass,Passed,415,5,0,13
+House,117,1,433,433,2021-12-08,"To make technical amendments to update statutory references to provisions reclassified to title 34, United States Code",On Motion to Suspend the Rules and Pass,Passed,415,5,0,13
+House,117,1,434,434,2021-12-08,"To make revisions in title 5, United States Code, as necessary to keep the title current, and to make technical amendments to improve the United States Code",On Motion to Suspend the Rules and Pass,Passed,413,3,0,17
+House,117,1,435,435,2021-12-08,"To make revisions in title 51, United States Code, as necessary to keep the title current, and to make technical amendments to improve the United States Code",On Motion to Suspend the Rules and Pass,Passed,411,7,0,15
+House,117,1,436,436,2021-12-09,,On Agreeing to the Amendment,Agreed to,218,211,0,4
+House,117,1,437,437,2021-12-09,,On Agreeing to the Amendment,Failed,211,218,0,4
+House,117,1,438,438,2021-12-09,,On Agreeing to the Amendment,Failed,196,233,0,4
+House,117,1,439,439,2021-12-09,Protecting Our Democracy Act,On Motion to Recommit,Failed,212,217,0,4
+House,117,1,440,440,2021-12-09,Protecting Our Democracy Act,On Passage,Passed,220,208,0,6
+House,117,1,441,441,2021-12-14,Relating to the consideration of House Report 117-216 and an accompanying resolution,On Ordering the Previous Question,Passed,218,209,0,6
+House,117,1,442,442,2021-12-14,Relating to the consideration of House Report 117-216 and an accompanying resolution,On Agreeing to the Resolution,Passed,220,210,0,3
+House,117,1,443,443,2021-12-14,"Providing for consideration of the (H.R. 5665) to establish in the Department of State the Office to Monitor and Combat Islamophobia, and for other purposes",On Ordering the Previous Question,Passed,220,210,0,3
+House,117,1,444,444,2021-12-14,"Providing for consideration of the (H.R. 5665) to establish in the Department of State the Office to Monitor and Combat Islamophobia, and for other purposes",On Agreeing to the Resolution,Passed,219,213,0,1
+House,117,1,445,445,2021-12-14,Providing for consideration of the joint resolution (S.J.Res.33) joint resolution relating to increasing the debt limit,On Ordering the Previous Question,Passed,220,212,0,1
+House,117,1,446,446,2021-12-14,Providing for consideration of the joint resolution (S.J.Res.33) joint resolution relating to increasing the debt limit,On Agreeing to the Resolution,Passed,220,212,0,1
+House,117,1,447,447,2021-12-14,Recommending that the House of Representatives find Mark Randall Meadows in contempt of Congress for refusal to comply with a subpoena duly issued by the Select Committee to Investigate the January 6th Attack on the United States Capitol,On Agreeing to the Resolution,Passed,222,208,0,3
+House,117,1,448,448,2021-12-14,Combating International Islamophobia Act,On Passage,Passed,219,212,0,3
+House,117,1,449,449,2021-12-15,Joint resolution relating to increasing the debt limit,On Passage,Passed,221,209,0,4

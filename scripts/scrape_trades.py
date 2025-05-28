@@ -1,4 +1,3 @@
-import sys
 import os
 from datetime import datetime
 
@@ -26,14 +25,11 @@ def main():
     df["chamber"]    = df["is_senator"].map({True: "Senate", False: "House"})
     df["member"]     = df["senator"].fillna(df["representative"])
 
-    df = df.drop(columns=["representative", "senator"], errors="ignore")
-
-    df["transaction_date"] = pd.to_datetime(df["transaction_date"], errors="coerce")
+    df = df.drop(columns=["representative", "senator", "disclosure_year", "comment"], errors="ignore")
 
     out_dir = "./data/trades"
     os.makedirs(out_dir, exist_ok=True) 
-    ts = datetime.now().strftime("%Y%m%d")
-    fname = f"trades_2021-2023_{ts}.csv"
+    fname = f"trades.csv"
     path = os.path.join(out_dir, fname)
     df.to_csv(path, index=False)
 

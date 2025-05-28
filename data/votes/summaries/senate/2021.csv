@@ -1,0 +1,529 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+Senate,117,1,1,1,2021-01-06,"Shall the Objection Submitted by the Gentleman from Arizona, Mr. Gosar, and the Senator from Texas, Mr. Cruz, and Others Be Sustained?","On the Objection (Shall the Objection Submitted by the Gentleman from Arizona, Mr. Gosar, and the Senator from Texas, Mr. Cruz, and Others Be Sustained?)",Objection Not Sustained,6,93,0,0
+Senate,117,1,3,3,2021-01-20,"Confirmation: Avril Danica Haines, of New York, to be Director of National Intelligence",On the Nomination PN78-10,Nomination Confirmed,84,10,0,6
+Senate,117,1,2,2,2021-01-07,"Shall the Objection Submitted by the Gentleman from Pennsylvania, Mr. Perry, and the Senator from Missouri, Mr. Hawley, Be Sustained?","On the Objection (Shall the Objection Submitted by the Gentleman from Pennsylvania, Mr. Perry, and the Senator from Missouri, Mr. Hawley, Be Sustained?)",Objection Not Sustained,7,92,0,0
+Senate,117,1,4,4,2021-01-21,"H.R. 335",On Passage of the Bill H.R. 335,Bill Passed,69,27,0,4
+Senate,117,1,5,5,2021-01-22,"Confirmation: Lloyd James Austin, of Georgia, to be Secretary of Defense",On the Nomination PN78-1,Nomination Confirmed,93,2,0,5
+Senate,117,1,6,6,2021-01-25,"Confirmation: Janet Louise Yellen, of California, to be Secretary of the Treasury",On the Nomination PN78-24,Nomination Confirmed,84,15,0,1
+Senate,117,1,7,7,2021-01-26,"Confirmation: Antony John Blinken, of New York, to be Secretary of State",On the Nomination PN78-3,Nomination Confirmed,78,22,0,0
+Senate,117,1,8,8,2021-01-26,Motion to Table: Is the Point of Order Well Taken?,On the Motion to Table (Motion to Table: Is the Point of Order Well Taken?),Motion to Table Agreed to,55,45,0,0
+Senate,117,1,9,9,2021-01-26,S. Res. 16,On the Resolution S.Res. 16,Resolution Agreed to,83,17,0,0
+Senate,117,1,10,10,2021-01-28,Motion to Invoke Cloture: Alejandro Nicholas Mayorkas to be Secretary of the Department of Homeland Security,On the Cloture Motion PN78-13,Cloture Motion Agreed to,55,42,0,3
+Senate,117,1,12,12,2021-02-02,"Confirmation: Alejandro Nicholas Mayorkas, of the District of Columbia, to be Secretary of Homeland Security",On the Nomination PN78-13,Nomination Confirmed,56,43,0,1
+Senate,117,1,11,11,2021-02-02,"Confirmation: Peter Paul Montgomery Buttigieg, of Indiana, to be Secretary of Transportation",On the Nomination PN78-4,Nomination Confirmed,86,13,0,1
+Senate,117,1,13,13,2021-02-02,Motion to Proceed to S. Con. Res. 5,On the Motion to Proceed S.Con.Res. 5,Motion to Proceed Agreed to,50,49,0,1
+Senate,117,1,14,14,2021-02-04,Wicker Amdt No. 261,On the Amendment S.Amdt. 261 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,90,10,0,0
+Senate,117,1,15,15,2021-02-04,Scott (SC) Amdt. No. 53,On the Amendment S.Amdt. 53 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,16,16,2021-02-04,Rubio Amdt. No. 69,On the Amendment S.Amdt. 69 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,100,0,0,0
+Senate,117,1,17,17,2021-02-04,Blunt Amdt. No. 48,On the Amendment S.Amdt. 48 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,18,18,2021-02-04,Young Amdt No. 54,On the Amendment S.Amdt. 54 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,58,42,0,0
+Senate,117,1,19,19,2021-02-04,Manchin Amdt No. 775,On the Amendment S.Amdt. 775 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,99,1,0,0
+Senate,117,1,20,20,2021-02-04,Toomey Amdt. No. 553,On the Amendment S.Amdt. 553 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,21,21,2021-02-04,Cardin Amdt. No. 716,On the Amendment S.Amdt. 716 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,100,0,0,0
+Senate,117,1,22,22,2021-02-04,Barrasso Amdt. No. 653,On the Amendment S.Amdt. 653 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,98,2,0,0
+Senate,117,1,23,23,2021-02-04,Motion to Waive All Applicable Budgetary Discipline Re: Sasse Amdt. No. 192,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Sasse Amdt. No. 192),Motion Rejected,52,48,0,0
+Senate,117,1,24,24,2021-02-04,Motion to Waive All Applicable Budgetary Discipline Re: Graham Amdt. No. 687,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Graham Amdt. No. 687),Motion Rejected,50,50,0,0
+Senate,117,1,25,25,2021-02-04,Motion to Waive All Applicable Budgetary Discipline Re: Ernst Amdt. No. 132,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Ernst Amdt. No. 132),Motion Rejected,52,48,0,0
+Senate,117,1,26,26,2021-02-04,Collins Amdt. No. 546,On the Amendment S.Amdt. 546 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,99,1,0,0
+Senate,117,1,27,27,2021-02-04,Shaheen Amdt No. 834 As Modified,On the Amendment S.Amdt. 834 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,100,0,0,0
+Senate,117,1,28,28,2021-02-04,Braun Amdt No. 833,On the Amendment S.Amdt. 833 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,57,43,0,0
+Senate,117,1,29,29,2021-02-04,Motion to Waive All Applicable Budgetary Discipline Re: Grassley Amdt. No. 91,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Grassley Amdt. No. 91),Motion Rejected,49,51,0,0
+Senate,117,1,30,30,2021-02-04,Inhofe Amdt. No. 786,On the Amendment S.Amdt. 786 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,97,3,0,0
+Senate,117,1,31,31,2021-02-04,Paul Amdt. No. 1,On the Amendment S.Amdt. 1 to S.Con.Res. 5 (No short title on file),Amendment Rejected,29,71,0,0
+Senate,117,1,32,32,2021-02-04,Daines Amdt. No. 678,On the Amendment S.Amdt. 678 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,52,48,0,0
+Senate,117,1,35,35,2021-02-05,Cornyn Amdt No. 558,On the Amendment S.Amdt. 558 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,100,0,0,0
+Senate,117,1,33,33,2021-02-05,Johnson Amdt. No. 542,On the Amendment S.Amdt. 542 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,34,34,2021-02-05,Lee Amdt. No. 821,On the Amendment S.Amdt. 821 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,36,36,2021-02-05,Motion to Waive All Applicable Budgetary Discipline Re: Cotton Amdt No. 66,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Cotton Amdt No. 66),Motion Rejected,50,50,0,0
+Senate,117,1,38,38,2021-02-05,Kennedy Amdt. No. 782,On the Amendment S.Amdt. 782 to S.Con.Res. 5 (No short title on file),Amendment Rejected,49,51,0,0
+Senate,117,1,37,37,2021-02-05,Motion to Waive All Applicable Budgetary Discipline Re: Cassidy Amdt. No. 483,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Cassidy Amdt. No. 483),Motion Rejected,50,50,0,0
+Senate,117,1,39,39,2021-02-05,Paul Amdt. No. 441,On the Amendment S.Amdt. 441 to S.Con.Res. 5 (No short title on file),Amendment Rejected,8,92,0,0
+Senate,117,1,41,41,2021-02-05,Motion to Waive All Applicable Budgetary Discipline Re: Cruz Amdt. No. 811,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Cruz Amdt. No. 811),Motion Rejected,40,60,0,0
+Senate,117,1,40,40,2021-02-05,Lee Amdt. No. 770,On the Amendment S.Amdt. 770 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,43,43,2021-02-05,Capito Amdt. No. 655,On the Amendment S.Amdt. 655 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,51,49,0,0
+Senate,117,1,42,42,2021-02-05,Scott (FL) Amdt No. 872,On the Amendment S.Amdt. 872 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,44,44,2021-02-05,Lankford Amdt. No. 837,On the Amendment S.Amdt. 837 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,51,49,0,0
+Senate,117,1,45,45,2021-02-05,Crapo Amdt. No. 55,On the Amendment S.Amdt. 55 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,46,46,2021-02-05,Hoeven Amdt No. 887,On the Amendment S.Amdt. 887 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,47,47,2021-02-05,Romney Amdt No. 803,On the Amendment S.Amdt. 803 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,71,29,0,0
+Senate,117,1,49,49,2021-02-05,Cruz Amdt. No. 871,On the Amendment S.Amdt. 871 to S.Con.Res. 5 (No short title on file),Amendment Rejected,26,74,0,0
+Senate,117,1,48,48,2021-02-05,Lee Amdt. No. 253,On the Amendment S.Amdt. 253 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,53,47,0,0
+Senate,117,1,50,50,2021-02-05,Motion to Waive All Applicable Budgetary Discipline Re: Sullivan Amdt. No. 461,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Sullivan Amdt. No. 461),Motion Rejected,51,49,0,0
+Senate,117,1,51,51,2021-02-05,Rubio Amdt. No. 651,On the Amendment S.Amdt. 651 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,52,52,2021-02-05,Schumer Amdt. No. 888,On the Amendment S.Amdt. 888 to S.Con.Res. 5 (No short title on file),Amendment Agreed to,50,50,0,0
+Senate,117,1,53,53,2021-02-05,McConnell Amdt. No. 889,On the Amendment S.Amdt. 889 to S.Con.Res. 5 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,1,54,54,2021-02-05,"S. Con. Res. 5, As Amended",On the Concurrent Resolution S.Con.Res. 5,Concurrent Resolution Agreed to,50,50,0,0
+Senate,117,1,55,55,2021-02-08,"Confirmation: Denis Richard McDonough, of Maryland, to be Secretary of Veterans Affairs",On the Nomination PN78-14,Nomination Confirmed,87,7,0,6
+Senate,117,1,56,56,2021-02-09,S. Res. 47,On the Resolution S.Res. 47,Resolution Agreed to,89,11,0,0
+Senate,117,1,57,57,2021-02-09,Is Former President Donald John Trump Subject to a Court of Impeachment for Acts Committed While President?,On the Motion (Is Former President Donald John Trump Subject to a Court of Impeachment for Acts Committed While President?),Motion Agreed to,56,44,0,0
+Senate,117,1,58,58,2021-02-13,Shall It Be In Order to Consider and Debate Any Motion to Subpoena Witnesses or Documents?,On the Motion (Shall It Be In Order to Consider and Debate Any Motion to Subpoena Witnesses or Documents?),Motion Agreed to,55,45,0,0
+Senate,117,1,59,59,2021-02-13,Article of Impeachment Against Former President Donald John Trump,Guilty or Not Guilty H.Res. 24,Not Guilty,57,43,0,0
+Senate,117,1,60,60,2021-02-22,Motion to Invoke Cloture: Linda Thomas-Greenfield to be the Representative of the United States of America to the United Nations and the Representative of the United States of America in the Security Council of the United Nations,On the Cloture Motion PN78-20,Cloture Motion Agreed to,75,20,0,5
+Senate,117,1,61,61,2021-02-23,"Confirmation: Linda Thomas-Greenfield, of Louisiana, to be the Representative of the United States of America to the United Nations and the Representative of the United States of America in the Security Council of the United Nations",On the Nomination PN78-20,Nomination Confirmed,78,20,0,2
+Senate,117,1,62,62,2021-02-23,Motion to Invoke Cloture: Linda Thomas-Greenfield to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations,On the Cloture Motion PN78-21,Cloture Motion Agreed to,77,20,0,3
+Senate,117,1,63,63,2021-02-23,"Confirmation: Thomas J. Vilsack, of Iowa, to be Secretary of Agriculture",On the Nomination PN78-22,Nomination Confirmed,92,7,0,1
+Senate,117,1,64,64,2021-02-23,"Confirmation: Linda Thomas-Greenfield, of Louisiana, to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations",On the Nomination PN78-21,Nomination Confirmed,78,21,0,1
+Senate,117,1,65,65,2021-02-24,Motion to Invoke Cloture: Jennifer Mulhern Granholm to be Secretary of Energy,On the Cloture Motion PN78-8,Cloture Motion Agreed to,67,32,0,1
+Senate,117,1,67,67,2021-02-25,Motion to Invoke Cloture: Miguel A. Cardona to be Secretary of Education,On the Cloture Motion PN78-5,Cloture Motion Agreed to,66,32,0,2
+Senate,117,1,66,66,2021-02-25,"Confirmation: Jennifer Mulhern Granholm, of Michigan, to be Secretary of Energy",On the Nomination PN78-8,Nomination Confirmed,64,35,0,1
+Senate,117,1,68,68,2021-03-01,"Confirmation: Miguel A. Cardona, of Connecticut, to be Secretary of Education",On the Nomination PN78-5,Nomination Confirmed,64,33,0,3
+Senate,117,1,69,69,2021-03-01,"Motion to Invoke Cloture: Gina Marie Raimondo, of Rhode Island, to be Secretary of Commerce",On the Cloture Motion PN78-15,Cloture Motion Agreed to,84,15,0,1
+Senate,117,1,70,70,2021-03-02,"Confirmation: Gina Marie Raimondo, of Rhode Island, to be Secretary of Commerce",On the Nomination PN78-15,Nomination Confirmed,84,15,0,1
+Senate,117,1,71,71,2021-03-02,Motion to Invoke Cloture: Cecilia Elena Rouse to be Chairman of the Council of Economic Advisers,On the Cloture Motion PN78-17,Cloture Motion Agreed to,94,5,0,1
+Senate,117,1,73,73,2021-03-04,Motion to Proceed to H.R. 1319,On the Motion to Proceed H.R. 1319,Motion to Proceed Agreed to,50,50,0,0
+Senate,117,1,72,72,2021-03-02,"Confirmation: Cecilia Elena Rouse, of New Jersey, to be Chairman of the Council of Economic Advisers",On the Nomination PN78-17,Nomination Confirmed,95,4,0,1
+Senate,117,1,74,74,2021-03-05,Motion to Waive All Applicable Budgetary Discipline Re: Sanders Amdt. No. 972,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Sanders Amdt. No. 972),Motion Rejected,42,58,0,0
+Senate,117,1,75,75,2021-03-05,Motion to Adjourn Until 10:00 A.M. Tomorrow,On the Motion to Adjourn H.R. 1319,Motion to Adjourn Rejected,49,50,0,1
+Senate,117,1,76,76,2021-03-05,Portman Amdt. No. 1092,On the Amendment S.Amdt. 1092 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Agreed to,50,49,0,1
+Senate,117,1,77,77,2021-03-06,Motion to Waive All Applicable Budgetary Discipline Re: Collins Amdt. No. 1242,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Collins Amdt. No. 1242),Motion Rejected,48,51,0,1
+Senate,117,1,78,78,2021-03-06,Scott (SC) Amdt. No. 1030,On the Amendment S.Amdt. 1030 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,79,79,2021-03-06,Wyden Amdt. No. 1378,On the Amendment S.Amdt. 1378 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Agreed to,50,49,0,1
+Senate,117,1,80,80,2021-03-06,Rubio Amdt. No. 1026,On the Amendment S.Amdt. 1026 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,48,51,0,1
+Senate,117,1,81,81,2021-03-06,Hassan Amdt. No. 1344,On the Amendment S.Amdt. 1344 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Agreed to,51,48,0,1
+Senate,117,1,82,82,2021-03-06,Graham Amdt. No. 1369 As Modified,On the Amendment S.Amdt. 1369 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,48,51,0,1
+Senate,117,1,83,83,2021-03-06,Motion to Waive All Applicable Budgetary Discipline Re: Tester Amdt. No. 1197,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Tester Amdt. No. 1197),Motion Rejected,51,48,0,1
+Senate,117,1,84,84,2021-03-06,Cassidy Amdt. No. 1161,On the Amendment S.Amdt. 1161 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,85,85,2021-03-06,Grassley Motion to Commit H.R. 1319 to the Committee on Finance with Instructions,On the Motion (Grassley Motion to Commit H.R. 1319 to the Committee on Finance with Instructions),Motion Rejected,49,50,0,1
+Senate,117,1,86,86,2021-03-06,Toomey Amdt. No. 1010,On the Amendment S.Amdt. 1010 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,87,87,2021-03-06,Fischer Amdt. No. 944,On the Amendment S.Amdt. 944 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,88,88,2021-03-06,Paul Amdt. No. 1014,On the Amendment S.Amdt. 1014 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,47,51,0,2
+Senate,117,1,89,89,2021-03-06,Young Amdt. No. 1383,On the Amendment S.Amdt. 1383 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,48,50,0,2
+Senate,117,1,90,90,2021-03-06,Capito Motion to Commit H.R. 1319 to the Committee on Finance with Instructions ,On the Motion (Capito Motion to Commit H.R. 1319 to the Committee on Finance with Instructions ),Motion Rejected,48,50,0,2
+Senate,117,1,91,91,2021-03-06,Scott (FL) Amdt. No. 1395,On the Amendment S.Amdt. 1395 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,47,51,0,2
+Senate,117,1,92,92,2021-03-06,Cotton Motion to Commit H.R. 1319 to the Committee on Finance with Instructions,On the Motion (Cotton Motion to Commit H.R. 1319 to the Committee on Finance with Instructions),Motion Rejected,48,50,0,2
+Senate,117,1,93,93,2021-03-06,Blackburn Amdt. No. 996,On the Amendment S.Amdt. 996 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,94,94,2021-03-06,Motion to Waive All Applicable Budgetary Discipline Re: Lankford Amdt. No. 1031,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Lankford Amdt. No. 1031),Motion Rejected,52,47,0,1
+Senate,117,1,95,95,2021-03-06,Cruz Amdt. No. 969,On the Amendment S.Amdt. 969 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,96,96,2021-03-06,Romney Amdt. No. 1364,On the Amendment S.Amdt. 1364 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,97,97,2021-03-06,Motion to Waive All Applicable Budgetary Discipline Re: Tuberville Amdt. No. 1386,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Tuberville Amdt. No. 1386),Motion Rejected,49,50,0,1
+Senate,117,1,98,98,2021-03-06,Motions to Commit to H.R. 1319 to Eleven Committees Considered En Bloc,On the Motion (Motions to Commit to H.R. 1319 to Eleven Committees Considered En Bloc),Motion Rejected,49,50,0,1
+Senate,117,1,99,99,2021-03-06,Kennedy Motion to Commit H.R. 1319 to Committee on Small Business and Entrepreneurship with Instructions,On the Motion (Kennedy Motion to Commit H.R. 1319 to Committee on Small Business and Entrepreneurship with Instructions),Motion Rejected,48,50,0,2
+Senate,117,1,100,100,2021-03-06,Scott (FL) Motion to Commit H.R. 1319 to Committee on Homeland Security and Governmental Affairs with Instructions,On the Motion (Scott (FL) Motion to Commit H.R. 1319 to Committee on Homeland Security and Governmental Affairs with Instructions),Motion Rejected,48,51,0,1
+Senate,117,1,101,101,2021-03-06,Lee Amdt. No. 1381,On the Amendment S.Amdt. 1381 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,102,102,2021-03-06,"Cornyn Motion to Commit H.R. 1319 to the Committee on Health, Education, Labor, and Pensions with Instructions","On the Motion (Cornyn Motion to Commit H.R. 1319 to the Committee on Health, Education, Labor, and Pensions with Instructions)",Motion Rejected,49,50,0,1
+Senate,117,1,103,103,2021-03-06,Cassidy Amdt. No. 1162,On the Amendment S.Amdt. 1162 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,104,104,2021-03-06,Cruz Amdt. No. 968,On the Amendment S.Amdt. 968 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,105,105,2021-03-06,Lee Amdt. No. 1331,On the Amendment S.Amdt. 1331 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,106,106,2021-03-06,Grassley Amdt. No. 902,On the Amendment S.Amdt. 902 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,45,54,0,1
+Senate,117,1,107,107,2021-03-06,Moran Amdt. No. 1154,On the Amendment S.Amdt. 1154 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Rejected,49,50,0,1
+Senate,117,1,108,108,2021-03-06,Motion to Commit H.R. 1319 to the Committee on Foreign Relations,On the Motion (Motion to Commit H.R. 1319 to the Committee on Foreign Relations),Motion Rejected,49,50,0,1
+Senate,117,1,109,109,2021-03-06,Warner Amdt. No. 1391,On the Amendment S.Amdt. 1391 to S.Amdt. 891 to H.R. 1319 (American Rescue Plan Act of 2021),Amendment Agreed to,93,6,0,1
+Senate,117,1,110,110,2021-03-06,"H.R. 1319, As Amended",On Passage of the Bill H.R. 1319,Bill Passed,50,49,0,1
+Senate,117,1,111,111,2021-03-09,Motion to Invoke Cloture: Marcia Louise Fudge to be Secretary of Housing and Urban Development,On the Cloture Motion PN78-6,Cloture Motion Agreed to,69,30,0,1
+Senate,117,1,112,112,2021-03-09,Motion to Invoke Cloture: Merrick Brian Garland to be Attorney General,On the Cloture Motion PN78-7,Cloture Motion Agreed to,70,29,0,1
+Senate,117,1,113,113,2021-03-10,"Confirmation: Marcia Louise Fudge, of Ohio, to be Secretary of Housing and Urban Development",On the Nomination PN78-6,Nomination Confirmed,66,34,0,0
+Senate,117,1,115,115,2021-03-10,Motion to Invoke Cloture: Michael Stanley Regan to be Administrator of the Environmental Protection Agency,On the Cloture Motion PN78-16,Cloture Motion Agreed to,65,35,0,0
+Senate,117,1,114,114,2021-03-10,"Confirmation: Merrick Brian Garland, of Maryland, to be Attorney General",On the Nomination PN78-7,Nomination Confirmed,70,30,0,0
+Senate,117,1,116,116,2021-03-10,"Confirmation: Michael Stanley Regan, of North Carolina, to be Administrator of the Environmental Protection Agency",On the Nomination PN78-16,Nomination Confirmed,66,34,0,0
+Senate,117,1,117,117,2021-03-11,Motion to Discharge the Nomination of Xavier Becerra to be Secretary of Health and Human Services from the Committee on Finance,On the Motion to Discharge PN78-2,Motion to Discharge Agreed to,51,48,0,1
+Senate,117,1,118,118,2021-03-11,Motion to Invoke Cloture: Debra Anne Haaland to be Secretary of the Interior,On the Cloture Motion PN78-11,Cloture Motion Agreed to,54,42,0,4
+Senate,117,1,119,119,2021-03-15,"Confirmation: Debra Anne Haaland, of New Mexico, to be Secretary of the Interior",On the Nomination PN78-11,Nomination Confirmed,51,40,0,9
+Senate,117,1,121,121,2021-03-16,"Confirmation: Isabella Casillas Guzman, of California, to be Administrator of the Small Business Administration",On the Nomination PN78-9,Nomination Confirmed,81,17,0,2
+Senate,117,1,120,120,2021-03-16,Motion to Invoke Cloture: Isabella Casillas Guzman to be Administrator of the Small Business Administration ,On the Cloture Motion PN78-9,Cloture Motion Agreed to,80,18,0,2
+Senate,117,1,122,122,2021-03-16,Motion to Invoke Cloture: Katherine C. Tai to be United States Trade Representative,On the Cloture Motion PN78-18,Cloture Motion Agreed to,98,0,0,2
+Senate,117,1,123,123,2021-03-17,"Confirmation: Katherine C. Tai, of the District of Columbia, to be United States Trade Representative",On the Nomination PN78-18,Nomination Confirmed,98,0,0,2
+Senate,117,1,124,124,2021-03-17,"Motion to Invoke Cloture: Xavier Becerra, of California, to be Secretary of Health and Human Services",On the Cloture Motion PN78-2,Cloture Motion Agreed to,50,49,0,1
+Senate,117,1,125,125,2021-03-18,"Confirmation: Xavier Becerra, of California, to be Secretary of Health and Human Services",On the Nomination PN78-2,Nomination Confirmed,50,49,0,1
+Senate,117,1,127,127,2021-03-22,"Confirmation: Martin Joseph Walsh, of Massachusetts, to be Secretary of Labor",On the Nomination PN78-23,Nomination Confirmed,68,29,0,3
+Senate,117,1,126,126,2021-03-18,Motion to Invoke Cloture: Martin Joseph Walsh to be Secretary of Labor,On the Cloture Motion PN78-23,Cloture Motion Agreed to,68,30,0,2
+Senate,117,1,128,128,2021-03-23,Motion to Invoke Cloture: Shalanda D. Young to be Deputy Director of the Office of Management and Budget,On the Cloture Motion PN79-13,Cloture Motion Agreed to,62,38,0,0
+Senate,117,1,129,129,2021-03-23,"Confirmation: Shalanda D. Young, of Louisiana, to be Deputy Director of the Office of Management and Budget",On the Nomination PN79-13,Nomination Confirmed,63,37,0,0
+Senate,117,1,130,130,2021-03-23,Motion to Invoke Cloture: Vivek Hallegere Murthy to be Medical Director in the Regular Corps and to be Surgeon General of the Public Health Service,On the Cloture Motion PN79-11,Cloture Motion Agreed to,57,43,0,0
+Senate,117,1,131,131,2021-03-23,"Confirmation: Vivek Hallegere Murthy, of Florida, to be Medical Director in the Regular Corps and Surgeon General of the Public Health Service",On the Nomination PN79-11,Nomination Confirmed,57,43,0,0
+Senate,117,1,132,132,2021-03-24,Motion to Invoke Cloture: Rachel Leland Levine to be an Assistant Secretary of the Department of Health and Human Services,On the Cloture Motion PN121,Cloture Motion Agreed to,52,48,0,0
+Senate,117,1,133,133,2021-03-24,Motion to Invoke Cloture: David Turk to be Deputy Secretary of Energy,On the Cloture Motion PN118,Cloture Motion Agreed to,98,2,0,0
+Senate,117,1,134,134,2021-03-24,"Confirmation: Rachel Leland Levine, of Pennsylvania, to be an Assistant Secretary of Health and Human Services",On the Nomination PN121,Nomination Confirmed,52,48,0,0
+Senate,117,1,136,136,2021-03-24,Motion to Invoke Cloture: Motion to Proceed to H.R. 1799,On the Cloture Motion H.R. 1799,Cloture Motion Agreed to,96,4,0,0
+Senate,117,1,137,137,2021-03-25,Kennedy Amdt. No. 1401,On the Amendment S.Amdt. 1401 to H.R. 1799 (PPP Extension Act of 2021),Amendment Rejected,48,52,0,0
+Senate,117,1,135,135,2021-03-24,"Confirmation: David Turk, of Maryland, to be Deputy Secretary of Energy",On the Nomination PN118,Nomination Confirmed,98,2,0,0
+Senate,117,1,138,138,2021-03-25,Rubio Amdt. No. 1405,On the Amendment S.Amdt. 1405 to H.R. 1799 (PPP Extension Act of 2021),Amendment Rejected,48,52,0,0
+Senate,117,1,139,139,2021-03-25,Motion to Waive All Applicable Budgetary Discipline Re: H.R. 1799,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 1799),Motion Agreed to,64,36,0,0
+Senate,117,1,140,140,2021-03-25,H.R. 1799,On Passage of the Bill H.R. 1799,Bill Passed,92,7,0,1
+Senate,117,1,141,141,2021-03-25,Scott (FL) Amdt. No. 1411,On the Amendment S.Amdt. 1411 to H.R. 1868 (No short title on file),Amendment Rejected,47,50,0,3
+Senate,117,1,142,142,2021-03-25,"H.R. 1868, As Amended",On Passage of the Bill H.R. 1868,Bill Passed,90,2,0,8
+Senate,117,1,143,143,2021-04-12,Motion to Invoke Cloture: Polly Ellen Trottenberg to be Deputy Secretary of Transportation,On the Cloture Motion PN117,Cloture Motion Agreed to,81,14,0,5
+Senate,117,1,144,144,2021-04-13,"Confirmation: Polly Ellen Trottenberg, of New York, to be Deputy Secretary of Transportation",On the Nomination PN117,Nomination Confirmed,82,15,0,3
+Senate,117,1,145,145,2021-04-13,Motion to Invoke Cloture: Wendy Ruth Sherman to be Deputy Secretary of State,On the Cloture Motion PN79-12,Cloture Motion Agreed to,55,42,0,3
+Senate,117,1,146,146,2021-04-13,"Confirmation: Wendy Ruth Sherman, of Maryland, to be Deputy Secretary of State",On the Nomination PN79-12,Nomination Confirmed,56,42,0,2
+Senate,117,1,147,147,2021-04-13,Motion to Invoke Cloture: Gary Gensler to be a Member of the Securities and Exchange Commission,On the Cloture Motion PN80,Cloture Motion Agreed to,53,45,0,2
+Senate,117,1,149,149,2021-04-14,Motion to Invoke Cloture: Brenda Mallory to be a Member of the Council on Environmental Quality,On the Cloture Motion PN79-7,Cloture Motion Agreed to,53,45,0,2
+Senate,117,1,148,148,2021-04-14,"Confirmation: Gary Gensler, of Maryland, to be a Member of the Securities and Exchange Commission",On the Nomination PN80,Nomination Confirmed,53,45,0,2
+Senate,117,1,150,150,2021-04-14,"Confirmation: Brenda Mallory, of Maryland, to be a Member of the Council on Environmental Quality",On the Nomination PN79-7,Nomination Confirmed,53,45,0,2
+Senate,117,1,152,152,2021-04-15,Motion to Proceed to Executive Session,On the Motion to Proceed S. 937,Motion to Proceed Agreed to,49,45,0,6
+Senate,117,1,151,151,2021-04-14,Motion to Invoke Cloture Re: Motion to Proceed to S. 937,On Cloture on the Motion to Proceed S. 937,Cloture on the Motion to Proceed Agreed to,92,6,0,2
+Senate,117,1,153,153,2021-04-15,Motion to Discharge the Nomination of Vanita Gupta from the Committee on the Judiciary,On the Motion to Discharge PN79-4,Motion to Discharge Agreed to,49,34,0,17
+Senate,117,1,154,154,2021-04-19,Motion to Invoke Cloture: Lisa O. Monaco to be Deputy Attorney General,On the Cloture Motion PN79-10,Cloture Motion Agreed to,94,3,0,3
+Senate,117,1,155,155,2021-04-19,Motion to Proceed to Executive Session to Consider Vanita Gupta to be Associate Attorney General,On the Motion to Proceed PN79-4,Motion to Proceed Agreed to,50,49,0,1
+Senate,117,1,156,156,2021-04-20,Motion to Invoke Cloture: Gary Gensler to be a Member of the Securities and Exchange Commission,On the Cloture Motion PN81,Cloture Motion Agreed to,54,44,1,1
+Senate,117,1,157,157,2021-04-20,"Confirmation: Gary Gensler, of Maryland, to be a Member of the Securities and Exchange Commission",On the Nomination PN81,Nomination Confirmed,54,45,1,0
+Senate,117,1,158,158,2021-04-20,"Confirmation: Lisa O. Monaco, of the District of Columbia, to be Deputy Attorney General",On the Nomination PN79-10,Nomination Confirmed,98,2,0,0
+Senate,117,1,159,159,2021-04-21,Motion to Invoke Cloture: Vanita Gupta to be Associate Attorney General,On the Cloture Motion PN79-4,Cloture Motion Agreed to,51,49,0,0
+Senate,117,1,160,160,2021-04-21,"Confirmation: Vanita Gupta, of Virginia, to be Associate Attorney General",On the Nomination PN79-4,Nomination Confirmed,51,49,0,0
+Senate,117,1,161,161,2021-04-21,Motion to Discharge Colin Hackett Kahl to be Under Secretary of Defense for Policy from the Committee on Armed Services,On the Motion to Discharge PN79-6,Motion to Discharge Agreed to,50,50,0,0
+Senate,117,1,162,162,2021-04-22,Cruz Amdt. No. 1456,On the Amendment S.Amdt. 1456 to S.Amdt. 1445 to S. 937 (COVID-19 Hate Crimes Act),Amendment Rejected,49,48,0,3
+Senate,117,1,163,163,2021-04-22,Lee Amdt. No. 1425,On the Amendment S.Amdt. 1425 to S.Amdt. 1445 to S. 937 (COVID-19 Hate Crimes Act),Amendment Rejected,49,48,0,3
+Senate,117,1,164,164,2021-04-22,Blackburn Amdt. No. 1458,On the Amendment S.Amdt. 1458 to S.Amdt. 1445 to S. 937 (COVID-19 Hate Crimes Act),Amendment Rejected,46,51,0,3
+Senate,117,1,165,165,2021-04-22,"S. 937, As Amended",On Passage of the Bill S. 937,Bill Passed,94,1,0,5
+Senate,117,1,166,166,2021-04-26,"Motion to Invoke Cloture: Jason Scott Miller to be Deputy Director for Management, Office of Management and Budget",On the Cloture Motion PN79-9,Cloture Motion Agreed to,82,13,0,5
+Senate,117,1,167,167,2021-04-27,"Confirmation: Jason Scott Miller, of Maryland, to be Deputy Director for Management, Office of Management and Budget",On the Nomination PN79-9,Nomination Confirmed,81,13,0,6
+Senate,117,1,168,168,2021-04-27,Motion to Invoke Cloture: Janet Garvin McCabe to be Deputy Administrator of the Environmental Protection Agency,On the Cloture Motion PN79-8,Cloture Motion Agreed to,52,42,0,6
+Senate,117,1,169,169,2021-04-27,"Confirmation: Janet Garvin McCabe, of Indiana, to be Deputy Administrator of the Environmental Protection Agency",On the Nomination PN79-8,Nomination Confirmed,52,42,0,6
+Senate,117,1,170,170,2021-04-27,Motion to Invoke Cloture: Colin Hackett Kahl to be Under Secretary of Defense for Policy,On the Cloture Motion PN79-6,Cloture Motion Agreed to,49,44,0,7
+Senate,117,1,171,171,2021-04-27,"Confirmation: Colin Hackett Kahl, of California, to be Under Secretary of Defense for Policy",On the Nomination PN79-6,Nomination Confirmed,49,45,0,6
+Senate,117,1,172,172,2021-04-27,Motion to Invoke Cloture: Motion to Proceed to S. 914,On Cloture on the Motion to Proceed S. 914,Cloture on the Motion to Proceed Agreed to,92,2,0,6
+Senate,117,1,173,173,2021-04-28,Motion to Invoke Cloture: Samantha Power to be Administrator of the United States Agency for International Development ,On the Cloture Motion PN114,Cloture Motion Agreed to,67,28,0,5
+Senate,117,1,174,174,2021-04-28,"Confirmation: Samantha Power, of Massachusetts, to be Administrator of the United States Agency for International Development",On the Nomination PN114,Nomination Confirmed,68,26,0,6
+Senate,117,1,175,175,2021-04-28,S.J. Res. 14,On the Joint Resolution S.J.Res. 14,Joint Resolution Passed,52,42,0,6
+Senate,117,1,176,176,2021-04-29,"Rubio Amdt. No. 1471, As Modified",On the Amendment S.Amdt. 1471 to S.Amdt. 1460 to S. 914 (Drinking Water and Wastewater Infrastructure Act of 2021),Amendment Rejected,14,81,0,5
+Senate,117,1,177,177,2021-04-29,Lee Amdt. No. 1472,On the Amendment S.Amdt. 1472 to S.Amdt. 1460 to S. 914 (Drinking Water and Wastewater Infrastructure Act of 2021),Amendment Rejected,41,54,0,5
+Senate,117,1,179,179,2021-05-10,Motion to Invoke Cloture: Andrea Joan Palm to be Deputy Secretary of Health and Human Services,On the Cloture Motion PN125,Cloture Motion Agreed to,62,35,0,3
+Senate,117,1,178,178,2021-04-29,"S. 914, As Amended",On Passage of the Bill S. 914,Bill Passed,89,2,0,9
+Senate,117,1,180,180,2021-05-11,"Confirmation: Andrea Joan Palm, of Wisconsin, to be Deputy Secretary of Health and Human Services",On the Nomination PN125,Nomination Confirmed,61,37,0,2
+Senate,117,1,181,181,2021-05-11,Motion to Invoke Cloture: Cynthia Minette Marten to be Deputy Secretary of Education,On the Cloture Motion PN128,Cloture Motion Agreed to,54,44,0,2
+Senate,117,1,182,182,2021-05-11,"Confirmation: Cynthia Minette Marten, of California, to be Deputy Secretary of Education",On the Nomination PN128,Nomination Confirmed,54,44,0,2
+Senate,117,1,183,183,2021-05-11,S. J. Res. 15,On the Joint Resolution S.J.Res. 15,Joint Resolution Passed,52,47,0,1
+Senate,117,1,184,184,2021-05-12,Motion to Discharge: Chiquita Brooks-LaSure to be Administrator of the Centers for Medicare and Medicaid Services from the Committee on Finance,On the Motion to Discharge PN124,Motion to Discharge Agreed to,51,48,0,1
+Senate,117,1,185,185,2021-05-12,Motion to Invoke Cloture: Ronald Stroman to be a Governor of the United States Postal Service,On the Cloture Motion PN246,Cloture Motion Agreed to,68,30,0,2
+Senate,117,1,186,186,2021-05-12,"Confirmation: Ronald Stroman, of the District of Columbia, to be a Governor of the United States Postal Service",On the Nomination PN246,Nomination Confirmed,69,30,0,1
+Senate,117,1,187,187,2021-05-12,Motion to Invoke Cloture: Ronald Stroman to be a Governor of the United States Postal Service,On the Cloture Motion PN245,Cloture Motion Agreed to,67,32,0,1
+Senate,117,1,188,188,2021-05-12,"Confirmation: Ronald Stroman, of the District of Columbia, to be a Governor of the United States Postal Service",On the Nomination PN245,Nomination Confirmed,66,32,0,2
+Senate,117,1,189,189,2021-05-12,Motion to Invoke Cloture: Amber Faye McReynolds to be a Governor of the United States Postal Service,On the Cloture Motion PN244,Cloture Motion Agreed to,60,38,0,2
+Senate,117,1,190,190,2021-05-13,"Confirmation: Amber Faye McReynolds, of Colorado, to be a Governor of the United States Postal Service",On the Nomination PN244,Nomination Confirmed,59,38,0,3
+Senate,117,1,191,191,2021-05-13,"Confirmation: Donet Dominic Graves, Jr., of Ohio, to be Deputy Secretary of Commerce",On the Nomination PN79-3,Nomination Confirmed,89,7,0,4
+Senate,117,1,192,192,2021-05-17,Motion to Invoke Cloture on the Motion to Proceed to S. 1260,On Cloture on the Motion to Proceed S. 1260,Cloture on the Motion to Proceed Agreed to,86,11,0,3
+Senate,117,1,193,193,2021-05-18,Motion to Discharge the Nomination of Kristen M. Clarke to be an Assistant Attorney General from the Committee on the Judiciary ,On the Motion to Discharge PN79-2,Motion to Discharge Agreed to,50,48,0,2
+Senate,117,1,194,194,2021-05-18,Motion to Proceed to S.J. Res. 13,On the Motion to Proceed S.J.Res. 13,Motion to Proceed Agreed to,50,49,0,1
+Senate,117,1,195,195,2021-05-19,S.J. Res. 13,On the Joint Resolution S.J.Res. 13,Joint Resolution Passed,50,48,0,2
+Senate,117,1,196,196,2021-05-19,Tillis Amdt. No. 1517,On the Amendment S.Amdt. 1517 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Agreed to,71,27,0,2
+Senate,117,1,197,197,2021-05-19,Scott (FL) Amdt. No. 1547,On the Amendment S.Amdt. 1547 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,47,50,0,3
+Senate,117,1,198,198,2021-05-20,Inhofe Amdt. No. 1523,On the Amendment S.Amdt. 1523 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,44,53,0,3
+Senate,117,1,199,199,2021-05-20,Johnson Amdt. No. 1518,On the Amendment S.Amdt. 1518 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,46,48,0,6
+Senate,117,1,201,201,2021-05-25,"Confirmation: Chiquita Brooks-LaSure, of Virginia, to be Administrator of the Centers for Medicare and Medicaid Services",On the Nomination PN124,Nomination Confirmed,55,44,0,1
+Senate,117,1,200,200,2021-05-24,Motion to Invoke Cloture: Chiquita Brooks-LaSure to be Administrator of the Centers for Medicare and Medicaid Services,On the Cloture Motion PN124,Cloture Motion Agreed to,52,43,0,5
+Senate,117,1,202,202,2021-05-25,Motion to Invoke Cloture: Kristen M. Clarke to be an Assistant Attorney General,On the Cloture Motion PN79-2,Cloture Motion Agreed to,51,48,0,1
+Senate,117,1,203,203,2021-05-25,"Confirmation: Kristen M. Clarke, of the District of Columbia, to be an Assistant Attorney General",On the Nomination PN79-2,Nomination Confirmed,51,48,0,1
+Senate,117,1,204,204,2021-05-25,Wyden Amdt. No. 1975,On the Amendment S.Amdt. 1975 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,50,49,0,1
+Senate,117,1,205,205,2021-05-25,Crapo Amdt. No. 1565,On the Amendment S.Amdt. 1565 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,53,46,0,1
+Senate,117,1,206,206,2021-05-25,Lee Amdt. No. 1891,On the Amendment S.Amdt. 1891 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,48,51,0,1
+Senate,117,1,207,207,2021-05-26,Sullivan Amdt. No. 1911,On the Amendment S.Amdt. 1911 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,49,51,0,0
+Senate,117,1,208,208,2021-05-26,Durbin Amdt. No. 2014,On the Amendment S.Amdt. 2014 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,50,50,0,0
+Senate,117,1,209,209,2021-05-26,Kennedy Amdt. No. 1710,On the Amendment S.Amdt. 1710 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,51,49,0,0
+Senate,117,1,210,210,2021-05-26,Coons Amdt. No. 1588,On the Amendment S.Amdt. 1588 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Agreed to,83,14,0,3
+Senate,117,1,211,211,2021-05-26,Lee Amdt. No. 1929,On the Amendment S.Amdt. 1929 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,48,49,0,3
+Senate,117,1,212,212,2021-05-26,Braun Amdt. No. 1771,On the Amendment S.Amdt. 1771 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,48,49,0,3
+Senate,117,1,213,213,2021-05-26,Sasse Amdt. No. 2023,On the Amendment S.Amdt. 2023 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Agreed to,67,30,0,3
+Senate,117,1,214,214,2021-05-27,Motion to Invoke Cloture: Schumer Amdt. No. 1502,On the Cloture Motion S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Cloture Motion Agreed to,68,30,0,2
+Senate,117,1,215,215,2021-05-27,Motion to Table Rubio Amdt. No. 1802,On the Motion to Table S.Amdt. 1802 to S.Amdt. 1527 to S.Amdt. 1502 to S. 1260,Motion to Table Agreed to,55,40,0,5
+Senate,117,1,216,216,2021-05-27,Crapo-Wyden Amdt. No. 1562 As Modified,On the Amendment S.Amdt. 1562 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Agreed to,91,4,0,5
+Senate,117,1,217,217,2021-05-27,Motion to Instruct the Sergeant at Arms to Request the Attendance of Absentee Senators,On the Motion for Attendance S. 1260,Motion for Attendance Agreed to,84,7,0,9
+Senate,117,1,218,218,2021-05-28,Motion to Invoke Cloture Re: Motion to Proceed to H.R. 3233,On the Cloture Motion H.R. 3233,Cloture Motion Rejected,54,35,0,11
+Senate,117,1,219,219,2021-06-07,Motion to Invoke Cloture: Julien Xavier Neals to be U.S. District Judge for the District of New Jersey,On the Cloture Motion PN393,Cloture Motion Agreed to,66,28,0,6
+Senate,117,1,220,220,2021-06-08,"Confirmation: Julien Xavier Neals, of New Jersey, to be U.S. District Judge for the District of New Jersey",On the Nomination PN393,Nomination Confirmed,66,33,0,1
+Senate,117,1,221,221,2021-06-08,Motion to Invoke Cloture: Regina M. Rodriguez to be U.S. District Judge for the District of Colorado,On the Cloture Motion PN395,Cloture Motion Agreed to,72,28,0,0
+Senate,117,1,222,222,2021-06-08,"Confirmation: Regina M. Rodriguez, of Colorado, to be U.S. District Judge for the District of Colorado",On the Nomination PN395,Nomination Confirmed,72,28,0,0
+Senate,117,1,223,223,2021-06-08,Cornyn Amdt. No. 1858,On the Amendment S.Amdt. 1858 to S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Rejected,42,58,0,0
+Senate,117,1,224,224,2021-06-08,Motion to Waive All Applicable Budgetary Discipline Re: Amdt. No. 1502 As Amended ,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Amdt. No. 1502 As Amended ),Motion Agreed to,72,28,0,0
+Senate,117,1,225,225,2021-06-08,Amdt. No. 1502 As Amended,On the Amendment S.Amdt. 1502 to S. 1260 (Endless Frontier Act),Amendment Agreed to,68,32,0,0
+Senate,117,1,226,226,2021-06-08,"S. 1260, As Amended",On Passage of the Bill S. 1260,Bill Passed,68,32,0,0
+Senate,117,1,227,227,2021-06-08,Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7,On Cloture on the Motion to Proceed H.R. 7,Cloture on the Motion to Proceed Rejected,49,50,0,1
+Senate,117,1,228,228,2021-06-10,"Motion to Invoke Cloture: Zahid N. Quraishi, of New Jersey, to be U.S. District Judge for the District of New Jersey",On the Cloture Motion PN394,Cloture Motion Agreed to,83,16,0,1
+Senate,117,1,229,229,2021-06-10,Motion to Invoke Cloture: Ketanji Brown Jackson to be U.S. Circuit Judge for the District of Columbia Circuit,On the Cloture Motion PN391,Cloture Motion Agreed to,52,46,0,2
+Senate,117,1,230,230,2021-06-10,"Confirmation: Zahid N. Quraishi, of New Jersey, to be U.S. District Judge for the District of New Jersey",On the Nomination PN394,Nomination Confirmed,81,16,0,3
+Senate,117,1,231,231,2021-06-14,"Confirmation: Ketanji Brown Jackson, of the District of Columbia, to be U.S. Circuit Judge for the District of Columbia Circuit",On the Nomination PN391,Nomination Confirmed,53,44,0,3
+Senate,117,1,232,232,2021-06-14,Motion to Invoke Cloture: Lina M. Khan to be a Federal Trade Commissioner,On the Cloture Motion PN254,Cloture Motion Agreed to,72,25,0,3
+Senate,117,1,233,233,2021-06-15,"Confirmation: Lina M. Khan, of New York, to be a Federal Trade Commissioner",On the Nomination PN254,Nomination Confirmed,69,28,0,3
+Senate,117,1,234,234,2021-06-16,Motion to Invoke Cloture: Radhika Fox to be an Assistant Administrator of the Environmental Protection Agency,On the Cloture Motion PN444,Cloture Motion Agreed to,55,43,0,2
+Senate,117,1,235,235,2021-06-16,Motion to Invoke Cloture: Lydia Kay Griggsby to be U.S. District Judge for the District of Maryland,On the Cloture Motion PN390,Cloture Motion Agreed to,57,41,0,2
+Senate,117,1,236,236,2021-06-16,"Confirmation: Radhika Fox, of California, to be an Assistant Administrator of the Environmental Protection Agency",On the Nomination PN444,Nomination Confirmed,55,43,0,2
+Senate,117,1,237,237,2021-06-16,"Confirmation: Lydia Kay Griggsby, of Maryland, to be U.S. District Judge for the District of Maryland",On the Nomination PN390,Nomination Confirmed,59,39,0,2
+Senate,117,1,238,238,2021-06-16,Motion to Invoke Cloture: Tommy P. Beaudreau to be Deputy Secretary of the Interior,On the Cloture Motion PN363,Cloture Motion Agreed to,89,9,0,2
+Senate,117,1,239,239,2021-06-17,"Confirmation: Tommy P. Beaudreau, of Alaska, to be Deputy Secretary of the Interior",On the Nomination PN363,Nomination Confirmed,88,9,0,3
+Senate,117,1,240,240,2021-06-17,Motion to Invoke Cloture: John K. Tien to be Deputy Secretary of Homeland Security,On the Cloture Motion PN421,Cloture Motion Agreed to,63,33,0,4
+Senate,117,1,241,241,2021-06-17,"Confirmation: John K. Tien, of Georgia, to be Deputy Secretary of Homeland Security",On the Nomination PN421,Nomination Confirmed,60,34,0,6
+Senate,117,1,242,242,2021-06-21,Motion to Invoke Cloture: Christopher Charles Fonzone to be General Counsel of the Office of the Director of National Intelligence,On the Cloture Motion PN249,Cloture Motion Agreed to,52,35,0,13
+Senate,117,1,243,243,2021-06-22,"Confirmation: Christopher Charles Fonzone, of Pennsylvania, to be General Counsel of the Office of the Director of National Intelligence",On the Nomination PN249,Nomination Confirmed,55,45,0,0
+Senate,117,1,244,244,2021-06-22,"Motion to Invoke Cloture: Kiran Arjandas Ahuja, of Massachusetts, to be Director of the Office of Personnel Management",On the Cloture Motion PN220,Cloture Motion Agreed to,50,50,0,0
+Senate,117,1,245,245,2021-06-22,"Confirmation: Kiran Arjandas Ahuja, of Massachusetts, to be Director of the Office of Personnel Management",On the Nomination PN220,Nomination Confirmed,50,50,0,0
+Senate,117,1,246,246,2021-06-22,Motion to Invoke Cloture: Motion to Proceed to S. 2093,On Cloture on the Motion to Proceed S. 2093,Cloture on the Motion to Proceed Rejected,50,50,0,0
+Senate,117,1,247,247,2021-06-23,Motion to Invoke Cloture: Deborah L. Boardman to be U.S. District Judge for the District of Maryland ,On the Cloture Motion PN388,Cloture Motion Agreed to,52,48,0,0
+Senate,117,1,248,248,2021-06-23,"Confirmation: Deborah L. Boardman, of Maryland, to be U.S. District Judge for the District of Maryland",On the Nomination PN388,Nomination Confirmed,52,48,0,0
+Senate,117,1,249,249,2021-06-23,Motion to Invoke Cloture: Candace Jackson-Akiwumi to be U.S. Circuit Judge for the Seventh Circuit,On the Cloture Motion PN392,Cloture Motion Agreed to,53,47,0,0
+Senate,117,1,250,250,2021-06-24,Lee Amdt. No. 2119,On the Amendment S.Amdt. 2119 to S. 1251 (Growing Climate Solutions Act of 2021),Amendment Rejected,11,89,0,0
+Senate,117,1,251,251,2021-06-24,S. 1251,On Passage of the Bill S. 1251,Bill Passed,92,8,0,0
+Senate,117,1,252,252,2021-06-24,"Confirmation: Candace Jackson-Akiwumi, of Illinois, to be U.S. Circuit Judge for the Seventh Circuit",On the Nomination PN392,Nomination Confirmed,53,40,0,7
+Senate,117,1,253,253,2021-07-12,"Motion to Invoke Cloture: Uzra Zeya to be an Under Secretary of State (Civilian Security, Democracy, and Human Rights)",On the Cloture Motion PN241,Cloture Motion Agreed to,71,23,0,6
+Senate,117,1,254,254,2021-07-13,"Confirmation: Uzra Zeya, of Virginia, to be an Under Secretary of State (Civilian Security, Democracy, and Human Rights) ",On the Nomination PN241,Nomination Confirmed,73,24,0,3
+Senate,117,1,256,256,2021-07-13,"Confirmation: Julie A. Su, of California, to be Deputy Secretary of Labor",On the Nomination PN122,Nomination Confirmed,50,47,0,3
+Senate,117,1,255,255,2021-07-13,Motion to Invoke Cloture: Julie A. Su to be Deputy Secretary of Labor,On the Cloture Motion PN122,Cloture Motion Agreed to,50,47,0,3
+Senate,117,1,257,257,2021-07-13,"Motion to Discharge: Jennifer Ann Abruzzo to be General Counsel of the National Labor Relations Board from the Committee on Health, Education, Labor, and Pensions",On the Motion to Discharge PN126,Motion to Discharge Agreed to,50,48,0,2
+Senate,117,1,258,258,2021-07-14,Motion to Invoke Cloture: Jocelyn Samuels to be a Member of the Equal Employment Opportunity Commission,On the Cloture Motion PN271,Cloture Motion Agreed to,53,47,0,0
+Senate,117,1,259,259,2021-07-14,Motion to Invoke Cloture: Seema Nanda to be Solicitor for the Department of Labor,On the Cloture Motion PN269,Cloture Motion Agreed to,53,47,0,0
+Senate,117,1,260,260,2021-07-14,"Confirmation: Jocelyn Samuels, of Maryland, to be a Member of the Equal Employment Opportunity Commission",On the Nomination PN271,Nomination Confirmed,52,47,0,1
+Senate,117,1,261,261,2021-07-14,"Confirmation: Seema Nanda, of Virginia, to be Solicitor for the Department of Labor",On the Nomination PN269,Nomination Confirmed,53,46,0,1
+Senate,117,1,262,262,2021-07-14,Motion to Invoke Cloture: J. Nellie Liang to be an Under Secretary of the Treasury,On the Cloture Motion PN414,Cloture Motion Agreed to,72,27,0,1
+Senate,117,1,263,263,2021-07-14,Motion to Invoke Cloture: Donald Michael Remy to be Deputy Secretary of Veterans Affairs,On the Cloture Motion PN460,Cloture Motion Agreed to,90,8,0,2
+Senate,117,1,264,264,2021-07-15,"Confirmation: J. Nellie Liang, of Maryland, to be an Under Secretary of the Treasury",On the Nomination PN414,Nomination Confirmed,72,27,0,1
+Senate,117,1,265,265,2021-07-15,"Confirmation: Donald Michael Remy, of Louisiana, to be Deputy Secretary of Veterans Affairs",On the Nomination PN460,Nomination Confirmed,91,8,0,1
+Senate,117,1,266,266,2021-07-15,Motion to Invoke Cloture: Tiffany P. Cunningham to be United States Circuit Judge for the Federal Circuit,On the Cloture Motion PN389,Cloture Motion Agreed to,63,34,0,3
+Senate,117,1,267,267,2021-07-19,"Confirmation: Tiffany P. Cunningham, of Illinois, to be United States Circuit Judge for the Federal Circuit",On the Nomination PN389,Nomination Confirmed,63,33,0,4
+Senate,117,1,268,268,2021-07-20,"Motion to Invoke Cloture: Kenneth Allen Polite, Jr. to be an Assistant Attorney General",On the Cloture Motion PN423,Cloture Motion Agreed to,57,43,0,0
+Senate,117,1,269,269,2021-07-20,Motion to Invoke Cloture: Jennifer Ann Abruzzo to be General Counsel of the National Labor Relations Board,On the Cloture Motion PN126,Cloture Motion Agreed to,50,50,0,0
+Senate,117,1,270,270,2021-07-20,"Confirmation: Kenneth Allen Polite, Jr., of Louisiana, to be an Assistant Attorney General",On the Nomination PN423,Nomination Confirmed,56,44,0,0
+Senate,117,1,271,271,2021-07-20,"Toomey Amdt No. 2121, As Modified",On the Amendment S.Amdt. 2121 to H.R. 1652 (VOCA Fix to Sustain the Crime Victims Fund Act of 2021),Amendment Rejected,40,60,0,0
+Senate,117,1,272,272,2021-07-20,H.R. 1652,On Passage of the Bill H.R. 1652,Bill Passed,100,0,0,0
+Senate,117,1,273,273,2021-07-21,"Confirmation: Jennifer Ann Abruzzo, of New York, to be General Counsel of the National Labor Relations Board",On the Nomination PN126,Nomination Confirmed,50,50,0,0
+Senate,117,1,274,274,2021-07-21,Motion to Invoke Cloture: Bonnie D. Jenkins to be Under Secretary of State for Arms Control and International Security ,On the Cloture Motion PN242,Cloture Motion Agreed to,52,48,0,0
+Senate,117,1,275,275,2021-07-21,"Confirmation: Bonnie D. Jenkins, of New York, to be Under Secretary of State for Arms Control and International Security",On the Nomination PN242,Nomination Confirmed,52,48,0,0
+Senate,117,1,276,276,2021-07-21,Motion to Invoke Cloture: Motion to Proceed to H.R. 3684,On Cloture on the Motion to Proceed H.R. 3684,Cloture on the Motion to Proceed Rejected,49,51,0,0
+Senate,117,1,277,277,2021-07-22,"Confirmation: Jill Hruby, of New Mexico, to be Under Secretary for Nuclear Security, Department of Energy",On the Nomination PN401,Nomination Confirmed,79,16,0,5
+Senate,117,1,278,278,2021-07-26,Motion to Invoke Cloture: Todd Sunhwae Kim to be an Assistant Attorney General,On the Cloture Motion PN250,Cloture Motion Agreed to,54,40,0,6
+Senate,117,1,279,279,2021-07-27,"Confirmation: Todd Sunhwae Kim, of the District of Columbia, to be an Assistant Attorney General",On the Nomination PN250,Nomination Confirmed,58,41,0,1
+Senate,117,1,280,280,2021-07-27,"Motion to Discharge: Tracy Stone-Manning to be Director of the Bureau of Land Management, from the Committee on Energy and Natural Resources",On the Motion to Discharge PN443,Motion to Discharge Agreed to,50,49,0,1
+Senate,117,1,281,281,2021-07-28,Motion to Invoke Cloture: Gwynne A. Wilcox to be a Member of the National Labor Relations Board,On the Cloture Motion PN609,Cloture Motion Agreed to,52,47,0,1
+Senate,117,1,282,282,2021-07-28,"Confirmation: Gwynne A. Wilcox, of New York, to be a Member of the National Labor Relations Board",On the Nomination PN609,Nomination Confirmed,52,47,0,1
+Senate,117,1,283,283,2021-07-28,Motion to Invoke Cloture: David M. Prouty to be a Member of the National Labor Relations Board,On the Cloture Motion PN739,Cloture Motion Agreed to,53,46,0,1
+Senate,117,1,285,285,2021-07-28,"Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 3684",On Cloture on the Motion to Proceed H.R. 3684,Cloture on the Motion to Proceed Agreed to,67,32,0,1
+Senate,117,1,284,284,2021-07-28,"Confirmation: David M. Prouty, of Maryland, to be a Member of the National Labor Relations Board",On the Nomination PN739,Nomination Confirmed,53,46,0,1
+Senate,117,1,286,286,2021-07-29,Motion to Waive All Applicable Budgetary Discipline Re: Leahy Amdt. No. 2123,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Leahy Amdt. No. 2123),Motion Agreed to,72,26,0,2
+Senate,117,1,287,287,2021-07-29,"H.R. 3237, As Amended",On Passage of the Bill H.R. 3237,Bill Passed,98,0,0,2
+Senate,117,1,288,288,2021-07-30,Motion to Proceed to H.R. 3684,On the Motion to Proceed H.R. 3684,Motion to Proceed Agreed to,66,28,0,6
+Senate,117,1,289,289,2021-07-30,"Motion to Invoke Cloture: Ur Mendoza Jaddou to be Director of the United States Citizenship and Immigration Services, Department of Homeland Security",On the Cloture Motion PN369,Cloture Motion Agreed to,50,41,0,9
+Senate,117,1,290,290,2021-07-30,"Confirmation: Ur Mendoza Jaddou, of California, to be Director of the United States Citizenship and Immigration Services, Department of Homeland Security",On the Nomination PN369,Nomination Confirmed,47,34,0,19
+Senate,117,1,291,291,2021-08-02,Padilla Amdt. No. 2133,On the Amendment S.Amdt. 2133 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Agreed to,90,7,0,3
+Senate,117,1,292,292,2021-08-02,Thune Amdt. No. 2162,On the Amendment S.Amdt. 2162 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Agreed to,95,1,0,4
+Senate,117,1,293,293,2021-08-02,Barrasso Amdt. No. 2180,On the Amendment S.Amdt. 2180 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,45,48,0,7
+Senate,117,1,294,294,2021-08-03,Lummis Amdt. No. 2181,On the Amendment S.Amdt. 2181 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Agreed to,95,3,0,2
+Senate,117,1,295,295,2021-08-03,Lee Amdt. No. 2255,On the Amendment S.Amdt. 2255 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,20,78,0,2
+Senate,117,1,296,296,2021-08-03,Duckworth Amdt. No. 2140,On the Amendment S.Amdt. 2140 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,48,50,0,2
+Senate,117,1,297,297,2021-08-03,Van Hollen Amdt. No. 2354,On the Amendment S.Amdt. 2354 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Agreed to,97,0,0,3
+Senate,117,1,298,298,2021-08-04,Johnson Amdt. No. 2245,On the Amendment S.Amdt. 2245 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,48,49,0,3
+Senate,117,1,300,300,2021-08-04,Kennedy Amdt. No. 2210,On the Amendment S.Amdt. 2210 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,19,79,0,2
+Senate,117,1,299,299,2021-08-04,Wicker Amdt. No. 2146,On the Amendment S.Amdt. 2146 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,43,55,0,2
+Senate,117,1,301,301,2021-08-04,Peters Amdt. No. 2464,On the Amendment S.Amdt. 2464 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Agreed to,96,2,0,2
+Senate,117,1,303,303,2021-08-04,Daines Amdt. No. 2449,On the Amendment S.Amdt. 2449 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,48,50,0,2
+Senate,117,1,302,302,2021-08-04,Lankford Amdt. No. 2233,On the Amendment S.Amdt. 2233 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,53,45,0,2
+Senate,117,1,304,304,2021-08-04,Scott (FL) Amdt. No. 2338,On the Amendment S.Amdt. 2338 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,42,55,0,3
+Senate,117,1,306,306,2021-08-04,Fischer Amdt. No. 2164,On the Amendment S.Amdt. 2164 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Agreed to,95,0,0,5
+Senate,117,1,305,305,2021-08-04,Lee Amdt. No. 2279,On the Amendment S.Amdt. 2279 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Rejected,47,50,0,3
+Senate,117,1,307,307,2021-08-04,Schumer Amdt. No. 2570,On the Amendment S.Amdt. 2570 to S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Agreed to,58,39,0,3
+Senate,117,1,308,308,2021-08-05,Motion to Invoke Cloture: Eunice C. Lee to be U.S. Circuit Judge for the Second Circuit,On the Cloture Motion PN569,Cloture Motion Agreed to,50,49,0,1
+Senate,117,1,309,309,2021-08-07,Motion to Invoke Cloture: Sinema Amdt. No. 2137,On the Cloture Motion S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Cloture Motion Agreed to,67,27,0,6
+Senate,117,1,310,310,2021-08-07,"Confirmation: Eunice C. Lee, of New York, to be U.S. Circuit Judge for the Second Circuit",On the Nomination PN569,Nomination Confirmed,50,47,0,3
+Senate,117,1,311,311,2021-08-08,Motion to Waive All Applicable Budgetary Discipline Re: Sinema Amdt. No. 2137,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Sinema Amdt. No. 2137),Motion Agreed to,64,33,0,3
+Senate,117,1,312,312,2021-08-08,"Sinema Amdt. No. 2137, As Amended",On the Amendment S.Amdt. 2137 to H.R. 3684 (INVEST in America Act),Amendment Agreed to,69,28,0,3
+Senate,117,1,313,313,2021-08-08,Motion to Invoke Cloture Re: H.R. 3684,On the Cloture Motion H.R. 3684,Cloture Motion Agreed to,68,29,0,3
+Senate,117,1,314,314,2021-08-10,"H.R. 3684, As Amended",On Passage of the Bill H.R. 3684,Bill Passed,69,30,0,1
+Senate,117,1,315,315,2021-08-10,Motion to Proceed to S. Con. Res. 14,On the Motion to Proceed S.Con.Res. 14,Motion to Proceed Agreed to,50,49,0,1
+Senate,117,1,316,316,2021-08-10,Barrasso Amdt. No. 3055,On the Amendment S.Amdt. 3055 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,99,0,0,1
+Senate,117,1,317,317,2021-08-10,Carper Amdt. No. 3330,On the Amendment S.Amdt. 3330 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,51,48,0,1
+Senate,117,1,318,318,2021-08-10,Thune Amdt. No. 3106,On the Amendment S.Amdt. 3106 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,99,0,0,1
+Senate,117,1,319,319,2021-08-10,Cortez Masto Amdt. No. 3317,On the Amendment S.Amdt. 3317 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,320,320,2021-08-10,Lummis Amdt. No. 3104,On the Amendment S.Amdt. 3104 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,321,321,2021-08-10,Crapo Amdt. No. 3099,On the Amendment S.Amdt. 3099 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,322,322,2021-08-10,Wyden Amdt. No. 3365,On the Amendment S.Amdt. 3365 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,50,49,0,1
+Senate,117,1,324,324,2021-08-10,Scott (SC) Amdt. No. 3073,On the Amendment S.Amdt. 3073 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,323,323,2021-08-10,Cramer Amdt. No. 3105,On the Amendment S.Amdt. 3105 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,57,42,0,1
+Senate,117,1,325,325,2021-08-10,Shelby Amdt. No. 3293,On the Amendment S.Amdt. 3293 to S.Con.Res. 14 (No short title on file),Amendment Rejected,46,53,0,1
+Senate,117,1,326,326,2021-08-10,Grassley Amdt. No. 3251,On the Amendment S.Amdt. 3251 to S.Con.Res. 14 (No short title on file),Amendment Rejected,48,51,0,1
+Senate,117,1,327,327,2021-08-10,Wyden Amdt. No. 3569,On the Amendment S.Amdt. 3569 to S.Con.Res. 14 (No short title on file),Amendment Rejected,47,51,0,2
+Senate,117,1,328,328,2021-08-10,Tuberville Amdt. No. 3113,On the Amendment S.Amdt. 3113 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,99,0,0,1
+Senate,117,1,329,329,2021-08-10,Klobuchar Amdt. No. 3731,On the Amendment S.Amdt. 3731 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,99,0,0,1
+Senate,117,1,330,330,2021-08-10,Boozman Amdt. No. 3103,On the Amendment S.Amdt. 3103 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,53,46,0,1
+Senate,117,1,331,331,2021-08-10,Braun Amdt. No. 3114,On the Amendment S.Amdt. 3114 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,86,13,0,1
+Senate,117,1,333,333,2021-08-10,Ernst Amdt. No. 3115,On the Amendment S.Amdt. 3115 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,66,33,0,1
+Senate,117,1,332,332,2021-08-10,Fischer Amdt. No. 3128,On the Amendment S.Amdt. 3128 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,51,48,0,1
+Senate,117,1,334,334,2021-08-10,Scott (FL) Amdt. No. 3383,On the Amendment S.Amdt. 3383 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,99,0,0,1
+Senate,117,1,335,335,2021-08-10,Young Amdt. No. 3444,On the Amendment S.Amdt. 3444 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,98,1,0,1
+Senate,117,1,336,336,2021-08-10,Lankford Amdt. No. 3792,On the Amendment S.Amdt. 3792 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,50,49,0,1
+Senate,117,1,337,337,2021-08-10,Sullivan Amdt. No. 3627,On the Amendment S.Amdt. 3627 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,90,9,0,1
+Senate,117,1,338,338,2021-08-10,Paul Amdt. No. 3150,On the Amendment S.Amdt. 3150 to S.Con.Res. 14 (No short title on file),Amendment Rejected,28,71,0,1
+Senate,117,1,339,339,2021-08-10,Baldwin Amdt. No. 3648,On the Amendment S.Amdt. 3648 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,85,13,0,2
+Senate,117,1,340,340,2021-08-10,Romney Amdt. No. 3652,On the Amendment S.Amdt. 3652 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,341,341,2021-08-10,Moran Amdt. No. 3795,On the Amendment S.Amdt. 3795 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,76,23,0,1
+Senate,117,1,342,342,2021-08-11,Cotton Amdt. No. 3680,On the Amendment S.Amdt. 3680 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,50,49,0,1
+Senate,117,1,343,343,2021-08-11,Blackburn Amdt. No. 3062,On the Amendment S.Amdt. 3062 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,344,344,2021-08-11,Cruz Amdt. No. 3781,On the Amendment S.Amdt. 3781 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,345,345,2021-08-11,Hawley Amdt. No. 2734,On the Amendment S.Amdt. 2734 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,95,3,0,2
+Senate,117,1,346,346,2021-08-11,Hoeven Amdt. No. 3243,On the Amendment S.Amdt. 3243 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,52,47,0,1
+Senate,117,1,347,347,2021-08-11,Marshall Amdt. No. 3797,On the Amendment S.Amdt. 3797 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,88,11,0,1
+Senate,117,1,348,348,2021-08-11,Kennedy Amdt. No. 3758,On the Amendment S.Amdt. 3758 to S.Con.Res. 14 (No short title on file),Amendment Rejected,48,51,0,1
+Senate,117,1,349,349,2021-08-11,Lee Amdt. No. 3141,On the Amendment S.Amdt. 3141 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,51,48,0,1
+Senate,117,1,350,350,2021-08-11,Inhofe Amdt. No. 3331,On the Amendment S.Amdt. 3331 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,351,351,2021-08-11,Hagerty Amdt. No. 3742,On the Amendment S.Amdt. 3742 to S.Con.Res. 14 (No short title on file),Amendment Agreed to,53,46,0,1
+Senate,117,1,352,352,2021-08-11,Hyde-Smith Amdt. No. 3568,On the Amendment S.Amdt. 3568 to S.Con.Res. 14 (No short title on file),Amendment Rejected,47,52,0,1
+Senate,117,1,353,353,2021-08-11,Grassley Amdt. No. 3650,On the Amendment S.Amdt. 3650 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,354,354,2021-08-11,Sullivan Amdt. No. 3626,On the Amendment S.Amdt. 3626 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,355,355,2021-08-11,Motion to Waive Sec. 904 of the C.B.A. Re: Cruz Amdt. No. 3681,On the Motion (Motion to Waive Sec. 904 of the C.B.A. Re: Cruz Amdt. No. 3681),Motion Rejected,50,49,0,1
+Senate,117,1,356,356,2021-08-11,Lee Amdt. No. 3815,On the Amendment S.Amdt. 3815 to S.Con.Res. 14 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,117,1,357,357,2021-08-11,"S. Con. Res. 14, As Amended",On the Concurrent Resolution S.Con.Res. 14,Concurrent Resolution Agreed to,50,49,0,1
+Senate,117,1,358,358,2021-08-11,Motion to Discharge S. 1,On the Motion to Discharge S. 1,Motion to Discharge Agreed to,50,49,0,1
+Senate,117,1,359,359,2021-09-13,Motion to Invoke Cloture: James Richard Kvaal to be Under Secretary of Education,On the Cloture Motion PN127,Cloture Motion Agreed to,55,37,0,8
+Senate,117,1,360,360,2021-09-14,"Confirmation: James Richard Kvaal, of Massachusetts, to be Under Secretary of Education",On the Nomination PN127,Nomination Confirmed,58,37,0,5
+Senate,117,1,361,361,2021-09-14,Motion to Invoke Cloture: David G. Estudillo to be U.S. District Judge for the Western District of Washington,On the Cloture Motion PN562,Cloture Motion Agreed to,52,42,0,6
+Senate,117,1,362,362,2021-09-14,"Confirmation: David G. Estudillo, of Washington, to be U.S. District Judge for the Western District of Washington",On the Nomination PN562,Nomination Confirmed,54,41,0,5
+Senate,117,1,363,363,2021-09-14,Motion to Invoke Cloture: Angel Kelley to be U.S. District Judge for the District of Massachusetts,On the Cloture Motion PN567,Cloture Motion Agreed to,52,43,0,5
+Senate,117,1,364,364,2021-09-14,"Confirmation: Angel Kelley, of Massachusetts, to be U.S. District Judge for the District of Massachusetts",On the Nomination PN567,Nomination Confirmed,52,44,0,4
+Senate,117,1,365,365,2021-09-14,Motion to Invoke Cloture: Veronica S. Rossman to be U.S. Circuit Judge for the Tenth Circuit ,On the Cloture Motion PN570,Cloture Motion Agreed to,51,44,0,5
+Senate,117,1,366,366,2021-09-20,"Confirmation: Veronica S. Rossman, of Colorado, to be U.S. Circuit Judge for the Tenth Circuit",On the Nomination PN570,Nomination Confirmed,50,42,0,8
+Senate,117,1,367,367,2021-09-21,Motion to Invoke Cloture: Margaret Irene Strickland to be U.S. District Judge for the District of New Mexico,On the Cloture Motion PN396,Cloture Motion Agreed to,52,46,0,2
+Senate,117,1,368,368,2021-09-21,"Confirmation: Margaret Irene Strickland, of New Mexico, to be U.S. District Judge for the District of New Mexico",On the Nomination PN396,Nomination Confirmed,52,45,0,3
+Senate,117,1,369,369,2021-09-21,"Motion to Discharge: Rohit Chopra to be Director, Bureau of Consumer Financial Protection, from the Committee on Banking, Housing, and Urban Affairs",On the Motion to Discharge PN116,Motion to Discharge Agreed to,49,48,0,3
+Senate,117,1,370,370,2021-09-22,Motion to Invoke Cloture: Lily Lawrence Batchelder to be an Assistant Secretary of the Treasury,On the Cloture Motion PN365,Cloture Motion Agreed to,63,35,0,2
+Senate,117,1,371,371,2021-09-22,Motion to Invoke Cloture: Jayme Ray White to be a Deputy U.S. Trade Representative,On the Cloture Motion PN630,Cloture Motion Agreed to,78,20,0,2
+Senate,117,1,372,372,2021-09-22,"Confirmation: Lily Lawrence Batchelder, of Massachusetts, to be an Assistant Secretary of the Treasury",On the Nomination PN365,Nomination Confirmed,64,34,0,2
+Senate,117,1,373,373,2021-09-22,"Confirmation: Jayme Ray White, of Washington, to be a Deputy U.S. Trade Representative",On the Nomination PN630,Nomination Confirmed,80,18,0,2
+Senate,117,1,374,374,2021-09-22,Motion to Invoke Cloture: Florence Y. Pan to be U.S. District Judge for the District of Columbia,On the Cloture Motion PN642,Cloture Motion Agreed to,66,27,0,7
+Senate,117,1,375,375,2021-09-23,"Confirmation: Florence Y. Pan, of the District of Columbia, to be U.S. District Judge for the District of Columbia",On the Nomination PN642,Nomination Confirmed,68,30,0,2
+Senate,117,1,376,376,2021-09-23,"Motion to Invoke Cloture: Sarah Bianchi, of Virginia, to be Deputy United States Trade Representative",On the Cloture Motion PN607,Cloture Motion Agreed to,85,13,0,2
+Senate,117,1,377,377,2021-09-23,"Confirmation: Sarah Bianchi, of Virginia, to be Deputy United States Trade Representative",On the Nomination PN607,Nomination Confirmed,85,11,0,4
+Senate,117,1,378,378,2021-09-23,"Motion to Invoke Cloture: Daniel J. Kritenbrink, of Virginia, to be an Assistant Secretary of State (East Asian and Pacific Affairs) ",On the Cloture Motion PN494,Cloture Motion Agreed to,77,18,0,5
+Senate,117,1,379,379,2021-09-23,"Confirmation: Daniel J. Kritenbrink, of Virginia, to be an Assistant Secretary of State (East Asian and Pacific Affairs)",On the Nomination PN494,Nomination Confirmed,72,14,0,14
+Senate,117,1,380,380,2021-09-23,"Motion to Invoke Cloture: Karen Erika Donfried, of the District of Columbia, to be an Assistant Secretary of State (European Affairs and Eurasian Affairs)",On the Cloture Motion PN548,Cloture Motion Agreed to,65,21,0,14
+Senate,117,1,381,381,2021-09-23,Motion to Invoke Cloture: Monica P. Medina to be Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs,On the Cloture Motion PN446,Cloture Motion Agreed to,57,26,0,17
+Senate,117,1,382,382,2021-09-23,Motion to Invoke Cloture: Mary Catherine Phee to be an Assistant Secretary of State (African Affairs),On the Cloture Motion PN545,Cloture Motion Agreed to,58,25,0,17
+Senate,117,1,383,383,2021-09-23,Motion to Invoke Cloture: Todd D. Robinson to be an Assistant Secretary of State (International Narcotics and Law Enforcement Affairs),On the Cloture Motion PN447,Cloture Motion Agreed to,54,29,0,17
+Senate,117,1,384,384,2021-09-23,Motion to Invoke Cloture: Jessica Lewis to be an Assistant Secretary of State (Political-Military Affairs),On the Cloture Motion PN550,Cloture Motion Agreed to,62,21,0,17
+Senate,117,1,385,385,2021-09-27,Motion to Invoke Cloture: Motion to Proceed to H.R. 5305,On Cloture on the Motion to Proceed H.R. 5305,Cloture on the Motion to Proceed Rejected,48,50,0,2
+Senate,117,1,386,386,2021-09-28,"Confirmation: Karen Erika Donfried, of the District of Columbia, to be an Assistant Secretary of State (European Affairs and Eurasian Affairs)",On the Nomination PN548,Nomination Confirmed,73,26,0,1
+Senate,117,1,387,387,2021-09-28,"Confirmation: Monica P. Medina, of Maryland, to be Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs",On the Nomination PN446,Nomination Confirmed,61,36,0,3
+Senate,117,1,388,388,2021-09-28,"Confirmation: Mary Catherine Phee, of Illinois, to be an Assistant Secretary of State (African Affairs)",On the Nomination PN545,Nomination Confirmed,67,31,0,2
+Senate,117,1,389,389,2021-09-28,"Confirmation: Todd D. Robinson, of New Jersey, to be an Assistant Secretary of State (International Narcotics and Law Enforcement Affairs)",On the Nomination PN447,Nomination Confirmed,53,41,0,6
+Senate,117,1,390,390,2021-09-29,"Confirmation: Jessica Lewis, of Ohio, to be an Assistant Secretary of State (Political-Military Affairs)",On the Nomination PN550,Nomination Confirmed,70,27,0,3
+Senate,117,1,391,391,2021-09-29,Motion to Invoke Cloture: Robert T. Anderson to be Solicitor of the Department of the Interior ,On the Cloture Motion PN265,Cloture Motion Agreed to,52,46,0,2
+Senate,117,1,392,392,2021-09-29,"Motion to Invoke Cloture: Jonathan Eugene Meyer to be General Counsel, Department of Homeland Security",On the Cloture Motion PN560,Cloture Motion Agreed to,52,46,0,2
+Senate,117,1,393,393,2021-09-29,"Confirmation: Robert T. Anderson, of Washington, to be Solicitor of the Department of the Interior",On the Nomination PN265,Nomination Confirmed,53,44,0,3
+Senate,117,1,394,394,2021-09-30,Cotton Amdt. No. 3833,On the Amendment S.Amdt. 3833 to S.Amdt. 3830 to H.R. 5305 (Extending Government Funding and Delivering Emergency Assistance Act),Amendment Rejected,50,50,0,0
+Senate,117,1,395,395,2021-09-30,Marshall Amdt. No. 3831,On the Amendment S.Amdt. 3831 to S.Amdt. 3830 to H.R. 5305 (Extending Government Funding and Delivering Emergency Assistance Act),Amendment Rejected,50,50,0,0
+Senate,117,1,396,396,2021-09-30,Braun Amdt. No. 3832,On the Amendment S.Amdt. 3832 to S.Amdt. 3830 to H.R. 5305 (Extending Government Funding and Delivering Emergency Assistance Act),Amendment Rejected,53,47,0,0
+Senate,117,1,397,397,2021-09-30,"H.R. 5305, As Amended",On Passage of the Bill H.R. 5305,Bill Passed,65,35,0,0
+Senate,117,1,398,398,2021-09-30,"Motion to Invoke Cloture: Rohit Chopra to be Director, Bureau of Consumer Financial Protection",On the Cloture Motion PN116,Cloture Motion Agreed to,50,50,0,0
+Senate,117,1,399,399,2021-09-30,"Confirmation: Rohit Chopra, of the District of Columbia, to be Director, Bureau of Consumer Financial Protection",On the Nomination PN116,Nomination Confirmed,50,48,0,2
+Senate,117,1,400,400,2021-09-30,Motion to Invoke Cloture: Tracy Stone-Manning to be Director of the Bureau of Land Management,On the Cloture Motion PN443,Cloture Motion Agreed to,50,48,0,2
+Senate,117,1,401,401,2021-09-30,"Confirmation: Tracy Stone-Manning, of Montana, to be Director of the Bureau of Land Management",On the Nomination PN443,Nomination Confirmed,50,45,0,5
+Senate,117,1,402,402,2021-09-30,Motion to Proceed to the House Message to Accompany S. 1301,On the Motion to Proceed S. 1301,Motion to Proceed Agreed to,50,43,0,7
+Senate,117,1,403,403,2021-10-04,"Confirmation: Jonathan Eugene Meyer, of Ohio, to be General Counsel, Department of Homeland Security",On the Nomination PN560,Nomination Confirmed,51,47,0,2
+Senate,117,1,404,404,2021-10-05,Motion to Invoke Cloture: Paloma Adams-Allen to be a Deputy Administrator of the United States Agency for International Development,On the Cloture Motion PN634,Cloture Motion Agreed to,78,21,0,1
+Senate,117,1,405,405,2021-10-05,"Confirmation: Paloma Adams-Allen, of the District of Columbia, to be a Deputy Administrator of the United States Agency for International Development",On the Nomination PN634,Nomination Confirmed,79,20,0,1
+Senate,117,1,406,406,2021-10-05,Motion to Invoke Cloture: Lauren J. King to be United States District Judge for the Western District of Washington,On the Cloture Motion PN568,Cloture Motion Agreed to,55,44,0,1
+Senate,117,1,407,407,2021-10-05,"Confirmation: Lauren J. King, of Washington, to be United States District Judge for the Western District of Washington",On the Nomination PN568,Nomination Confirmed,55,44,0,1
+Senate,117,1,408,408,2021-10-06,Motion to Invoke Cloture: Sarah A.L. Merriam to be U.S. District Judge for the District of Connecticut,On the Cloture Motion PN640,Cloture Motion Agreed to,53,47,0,0
+Senate,117,1,409,409,2021-10-06,"Confirmation: Sarah A.L. Merriam, of Connecticut, to be U.S. District Judge for the District of Connecticut",On the Nomination PN640,Nomination Confirmed,54,46,0,0
+Senate,117,1,410,410,2021-10-07,"Motion to Discharge: Catherine Elizabeth Lhamon to be Assistant Secretary for Civil Rights, Department of Education, from the Committee on Health, Education, Labor, and Pensions",On the Motion to Discharge PN572,Motion to Discharge Agreed to,50,49,0,1
+Senate,117,1,411,411,2021-10-07,Motion to Invoke Cloture: Motion to Concur in the House Amendment to S. 1301 with an Amendment (Amdt. No. 3847),On the Cloture Motion S. 1301,Cloture Motion Agreed to,61,38,0,1
+Senate,117,1,412,412,2021-10-07,Motion to Concur in the House Amendment to S. 1301 with an Amendment (Amdt. No. 3847),On the Motion (Motion to Concur in the House Amendment to S. 1301 with an Amendment (Amdt. No. 3847)),Motion Agreed to,50,48,0,2
+Senate,117,1,413,413,2021-10-07,Motion to Invoke Cloture: Gustavo A. Gelpi to be U.S. Circuit Judge for the First Circuit,On the Cloture Motion PN566,Cloture Motion Agreed to,54,39,0,7
+Senate,117,1,414,414,2021-10-18,"Confirmation: Gustavo A. Gelpi, of Puerto Rico, to be U.S. Circuit Judge for the First Circuit",On the Nomination PN566,Nomination Confirmed,52,41,0,7
+Senate,117,1,415,415,2021-10-19,Motion to Invoke Cloture: Christine P. O'Hearn to be U.S. District Judge for the District of New Jersey,On the Cloture Motion PN561,Cloture Motion Agreed to,53,44,0,3
+Senate,117,1,416,416,2021-10-19,"Confirmation: Christine P. O'Hearn, of New Jersey, to be U.S. District Judge for the District of New Jersey",On the Nomination PN561,Nomination Confirmed,53,44,0,3
+Senate,117,1,417,417,2021-10-19,"Motion to Discharge: Brian Eddie Nelson to be Under Secretary for Terrorism and Financial Crimes, from the Committee on Banking, Housing, and Urban Affairs",On the Motion to Discharge PN604,Motion to Discharge Agreed to,50,49,0,1
+Senate,117,1,418,418,2021-10-20,"Motion to Invoke Cloture: Catherine Elizabeth Lhamon to be Assistant Secretary for Civil Rights, Department of Education",On the Cloture Motion PN572,Cloture Motion Agreed to,50,50,0,0
+Senate,117,1,419,419,2021-10-20,"Confirmation: Catherine Elizabeth Lhamon, of California, to be Assistant Secretary for Civil Rights, Department of Education",On the Nomination PN572,Nomination Confirmed,50,50,0,0
+Senate,117,1,420,420,2021-10-20,Motion to Invoke Cloture: Motion to Proceed to S. 2747,On Cloture on the Motion to Proceed S. 2747,Cloture on the Motion to Proceed Rejected,49,51,0,0
+Senate,117,1,421,421,2021-10-21,Motion to Invoke Cloture: Tana Lin to be U.S. District Judge for the Western District of Washington,On the Cloture Motion PN563,Cloture Motion Agreed to,52,47,0,1
+Senate,117,1,422,422,2021-10-21,Motion to Invoke Cloture: Douglas L. Parker to be an Assistant Secretary of Labor,On the Cloture Motion PN270,Cloture Motion Agreed to,51,47,0,2
+Senate,117,1,423,423,2021-10-21,Motion to Invoke Cloture: Myrna Perez to be U.S. Circuit Judge for the Second Circuit,On the Cloture Motion PN643,Cloture Motion Agreed to,51,48,0,1
+Senate,117,1,424,424,2021-10-21,"Confirmation: Tana Lin, of Washington, to be U.S. District Judge for the Western District of Washington",On the Nomination PN563,Nomination Confirmed,52,45,0,3
+Senate,117,1,425,425,2021-10-25,"Confirmation: Douglas L. Parker, of West Virginia, to be an Assistant Secretary of Labor",On the Nomination PN270,Nomination Confirmed,50,41,0,9
+Senate,117,1,426,426,2021-10-25,"Confirmation: Myrna Perez, of New York, to be U.S. Circuit Judge for the Second Circuit ",On the Nomination PN643,Nomination Confirmed,48,43,0,9
+Senate,117,1,427,427,2021-10-26,Motion to Invoke Cloture: Jia M. Cobb to be U.S. District Judge for the District of Columbia,On the Cloture Motion PN639,Cloture Motion Agreed to,51,46,0,3
+Senate,117,1,428,428,2021-10-26,Motion to Invoke Cloture: Karen McGlashan Williams to be U.S. District Judge for the District of New Jersey,On the Cloture Motion PN571,Cloture Motion Agreed to,58,40,0,2
+Senate,117,1,429,429,2021-10-26,Motion to Invoke Cloture: Patricia Tolliver Giles to be U.S. District Judge for the Eastern District of Virginia,On the Cloture Motion PN808,Cloture Motion Agreed to,69,29,0,2
+Senate,117,1,430,430,2021-10-26,Motion to Invoke Cloture: Michael S. Nachmanoff to be U.S. District Judge for the Eastern District of Virginia,On the Cloture Motion PN803,Cloture Motion Agreed to,51,46,0,3
+Senate,117,1,431,431,2021-10-26,Motion to Invoke Cloture: Sarala Vidya Nagala to be U.S. District Judge for the District of Connecticut,On the Cloture Motion PN641,Cloture Motion Agreed to,52,46,0,2
+Senate,117,1,432,432,2021-10-26,"Confirmation: Jia M. Cobb, of Virginia, to be U.S. District Judge for the District of Columbia",On the Nomination PN639,Nomination Confirmed,52,45,0,3
+Senate,117,1,433,433,2021-10-26,"Confirmation: Karen McGlashan Williams, of New Jersey, to be U.S. District Judge for the District of New Jersey",On the Nomination PN571,Nomination Confirmed,56,38,0,6
+Senate,117,1,434,434,2021-10-26,"Confirmation: Patricia Tolliver Giles, of Virginia, to be U.S. District Judge for the Eastern District of Virginia",On the Nomination PN808,Nomination Confirmed,68,27,0,5
+Senate,117,1,435,435,2021-10-27,"Confirmation: Michael S. Nachmanoff, of Virginia, to be U.S. District Judge for the Eastern District of Virginia",On the Nomination PN803,Nomination Confirmed,52,46,0,2
+Senate,117,1,436,436,2021-10-27,"Confirmation: Sarala Vidya Nagala, of Connecticut, to be U.S. District Judge for the District of Connecticut ",On the Nomination PN641,Nomination Confirmed,52,46,0,2
+Senate,117,1,437,437,2021-10-27,Motion to Invoke Cloture: Omar Antonio Williams to be U.S. District Judge for the District of Connecticut,On the Cloture Motion PN644,Cloture Motion Agreed to,52,46,0,2
+Senate,117,1,438,438,2021-10-27,Motion to Invoke Cloture: Matthew G. Olsen to be an Assistant Attorney General,On the Cloture Motion PN610,Cloture Motion Agreed to,52,44,0,4
+Senate,117,1,439,439,2021-10-27,Motion to Invoke Cloture: Christopher H. Schroeder to be Assistant Attorney General,On the Cloture Motion PN370,Cloture Motion Agreed to,55,41,0,4
+Senate,117,1,440,440,2021-10-27,Motion to Invoke Cloture: Hampton Y. Dellinger to be an Assistant Attorney General,On the Cloture Motion PN765,Cloture Motion Agreed to,51,45,0,4
+Senate,117,1,441,441,2021-10-27,Motion to Invoke Cloture: Elizabeth Prelogar to be Solicitor General of the United States,On the Cloture Motion PN1045,Cloture Motion Agreed to,53,42,0,5
+Senate,117,1,443,443,2021-10-28,"Confirmation: Matthew G. Olsen, of Maryland, to be an Assistant Attorney General",On the Nomination PN610,Nomination Confirmed,53,45,0,2
+Senate,117,1,442,442,2021-10-28,"Confirmation: Omar Antonio Williams, of Connecticut, to be U.S. District Judge for the District of Connecticut",On the Nomination PN644,Nomination Confirmed,52,46,0,2
+Senate,117,1,444,444,2021-10-28,"Confirmation: Christopher H. Schroeder, of North Carolina, to be an Assistant Attorney General",On the Nomination PN370,Nomination Confirmed,56,41,0,3
+Senate,117,1,445,445,2021-10-28,"Confirmation: Hampton Y. Dellinger, of North Carolina, to be an Assistant Attorney General",On the Nomination PN765,Nomination Confirmed,53,37,0,10
+Senate,117,1,446,446,2021-10-28,"Confirmation: Elizabeth Prelogar, of Idaho, to be Solicitor General of the United States",On the Nomination PN1045,Nomination Confirmed,53,36,0,11
+Senate,117,1,447,447,2021-10-28,"Motion to Invoke Cloture: Beth Robinson, of Vermont, to be U.S. Circuit Judge for the Second Circuit",On the Cloture Motion PN998,Cloture Motion Agreed to,51,36,0,13
+Senate,117,1,448,448,2021-10-28,"Motion to Invoke Cloture: Toby J. Heytens, of Virginia, to be U.S. Circuit Judge for the Fourth Circuit",On the Cloture Motion PN806,Cloture Motion Agreed to,51,31,0,18
+Senate,117,1,449,449,2021-11-01,"Confirmation: Beth Robinson, of Vermont, to be U.S. Circuit Judge for the Second Circuit",On the Nomination PN998,Nomination Confirmed,51,45,0,4
+Senate,117,1,450,450,2021-11-01,"Confirmation: Toby J. Heytens, of Virginia, to be U.S. Circuit Judge for the Fourth Circuit",On the Nomination PN806,Nomination Confirmed,53,43,0,4
+Senate,117,1,451,451,2021-11-02,Motion to Invoke Cloture: Jonathan Davidson to be Deputy Under Secretary of the Treasury,On the Cloture Motion PN364,Cloture Motion Agreed to,88,11,0,1
+Senate,117,1,452,452,2021-11-02,Motion to Invoke Cloture: Benjamin Harris to be an Assistant Secretary of the Treasury,On the Cloture Motion PN413,Cloture Motion Agreed to,79,20,0,1
+Senate,117,1,453,453,2021-11-02,Motion to Invoke Cloture: Isobel Coleman to be a Deputy Administrator of the United States Agency for International Development,On the Cloture Motion PN635,Cloture Motion Agreed to,59,40,0,1
+Senate,117,1,454,454,2021-11-02,Motion to Invoke Cloture: Jeffrey M. Prieto to be an Assistant Administrator of the Environmental Protection Agency,On the Cloture Motion PN540,Cloture Motion Agreed to,56,43,0,1
+Senate,117,1,455,455,2021-11-02,Motion to Invoke Cloture: Rajesh D. Nayak to be an Assistant Secretary of Labor,On the Cloture Motion PN453,Cloture Motion Agreed to,53,46,0,1
+Senate,117,1,456,456,2021-11-02,"Confirmation: Jonathan Davidson, of Maryland, to be Deputy Under Secretary of the Treasury",On the Nomination PN364,Nomination Confirmed,88,10,0,2
+Senate,117,1,457,457,2021-11-03,"Confirmation: Benjamin Harris, of Virginia, to be an Assistant Secretary of the Treasury",On the Nomination PN413,Nomination Confirmed,78,21,0,1
+Senate,117,1,458,458,2021-11-03,"Confirmation: Isobel Coleman, of New York, to be a Deputy Administrator of the United States Agency for International Development",On the Nomination PN635,Nomination Confirmed,59,39,0,2
+Senate,117,1,459,459,2021-11-03,Motion to Invoke Cloture: Motion to Proceed to S. 4,On Cloture on the Motion to Proceed S. 4,Cloture on the Motion to Proceed Rejected,50,49,0,1
+Senate,117,1,460,460,2021-11-03,"Confirmation: Jeffrey M. Prieto, of California, to be an Assistant Administrator of the Environmental Protection Agency",On the Nomination PN540,Nomination Confirmed,54,44,0,2
+Senate,117,1,461,461,2021-11-03,"Confirmation: Rajesh D. Nayak, of Maryland, to be an Assistant Secretary of Labor",On the Nomination PN453,Nomination Confirmed,52,45,0,3
+Senate,117,1,462,462,2021-11-03,Motion to Discharge: Jennifer Sung to be U.S. Circuit Judge for the Ninth Circuit from the Committee on the Judiciary,On the Motion to Discharge PN807,Motion to Discharge Agreed to,49,49,0,2
+Senate,117,1,463,463,2021-11-04,"Confirmation: Michael Lee Connor, of Colorado, to be an Assistant Secretary of the Army",On the Nomination PN486,Nomination Confirmed,92,5,0,3
+Senate,117,1,464,464,2021-11-04,Motion to Invoke Cloture: Robert Luis Santos to be Director of the Census,On the Cloture Motion PN367,Cloture Motion Agreed to,61,36,0,3
+Senate,117,1,465,465,2021-11-04,"Confirmation: Robert Luis Santos, of Texas, to be Director of the Census",On the Nomination PN367,Nomination Confirmed,58,35,0,7
+Senate,117,1,466,466,2021-11-15,Motion to Invoke Cloture: Graham Scott Steele to be an Assistant Secretary of the Treasury,On the Cloture Motion PN916,Cloture Motion Agreed to,55,38,0,7
+Senate,117,1,467,467,2021-11-16,"Confirmation: Graham Scott Steele, of California, to be an Assistant Secretary of the Treasury",On the Nomination PN916,Nomination Confirmed,53,42,0,5
+Senate,117,1,468,468,2021-11-16,Motion to Invoke Cloture: Robert Farrell Bonnie to be Under Secretary of Agriculture for Farm Production and Conservation,On the Cloture Motion PN425,Cloture Motion Agreed to,75,20,0,5
+Senate,117,1,469,469,2021-11-16,"Confirmation: Robert Farrell Bonnie, of Virginia, to be Under Secretary of Agriculture for Farm Production and Conservation",On the Nomination PN425,Nomination Confirmed,76,19,0,5
+Senate,117,1,470,470,2021-11-16,"Confirmation: Jonathan Kanter, of Maryland, to be an Assistant Attorney General",On the Nomination PN920,Nomination Confirmed,68,29,0,3
+Senate,117,1,471,471,2021-11-17,Motion to Invoke Cloture: Brian Eddie Nelson to be Under Secretary for Terrorism and Financial Crimes,On the Cloture Motion PN604,Cloture Motion Agreed to,50,50,0,0
+Senate,117,1,472,472,2021-11-17,Motion to Invoke Cloture: Motion to Proceed to H.R. 4350,On Cloture on the Motion to Proceed H.R. 4350,Cloture on the Motion to Proceed Agreed to,84,15,0,1
+Senate,117,1,473,473,2021-11-29,Motion to Invoke Cloture: Re: Reed Amdt. No. 3867 As Modified to H.R. 4350,On the Cloture Motion S.Amdt. 3867 to H.R. 4350 (National Defense Authorization Act for Fiscal Year 2022),Cloture Motion Rejected,45,51,0,4
+Senate,117,1,474,474,2021-12-02,"Confirmation: Brian Eddie Nelson, of California, to be Under Secretary for Terrorism and Financial Crimes",On the Nomination PN604,Nomination Confirmed,50,49,0,1
+Senate,117,1,475,475,2021-12-02,Motion to Discharge: Rachael S. Rollins to be U.S. Attorney for the District of Massachusetts from the Committee on the Judiciary,On the Motion to Discharge PN930,Motion to Discharge Agreed to,50,47,0,3
+Senate,117,1,476,476,2021-12-02,Marshall Amdt. No. 4868,On the Amendment S.Amdt. 4868 to H.R. 6119 (No short title on file),Amendment Rejected,48,50,0,2
+Senate,117,1,477,477,2021-12-02,H.R. 6119,On Passage of the Bill H.R. 6119,Bill Passed,69,28,0,3
+Senate,117,1,478,478,2021-12-06,Motion to Invoke Cloture: Jessica Rosenworcel to be a Member of the Federal Communications Commission,On the Cloture Motion PN1322,Cloture Motion Agreed to,64,27,0,9
+Senate,117,1,479,479,2021-12-07,"Confirmation: Jessica Rosenworcel, of Connecticut, to be a Member of the Federal Comunications Commission",On the Nomination PN1322,Nomination Confirmed,68,31,0,1
+Senate,117,1,480,480,2021-12-07,Motion to Invoke Cloture: Deirdre Hamilton to be a Member of the National Mediation Board,On the Cloture Motion PN450,Cloture Motion Agreed to,51,48,0,1
+Senate,117,1,481,481,2021-12-07,"Confirmation: Deirdre Hamilton, of the District of Columbia, to be a Member of the National Mediation Board",On the Nomination PN450,Nomination Confirmed,52,48,0,0
+Senate,117,1,482,482,2021-12-07,"Motion to Invoke Cloture: Chris Magnus to be Commissioner of U.S. Customs and Border Protection, Department of Homeland Security",On the Cloture Motion PN565,Cloture Motion Agreed to,52,47,0,1
+Senate,117,1,483,483,2021-12-07,"Confirmation: Chris Magnus, of Arizona, to be Commissioner of U.S. Customs and Border Protection, Department of Homeland Security",On the Nomination PN565,Nomination Confirmed,50,47,0,3
+Senate,117,1,484,484,2021-12-07,Motion to Discharge S.J. Res. 31,On the Motion to Discharge S.J.Res. 31,Motion to Discharge Rejected,30,67,0,3
+Senate,117,1,485,485,2021-12-08,Motion to Invoke Cloture: Rachael S. Rollins to be U.S. Attorney for the District of Massachusetts ,On the Cloture Motion PN930,Cloture Motion Agreed to,50,50,0,0
+Senate,117,1,486,486,2021-12-08,"Confirmation: Rachael S. Rollins, of Massachusetts, to the U.S. Attorney for the District of Massachusetts",On the Nomination PN930,Nomination Confirmed,50,50,0,0
+Senate,117,1,487,487,2021-12-08,Motion to Invoke Cloture: Michael D. Smith to be Chief Executive Officer of the Corporation for National and Community Service,On the Cloture Motion PN715,Cloture Motion Agreed to,60,39,0,1
+Senate,117,1,488,488,2021-12-08,"Confirmation: Michael D. Smith, of Virginia, to be Chief Executive Officer of the Corporation for National and Community Service",On the Nomination PN715,Nomination Confirmed,58,41,0,1
+Senate,117,1,489,489,2021-12-08,S.J.Res. 29,On the Joint Resolution S.J.Res. 29,Joint Resolution Passed,52,48,0,0
+Senate,117,1,490,490,2021-12-09,Motion to Invoke Cloture: Motion to Concur in the House Amendment to S. 610,On the Cloture Motion S. 610,Cloture Motion Agreed to,64,36,0,0
+Senate,117,1,491,491,2021-12-09,Motion to Concur in the House Amendment to S. 610,On the Motion (Motion to Concur in the House Amendment to S. 610),Motion Agreed to,59,35,0,6
+Senate,117,1,492,492,2021-12-09,Motion to Invoke Cloture: Lucy Haeran Koh to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN1167,Cloture Motion Agreed to,51,38,0,11
+Senate,117,1,493,493,2021-12-09,Motion to Invoke Cloture: Jennifer Sung to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN807,Cloture Motion Agreed to,48,39,0,13
+Senate,117,1,494,494,2021-12-13,"Confirmation: Lucy Haeran Koh, of California, to be United States Circuit Judge for the Ninth Circuit",On the Nomination PN1167,Nomination Confirmed,50,45,0,5
+Senate,117,1,495,495,2021-12-14,Motion to Invoke Cloture: Samantha D. Elliott to be U.S. District Judge for the District of New Hampshire,On the Cloture Motion PN1208,Cloture Motion Agreed to,59,40,0,1
+Senate,117,1,496,496,2021-12-14,Motion to Invoke Cloture: Motion to Concur in the House Amendment to S. 1605. ,On the Cloture Motion S. 1605,Cloture Motion Agreed to,86,13,0,1
+Senate,117,1,497,497,2021-12-14,Motion to Proceed to S.J. Res. 33,On the Motion to Proceed S.J.Res. 33,Motion to Proceed Agreed to,50,49,0,1
+Senate,117,1,498,498,2021-12-14,S.J. Res 33,On the Joint Resolution S.J.Res. 33,Joint Resolution Passed,50,49,0,1
+Senate,117,1,499,499,2021-12-15,Motion to Concur in the House Amendment to S. 1605,On the Motion (Motion to Concur in the House Amendment to S. 1605),Motion Agreed to,88,11,0,1
+Senate,117,1,500,500,2021-12-15,"Confirmation: Jennifer Sung, of Oregon, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN807,Nomination Confirmed,50,49,0,1
+Senate,117,1,501,501,2021-12-15,"Confirmation: Samantha D. Elliott, of New Hampshire, to be U.S. District Judge for the District of New Hampshire",On the Nomination PN1208,Nomination Confirmed,62,37,0,1
+Senate,117,1,502,502,2021-12-16,Motion to Discharge Holly A. Thomas to be U.S. Circuit Judge for the Ninth Circuit from the Committee on the Judiciary ,On the Motion to Discharge PN1169,Motion to Discharge Agreed to,50,46,0,4
+Senate,117,1,503,503,2021-12-16,"Confirmation: R. Nicholas Burns, of Massachusetts, to be Ambassador to the People's Republic of China",On the Nomination PN1057,Nomination Confirmed,75,18,0,7
+Senate,117,1,504,504,2021-12-16,"Confirmation: Ramin Toloui, of Iowa, to be an Assistant Secretary of State, Economic and Business Affairs",On the Nomination PN1044,Nomination Confirmed,76,13,0,11
+Senate,117,1,505,505,2021-12-16,"Confirmation: Rashad Hussain, of Virginia, to be Ambassador at Large for International Religious Freedom ",On the Nomination PN1006,Nomination Confirmed,85,5,0,10
+Senate,117,1,506,506,2021-12-17,Motion to Invoke Cloture: Atul Atmaram Gawande to be an Assistant Administrator of the United States Agency for International Development,On the Cloture Motion PN874,Cloture Motion Agreed to,49,31,0,20
+Senate,117,1,507,507,2021-12-17,"Confirmation: Atul Atmaram Gawande, of Massachusetts, to be an Assistant Administrator of the U.S. Agency for International Development",On the Nomination PN874,Nomination Confirmed,48,31,0,21
+Senate,117,1,508,508,2021-12-17,Motion to Invoke Cloture: Linda Lopez to be U.S. District Judge for the Southern District of California,On the Cloture Motion PN1212,Cloture Motion Agreed to,47,30,0,23
+Senate,117,1,509,509,2021-12-17,"Confirmation: Linda Lopez, of California, to be U.S. District Judge for the Southern District of California",On the Nomination PN1212,Nomination Confirmed,48,25,0,27
+Senate,117,1,510,510,2021-12-17,Motion to Invoke Cloture: Jinsook Ohta to be U.S. District Judge for the Southern District of California,On the Cloture Motion PN1213,Cloture Motion Agreed to,47,25,0,28
+Senate,117,1,511,511,2021-12-17,"Confirmation: Jinsook Ohta, of California, to be U.S. District Judge for the Southern District of California",On the Nomination PN1213,Nomination Confirmed,47,24,0,29
+Senate,117,1,512,512,2021-12-17,Motion to Invoke Cloture: David Herrera Urias to be U.S. District Judge for the District of New Mexico,On the Cloture Motion PN1173,Cloture Motion Agreed to,45,25,0,30
+Senate,117,1,513,513,2021-12-17,"Confirmation: David Herrera Urias, of New Mexico, to be United States District Judge for the District of New Mexico",On the Nomination PN1173,Nomination Confirmed,45,26,0,29
+Senate,117,1,515,515,2021-12-17,"Confirmation: Maame Ewusi-Mensah Frimpong, of California, to be U.S. District Judge for the Central District of California",On the Nomination PN1171,Nomination Confirmed,46,24,0,30
+Senate,117,1,514,514,2021-12-17,Motion to Invoke Cloture Maame Ewusi-Mensah Frimpong to be U.S. District Judge for the Central District of California,On the Cloture Motion PN1171,Cloture Motion Agreed to,47,24,0,29
+Senate,117,1,516,516,2021-12-17,Motion to Invoke Cloture: Jane M. Beckering to be U.S. District Judge for the Western District of Michigan,On the Cloture Motion PN801,Cloture Motion Agreed to,46,24,0,30
+Senate,117,1,517,517,2021-12-17,"Confirmation: Jane M. Beckering, of Michigan, to be U.S. District Judge for the Western District of Michigan",On the Nomination PN801,Nomination Confirmed,45,25,0,30
+Senate,117,1,518,518,2021-12-17,Motion to Invoke Cloture: Shalina D. Kumar to be U.S. District Judge for the Eastern District of Michigan,On the Cloture Motion PN802,Cloture Motion Agreed to,45,25,0,30
+Senate,117,1,519,519,2021-12-17,"Confirmation: Shalina D. Kumar, of Michigan, to be U.S. District Judge for the Eastern District of Michigan ",On the Nomination PN802,Nomination Confirmed,44,25,0,31
+Senate,117,1,520,520,2021-12-17,Motion to Invoke Cloture: Jennifer L. Thurston to be U.S. District Judge for the Eastern District of California,On the Cloture Motion PN1172,Cloture Motion Agreed to,46,24,0,30
+Senate,117,1,521,521,2021-12-17,"Confirmation: Jennifer L. Thurston, of California, to be U.S. District Judge for the Eastern District of California",On the Nomination PN1172,Nomination Confirmed,46,24,0,30
+Senate,117,1,522,522,2021-12-17,Motion to Invoke Cloture: Katherine Marie Menendez to be U.S. District Judge for the District of Minnesota,On the Cloture Motion PN1174,Cloture Motion Agreed to,49,21,0,30
+Senate,117,1,523,523,2021-12-18,"Confirmation: Katherine Marie Menendez, of Minnesota, to be U.S. District Judge for the District of Minnesota",On the Nomination PN1174,Nomination Confirmed,49,21,0,30
+Senate,117,1,524,524,2021-12-18,Motion to Invoke Cloture: Mary Katherine Dimke to be U.S. District Judge for the Eastern District of Washington,On the Cloture Motion PN997,Cloture Motion Agreed to,47,23,0,30
+Senate,117,1,525,525,2021-12-18,"Confirmation: Mary Katherine Dimke, of Washington, to be U.S. District Judge for the Eastern District of Washington",On the Nomination PN997,Nomination Confirmed,47,23,0,30
+Senate,117,1,526,526,2021-12-18,"Confirmation: Rahm Emanuel, of Illinois, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to Japan",On the Nomination PN1058,Nomination Confirmed,48,21,0,31
+Senate,117,1,527,527,2021-12-18,Motion to Invoke Cloture: Gabriel P. Sanchez to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN1168,Cloture Motion Agreed to,44,24,0,32
+Senate,117,1,528,528,2021-12-18,Motion to Invoke Cloture Holly A. Thomas to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN1169,Cloture Motion Agreed to,42,25,0,33

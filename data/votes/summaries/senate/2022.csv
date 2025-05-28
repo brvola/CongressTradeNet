@@ -1,0 +1,422 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+Senate,117,2,1,1,2022-01-05,Motion to Invoke Cloture: Anne A. Witkowsky to be an Assistant Secretary of State (Conflict and Stabilization Operations),On the Cloture Motion PN496,Cloture Motion Agreed to,62,24,0,14
+Senate,117,2,3,3,2022-01-10,Motion to Invoke Cloture: Alan Davidson to be Assistant Secretary of Commerce for Communications and Information.,On the Cloture Motion PN1321,Cloture Motion Agreed to,64,30,0,6
+Senate,117,2,2,2,2022-01-05,"Confirmation: Anne A. Witkowsky, of Maryland, to be an Assistant Secretary of State (Conflict and Stabilization Operations)",On the Nomination PN496,Nomination Confirmed,61,26,0,13
+Senate,117,2,4,4,2022-01-11,"Confirmation: Alan Davidson, of Maryland, to be Assistant Secretary of Commerce for Communications and Information",On the Nomination PN1321,Nomination Confirmed,60,31,0,9
+Senate,117,2,6,6,2022-01-12,"Confirmation: Amitabha Bose, of New Jersey, to be Administrator of the Federal Railroad Administration",On the Nomination PN435,Nomination Confirmed,68,29,0,3
+Senate,117,2,5,5,2022-01-11,Motion to Invoke Cloture: Amitabha Bose to be Administrator of the Federal Railroad Administration,On the Cloture Motion PN435,Cloture Motion Agreed to,61,29,0,10
+Senate,117,2,7,7,2022-01-12,"Confirmation: Gabriel P. Sanchez, of California, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN1168,Nomination Confirmed,52,47,0,1
+Senate,117,2,9,9,2022-01-19,Motion to Invoke Cloture: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 5746,On the Cloture Motion H.R. 5746,Cloture Motion Rejected,49,51,0,0
+Senate,117,2,8,8,2022-01-13,S. 3436,On Passage of the Bill S. 3436,Bill Defeated,55,44,0,1
+Senate,117,2,10,10,2022-01-19,Shall the Decision of the Chair stand as the Judgement of the Senate,On the Decision of the Chair H.R. 5746,Decision of Chair Sustained,52,48,0,0
+Senate,117,2,11,11,2022-01-20,"Confirmation: Holly A. Thomas, of California, to be U.S. Circuit Judge for the Ninth Circuit",On the Nomination PN1169,Nomination Confirmed,48,40,0,12
+Senate,117,2,12,12,2022-01-31,Motion to Invoke Cloture: Bridget Meehan Brennan to be U.S. District Judge for the Northern District of Ohio,On the Cloture Motion PN1494,Cloture Motion Agreed to,61,30,0,9
+Senate,117,2,13,13,2022-02-01,"Confirmation: Bridget Meehan Brennan, of Ohio, to be U.S. District Judge for the Northern District of Ohio",On the Nomination PN1494,Nomination Confirmed,61,35,0,4
+Senate,117,2,14,14,2022-02-01,Motion to Invoke Cloture: Charles Esque Fleming to be U.S. District Judge for the Northern District of Ohio,On the Cloture Motion PN1499,Cloture Motion Agreed to,55,41,0,4
+Senate,117,2,15,15,2022-02-01,"Confirmation: Charles Esque Fleming, of Ohio, to be U.S. District Judge for the Northern District of Ohio",On the Nomination PN1499,Nomination Confirmed,56,42,0,2
+Senate,117,2,16,16,2022-02-01,Motion to Invoke Cloture: David Augustin Ruiz to be U.S. District Judge for the Northern District of Ohio,On the Cloture Motion PN1506,Cloture Motion Agreed to,59,38,0,3
+Senate,117,2,17,17,2022-02-01,Confirmation: David Augustin Ruiz to be U.S. District Judge for the Northern District of Ohio,On the Nomination PN1506,Nomination Confirmed,62,35,0,3
+Senate,117,2,18,18,2022-02-01,Motion to Invoke Cloture: Rupa Ranga Puttagunta to be Associate Judge of the Superior Court of the District of Columbia,On the Cloture Motion PN386,Cloture Motion Agreed to,59,38,0,3
+Senate,117,2,19,19,2022-02-01,Motion to Invoke Cloture: Kenia Seoane Lopez to be an Associate Judge of the Superior Court of the District of Columbia,On the Cloture Motion PN638,Cloture Motion Agreed to,59,38,0,3
+Senate,117,2,20,20,2022-02-01,Motion to Invoke Cloture: Sean C. Staples to be an Associate Judge of the Superior Court of the District of Columbia,On the Cloture Motion PN800,Cloture Motion Agreed to,55,38,0,7
+Senate,117,2,21,21,2022-02-02,"Confirmation: Rupa Ranga Puttagunta, of the District of Columbia, to be Associate Judge if the Superior Court of the District of Columbia",On the Nomination PN386,Nomination Confirmed,57,38,0,5
+Senate,117,2,22,22,2022-02-02,Motion to Invoke Cloture: Ebony M. Scott to be an Associate Judge of the Superior Court of the District of Columbia,On the Cloture Motion PN1203,Cloture Motion Agreed to,58,37,0,5
+Senate,117,2,23,23,2022-02-02,Motion to Invoke Cloture: Donald Walker Tunnage to be an Associate Judge of the Superior Court of the District of Columbia,On the Cloture Motion PN1204,Cloture Motion Agreed to,57,38,0,5
+Senate,117,2,24,24,2022-02-02,"Confirmation: Kenia Seoane Lopez, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia",On the Nomination PN638,Nomination Confirmed,59,38,0,3
+Senate,117,2,25,25,2022-02-02,"Confirmation: Sean C. Staples, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia",On the Nomination PN800,Nomination Confirmed,59,38,0,3
+Senate,117,2,26,26,2022-02-02,Motion to Invoke Cloture: John P. Howard III to be an Associate Judge of the District of Columbia Court of Appeals,On the Cloture Motion PN996,Cloture Motion Agreed to,62,34,0,4
+Senate,117,2,27,27,2022-02-02,Motion to Invoke Cloture: Loren L. AliKhan to be an Associate Judge of the District of Columbia Court of Appeals,On the Cloture Motion PN1201,Cloture Motion Agreed to,55,40,0,5
+Senate,117,2,28,28,2022-02-02,Motion to Invoke Cloture: Amy Gutmann to be Ambassador of the United States of America to the Federal Republic of Germany,On the Cloture Motion PN1577,Cloture Motion Agreed to,54,37,0,9
+Senate,117,2,29,29,2022-02-02,Motion to Invoke Cloture: Lisa A. Carty to be Representative of the United States of America on the Economic and Social Council of the United Nations,On the Cloture Motion PN1567,Cloture Motion Agreed to,66,28,0,6
+Senate,117,2,30,30,2022-02-02,Motion to Invoke Cloture: Scott A. Nathan to be Chief Executive Officer of the U.S. International Development Finance Corporation,On the Cloture Motion PN1060,Cloture Motion Agreed to,68,26,0,6
+Senate,117,2,31,31,2022-02-02,"Motion to Invoke Cloture: Chantale Yokmin Wong to be U.S. Director of the Asian Development Bank, with the Rank of Ambassador",On the Cloture Motion PN782,Cloture Motion Agreed to,64,30,0,6
+Senate,117,2,32,32,2022-02-02,Motion to Invoke Cloture: John Patrick Coffey to be General Counsel of the Department of the Navy,On the Cloture Motion PN1018,Cloture Motion Agreed to,76,18,0,6
+Senate,117,2,33,33,2022-02-03,Motion to Invoke Cloture: Alexandra Baker to be a Deputy Under Secretary of Defense,On the Cloture Motion PN1020,Cloture Motion Agreed to,70,24,0,6
+Senate,117,2,34,34,2022-02-03,Motion to Invoke Cloture: Reta Jo Lewis to be President of the Export-Import Bank of the United States ,On the Cloture Motion PN1528,Cloture Motion Agreed to,54,39,0,7
+Senate,117,2,35,35,2022-02-03,Motion to Invoke Cloture: Leonard Philip Stark to be U.S. Circuit Judge for the Federal Circuit,On the Cloture Motion PN1508,Cloture Motion Agreed to,54,33,0,13
+Senate,117,2,36,36,2022-02-07,"Confirmation: Ebony M. Scott, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia",On the Nomination PN1203,Nomination Confirmed,55,38,0,7
+Senate,117,2,37,37,2022-02-07,"Confirmation: Donald Walker Tunnage, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia",On the Nomination PN1204,Nomination Confirmed,54,39,0,7
+Senate,117,2,38,38,2022-02-08,"Confirmation: John P. Howard III, of the District of Columbia, to be an Associate Judge of the District of Columbia Court of Appeals",On the Nomination PN996,Nomination Confirmed,62,34,0,4
+Senate,117,2,39,39,2022-02-08,"Confirmation: Loren L. AliKhan, of the District of Columbia, to be an Associate Judge of the District of Columbia Court of Appeals",On the Nomination PN1201,Nomination Confirmed,55,41,0,4
+Senate,117,2,40,40,2022-02-08,"Confirmation: Amy Gutmann, of Pennsylvania, to be Ambassador of the United States of America to the Federal Republic of Germany",On the Nomination PN1577,Nomination Confirmed,54,42,0,4
+Senate,117,2,41,41,2022-02-08,"Confirmation: Lisa A. Carty, of Maryland, to be Representative of the United States of America on the Economic and Social Council of the United Nations, with the rank of Ambassador",On the Nomination PN1567,Nomination Confirmed,68,27,0,5
+Senate,117,2,42,42,2022-02-08,"Confirmation: Chantale Yokmin Wong, of the District of Columbia, to be United States Director of the Asian Development Bank",On the Nomination PN782,Nomination Confirmed,66,31,0,3
+Senate,117,2,43,43,2022-02-09,"Confirmation: Scott A. Nathan, of Massachusetts, to be Chief Executive Officer of the U.S. International Development Finance Corporation",On the Nomination PN1060,Nomination Confirmed,72,24,0,4
+Senate,117,2,44,44,2022-02-09,Motion to Invoke Cloture: Douglas R. Bush to be an Assistant Secretary of the Army,On the Cloture Motion PN1183,Cloture Motion Agreed to,95,2,0,3
+Senate,117,2,45,45,2022-02-09,"Confirmation: Douglas R. Bush, of Virginia, to be an Assistant Secretary of the Army",On the Nomination PN1183,Nomination Confirmed,93,2,0,5
+Senate,117,2,46,46,2022-02-09,"Confirmation: John Patrick Coffey, of New York, to be General Counsel of the Department of the Navy",On the Nomination PN1018,Nomination Confirmed,79,17,0,4
+Senate,117,2,47,47,2022-02-09,"Confirmation: Alexandra Baker, of New Jersey, to be a Deputy Under Secretary of Defense",On the Nomination PN1020,Nomination Confirmed,75,21,0,4
+Senate,117,2,48,48,2022-02-09,"Confirmation: Reta Jo Lewis, of Georgia, to be President of the Export-Import Bank of the United States",On the Nomination PN1528,Nomination Confirmed,56,40,0,4
+Senate,117,2,49,49,2022-02-09,"Confirmation: Leonard Philip Stark, of Delaware, to be U.S. Circuit Judge for the Federal Circuit",On the Nomination PN1508,Nomination Confirmed,61,35,0,4
+Senate,117,2,50,50,2022-02-09,"Confirmation: Neil Harvey MacBride, of Virginia, to be General Counsel for the Department of the Treasury",On the Nomination PN615,Nomination Confirmed,61,33,0,6
+Senate,117,2,51,51,2022-02-09,Motion to Discharge Samuel R. Bagenstos to be General Counsel of the Department of HHS,On the Motion to Discharge PN1026,Motion to Discharge Agreed to,48,47,0,5
+Senate,117,2,52,52,2022-02-10,Motion to Invoke Cloture: Max Vekich to be a Federal Maritime Commissioner,On the Cloture Motion PN1537,Cloture Motion Agreed to,52,45,0,3
+Senate,117,2,53,53,2022-02-10,"Confirmation: Max Vekich, of Washington, to be a Federal Maritime Commissioner",On the Nomination PN1537,Nomination Confirmed,51,43,0,6
+Senate,117,2,54,54,2022-02-14,"Motion to Invoke Cloture: Robert McKinnon Califf to be Commissioner of Food and Drugs, Department of Health and Human Services",On the Cloture Motion PN1593,Cloture Motion Agreed to,49,45,0,6
+Senate,117,2,55,55,2022-02-15,"Confirmation: Robert McKinnon Califf, of North Carolina, to be Commissioner of Food and Drugs, Department of Health and Human Services",On the Nomination PN1593,Nomination Confirmed,50,46,1,3
+Senate,117,2,56,56,2022-02-16,Motion to Invoke Cloture: Celeste Ann Wallander to be an Assistant Secretary of Defense,On the Cloture Motion PN730,Cloture Motion Agreed to,81,13,0,6
+Senate,117,2,57,57,2022-02-16,Motion to Invoke Cloture: David A. Honey to be Deputy Under Secretary of Defense,On the Cloture Motion PN1001,Cloture Motion Agreed to,93,3,0,4
+Senate,117,2,58,58,2022-02-16,"Confirmation: Celeste Ann Wallander, of Maryland, to be an Assistant Secretary of Defense",On the Nomination PN730,Nomination Confirmed,83,13,0,4
+Senate,117,2,59,59,2022-02-16,"Confirmation: David A. Honey, of Virginia, to be Deputy Under Secretary of Defense",On the Nomination PN1001,Nomination Confirmed,94,1,0,5
+Senate,117,2,60,60,2022-02-17,Motion to Invoke Cloture: Motion to Proceed to H.R. 6617,On the Cloture Motion H.R. 6617,Cloture Motion Agreed to,65,30,0,5
+Senate,117,2,61,61,2022-02-17,Lee Amdt. No. 4929,On the Amendment S.Amdt. 4929 to H.R. 6617 (Further Additional Extending Government Funding Act),Amendment Rejected,46,47,0,7
+Senate,117,2,62,62,2022-02-17,Cruz Amdt No. 4927,On the Amendment S.Amdt. 4927 to H.R. 6617 (Further Additional Extending Government Funding Act),Amendment Rejected,44,49,0,7
+Senate,117,2,63,63,2022-02-17,Braun Amdt. No. 4930,On the Amendment S.Amdt. 4930 to H.R. 6617 (Further Additional Extending Government Funding Act),Amendment Rejected,47,45,0,8
+Senate,117,2,64,64,2022-02-17,H.R. 6617,On Passage of the Bill H.R. 6617,Bill Passed,65,27,0,8
+Senate,117,2,65,65,2022-02-28,Motion to Invoke Cloture: Motion to Proceed to H.R. 3755.,On Cloture on the Motion to Proceed H.R. 3755,Cloture on the Motion to Proceed Rejected,46,48,0,6
+Senate,117,2,66,66,2022-02-28,Motion to Invoke Cloture: Motion to Proceed to H.R. 3076,On Cloture on the Motion to Proceed H.R. 3076,Cloture on the Motion to Proceed Agreed to,74,20,0,6
+Senate,117,2,67,67,2022-03-02,S.J. Res. 32,On the Joint Resolution S.J.Res. 32,Joint Resolution Passed,49,44,0,7
+Senate,117,2,68,68,2022-03-03,S.J. Res. 38,On the Joint Resolution S.J.Res. 38,Joint Resolution Passed,48,47,0,5
+Senate,117,2,69,69,2022-03-07,Motion to Invoke Cloture: H.R. 3076,On the Cloture Motion H.R. 3076,Cloture Motion Agreed to,74,17,0,9
+Senate,117,2,70,70,2022-03-08,Motion to Waive Sect. 3101 (b) of S. Con. Res. 11 (114th Congress),On the Motion (Motion to Waive Sect. 3101 (b) of S. Con. Res. 11 (114th Congress)),Motion Agreed to,68,30,0,2
+Senate,117,2,71,71,2022-03-08,H.R. 3076,On Passage of the Bill H.R. 3076,Bill Passed,79,19,0,2
+Senate,117,2,72,72,2022-03-08,Motion to Invoke Cloture: Maria L. Pagan to be a Deputy U.S. Trade Representative (Geneva Office),On the Cloture Motion PN1053,Cloture Motion Agreed to,78,19,0,3
+Senate,117,2,74,74,2022-03-10,"Confirmation: Maria L. Pagan, of Puerto Rico, to be a Deputy United States Trade Representative (Geneva Office), with the Rank of Ambassador",On the Nomination PN1053,Nomination Confirmed,80,19,0,1
+Senate,117,2,73,73,2022-03-10,Motion to Discharge: S.J. Res. 35,On the Motion to Discharge S.J.Res. 35,Motion to Discharge Rejected,19,80,0,1
+Senate,117,2,75,75,2022-03-10,Lee Amdt. No. 4989,"On the Amendment S.Amdt. 4989 to H.R. 2471 (Haiti Development, Accountability, and Institutional Transparency Initiative Act)",Amendment Rejected,49,50,0,1
+Senate,117,2,77,77,2022-03-10,Kennedy Amdt. No. 4983,"On the Amendment S.Amdt. 4983 to H.R. 2471 (Haiti Development, Accountability, and Institutional Transparency Initiative Act)",Amendment Rejected,35,64,0,1
+Senate,117,2,78,78,2022-03-10,Senate Concurs in the House Amendment to the Senate Amendment to H.R. 2471,On the Motion (Senate Concurs in the House Amendment to the Senate Amendment to H.R. 2471),Motion Agreed to,68,31,0,1
+Senate,117,2,76,76,2022-03-10,Braun Amdt. No. 4990,"On the Amendment S.Amdt. 4990 to H.R. 2471 (Haiti Development, Accountability, and Institutional Transparency Initiative Act)",Amendment Rejected,35,64,0,1
+Senate,117,2,79,79,2022-03-14,"Motion to Invoke Cloture: Shalanda D. Young, of Louisiana, to be Director of the Office of Management and Budget",On the Cloture Motion PN1437,Cloture Motion Agreed to,53,31,0,16
+Senate,117,2,80,80,2022-03-15,"Confirmation: Shalanda D. Young, of Louisiana, to be Director of the Office of Management and Budget",On the Nomination PN1437,Nomination Confirmed,61,36,0,3
+Senate,117,2,81,81,2022-03-15,S.J. Res. 37,On the Joint Resolution S.J.Res. 37,Joint Resolution Passed,57,40,0,3
+Senate,117,2,82,82,2022-03-16,Motion to Invoke Cloture: Jacqueline Scott Corley to be U.S. District Judge for the Northern District of California,On the Cloture Motion PN1498,Cloture Motion Agreed to,63,35,0,2
+Senate,117,2,83,83,2022-03-16,Motion to Invoke Cloture: Fred W. Slaughter to be U.S. District Judge for the Central District of California,On the Cloture Motion PN1485,Cloture Motion Agreed to,56,41,0,3
+Senate,117,2,84,84,2022-03-16,Motion to Invoke Cloture: Ruth Bermudez Montenegro to be U.S. District Judge for the Southern District of California,On the Cloture Motion PN1503,Cloture Motion Agreed to,57,42,0,1
+Senate,117,2,85,85,2022-03-16,Motion to Invoke Cloture: Victoria Marie Calvert to be U.S. District Judge for the Northern District of Georgia,On the Cloture Motion PN1495,Cloture Motion Agreed to,52,46,0,2
+Senate,117,2,86,86,2022-03-16,Motion to Invoke Cloture: Julie Rebecca Rubin to be U.S. District Judge for the District of Maryland,On the Cloture Motion PN1505,Cloture Motion Agreed to,52,45,0,3
+Senate,117,2,87,87,2022-03-16,Motion to Invoke Cloture: Hector Gonzalez to be U.S. District Judge for the Eastern District of New York,On the Cloture Motion PN1479,Cloture Motion Agreed to,52,44,0,4
+Senate,117,2,88,88,2022-03-16,Motion to Invoke Cloture: John H. Chun to be U.S. District Judge for the Western District of Washington,On the Cloture Motion PN1497,Cloture Motion Agreed to,50,45,0,5
+Senate,117,2,89,89,2022-03-16,Motion to Invoke Cloture: Sarah Elizabeth Geraghty to be U.S. District Judge for the Northern District of Georgia,On the Cloture Motion PN1500,Cloture Motion Agreed to,49,46,0,5
+Senate,117,2,90,90,2022-03-16,Motion to Invoke Cloture: Georgette Castner to be U.S. District Judge for the District of New Jersey,On the Cloture Motion PN1496,Cloture Motion Agreed to,49,46,0,5
+Senate,117,2,91,91,2022-03-16,Motion to Invoke Cloture: Cristina D. Silva to be U.S. District Judge for the District of Nevada,On the Cloture Motion PN1507,Cloture Motion Agreed to,53,44,0,3
+Senate,117,2,92,92,2022-03-16,Motion to Invoke Cloture: Anne Rachel Traum to be U.S. District Judge for the District of Nevada,On the Cloture Motion PN1511,Cloture Motion Agreed to,52,45,0,3
+Senate,117,2,93,93,2022-03-16,Motion to Invoke Cloture: Andrew M. Luger to be U.S. Attorney for the District of Minnesota,On the Cloture Motion PN1381,Cloture Motion Agreed to,61,36,0,3
+Senate,117,2,94,94,2022-03-17,"Confirmation: Jacqueline Scott Corley, of California, to be U.S. District Judge for the Northern District of California",On the Nomination PN1498,Nomination Confirmed,63,36,0,1
+Senate,117,2,95,95,2022-03-17,"Confirmation: Fred. W. Slaughter, of California, to be U.S. District Judge for the Central District of California",On the Nomination PN1485,Nomination Confirmed,57,41,0,2
+Senate,117,2,96,96,2022-03-17,Motion to Invoke Cloture: Alison J. Nathan to be U.S. Circuit Judge for the Second Circuit,On the Cloture Motion PN1504,Cloture Motion Agreed to,51,44,0,5
+Senate,117,2,97,97,2022-03-21,Motion to Invoke Cloture Re: Motion to Proceed to H.R. 4521,On the Cloture Motion H.R. 4521,Cloture Motion Agreed to,66,29,0,5
+Senate,117,2,98,98,2022-03-22,"Confirmation: Ruth Bermudez Montenegro, of California, to be U.S. District Judge for the Southern District of California",On the Nomination PN1503,Nomination Confirmed,55,41,0,4
+Senate,117,2,99,99,2022-03-22,"Confirmation: Victoria Marie Calvert, of Georgia, to be U.S. District Judge for the Northern District of Georgia",On the Nomination PN1495,Nomination Confirmed,50,46,0,4
+Senate,117,2,100,100,2022-03-23,Motion to Proceed to H.R. 4521,On the Motion to Proceed H.R. 4521,Motion to Proceed Agreed to,66,31,0,3
+Senate,117,2,101,101,2022-03-23,"Confirmation: Julie Rebecca Rubin, of Maryland, to be U.S. District Judge for the District of Maryland",On the Nomination PN1505,Nomination Confirmed,51,46,0,3
+Senate,117,2,102,102,2022-03-23,"Confirmation: Hector Gonzalez, of New York, to be U.S. District Judge for the Eastern District of New York",On the Nomination PN1479,Nomination Confirmed,52,45,0,3
+Senate,117,2,103,103,2022-03-23,"Confirmation: John H. Chun, of Washington, to be U.S. District Judge for the Western District of Washington",On the Nomination PN1497,Nomination Confirmed,49,47,0,4
+Senate,117,2,104,104,2022-03-23,"Confirmation: Cristina D. Silva, of Nevada, to be U.S. District Judge for the District of Nevada",On the Nomination PN1507,Nomination Confirmed,50,46,0,4
+Senate,117,2,105,105,2022-03-23,"Confirmation: Anne Rachel Traum, of Nevada, to be U.S. District Judge for the District of Nevada",On the Nomination PN1511,Nomination Confirmed,49,47,0,4
+Senate,117,2,106,106,2022-03-23,"Confirmation: Alison J. Nathan, of New York, to be U.S. Circuit Judge for the Second Circuit",On the Nomination PN1504,Nomination Confirmed,49,47,0,4
+Senate,117,2,107,107,2022-03-24,"Confirmation: Andrew M. Luger, of Minnesota, to be U.S. Attorney for the District of Minnesota",On the Nomination PN1381,Nomination Confirmed,60,36,0,4
+Senate,117,2,108,108,2022-03-28,Motion to Invoke Cloture: Schumer Amdt. No. 5002 to H.R. 4521,On the Cloture Motion S.Amdt. 5002 to H.R. 4521 (America COMPETES Act of 2022),Cloture Motion Agreed to,68,28,0,4
+Senate,117,2,109,109,2022-03-28,H.R. 4521 As Amended,On Passage of the Bill H.R. 4521,Bill Passed,68,28,0,4
+Senate,117,2,110,110,2022-03-29,"Motion to Discharge: Lisa DeNell Cook to be a Member of the Board of Governors of the Federal Reserve System from the Committee on Banking, Housing, and Urban Affairs",On the Motion to Discharge PN1679,Motion to Discharge Agreed to,50,49,0,1
+Senate,117,2,111,111,2022-03-29,Motion to Invoke Cloture: Nani A. Coloretti to be Deputy Director of the Office of Management and Budget,On the Cloture Motion PN1436,Cloture Motion Agreed to,56,43,0,1
+Senate,117,2,112,112,2022-03-29,Motion to Invoke Cloture: C.S. Eliot Kang to be an Assistant Secretary of State (International Security and Non-Proliferation),On the Cloture Motion PN1575,Cloture Motion Agreed to,52,47,0,1
+Senate,117,2,113,113,2022-03-29,"Confirmation: Nani A. Coloretti, of California, to be Deputy Director of the Office of Management and Budget",On the Nomination PN1436,Nomination Confirmed,57,41,0,2
+Senate,117,2,114,114,2022-03-29,"Confirmation: C.S. Eliot Kang, of New Jersey, to be an Assistant Secretary of State (International Security and Non-Proliferation)",On the Nomination PN1575,Nomination Confirmed,52,46,0,2
+Senate,117,2,115,115,2022-03-30,"Motion to Discharge: Alvaro M. Bedoya to be a Federal Trade Commissioner from the Committee on Commerce, Science, and Transportation",On the Motion to Discharge PN1541,Motion to Discharge Agreed to,50,50,0,0
+Senate,117,2,116,116,2022-03-30,Motion to Invoke Cloture: Judith DelZoppo Pryor to be First Vice President of the Export-Import Bank of the United States,On the Cloture Motion PN1517,Cloture Motion Agreed to,69,31,0,0
+Senate,117,2,117,117,2022-03-30,"Confirmation: Judith DelZoppo Pryor, of Ohio, to be First Vice President of the Export-Import Bank of the United States",On the Nomination PN1517,Nomination Confirmed,69,30,0,1
+Senate,117,2,118,118,2022-03-30,"Motion to Invoke Cloture: January Contreras to be Assistant Secretary for Family Support, Department of Health and Human Services",On the Cloture Motion PN1660,Cloture Motion Agreed to,54,45,0,1
+Senate,117,2,119,119,2022-03-30,"Confirmation: January Contreras, of Arizona, to be Assistant Secretary for Family Support, Department of Health and Human Services",On the Nomination PN1660,Nomination Confirmed,54,44,0,2
+Senate,117,2,120,120,2022-03-30,"Motion to Invoke Cloture: David Weil to be Administrator of the Wage and Hour Division, Department of Labor ",On the Cloture Motion PN1592,Cloture Motion Rejected,47,53,0,0
+Senate,117,2,121,121,2022-03-30,Motion to Invoke Cloture: Susan Tsui Grundmann to be a Member of the Federal Labor Relations Authority,On the Cloture Motion PN1601,Cloture Motion Agreed to,51,47,0,2
+Senate,117,2,122,122,2022-03-30,Motion to Invoke Cloture: Cathy Ann Harris to be a Member of the Merit System Protection Board,On the Cloture Motion PN1600,Cloture Motion Agreed to,50,48,0,2
+Senate,117,2,123,123,2022-03-30,Motion to Invoke Cloture: Cathy Ann Harris to be Chairman of the Merit Systems Protection Board,On the Cloture Motion PN1599,Cloture Motion Agreed to,49,48,0,3
+Senate,117,2,124,124,2022-03-31,"Confirmation: Sarah Elisabeth Geraghty, of Georgia, to be U.S. District Judge for the Northern District of Georgia",On the Nomination PN1500,Nomination Confirmed,52,48,0,0
+Senate,117,2,125,125,2022-03-31,"Confirmation: Georgette Castner, of New Jersey, to be U.S. District Judge for the District of New Jersey",On the Nomination PN1496,Nomination Confirmed,52,47,0,1
+Senate,117,2,126,126,2022-04-04,Motion to Discharge: Ketanji Brown Jackson to be an Associate Justice of the Supreme Court of the United States from the committee on the Judiciary,On the Motion to Discharge PN1783,Motion to Discharge Agreed to,53,47,0,0
+Senate,117,2,127,127,2022-04-05,"Motion to Discharge: Julia Ruth Gordon to be an Assistant Secretary of Housing and Urban Development, from the Committee on Banking, Housing, and Urban Affairs.",On the Motion to Discharge PN1523,Motion to Discharge Agreed to,50,50,0,0
+Senate,117,2,128,128,2022-04-05,Motion to Proceed to Executive Session to Consider Executive Calendar No. 860,On the Motion to Proceed PN1783,Motion to Proceed Agreed to,53,47,0,0
+Senate,117,2,129,129,2022-04-05,Motion to Invoke Cloture: Motion to Proceed to H.R. 4373,On Cloture on the Motion to Proceed H.R. 4373,Cloture on the Motion to Proceed Rejected,47,52,0,1
+Senate,117,2,130,130,2022-04-06,"Confirmation: James C. O'Brien, of Nebraska, to be Head of the Office of Sanctions Coordination, with the rank of Ambassador",On the Nomination PN1284,Nomination Confirmed,71,26,0,3
+Senate,117,2,131,131,2022-04-07,"H.R. 7108, As Amended",On Passage of the Bill H.R. 7108,Bill Passed,100,0,0,0
+Senate,117,2,132,132,2022-04-07,"H.R. 6968, As Amended",On Passage of the Bill H.R. 6968,Bill Passed,100,0,0,0
+Senate,117,2,133,133,2022-04-07,Motion to Invoke Cloture: Ketanji Brown Jackson to be an Associate Justice of the Supreme Court of the United States,On the Cloture Motion PN1783,Cloture Motion Agreed to,53,47,0,0
+Senate,117,2,134,134,2022-04-07,"Confirmation: Ketanji Brown Jackson, of the District of Columbia, to be an Associate Justice of the Supreme Court of the United States",On the Nomination PN1783,Nomination Confirmed,53,47,0,0
+Senate,117,2,135,135,2022-04-25,Motion to Invoke Cloture: Lael Brainard to be Vice Chairman of the Board of Governors of the Federal Reserve System,On the Cloture Motion PN1529,Cloture Motion Agreed to,54,40,0,6
+Senate,117,2,136,136,2022-04-26,"Confirmation: Lael Brainard, of the District of Columbia, to be Vice Chairman of the Board of Governors of the Federal Reserve System",On the Nomination PN1529,Nomination Confirmed,52,43,0,5
+Senate,117,2,137,137,2022-04-26,Motion to Invoke Cloture: Lisa DeNell Cook to be a Member of the Board of Governors of the Federal Reserve System,On the Cloture Motion PN1679,Cloture Motion Rejected,47,51,0,2
+Senate,117,2,138,138,2022-04-27,Motion to Invoke Cloture: Sherilyn Peace Garnett to be U.S. District Judge for the Central District of California,On the Cloture Motion PN1478,Cloture Motion Agreed to,64,34,0,2
+Senate,117,2,139,139,2022-04-27,"Confirmation: Sherilyn Peace Garnett, of California, to be U.S. District Judge for the Central District of California",On the Nomination PN1478,Nomination Confirmed,62,33,0,5
+Senate,117,2,140,140,2022-04-27,Motion to Proceed to S.J. Res. 41,On the Motion to Proceed S.J.Res. 41,Motion to Proceed Rejected,49,49,0,2
+Senate,117,2,141,141,2022-04-28,"Motion to Invoke Cloture: Motion to Insist on the Senate Amendment to H.R. 4521, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees",On the Cloture Motion H.R. 4521,Cloture Motion Agreed to,68,29,0,3
+Senate,117,2,142,142,2022-04-28,"Motion to Insist on the Senate Amendment to H.R. 4521, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees","On the Motion (Motion to Insist on the Senate Amendment to H.R. 4521, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees)",Motion Agreed to,67,27,0,6
+Senate,117,2,143,143,2022-05-02,Motion to Invoke Cloture: Joshua Frost to be an Assistant Secretary of the Treasury,On the Cloture Motion PN1052,Cloture Motion Agreed to,54,36,0,10
+Senate,117,2,144,144,2022-05-03,"Confirmation: Joshua Frost, of New York, to be an Assistant Secretary of the Treasury",On the Nomination PN1052,Nomination Confirmed,54,42,0,4
+Senate,117,2,145,145,2022-05-03,Motion to Invoke Cloture: Elizabeth de Leon Bhargava to be an Assistant Secretary of Housing and Urban Development,On the Cloture Motion PN1521,Cloture Motion Agreed to,61,35,0,4
+Senate,117,2,146,146,2022-05-03,"Confirmation: Elizabeth de Leon Bhargava, of New York, to be an Assistant Secretary of Housing and Urban Development",On the Nomination PN1521,Nomination Confirmed,62,34,0,4
+Senate,117,2,147,147,2022-05-03,S.J. Res. 39,On the Joint Resolution S.J.Res. 39,Joint Resolution Passed,55,41,0,4
+Senate,117,2,148,148,2022-05-04,Barrasso Motion to Instruct Re: H.R. 4521,On the Motion (Barrasso Motion to Instruct Re: H.R. 4521),Motion Agreed to,53,44,0,3
+Senate,117,2,149,149,2022-05-04,Cruz Motion to Instruct Re: H.R. 4521,On the Motion (Cruz Motion to Instruct Re: H.R. 4521),Motion Agreed to,86,12,0,2
+Senate,117,2,150,150,2022-05-04,Lee Motion to Instruct Re: H.R. 4521,On the Motion (Lee Motion to Instruct Re: H.R. 4521),Motion Rejected,48,49,0,3
+Senate,117,2,151,151,2022-05-04,Cotton Motion to Instruct Re: H.R. 4521,On the Motion (Cotton Motion to Instruct Re: H.R. 4521),Motion Agreed to,50,44,0,6
+Senate,117,2,152,152,2022-05-04,Johnson Motion to Instruct Re: H.R. 4521,On the Motion (Johnson Motion to Instruct Re: H.R. 4521),Motion Agreed to,59,33,0,8
+Senate,117,2,153,153,2022-05-04,Sanders Motion to Instruct Re: H.R. 4521,On the Motion (Sanders Motion to Instruct Re: H.R. 4521),Motion Rejected,6,87,0,7
+Senate,117,2,154,154,2022-05-04,Hassan Motion to Instruct Re: H.R. 4521,On the Motion (Hassan Motion to Instruct Re: H.R. 4521),Motion Agreed to,90,5,0,5
+Senate,117,2,155,155,2022-05-04,Lankford Motion to Instruct Re: H.R. 4521,On the Motion (Lankford Motion to Instruct Re: H.R. 4521),Motion Agreed to,62,33,0,5
+Senate,117,2,156,156,2022-05-04,Sanders Motion to Instruct Re: H.R. 4521,On the Motion (Sanders Motion to Instruct Re: H.R. 4521),Motion Rejected,17,78,0,5
+Senate,117,2,157,157,2022-05-04,Capito Motion to Instruct Re: H.R. 4521,On the Motion (Capito Motion to Instruct Re: H.R. 4521),Motion Agreed to,49,47,0,4
+Senate,117,2,158,158,2022-05-04,Toomey Motion to Instruct Re: H.R. 4521,On the Motion (Toomey Motion to Instruct Re: H.R. 4521),Motion Agreed to,53,43,0,4
+Senate,117,2,159,159,2022-05-04,Scott (SC) Motion to Instruct Re: H.R. 4521,On the Motion (Scott (SC) Motion to Instruct Re: H.R. 4521),Motion Rejected,47,49,0,4
+Senate,117,2,160,160,2022-05-05,"Confirmation: Kathryn Huff, of Illinois, to be an Assistant Secretary of Energy (Nuclear Energy)",On the Nomination PN1782,Nomination Confirmed,80,11,0,9
+Senate,117,2,161,161,2022-05-09,Motion to Invoke Cloture: Ann Claire Phillips to be Administrator of the Maritime Administration,On the Cloture Motion PN1547,Cloture Motion Agreed to,72,20,0,8
+Senate,117,2,162,162,2022-05-10,"Confirmation: Ann Claire Phillips, of Virginia, to be Administrator of the Maritime Administration ",On the Nomination PN1547,Nomination Confirmed,75,22,0,3
+Senate,117,2,163,163,2022-05-10,"Motion to Invoke Cloture: Asmeret Asefaw Berhe to be Director of the Office of Science, Department of Energy",On the Cloture Motion PN1551,Cloture Motion Agreed to,53,45,0,2
+Senate,117,2,164,164,2022-05-10,"Confirmation: Asmeret Asefaw Berhe, of California, to be Director of the Office of Science, Department of Energy",On the Nomination PN1551,Nomination Confirmed,54,45,0,1
+Senate,117,2,165,165,2022-05-10,"Motion to Invoke Cloture: Lisa DeNell Cook to be a Member of the Board of Governors of the Federal Reserve System, Upon Reconsideration",On the Cloture Motion PN1679,Cloture Motion Agreed to,50,49,0,1
+Senate,117,2,166,166,2022-05-10,"Confirmation: Lisa DeNell Cook, of Michigan, to be a Member of the Board of Governors of the Federal Reserve System ",On the Nomination PN1679,Nomination Confirmed,50,50,0,0
+Senate,117,2,167,167,2022-05-11,Motion to Discharge: Charlotte N. Sweeney to be U.S. District Judge for the District of Colorado from the Committee on the Judiciary,On the Motion (Motion to Discharge: Charlotte N. Sweeney to be U.S. District Judge for the District of Colorado from the Committee on the Judiciary),Motion Agreed to,51,49,0,0
+Senate,117,2,168,168,2022-05-11,Motion to Invoke Cloture: Alvaro M. Bedoya to be a Federal Trade Commissioner,On the Cloture Motion PN1541,Cloture Motion Agreed to,50,50,0,0
+Senate,117,2,169,169,2022-05-11,"Confirmation: Alvaro M. Bedoya, of Maryland, to be a Federal Trade Commissioner",On the Nomination PN1541,Nomination Confirmed,50,50,0,0
+Senate,117,2,170,170,2022-05-11,Motion to Invoke Cloture Re: Motion to Proceed to S. 4132,On Cloture on the Motion to Proceed S. 4132,Cloture on the Motion to Proceed Rejected,49,51,0,0
+Senate,117,2,171,171,2022-05-11,Motion to Invoke Cloture: Julia Ruth Gordon to be an Assistant Secretary of Housing and Urban Development,On the Cloture Motion PN1523,Cloture Motion Agreed to,50,50,0,0
+Senate,117,2,172,172,2022-05-11,"Confirmation: Julia Ruth Gordon, of Maryland, to be an Assistant Secretary of Housing and Urban Development",On the Nomination PN1523,Nomination Confirmed,50,50,0,0
+Senate,117,2,173,173,2022-05-11,"Confirmation: Philip Nathan Jefferson, of North Carolina, to be a Member of the Board of Governors of the Federal Reserve System",On the Nomination PN1680,Nomination Confirmed,91,7,0,2
+Senate,117,2,174,174,2022-05-12,Motion to Discharge: Mary T. Boyle to be a Commissioner of the Consumer Product Safety Commission,On the Motion to Discharge PN1542,Motion to Discharge Agreed to,50,50,0,0
+Senate,117,2,175,175,2022-05-12,"Confirmation: Susan Tsui Grundmann, of Virginia, to be a Member of the Federal Labor Relations Authority",On the Nomination PN1601,Nomination Confirmed,50,49,0,1
+Senate,117,2,176,176,2022-05-12,"Confirmation: Jerome H. Powell, of Maryland, to be Chairman of the Board of Governors of the Federal Reserve System",On the Nomination PN1522,Nomination Confirmed,80,19,0,1
+Senate,117,2,177,177,2022-05-16,Motion to Invoke Cloture: Motion to Proceed to H.R. 7691,On Cloture on the Motion to Proceed H.R. 7691,Cloture on the Motion to Proceed Agreed to,81,11,0,8
+Senate,117,2,178,178,2022-05-17,Motion to Proceed to H.R. 7691,On the Motion to Proceed H.R. 7691,Motion to Proceed Agreed to,88,11,0,1
+Senate,117,2,179,179,2022-05-17,Motion to Invoke Cloture: Jennifer Louise Rochon to be U.S. District Judge for the Southern District of New York ,On the Cloture Motion PN1484,Cloture Motion Agreed to,51,47,0,2
+Senate,117,2,180,180,2022-05-17,Motion to Invoke Cloture: Trina L. Thompson to be U.S. District Judge for the Northern District of California,On the Cloture Motion PN1510,Cloture Motion Agreed to,51,46,0,3
+Senate,117,2,181,181,2022-05-17,Motion to Invoke Cloture: Sunshine Suzanne Sykes to be U.S. District Judge for the Central District of California,On the Cloture Motion PN1486,Cloture Motion Agreed to,51,45,0,4
+Senate,117,2,182,182,2022-05-18,"Confirmation: Jennifer Louise Rochon, of New York, to be U.S. District Judge for the Southern District of New York",On the Nomination PN1484,Nomination Confirmed,51,47,0,2
+Senate,117,2,183,183,2022-05-18,Motion to Invoke Cloture: Barbara A. Leaf to be an Assistant Secretary of State (Near Eastern Affairs),On the Cloture Motion PN1573,Cloture Motion Agreed to,54,43,0,3
+Senate,117,2,184,184,2022-05-18,"Confirmation: Barbara A. Leaf, of Virginia, to be an Assistant Secretary of State (Near Eastern Affairs)",On the Nomination PN1573,Nomination Confirmed,54,44,0,2
+Senate,117,2,185,185,2022-05-18,Motion to Invoke Cloture: Elizabeth Schoff Watson to be an Assistant Secretary of Labor,On the Cloture Motion PN1583,Cloture Motion Agreed to,50,47,0,3
+Senate,117,2,186,186,2022-05-18,"Confirmation: Elizabeth Schoff Watson, of Maryland, to be an Assistant Secretary of Labor",On the Nomination PN1583,Nomination Confirmed,50,45,0,5
+Senate,117,2,187,187,2022-05-18,"Confirmation: Trina L. Thompson, of California, to be U.S. District Judge for the Northern District of California",On the Nomination PN1510,Nomination Confirmed,51,44,0,5
+Senate,117,2,188,188,2022-05-18,"Confirmation: Sunshine Suzanne Sykes, of California, to be U.S. District Judge for the Central District of California",On the Nomination PN1486,Nomination Confirmed,51,45,0,4
+Senate,117,2,189,189,2022-05-18,"Confirmation: Christopher Joseph Lowman, of Virginia, to be an Assistant Secretary of Defense",On the Nomination PN1367,Nomination Confirmed,94,1,0,5
+Senate,117,2,190,190,2022-05-19,Motion to Invoke Cloture: H.R. 7691,On the Cloture Motion H.R. 7691,Cloture Motion Agreed to,86,11,0,3
+Senate,117,2,191,191,2022-05-19,H.R. 7691,On Passage of the Bill H.R. 7691,Bill Passed,86,11,0,3
+Senate,117,2,192,192,2022-05-19,Motion to Invoke Cloture: Motion to Proceed to S. 4008,On the Cloture Motion S. 4008,Cloture Motion Rejected,52,43,0,5
+Senate,117,2,193,193,2022-05-19,Motion to Invoke Cloture: Stephanie Dawkins Davis to be U.S. Circuit Judge for the Sixth Circuit,On the Cloture Motion PN1748,Cloture Motion Agreed to,48,36,0,16
+Senate,117,2,194,194,2022-05-24,"Confirmation: Stephanie Dawkins Davis, of Michigan, to be United States Circuit Judge for the Sixth Circuit",On the Nomination PN1748,Nomination Confirmed,49,43,0,8
+Senate,117,2,195,195,2022-05-24,Motion to Invoke Cloture: Dara Lindenbaum to be a Member of the Federal Election Commission,On the Cloture Motion PN1758,Cloture Motion Agreed to,54,39,0,7
+Senate,117,2,196,196,2022-05-24,"Confirmation: Dara Lindenbaum, of Virginia, to be a Member of the Federal Election Commission",On the Nomination PN1758,Nomination Confirmed,54,38,0,8
+Senate,117,2,197,197,2022-05-24,Motion to Invoke Cloture: Evelyn Padin to be United States District Judge for the District of New Jersey,On the Cloture Motion PN1482,Cloture Motion Agreed to,52,39,0,9
+Senate,117,2,198,198,2022-05-24,Motion to Invoke Cloture: Charlotte N. Sweeney to be United States District Judge for the District of Colorado,On the Cloture Motion PN1509,Cloture Motion Agreed to,48,42,0,10
+Senate,117,2,199,199,2022-05-24,Motion to Invoke Cloture: Nina Morrison to be United States District Judge for the Eastern District of New York ,On the Cloture Motion PN1481,Cloture Motion Agreed to,50,41,0,9
+Senate,117,2,200,200,2022-05-25,"Confirmation: Evelyn Padin, of New Jersey, to be U.S. District Judge for the District of New Jersey",On the Nomination PN1482,Nomination Confirmed,51,43,0,6
+Senate,117,2,201,201,2022-05-25,"Confirmation: Charlotte N. Sweeney, of Colorado, to be U.S. District Judge for the District of Colorado",On the Nomination PN1509,Nomination Confirmed,48,46,0,6
+Senate,117,2,202,202,2022-05-25,Motion to Invoke Cloture: Sandra L. Thompson to be Director of the Federal Housing Finance Agency,On the Cloture Motion PN1518,Cloture Motion Agreed to,48,46,0,6
+Senate,117,2,203,203,2022-05-25,"Confirmation: Sandra L. Thompson, of Maryland, to be Director of the Federal Housing Finance Agency",On the Nomination PN1518,Nomination Confirmed,49,46,0,5
+Senate,117,2,204,204,2022-05-25,Motion to Invoke Cloture: Henry Christopher Frey to be an Assistant Administrator of the Environmental Protection Agency,On the Cloture Motion PN1562,Cloture Motion Agreed to,51,43,0,6
+Senate,117,2,205,205,2022-05-25,"Confirmation: Henry Christopher Frey, of North Carolina, to be an Assistant Administrator of the Environmental Protection Agency",On the Nomination PN1562,Nomination Confirmed,51,43,0,6
+Senate,117,2,206,206,2022-05-25,Motion to Invoke Cloture: Lisa M. Gomez to be an Assistant Secretary of Labor,On the Cloture Motion PN1595,Cloture Motion Agreed to,47,46,0,7
+Senate,117,2,207,207,2022-05-25,"Motion to Invoke Cloture: Chavonda J. Jacobs-Young to be Under Secretary of Agriculture for Research, Education, and Economics",On the Cloture Motion PN955,Cloture Motion Agreed to,89,3,0,8
+Senate,117,2,208,208,2022-05-25,"Motion to Invoke Cloture: Amy Loyd to be Assistant Secretary for Career, Technical, and Adult Education",On the Cloture Motion PN1594,Cloture Motion Agreed to,54,40,0,6
+Senate,117,2,209,209,2022-05-25,"Confirmation: Cathy Ann Harris, of Maryland, to be a Member of the Merit Systems Protection Board",On the Nomination PN1600,Nomination Confirmed,48,46,0,6
+Senate,117,2,210,210,2022-05-26,Motion to Invoke Cloture: Motion to Proceed to H.R. 350,On the Cloture Motion H.R. 350,Cloture Motion Rejected,47,47,0,6
+Senate,117,2,211,211,2022-05-26,S.J.Res. 46,On the Joint Resolution S.J.Res. 46,Joint Resolution Defeated,46,48,0,6
+Senate,117,2,212,212,2022-05-26,"Confirmation: Marcia Stephens Bloom Bernicat, of New Jersey, to be Director General of the Foreign Service",On the Nomination PN492,Nomination Confirmed,82,10,0,8
+Senate,117,2,214,214,2022-06-07,"Confirmation: Alex Wagner, of the District of Columbia, to be an Assistant Secretary of the Air Force",On the Nomination PN1002,Nomination Confirmed,76,21,0,3
+Senate,117,2,213,213,2022-06-06,Motion to Invoke Cloture: Alex Wagner to be an Assistant Secretary of the Air Force,On the Cloture Motion PN1002,Cloture Motion Agreed to,69,17,0,14
+Senate,117,2,215,215,2022-06-07,Motion to Invoke Cloture: Motion to Proceed to H.R. 3967,On the Cloture Motion H.R. 3967,Cloture Motion Agreed to,86,12,0,2
+Senate,117,2,217,217,2022-06-07,"Confirmation: Kenneth L. Wainstein, of Virginia, to be Under Secretary for Intelligence and Analysis, Department of Homeland Security",On the Nomination PN1413,Nomination Confirmed,63,35,0,2
+Senate,117,2,216,216,2022-06-07,"Confirmation: Chavonda J. Jacobs-Young, of Georgia, to be Under Secretary of Agriculture for Research, Education, and Economics",On the Nomination PN955,Nomination Confirmed,95,4,0,1
+Senate,117,2,218,218,2022-06-07,"Confirmation: Shalanda H. Baker, of Texas, to be Director of the Office of Minority Economic Impact, Department of Energy",On the Nomination PN1550,Nomination Confirmed,54,45,0,1
+Senate,117,2,219,219,2022-06-08,"Confirmation: Lisa M. Gomez, of New Jersey, to be an Assistant Secretary of Labor",On the Nomination PN1595,Nomination Rejected,49,51,0,0
+Senate,117,2,220,220,2022-06-08,"Confirmation: Nina Morrison, of New York, to be U.S. District Judge for the Eastern District of New York",On the Nomination PN1481,Nomination Confirmed,53,46,0,1
+Senate,117,2,221,221,2022-06-08,"Confirmation: Todd M. Harper, of Virginia, to be a Member of the National Credit Union Administration",On the Nomination PN1525,Nomination Confirmed,59,40,0,1
+Senate,117,2,223,223,2022-06-09,"Confirmation: Robert Steven Huie, of California, to be U.S. District Judge for the Southern District of California",On the Nomination PN1685,Nomination Confirmed,51,46,0,3
+Senate,117,2,222,222,2022-06-08,"Confirmation: Amy Loyd, of New Mexico, to be an Assistant Secretary of Education for Career, Technical, and Adult Education.",On the Nomination PN1594,Nomination Confirmed,57,42,0,1
+Senate,117,2,224,224,2022-06-09,"Confirmation: Samuel R. Bagenstos, of Michigan, to be General Counsel, Department of Health and Human Services",On the Nomination PN1026,Nomination Confirmed,49,43,0,8
+Senate,117,2,225,225,2022-06-13,Motion to Invoke Cloture: Amdt. No. 5051 to H.R. 3967,On the Cloture Motion H.R. 3967,Cloture Motion Agreed to,78,17,0,5
+Senate,117,2,226,226,2022-06-15,Tester Amendment No. 5051 to H.R. 3967,On the Amendment S.Amdt. 5051 to H.R. 3967 (Honoring our PACT Act of 2021),Amendment Agreed to,84,15,0,1
+Senate,117,2,227,227,2022-06-15,Motion to Invoke Cloture: H.R. 3967,On the Cloture Motion H.R. 3967,Cloture Motion Agreed to,76,23,0,1
+Senate,117,2,228,228,2022-06-15,Motion to Proceed to S.Con.Res. 41,On the Motion to Proceed S.Con.Res. 41,Motion to Proceed Rejected,29,67,0,4
+Senate,117,2,229,229,2022-06-15,"Confirmation: Alan M. Leventhal, of Massachusetts, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Denmark.",On the Nomination PN1694,Nomination Confirmed,63,32,0,5
+Senate,117,2,231,231,2022-06-16,Motion to Invoke Cloture: Ana Isabel de Alba to be U.S. District Judge for the Eastern District of California,On the Cloture Motion PN1683,Cloture Motion Agreed to,52,43,0,5
+Senate,117,2,232,232,2022-06-16,Motion to Invoke Cloture: Mary T. Boyle to be a Commissioner of the Consumer Product Safety Commission,On the Cloture Motion PN1542,Cloture Motion Agreed to,49,47,0,4
+Senate,117,2,230,230,2022-06-16,"H.R. 3967, As Amended",On Passage of the Bill H.R. 3967,Bill Passed,84,14,0,2
+Senate,117,2,233,233,2022-06-16,"Motion to Discharge: Steven M. Dettelbach to be Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives from the Committee on the Judiciary ",On the Motion to Discharge PN1975,Motion to Discharge Agreed to,52,41,0,7
+Senate,117,2,234,234,2022-06-21,"Confirmation: Ana Isabel de Alba, of California, to be United States District Judge for the Eastern District of California",On the Nomination PN1683,Nomination Confirmed,53,45,0,2
+Senate,117,2,235,235,2022-06-21,Motion to Proceed to the House Message to Accompany S. 2938,On the Motion (Motion to Proceed to the House Message to Accompany S. 2938),Motion Agreed to,64,34,0,2
+Senate,117,2,236,236,2022-06-22,"Motion to Discharge: Arianna J. Freeman, to be U.S. Circuit Judge for the Third Circuit from the Committee on the Judiciary",On the Motion to Discharge PN1684,Motion to Discharge Agreed to,50,48,0,2
+Senate,117,2,237,237,2022-06-22,"Confirmation: Mary T. Boyle, of Maryland, to be a Commissioner of the Consumer Product Safety Commission",On the Nomination PN1542,Nomination Confirmed,50,48,0,2
+Senate,117,2,238,238,2022-06-22,"Motion to Discharge: Hernan D. Vera, to be U.S. District Judge for the Central District of California, from the Committee on the Judiciary.",On the Motion to Discharge PN1512,Motion to Discharge Agreed to,50,47,0,3
+Senate,117,2,239,239,2022-06-23,Motion to Discharge Jessica G. L. Clarke to be U.S. District Judge for the Southern District of New York from the Committee on the Judiciary ,On the Motion to Discharge PN1477,Motion to Discharge Agreed to,50,49,0,1
+Senate,117,2,240,240,2022-06-23,Motion to Invoke Cloture: Motion to Concur in the House Amendment to S. 2938 with Amendment No. 5099,On the Cloture Motion S. 2938,Cloture Motion Agreed to,65,34,0,1
+Senate,117,2,241,241,2022-06-23,Motion to Table: Amdt. No. 5100,On the Motion to Table S. 2938,Motion to Table Failed,39,58,0,3
+Senate,117,2,242,242,2022-06-23,Motion to Concur in the House amendment to S. 2938 with an amendment (Amdt. No. 5099),On the Motion (Motion to Concur in the House amendment to S. 2938 with an amendment (Amdt. No. 5099)),Motion Agreed to,65,33,0,2
+Senate,117,2,243,243,2022-07-11,Motion to Invoke Cloture: Ashish S. Vazirani to be a Deputy Under Secretary of Defense,On the Cloture Motion PN1185,Cloture Motion Agreed to,67,20,0,13
+Senate,117,2,244,244,2022-07-12,"Confirmation: Ashish S. Vazirani, of Maryland, to be a Deputy Under Secretary of Defense",On the Nomination PN1185,Nomination Confirmed,73,21,0,6
+Senate,117,2,245,245,2022-07-12,"Motion to Invoke Cloture: Steven M. Dettelbach to be Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives",On the Cloture Motion PN1975,Cloture Motion Agreed to,48,46,0,6
+Senate,117,2,246,246,2022-07-12,"Confirmation: Steven M. Dettelbach, of Ohio, to be Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives",On the Nomination PN1975,Nomination Confirmed,48,46,0,6
+Senate,117,2,247,247,2022-07-12,Motion to Invoke Cloture: Michael S. Barr to be a Member of the Board of Governors of the Federal Reserve System,On the Cloture Motion PN2020,Cloture Motion Agreed to,66,27,0,7
+Senate,117,2,248,248,2022-07-13,"Confirmation: Michael S. Barr, of Michigan, to be a Member of the Board of Governors of the Federal Reserve System",On the Nomination PN2020,Nomination Confirmed,66,28,0,6
+Senate,117,2,249,249,2022-07-13,"Motion to Invoke Cloture: Michael S. Barr, to be Vice Chairman for Supervision of the Board of Governors of the Federal Reserve System",On the Cloture Motion PN2021,Cloture Motion Agreed to,66,28,0,6
+Senate,117,2,250,250,2022-07-13,"Confirmation: Michael S. Barr, of Michigan, to be Vice Chairman for Supervision of the Board of Governors of the Federal Reserve System",On the Nomination PN2021,Nomination Confirmed,66,28,0,6
+Senate,117,2,251,251,2022-07-13,Motion to Invoke Cloture: Owen Edward Herrnstadt to be a Member of the Board of Directors of the Export-Import Bank,On the Cloture Motion PN1526,Cloture Motion Agreed to,51,44,0,5
+Senate,117,2,252,252,2022-07-13,"Confirmation: Owen Edward Herrnstadt, of Maryland, to be a Member of the Board of Directors of the Export-Import Bank",On the Nomination PN1526,Nomination Confirmed,51,44,0,5
+Senate,117,2,253,253,2022-07-13,Motion to Invoke Cloture: Kate Elizabeth Heinzelman to be General Counsel of the Central Intelligence Agency,On the Cloture Motion PN1834,Cloture Motion Agreed to,51,42,0,7
+Senate,117,2,255,255,2022-07-14,Motion to Invoke Cloture: Julianna Michelle Childs to be U.S. Circuit Judge for the District of Columbia Circuit,On the Cloture Motion PN1671,Cloture Motion Agreed to,58,33,0,9
+Senate,117,2,254,254,2022-07-14,"Confirmation: Kate Elizabeth Heinzelman, of New York, to be General Counsel of the Central Intelligence Agency",On the Nomination PN1834,Nomination Confirmed,50,41,0,9
+Senate,117,2,256,256,2022-07-18,Motion to Invoke Cloture: Nina Nin-Yuen Wang to be U.S. District Judge for the District of Colorado,On the Cloture Motion PN1688,Cloture Motion Agreed to,52,33,0,15
+Senate,117,2,257,257,2022-07-19,"Confirmation: Nina Nin-Yuen Wang, of Colorado, to be U.S. District Judge for the District of Colorado",On the Nomination PN1688,Nomination Confirmed,58,36,0,6
+Senate,117,2,258,258,2022-07-19,Motion to Invoke Cloture: Nancy L. Maldonado to be U.S. District Judge for the Northern District of Illinois,On the Cloture Motion PN1968,Cloture Motion Agreed to,53,41,0,6
+Senate,117,2,259,259,2022-07-19,"Confirmation: Nancy L. Maldonado, of Illinois, to be U.S. District Judge for the Northern District of Illinois",On the Nomination PN1968,Nomination Confirmed,53,45,0,2
+Senate,117,2,260,260,2022-07-19,"Confirmation: Julianna Michelle Childs, of South Carolina, to be U.S. Circuit Judge of the District of Columbia Circuit",On the Nomination PN1671,Nomination Confirmed,64,34,0,2
+Senate,117,2,261,261,2022-07-19,Motion to Proceed to the House Message to Accompany H.R. 4346,On the Motion to Proceed H.R. 4346,Motion to Proceed Agreed to,64,34,0,2
+Senate,117,2,262,262,2022-07-20,Motion to Invoke Cloture: Gregory Brian Williams to be U.S. District Judge for the District of Delaware,On the Cloture Motion PN1969,Cloture Motion Agreed to,52,43,0,5
+Senate,117,2,263,263,2022-07-20,"Confirmation: Gregory Brian Williams, of Delaware, to be U.S. District Judge for the District of Delaware",On the Nomination PN1969,Nomination Confirmed,52,43,0,5
+Senate,117,2,264,264,2022-07-20,"Confirmation: Bernadette M. Meehan, of New York, to be Ambassador of the United States of America to the Republic of Chile",On the Nomination PN787,Nomination Confirmed,51,44,0,5
+Senate,117,2,265,265,2022-07-20,Motion to Proceed to S.Con.Res. 43,On the Motion to Proceed S.Con.Res. 43,Motion to Proceed Rejected,34,63,0,3
+Senate,117,2,266,266,2022-07-21,"Confirmation: Reuben E. Brigety II, of Florida, to be Ambassador of the United States of America to the Republic of South Africa",On the Nomination PN1765,Nomination Confirmed,55,40,0,5
+Senate,117,2,267,267,2022-07-21,"Confirmation: Shereef M. Elnahal, of New Jersey, to be Under Secretary for Health of the Department of Veterans Affairs",On the Nomination PN1843,Nomination Confirmed,66,23,0,11
+Senate,117,2,268,268,2022-07-26,Motion to Invoke Cloture: Motion to Concur in the House amendment to the Senate amendment to H.R. 4346 with Amdt. No. 5135,On the Cloture Motion H.R. 4346,Cloture Motion Agreed to,64,32,0,4
+Senate,117,2,269,269,2022-07-26,"Motion to Waive Section 404(a) of S. Con. Res. 13, 111th Congress, as amended by S. Con. Res. 11, 114th Congress re: Amendment No. 5135","On the Motion (Motion to Waive Section 404(a) of S. Con. Res. 13, 111th Congress, as amended by S. Con. Res. 11, 114th Congress re: Amendment No. 5135)",Motion Agreed to,63,32,0,5
+Senate,117,2,270,270,2022-07-27,Motion to Waive All Budgetary Discipline Re: Amdt. No. 5135,On the Motion (Motion to Waive All Budgetary Discipline Re: Amdt. No. 5135),Motion Agreed to,64,33,0,3
+Senate,117,2,271,271,2022-07-27,"Motion to Concur in the House Amendment to the Senate Amendment to H.R. 4346 with Amendment No. 5135,","On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 4346 with Amendment No. 5135,)",Motion Agreed to,64,33,0,3
+Senate,117,2,273,273,2022-07-28,"H.R. 7776, as amended",On Passage of the Bill H.R. 7776,Bill Passed,93,1,0,6
+Senate,117,2,272,272,2022-07-27,Motion to Invoke Cloture: Motion to Concur in the House Amendment to S. 3373,On the Cloture Motion S. 3373,Cloture Motion Rejected,55,42,0,3
+Senate,117,2,274,274,2022-07-28,"Confirmation: David Pressman, of New York, to be Ambassador of the United States of America to Hungary",On the Nomination PN2133,Nomination Confirmed,61,30,0,9
+Senate,117,2,275,275,2022-08-01,Motion to Invoke Cloture: Elizabeth Wilson Hanes to be U.S. District Judge for the Eastern District of Virginia,On the Cloture Motion PN2142,Cloture Motion Agreed to,56,33,0,11
+Senate,117,2,276,276,2022-08-02,"Confirmation: Elizabeth Wilson Hanes, of Virginia, to be U.S. District Judge for the Eastern District of Virginia.",On the Nomination PN2142,Nomination Confirmed,59,37,0,4
+Senate,117,2,277,277,2022-08-02,Motion to Concur in the House Amendment to S. 3373 with Amendment No. 5184.,On the Motion (Motion to Concur in the House Amendment to S. 3373 with Amendment No. 5184.),Motion Rejected,7,90,0,3
+Senate,117,2,279,279,2022-08-02,Motion to Concur in the House Amendment to S.3373 with Amendment No. 5185,On the Motion (Motion to Concur in the House Amendment to S.3373 with Amendment No. 5185),Motion Rejected,48,47,0,5
+Senate,117,2,278,278,2022-08-02,Motion to Concur in the House Amendment to S.3373 with Amendment No. 5186,On the Motion (Motion to Concur in the House Amendment to S.3373 with Amendment No. 5186),Motion Rejected,47,48,0,5
+Senate,117,2,280,280,2022-08-02,Motion to Concur in the House Amendment to S.3373,On the Motion (Motion to Concur in the House Amendment to S.3373),Motion Agreed to,86,11,0,3
+Senate,117,2,281,281,2022-08-03,Paul Amendment No. 5191,On the Amendment S.Amdt. 5191 to Treaty Doc. 117-3,Amendment Rejected,10,87,0,3
+Senate,117,2,282,282,2022-08-03,"Resolution of Ratification for Treaty Document No. 117-3, As Amended",On the Resolution of Ratification Treaty Doc. 117-3,Resolution of Ratification Agreed to,95,1,1,3
+Senate,117,2,283,283,2022-08-04,S.J.Res.55,On the Joint Resolution S.J.Res. 55,Joint Resolution Passed,50,47,0,3
+Senate,117,2,284,284,2022-08-04,"Confirmation: Roopali H. Desai, of Arizona, to be U.S. Circuit Judge for the Ninth Circuit ",On the Nomination PN2262,Nomination Confirmed,67,29,0,4
+Senate,117,2,285,285,2022-08-06,Motion to Discharge: David M. Uhlmann to be an Assistant Administrator of the Environmental Protection Agency from the Committee on Environment and Public Works,On the Motion to Discharge PN1555,Motion to Discharge Agreed to,51,39,0,10
+Senate,117,2,286,286,2022-08-06,"Confirmation: Constance J. Milstein, of New York, to be Ambassador of The United States of America to the Republic of Malta.",On the Nomination PN1466,Nomination Confirmed,57,34,0,9
+Senate,117,2,287,287,2022-08-06,Motion to Proceed to H.R. 5376,On the Motion to Proceed H.R. 5376,Motion to Proceed Agreed to,50,50,0,0
+Senate,117,2,288,288,2022-08-06,Motion to Waive All Applicable Budgetary Discipline RE: Sanders Amendment No. 5210.,On the Motion (Motion to Waive All Applicable Budgetary Discipline RE: Sanders Amendment No. 5210.),Motion Rejected,1,99,0,0
+Senate,117,2,289,289,2022-08-07,Graham Amendment No. 5301,On the Amendment S.Amdt. 5301 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,290,290,2022-08-07,Motion to Waive All Applicable Budgetary Discipline RE: Hassan Amendment No. 5469,On the Motion (Motion to Waive All Applicable Budgetary Discipline RE: Hassan Amendment No. 5469),Motion Rejected,55,45,0,0
+Senate,117,2,292,292,2022-08-07,"Sanders Amendment No. 5211, As Modified",On the Amendment S.Amdt. 5211 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,3,97,0,0
+Senate,117,2,291,291,2022-08-07,Barrasso Amendment No. 5409,On the Amendment S.Amdt. 5409 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,293,293,2022-08-07,Capito Amendment No. 5382,On the Amendment S.Amdt. 5382 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,294,294,2022-08-07,Lankford Amendment No. 5384,On the Amendment S.Amdt. 5384 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,295,295,2022-08-07,Motion to Waive Section  313 of the CBA of 1974 Re: Tester Amendment No. 5480,On the Motion (Motion to Waive Section  313 of the CBA of 1974 Re: Tester Amendment No. 5480),Motion Rejected,56,44,0,0
+Senate,117,2,296,296,2022-08-07,Crapo Amendment No. 5404,On the Amendment S.Amdt. 5404 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,297,297,2022-08-07,Scott (FL) Motion to Commit H.R. 5376 to the Committee on Finance with Instructions ,On the Motion (Scott (FL) Motion to Commit H.R. 5376 to the Committee on Finance with Instructions ),Motion Rejected,50,50,0,0
+Senate,117,2,298,298,2022-08-07,Marshall Amendment No. 5389,On the Amendment S.Amdt. 5389 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,299,299,2022-08-07,Sanders Amendment No. 5209,On the Amendment S.Amdt. 5209 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,1,98,0,1
+Senate,117,2,300,300,2022-08-07,Motion to Waive All Applicable Budgetary Discipline Re: Capito Amendment 5383,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Capito Amendment 5383),Motion Rejected,49,50,0,1
+Senate,117,2,301,301,2022-08-07,Grassley Amendment No. 5421,On the Amendment S.Amdt. 5421 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,49,51,0,0
+Senate,117,2,302,302,2022-08-07,Collins Motion to Commit H.R. 5376 to the Committee on Finance with Instructions,On the Motion (Collins Motion to Commit H.R. 5376 to the Committee on Finance with Instructions),Motion Rejected,50,50,0,0
+Senate,117,2,303,303,2022-08-07,Kennedy Amendment No. 5387,On the Amendment S.Amdt. 5387 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,304,304,2022-08-07,Rubio Motion to Commit H.R. 5376 to the Committee on the Judiciary with Instructions,On the Motion (Rubio Motion to Commit H.R. 5376 to the Committee on the Judiciary with Instructions),Motion Rejected,50,50,0,0
+Senate,117,2,305,305,2022-08-07,Lee Amendment No. 5316,On the Amendment S.Amdt. 5316 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,49,51,0,0
+Senate,117,2,306,306,2022-08-07,Shelby Amendment No. 5418,On the Amendment S.Amdt. 5418 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,307,307,2022-08-07,Scott (SC) Motion to Commit H.R. 5376 to the Committee on Finance with Instructions,On the Motion (Scott (SC) Motion to Commit H.R. 5376 to the Committee on Finance with Instructions),Motion Rejected,50,50,0,0
+Senate,117,2,308,308,2022-08-07,"Sanders Amendment No. 5208, As Modified",On the Amendment S.Amdt. 5208 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,1,97,0,2
+Senate,117,2,309,309,2022-08-07,Cruz Amendment No. 5263,On the Amendment S.Amdt. 5263 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,310,310,2022-08-07,Motion to Waive All Applicable Budgetary Discipline Re: Warnock Amendment No. 5262,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Warnock Amendment No. 5262),Motion Rejected,5,94,0,1
+Senate,117,2,311,311,2022-08-07,Motion to Waive All Applicable Budgetary Discipline Re: Cruz Amendment No. 5265,On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Cruz Amendment No. 5265),Motion Rejected,54,46,0,0
+Senate,117,2,313,313,2022-08-07,Kennedy Amendment No. 5385,On the Amendment S.Amdt. 5385 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,312,312,2022-08-07,Sanders Amendment No. 5281,On the Amendment S.Amdt. 5281 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,1,99,0,0
+Senate,117,2,315,315,2022-08-07,Cruz Motion to Commit H.R. 5376 to the Committee on Homeland Security and Governmental Affairs with Instructions,On the Motion (Cruz Motion to Commit H.R. 5376 to the Committee on Homeland Security and Governmental Affairs with Instructions),Motion Rejected,49,51,0,0
+Senate,117,2,314,314,2022-08-07,"Motion to Waive All Applicable Budgetary Discipline Re: Amendment No. 5194, Insulin","On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Amendment No. 5194, Insulin)",Motion Rejected,57,43,0,0
+Senate,117,2,316,316,2022-08-07,Cruz Motion to Commit H.R. 5376 to the Committee on the Judiciary with Instructions,On the Motion (Cruz Motion to Commit H.R. 5376 to the Committee on the Judiciary with Instructions),Motion Rejected,50,50,0,0
+Senate,117,2,318,318,2022-08-07,"Blackburn Motion to Commit H.R. 5376 to the Committee on Agriculture, Nutrition, and Forestry with Instructions.","On the Motion (Blackburn Motion to Commit H.R. 5376 to the Committee on Agriculture, Nutrition, and Forestry with Instructions.)",Motion Rejected,50,50,0,0
+Senate,117,2,317,317,2022-08-07,Hoeven Motion to Commit H.R. 5376 to the Committee on Finance with Instructions,On the Motion (Hoeven Motion to Commit H.R. 5376 to the Committee on Finance with Instructions),Motion Rejected,50,50,0,0
+Senate,117,2,319,319,2022-08-07,"Rubio Motion to Commit H.R. 5376 to the Committee on Health, Education, Labor and Pensions with Instructions","On the Motion (Rubio Motion to Commit H.R. 5376 to the Committee on Health, Education, Labor and Pensions with Instructions)",Motion Rejected,50,50,0,0
+Senate,117,2,320,320,2022-08-07,Sullivan Amendment No. 5435,On the Amendment S.Amdt. 5435 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,321,321,2022-08-07,Graham Amendment No. 5487,On the Amendment S.Amdt. 5487 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Rejected,50,50,0,0
+Senate,117,2,322,322,2022-08-07,Hagerty Motion to Commit H.R. 5376 to the Committee on the Judiciary with Instructions,On the Motion (Hagerty Motion to Commit H.R. 5376 to the Committee on the Judiciary with Instructions),Motion Rejected,50,50,0,0
+Senate,117,2,323,323,2022-08-07,Thune Amendment No.5472,On the Amendment S.Amdt. 5472 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Agreed to,57,43,0,0
+Senate,117,2,324,324,2022-08-07,Warner Amendment No. 5488,On the Amendment S.Amdt. 5488 to S.Amdt. 5194 to H.R. 5376 (No short title on file),Amendment Agreed to,50,50,0,0
+Senate,117,2,325,325,2022-08-07,"H.R. 5376, As Amended",On Passage of the Bill H.R. 5376,Bill Passed,50,50,0,0
+Senate,117,2,326,326,2022-09-06,Motion to Invoke Cloture: John Z. Lee to be U.S. Circuit Judge for the Seventh Circuit,On the Cloture Motion PN1965,Cloture Motion Agreed to,48,42,0,10
+Senate,117,2,327,327,2022-09-07,"Confirmation: John Z. Lee, of Illinois, to be U.S. Circuit Judge for the Seventh Circuit",On the Nomination PN1965,Nomination Confirmed,50,44,0,6
+Senate,117,2,328,328,2022-09-07,Motion to Invoke Cloture: Andre B. Mathis to be U.S. Circuit Judge for the Sixth Circuit,On the Cloture Motion PN1502,Cloture Motion Agreed to,48,45,0,7
+Senate,117,2,329,329,2022-09-08,"Confirmation: Andre B. Mathis, of Tennessee, to be U.S. Circuit Judge for the Sixth Circuit",On the Nomination PN1502,Nomination Confirmed,48,47,0,5
+Senate,117,2,330,330,2022-09-08,"Motion to Invoke Cloture: Salvador Mendoza, Jr. to be U.S. Circuit Judge for the Ninth Circuit",On the Cloture Motion PN1966,Cloture Motion Agreed to,48,43,0,9
+Senate,117,2,331,331,2022-09-12,"Confirmation: Salvador Mendoza, Jr., of Washington, to be United States Circuit Judge for the Ninth Circuit",On the Nomination PN1966,Nomination Confirmed,46,40,0,14
+Senate,117,2,332,332,2022-09-12,Motion to Invoke Cloture: Arianna J. Freeman to be U.S. Circuit Judge for the Third Circuit,On the Cloture Motion PN1684,Cloture Motion Agreed to,45,44,0,11
+Senate,117,2,333,333,2022-09-13,"Confirmation: Arianna J. Freeman, of Pennsylvania, to be United States Circuit Judge for the Third Circuit",On the Nomination PN1684,Nomination Rejected,47,50,0,3
+Senate,117,2,334,334,2022-09-13,Motion to Invoke Cloture: Lara E. Montecalvo to be United States Circuit Judge for the First Circuit,On the Cloture Motion PN2140,Cloture Motion Agreed to,51,45,0,4
+Senate,117,2,335,335,2022-09-14,"Confirmation: Lara E. Montecalvo, of Rhode Island, to be United States Circuit Judge for the First Circuit",On the Nomination PN2140,Nomination Confirmed,52,47,0,1
+Senate,117,2,337,337,2022-09-15,"Confirmation: Sarah A.L. Merriam, of Connecticut, to be United States Circuit Judge for the Second Circuit",On the Nomination PN2141,Nomination Confirmed,53,44,0,3
+Senate,117,2,336,336,2022-09-14,Motion to Invoke Cloture: Sarah A. L. Merriam to be United States Circuit Judge for the Second Circuit,On the Cloture Motion PN2141,Cloture Motion Agreed to,52,47,0,1
+Senate,117,2,338,338,2022-09-15,"Confirmation: David P. Pekoske, of Maryland, to be Administrator of the Transportation Security Administration",On the Nomination PN2063,Nomination Confirmed,77,18,0,5
+Senate,117,2,339,339,2022-09-19,Motion to Invoke Cloture: Florence Y. Pan to be U.S. Circuit Judge for the District of Columbia Circuit,On the Cloture Motion PN2193,Cloture Motion Agreed to,52,38,0,10
+Senate,117,2,340,340,2022-09-20,"Confirmation: Florence Y. Pan, of the District of Columbia, to be U.S. Circuit Judge for the District of Columbia Circuit",On the Nomination PN2193,Nomination Confirmed,52,42,0,6
+Senate,117,2,341,341,2022-09-20,"Motion to Invoke Cloture: Treaty Doc 117-1, Kigali Amendment to the Montreal Protocol",On the Cloture Motion Treaty Doc. 117-1,Cloture Motion Agreed to,64,30,0,6
+Senate,117,2,342,342,2022-09-21,Sullivan Amdt No 5518,On the Amendment S.Amdt. 5518 to Treaty Doc. 117-1,Amendment Agreed to,96,0,0,4
+Senate,117,2,343,343,2022-09-21,"Resolution of Ratification to Treaty Doc No 117-1, the Kigali Amendment to the Montreal Protocol",On the Resolution of Ratification Treaty Doc. 117-1,Resolution of Ratification Agreed to,69,27,0,4
+Senate,117,2,344,344,2022-09-21,Motion to Invoke Cloture: Amanda Bennett to be Chief Executive Officer of the United States Agency for Global Media,On the Cloture Motion PN1566,Cloture Motion Agreed to,60,37,0,3
+Senate,117,2,345,345,2022-09-21,Motion to Invoke Cloture: Arati Prabhakar to be Director of the Office of Science and Technology Policy,On the Cloture Motion PN2267,Cloture Motion Agreed to,58,38,0,4
+Senate,117,2,346,346,2022-09-22,Motion to Invoke Cloture: Motion to Proceed to S. 4822,On the Cloture Motion S. 4822,Cloture Motion Rejected,49,49,0,2
+Senate,117,2,347,347,2022-09-22,"Confirmation: Amanda Bennett, of the District of Columbia, to be Chief Executive Officer of the U.S. Agency for Global Media",On the Nomination PN1566,Nomination Confirmed,60,36,0,4
+Senate,117,2,348,348,2022-09-22,"Confirmation: Arati Prabhakar, of California, to be Director of the Office of Science and Technology Policy",On the Nomination PN2267,Nomination Confirmed,56,40,0,4
+Senate,117,2,349,349,2022-09-27,Motion to Invoke Cloture: Motion to Proceed to H.R. 6833,On Cloture on the Motion to Proceed H.R. 6833,Cloture on the Motion to Proceed Agreed to,72,23,0,5
+Senate,117,2,350,350,2022-09-29,"Upon Reconsideration, Confirmation: Arianna J. Freeman, of Pennsylvania, to be U.S. Circuit Judge for the Third Circuit",On the Nomination PN1684,Nomination Confirmed,50,47,0,3
+Senate,117,2,351,351,2022-09-29,"H.R. 6833, As Amended",On Passage of the Bill H.R. 6833,Bill Passed,72,25,0,3
+Senate,117,2,352,352,2022-09-29,"Upon Reconsideration, Confirmation: Lisa M. Gomez, of New Jersey, to be an Assistant Secretary of Labor",On the Nomination PN1595,Nomination Confirmed,49,36,0,15
+Senate,117,2,353,353,2022-11-14,Motion to Invoke Cloture: Maria del R. Antongiorgi-Jordan to be United States District Judge for the District of Puerto Rico,On the Cloture Motion PN2263,Cloture Motion Agreed to,51,43,0,6
+Senate,117,2,354,354,2022-11-15,"Confirmation: Maria del R. Antongiorgi-Jordan, of Puerto Rico, to be United States District Judge for the District of Puerto Rico",On the Nomination PN2263,Nomination Confirmed,55,43,0,2
+Senate,117,2,355,355,2022-11-15,S.J.Res. 63,On the Joint Resolution S.J.Res. 63,Joint Resolution Passed,61,37,0,2
+Senate,117,2,356,356,2022-11-16,Motion to Invoke Cloture: Motion to Proceed to H.R. 8404,On the Cloture Motion H.R. 8404,Cloture Motion Agreed to,62,37,0,1
+Senate,117,2,357,357,2022-11-17,Motion to Proceed to Consider H.R. 8404,On the Motion to Proceed H.R. 8404,Motion to Proceed Agreed to,53,23,0,24
+Senate,117,2,358,358,2022-11-28,Motion to Invoke Cloture: Amdt. No. 6487 to H.R. 8404,On the Cloture Motion H.R. 8404,Cloture Motion Agreed to,61,35,0,4
+Senate,117,2,359,359,2022-11-29,Lee Amdt. No. 6482,On the Amendment S.Amdt. 6482 to S.Amdt. 6487 to H.R. 8404 (No short title on file),Amendment Rejected,48,49,0,3
+Senate,117,2,360,360,2022-11-29,Lankford Amdt. No. 6496,On the Amendment S.Amdt. 6496 to S.Amdt. 6487 to H.R. 8404 (No short title on file),Amendment Rejected,45,52,0,3
+Senate,117,2,361,361,2022-11-29,Rubio Amdt. No. 6493,On the Amendment S.Amdt. 6493 to S.Amdt. 6487 to H.R. 8404 (No short title on file),Amendment Rejected,45,52,0,3
+Senate,117,2,362,362,2022-11-29,"H.R. 8404, as amended",On Passage of the Bill H.R. 8404,Bill Passed,61,36,0,3
+Senate,117,2,363,363,2022-11-30,Motion to Invoke Cloture: Camille L. Velez-Rive to be U.S. District Judge for the District of Puerto Rico,On the Cloture Motion PN2264,Cloture Motion Agreed to,54,43,0,3
+Senate,117,2,364,364,2022-11-30,Motion to Invoke Cloture: Anne M. Nardacci to be U.S. District Judge for the Northern District of New York,On the Cloture Motion PN2143,Cloture Motion Agreed to,52,45,0,3
+Senate,117,2,365,365,2022-11-30,"Confirmation: Camille L. Velez-Rive, to be U.S. District Judge for the District of Puerto Rico",On the Nomination PN2264,Nomination Confirmed,55,42,0,3
+Senate,117,2,366,366,2022-11-30,"Confirmation: Anne M. Nardacci, of New York, to be U.S. District Judge for the Northern District of New York",On the Nomination PN2143,Nomination Confirmed,52,44,0,4
+Senate,117,2,367,367,2022-11-30,"Confirmation: Robert Phillip Storch, of the District of Columbia, to be Inspector General, Department of Defense",On the Nomination PN1368,Nomination Confirmed,92,3,0,5
+Senate,117,2,368,368,2022-12-01,Motion to Invoke Cloture: Jerry W. Blackwell to be U.S. District Judge for the District of Minnesota,On the Cloture Motion PN2266,Cloture Motion Agreed to,54,42,0,4
+Senate,117,2,369,369,2022-12-01,"Motion to Invoke Cloture: Doris L. Pryor, of Indiana, to be U.S. Circuit Judge for the Seventh Circuit",On the Cloture Motion PN2192,Cloture Motion Agreed to,62,31,0,7
+Senate,117,2,370,370,2022-12-01,Sullivan Amdt. No. 6503,On the Amendment S.Amdt. 6503 to H.J.Res. 100 (No short title on file),Amendment Rejected,25,70,0,5
+Senate,117,2,371,371,2022-12-01,H.Con.Res. 119,On the Concurrent Resolution H.Con.Res. 119,Concurrent Resolution Rejected,52,43,0,5
+Senate,117,2,372,372,2022-12-01,H.J.Res. 100,On the Resolution H.J.Res. 100,Resolution Agreed to,80,15,1,4
+Senate,117,2,373,373,2022-12-05,"Confirmation: Doris L. Pryor, of Indiana, to be U.S. Circuit Judge for the Seventh Circuit",On the Nomination PN2192,Nomination Confirmed,60,31,0,9
+Senate,117,2,374,374,2022-12-06,Motion to Invoke Cloture: Frances Kay Behm to be U.S. District Judge for the Eastern District of Michigan,On the Cloture Motion PN2314,Cloture Motion Agreed to,47,46,0,7
+Senate,117,2,375,375,2022-12-06,Motion to Invoke Cloture: Kelley Brisbon Hodge to be U.S. District Judge for the Eastern District of Pennsylvania,On the Cloture Motion PN2365,Cloture Motion Agreed to,52,43,0,5
+Senate,117,2,376,376,2022-12-06,"Confirmation: Frances Kay Behm, of Michigan, to be U.S. District Judge for the Eastern District of Michigan",On the Nomination PN2314,Nomination Confirmed,49,47,0,4
+Senate,117,2,377,377,2022-12-06,"Confirmation: Kelley Brisbon Hodge, of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",On the Nomination PN2365,Nomination Confirmed,52,44,0,4
+Senate,117,2,378,378,2022-12-07,"Confirmation: Mia Roberts Perez, of Pennsylvania, to U.S. District Judge for the Eastern District of Pennsylvania",On the Nomination PN2367,Nomination Confirmed,52,43,0,5
+Senate,117,2,379,379,2022-12-07,Motion to Invoke Cloture: Kai N. Scott to be U.S. District Judge for the Eastern District of Pennsylvania,On the Cloture Motion PN2366,Cloture Motion Agreed to,52,42,0,6
+Senate,117,2,380,380,2022-12-07,"Confirmation: Kai N. Scott, of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",On the Nomination PN2366,Nomination Confirmed,50,42,0,8
+Senate,117,2,381,381,2022-12-07,"Confirmation: John Frank Murphy, of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",On the Nomination PN2368,Nomination Confirmed,63,28,0,9
+Senate,117,2,382,382,2022-12-07,Motion to Invoke Cloture: Jeffery Paul Hopkins to be U.S. District Judge for the Southern District of Ohio,On the Cloture Motion PN2438,Cloture Motion Agreed to,60,34,0,6
+Senate,117,2,383,383,2022-12-07,"Confirmation: Jerry W. Blackwell, of Minnesota, to be U.S. District Judge for the District of Minnesota",On the Nomination PN2266,Nomination Confirmed,51,43,0,6
+Senate,117,2,384,384,2022-12-08,"Confirmation: Jeffery Paul Hopkins, of Ohio, to be U.S. District Judge for the Southern District of Ohio",On the Nomination PN2438,Nomination Confirmed,64,32,0,4
+Senate,117,2,385,385,2022-12-08,"Motion to Invoke Cloture: Tamika R. Montgomery-Reeves, to be U.S. Circuit Judge for the Third Circuit",On the Cloture Motion PN2315,Cloture Motion Agreed to,57,39,0,4
+Senate,117,2,386,386,2022-12-08,Motion to Invoke Cloture: Dana M. Douglas to be U.S. Circuit Judge for the Fifth Circuit,On the Cloture Motion PN2261,Cloture Motion Agreed to,63,31,0,6
+Senate,117,2,387,387,2022-12-12,"Confirmation: Tamika R. Montgomery-Reeves, of Delaware, to be United States Circuit Judge for the Third Circuit",On the Nomination PN2315,Nomination Confirmed,53,35,0,12
+Senate,117,2,388,388,2022-12-13,"Confirmation: Dana M. Douglas, of Louisiana, to be U.S. Circuit Judge for the Fifth Circuit",On the Nomination PN2261,Nomination Confirmed,65,31,0,4
+Senate,117,2,389,389,2022-12-13,"Confirmation: Jay Curtis Shambaugh, of Maryland, to be an Under Secretary of the Treasury",On the Nomination PN1815,Nomination Confirmed,70,27,0,3
+Senate,117,2,390,390,2022-12-14,S.J.Res. 60,On the Joint Resolution S.J.Res. 60,Joint Resolution Defeated,49,49,0,2
+Senate,117,2,392,392,2022-12-15,"Confirmation: Musetta Tia Johnson, of Virginia, to be a Judge of the U.S. Court of Appeals for the Armed Forces",On the Nomination PN1657,Nomination Confirmed,76,20,0,4
+Senate,117,2,391,391,2022-12-14,"Confirmation: Francisco O. Mora, of Florida, to be Permanent Representative of the United States of America to the Organization of American States",On the Nomination PN953,Nomination Confirmed,51,45,0,4
+Senate,117,2,393,393,2022-12-15,Motion to Proceed to the House Message to Accompany H.R. 1437,On the Motion to Proceed H.R. 1437,Motion to Proceed Agreed to,75,20,0,5
+Senate,117,2,395,395,2022-12-15,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 7776 with the Johnson Amendment No. 6526,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 7776 with the Johnson Amendment No. 6526),Motion Rejected,40,54,0,6
+Senate,117,2,394,394,2022-12-15,Motion to Invoke Cloture: Motion to Concur in the House Amendment to Senate Amendment to H.R. 7776 with the Manchin Amendment No. 6513,On the Cloture Motion H.R. 7776,Cloture Motion Rejected,47,47,0,6
+Senate,117,2,396,396,2022-12-15,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 7776,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 7776),Motion Agreed to,83,11,0,6
+Senate,117,2,398,398,2022-12-15,"Motion to Concur in the House Amendment to the Senate amendment to H.R. 1437, with Lee amendment No. 6451, as modified","On the Motion (Motion to Concur in the House Amendment to the Senate amendment to H.R. 1437, with Lee amendment No. 6451, as modified)",Motion Rejected,35,56,0,9
+Senate,117,2,397,397,2022-12-15,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1437 with the Scott (FL) Amendment No. 6540,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1437 with the Scott (FL) Amendment No. 6540),Motion Rejected,45,47,0,8
+Senate,117,2,399,399,2022-12-15,Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1437,On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1437),Motion Agreed to,71,19,0,10
+Senate,117,2,400,400,2022-12-19,"Confirmation: Martin J. Gruenberg, of Maryland, to be a Member of the Board of Directors of the Federal Deposit Insurance Corporation",On the Nomination PN2692,Nomination Confirmed,45,39,0,16
+Senate,117,2,401,401,2022-12-20,"Confirmation: R. Russell Rumbaugh, of Nebraska, to be an Assistant Secretary of the Navy",On the Nomination PN1883,Nomination Confirmed,80,10,0,10
+Senate,117,2,402,402,2022-12-20,"Confirmation: Robert Harley Shriver III, of Virginia, to be Deputy Director of the Office of Personnel Management",On the Nomination PN2458,Nomination Confirmed,57,35,0,8
+Senate,117,2,403,403,2022-12-20,Motion to Proceed to the House Message to Accompany H.R. 2617,On the Motion to Proceed H.R. 2617,Motion to Proceed Agreed to,70,25,0,5
+Senate,117,2,404,404,2022-12-21,"Confirmation: Lynne M. Tracy, of Ohio, to be Ambassador of the United States of America to the Russian Federation",On the Nomination PN2668,Nomination Confirmed,93,2,0,5
+Senate,117,2,405,405,2022-12-21,"Confirmation: Agnes Schaefer, of Pennsylvania, to be an Assistant Secretary of the Army",On the Nomination PN1668,Nomination Confirmed,68,26,0,6
+Senate,117,2,406,406,2022-12-22,"Confirmation: Franklin R. Parker, of the District of Columbia, to be an Assistant Secretary of the Navy",On the Nomination PN1690,Nomination Confirmed,70,22,0,8
+Senate,117,2,407,407,2022-12-22,S. 5355,On Passage of the Bill S. 5355,Bill Defeated,22,73,0,5
+Senate,117,2,408,408,2022-12-22,Motion to Waive All Applicable Budgetary Discipline Re: the House Amendment to Senate Amendment No. 4 with an Amendment (Amendment No. 6552),On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: the House Amendment to Senate Amendment No. 4 with an Amendment (Amendment No. 6552)),Motion Agreed to,65,31,0,4
+Senate,117,2,409,409,2022-12-22,Paul Amendment No. 6561,On the Amendment S.Amdt. 6561 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Rejected,34,63,0,3
+Senate,117,2,410,410,2022-12-22,Johnson Amendment No. 6555,On the Amendment S.Amdt. 6555 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Rejected,34,63,0,3
+Senate,117,2,411,411,2022-12-22,Johnson Amendment No. 6559,On the Amendment S.Amdt. 6559 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Rejected,47,50,0,3
+Senate,117,2,413,413,2022-12-22,Lee Amendment No. 6563,On the Amendment S.Amdt. 6563 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Rejected,47,50,0,3
+Senate,117,2,412,412,2022-12-22,Sinema Amendment No. 6621,On the Amendment S.Amdt. 6621 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Rejected,10,87,0,3
+Senate,117,2,414,414,2022-12-22,Lankford Amendment No. 6577,On the Amendment S.Amdt. 6577 to S.Amdt. 6558 to S.Amdt. 6552 to H.R. 2617,Amendment Rejected,44,53,0,3
+Senate,117,2,415,415,2022-12-22,Braun Amendment No. 6569,On the Amendment S.Amdt. 6569 to S.Amdt. 6558 to S.Amdt. 6552 to H.R. 2617,Amendment Rejected,40,57,0,3
+Senate,117,2,416,416,2022-12-22,Cassidy Amendment No. 6558,On the Amendment S.Amdt. 6558 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Agreed to,73,24,0,3
+Senate,117,2,417,417,2022-12-22,Merkley Amendment No. 6595,On the Amendment S.Amdt. 6595 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Agreed to,92,5,0,3
+Senate,117,2,418,418,2022-12-22,Klobuchar Amendment No. 6597,On the Amendment S.Amdt. 6597 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Agreed to,88,8,0,4
+Senate,117,2,419,419,2022-12-22,Gillibrand Amendment No. 6607 As Modified,On the Amendment S.Amdt. 6607 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Agreed to,90,6,0,4
+Senate,117,2,420,420,2022-12-22,Menendez Amendment No. 6617,On the Amendment S.Amdt. 6617 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act),Amendment Agreed to,93,4,0,3
+Senate,117,2,421,421,2022-12-22,Motion to Concur in the House Amendment to Senate Amendment No. 4 with an Amendment No. 6552,On the Motion (Motion to Concur in the House Amendment to Senate Amendment No. 4 with an Amendment No. 6552),Motion Agreed to,68,29,0,3

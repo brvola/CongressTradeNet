@@ -1,0 +1,353 @@
+chamber,congress,session,roll_number,chamber_roll_number,vote_date,title,question,result,yeas,nays,present,not_voting
+Senate,118,1,2,2,2023-01-26,S.Res. 13,On the Resolution S.Res. 13,Resolution Agreed to,94,0,0,6
+Senate,118,1,1,1,2023-01-23,"Confirmation: Brendan Owens, of Virginia, to be an Assistant Secretary of Defense",On the Nomination PN1,Nomination Confirmed,60,35,0,5
+Senate,118,1,3,3,2023-01-30,"Confirmation: Roger Israel Zakheim, of Maryland, to be a Member of the Board of Directors of the United States Institute of Peace",On the Nomination PN62,Nomination Confirmed,84,10,0,6
+Senate,118,1,6,6,2023-02-07,Motion to Invoke Cloture: DeAndrea Gist Benjamin to be U.S. Circuit Judge for the Fourth Circuit,On the Cloture Motion PN88,Cloture Motion Agreed to,54,43,0,3
+Senate,118,1,5,5,2023-02-02,"Confirmation: Joseph Lee Falk, of Florida, to be a Member of the Board of Directors of the U.S. Institute of Peace",On the Nomination PN61,Nomination Confirmed,60,37,0,3
+Senate,118,1,4,4,2023-02-01,S. Res. 21,On the Resolution S.Res. 21,Resolution Agreed to,97,0,0,3
+Senate,118,1,7,7,2023-02-09,"Confirmation: DeAndrea Gist Benjamin, of South Carolina, to be U.S. Circuit Judge for the Fourth Circuit",On the Nomination PN88,Nomination Confirmed,53,44,0,3
+Senate,118,1,9,9,2023-02-13,"Confirmation: Cindy K. Chung. of Pennsylvania, to be United States Circuit Judge for the Third Circuit.",On the Nomination PN92,Nomination Confirmed,50,44,0,6
+Senate,118,1,8,8,2023-02-09,Motion to Invoke Cloture: Cindy K. Chung to be U.S. Circuit Judge for the Third Circuit,On the Cloture Motion PN92,Cloture Motion Agreed to,52,46,0,2
+Senate,118,1,10,10,2023-02-13,Motion to Invoke Cloture: Gina R. Mendez-Miro to be U.S. District Judge for the District of Puerto Rico,On the Cloture Motion PN79,Cloture Motion Agreed to,52,44,0,4
+Senate,118,1,11,11,2023-02-14,"Confirmation: Gina R. Mendez-Miro, of Puerto Rico, to be U.S. District Judge for the District of Puerto Rico",On the Nomination PN79,Nomination Confirmed,54,45,0,1
+Senate,118,1,12,12,2023-02-14,Motion to Invoke Cloture: Lindsay C. Jenkins to be U.S. District Judge for the Northern District of Illinois,On the Cloture Motion PN74,Cloture Motion Agreed to,58,41,0,1
+Senate,118,1,13,13,2023-02-14,"Confirmation: Lindsay C. Jenkins, of Illinois, to be United States District Judge for the Northern District of Illinois",On the Nomination PN74,Nomination Confirmed,59,40,0,1
+Senate,118,1,14,14,2023-02-14,Motion to Invoke Cloture: Matthew L. Garcia to be U.S. District Judge for the District of New Mexico,On the Cloture Motion PN72,Cloture Motion Agreed to,54,45,0,1
+Senate,118,1,15,15,2023-02-14,"Confirmation: Matthew L. Garcia, of New Mexico, to be U.S. District Judge for the District of New Mexico",On the Nomination PN72,Nomination Confirmed,53,46,0,1
+Senate,118,1,16,16,2023-02-14,Motion to Invoke Cloture: Adrienne C. Nelson to be U.S. District Judge for the District of Oregon,On the Cloture Motion PN71,Cloture Motion Agreed to,53,44,0,3
+Senate,118,1,18,18,2023-02-15,Motion to Invoke Cloture: Ana C. Reyes to be U.S. District Judge for the District of Columbia,On the Cloture Motion PN80,Cloture Motion Agreed to,52,47,0,1
+Senate,118,1,17,17,2023-02-15,"Confirmation: Adrienne C. Nelson, of Oregon, to be U.S. District Judge for the District of Oregon",On the Nomination PN71,Nomination Confirmed,52,46,0,2
+Senate,118,1,21,21,2023-02-15,Motion to Invoke Cloture: Lester Martinez Lopez to be an Assistant Secretary of Defense,On the Cloture Motion PN3,Cloture Motion Agreed to,64,33,0,3
+Senate,118,1,20,20,2023-02-15,"Confirmation: Ana C. Reyes, of the District of Columbia, to be United States District Judge for the District of Columbia",On the Nomination PN80,Nomination Confirmed,51,47,0,2
+Senate,118,1,19,19,2023-02-15,Motion to Invoke Cloture: Daniel J. Calabretta to be U.S. District Judge for the Eastern District of California,On the Cloture Motion PN73,Cloture Motion Agreed to,52,46,0,2
+Senate,118,1,22,22,2023-02-16,"Confirmation: Daniel J. Calabretta, of California, to be U.S. District Judge for the Eastern District of California",On the Nomination PN73,Nomination Confirmed,51,45,0,4
+Senate,118,1,23,23,2023-02-16,"Confirmation: Lester Martinez-Lopez, of Florida, to be an Assistant Secretary of Defense",On the Nomination PN3,Nomination Confirmed,61,34,0,5
+Senate,118,1,24,24,2023-02-16,Motion to Invoke Cloture: Maria Araujo Kahn to be U.S. Circuit Judge for the Second Circuit,On the Cloture Motion PN91,Cloture Motion Agreed to,50,44,0,6
+Senate,118,1,25,25,2023-02-27,Motion to Invoke Cloture: Jamar K. Walker to be U.S. District Judge for the Eastern District of Virginia,On the Cloture Motion PN78,Cloture Motion Agreed to,52,39,0,9
+Senate,118,1,26,26,2023-02-28,"Confirmation: Jamar K. Walker, of Virginia, to be U.S. District Judge for the Eastern District of Virginia",On the Nomination PN78,Nomination Confirmed,52,41,0,7
+Senate,118,1,27,27,2023-02-28,Motion to Invoke Cloture: Jamal N. Whitehead to be U.S. District Judge for the Western District of Washington,On the Cloture Motion PN75,Cloture Motion Agreed to,51,43,0,6
+Senate,118,1,28,28,2023-02-28,"Confirmation: Jamal N. Whitehead, of Washington, to be U.S. District Judge for the Western District of Washington",On the Nomination PN75,Nomination Confirmed,51,43,0,6
+Senate,118,1,29,29,2023-02-28,Motion to Invoke Cloture: Araceli Martinez-Olguin to be U.S. District Judge for the Northern District of California.,On the Cloture Motion PN76,Cloture Motion Agreed to,48,47,0,5
+Senate,118,1,30,30,2023-02-28,"Confirmation: Araceli Martinez-Olguin, of California, to be U.S. District Judge for the Northern District of California",On the Nomination PN76,Nomination Confirmed,48,48,0,4
+Senate,118,1,31,31,2023-02-28,Motion to Invoke Cloture: Margaret R. Guzman to be U.S. District Judge for the District of Massachusetts,On the Cloture Motion PN77,Cloture Motion Agreed to,48,48,0,4
+Senate,118,1,32,32,2023-03-01,"Confirmation: Margaret R. Guzman, of Massachusetts, to be U.S. District Judge for the District of Massachusetts",On the Nomination PN77,Nomination Confirmed,48,48,0,4
+Senate,118,1,33,33,2023-03-01,Motion to Invoke Cloture: Colleen R. Lawless to be U.S. District Judge for the Central District of Illinois,On the Cloture Motion PN170,Cloture Motion Agreed to,53,43,0,4
+Senate,118,1,34,34,2023-03-01,Motion to Invoke Cloture: Jonathan James Canada Grey to be U.S. District Judge for the Eastern District of Michigan,On the Cloture Motion PN171,Cloture Motion Agreed to,52,44,0,4
+Senate,118,1,35,35,2023-03-01,H.J. Res. 30,On the Joint Resolution H.J.Res. 30,Joint Resolution Passed,50,46,0,4
+Senate,118,1,36,36,2023-03-01,"Motion to Invoke Cloture: James Edward Simmons, Jr., to be U.S. District Judge for the Southern District of California",On the Cloture Motion PN175,Cloture Motion Agreed to,51,45,0,4
+Senate,118,1,37,37,2023-03-02,"Confirmation: Colleen R. Lawless, of Illinois, to be U.S. District Judge for the Central District of Illinois",On the Nomination PN170,Nomination Confirmed,51,41,0,8
+Senate,118,1,38,38,2023-03-02,Motion to Invoke Cloture: Gordon P. Gallagher to be U.S. District Judge for the District of Colorado,On the Cloture Motion PN176,Cloture Motion Agreed to,50,41,0,9
+Senate,118,1,39,39,2023-03-02,"Confirmation: Jonathan James Canada Grey, of Michigan, to be U.S. District Judge for the Eastern District of Michigan",On the Nomination PN171,Nomination Confirmed,49,42,0,9
+Senate,118,1,41,41,2023-03-07,"Confirmation: Robert Stewart Ballou, of Virginia, to be U.S. District Judge for the Western District of Virginia",On the Nomination PN166,Nomination Confirmed,59,37,0,4
+Senate,118,1,40,40,2023-03-06,Motion to Invoke Cloture: Robert Stewart Ballou to be U.S. District Judge for the Western District of Virginia,On the Cloture Motion PN166,Cloture Motion Agreed to,59,35,0,6
+Senate,118,1,42,42,2023-03-07,Motion to Invoke Cloture: Andrew G. Schopler to be U.S. District Judge for the Southern District of California,On the Cloture Motion PN178,Cloture Motion Agreed to,57,39,0,4
+Senate,118,1,43,43,2023-03-07,"Confirmation: Andrew G. Schopler, of California, to be U.S. District Judge for the Southern District of California",On the Nomination PN178,Nomination Confirmed,56,39,0,5
+Senate,118,1,44,44,2023-03-07,Motion to Invoke Cloture: Arun Subramanian to be U.S. District Judge for the Southern District of New York,On the Cloture Motion PN179,Cloture Motion Agreed to,58,37,0,5
+Senate,118,1,45,45,2023-03-07,"Confirmation: Arun Subramanian, of New York, to be U.S. District Judge for the Southern District of New York",On the Nomination PN179,Nomination Confirmed,59,37,0,4
+Senate,118,1,46,46,2023-03-07,"Motion to Invoke Cloture: Patrice H. Kunesh to be Commissioner of the Administration for Native Americans, Department of Health and Human Services",On the Cloture Motion PN162,Cloture Motion Agreed to,62,34,0,4
+Senate,118,1,47,47,2023-03-08,"Confirmation: Patrice H. Kunesh, of Minnesota, to be Commissioner of the Administration for Native Americans, Department of Health and Human Services",On the Nomination PN162,Nomination Confirmed,57,35,0,8
+Senate,118,1,48,48,2023-03-08,Motion to Invoke Cloture: Daniel I. Werfel to be Commissioner of Internal Revenue,On the Cloture Motion PN27,Cloture Motion Agreed to,51,44,0,5
+Senate,118,1,49,49,2023-03-08,H.J. Res. 26,On the Joint Resolution H.J.Res. 26,Joint Resolution Passed,81,14,1,4
+Senate,118,1,50,50,2023-03-09,"Confirmation: Daniel I. Werfel, of the District of Columbia, to be Commissioner of Internal Revenue",On the Nomination PN27,Nomination Confirmed,54,42,0,4
+Senate,118,1,51,51,2023-03-09,"Confirmation: James Edward Simmons, Jr., of California, to be United States District Judge for the Southern District of California",On the Nomination PN175,Nomination Confirmed,51,43,0,6
+Senate,118,1,52,52,2023-03-09,"Confirmation: Maria Araujo Kahn, of Connecticut, to be United States Circuit Judge for the Second Circuit",On the Nomination PN91,Nomination Confirmed,51,42,0,7
+Senate,118,1,53,53,2023-03-14,Motion to Invoke Cloture: Brent Neiman to be a Deputy Under Secretary of the Treasury,On the Cloture Motion PN122,Cloture Motion Agreed to,52,40,0,8
+Senate,118,1,54,54,2023-03-15,"Confirmation: Brent Neiman, of Illinois, to be a Deputy Under Secretary of the Treasury",On the Nomination PN122,Nomination Confirmed,54,40,0,6
+Senate,118,1,55,55,2023-03-15,"Motion to Invoke Cloture: Eric M. Garcetti, to be Ambassador of the United States of America to the Republic of India",On the Cloture Motion PN29,Cloture Motion Agreed to,52,42,0,6
+Senate,118,1,56,56,2023-03-15,"Confirmation: Eric M. Garcetti, of California, to be Ambassador of the United States of America to the Republic of India",On the Nomination PN29,Nomination Confirmed,52,42,0,6
+Senate,118,1,57,57,2023-03-15,Motion to Invoke Cloture: Ravi Chaudhary to be an Assistant Secretary of the Air Force,On the Cloture Motion PN6,Cloture Motion Agreed to,64,29,0,7
+Senate,118,1,58,58,2023-03-15,"Confirmation: Ravi Chaudhary, of Virginia, to be an Assistant Secretary of the Air Force",On the Nomination PN6,Nomination Confirmed,65,29,0,6
+Senate,118,1,59,59,2023-03-15,Motion to Invoke Cloture: Laura Taylor-Kale to be an Assistant Secretary of Defense,On the Cloture Motion PN2,Cloture Motion Agreed to,68,26,0,6
+Senate,118,1,60,60,2023-03-16,Motion to Invoke Cloture: Jessica G. L. Clarke to be U.S. District Judge for the Southern District of New York,On the Cloture Motion PN85,Cloture Motion Agreed to,49,45,0,6
+Senate,118,1,62,62,2023-03-16,"Confirmation: Jessica G.L. Clarke, of New York, to be U.S. District Judge for the Southern District of New York",On the Nomination PN85,Nomination Confirmed,48,43,0,9
+Senate,118,1,61,61,2023-03-16,Motion to Invoke Cloture: Motion to Proceed to S. 316,On Cloture on the Motion to Proceed S. 316,Cloture on the Motion to Proceed Agreed to,68,27,0,5
+Senate,118,1,63,63,2023-03-21,Motion to Proceed to S. 316,On the Motion to Proceed S. 316,Motion to Proceed Agreed to,67,28,0,5
+Senate,118,1,65,65,2023-03-22,Paul Amdt No. 2,On the Amendment S.Amdt. 2 to S. 316 (No short title on file),Amendment Rejected,9,86,0,5
+Senate,118,1,64,64,2023-03-22,"Confirmation: Gordon P. Gallagher, of Colorado, to be U.S. District Judge for the District of Colorado",On the Nomination PN176,Nomination Confirmed,53,43,0,4
+Senate,118,1,66,66,2023-03-22,Graham Amdt No. 14,On the Amendment S.Amdt. 14 to S. 316 (No short title on file),Amendment Rejected,36,60,0,4
+Senate,118,1,68,68,2023-03-23,Rubio Amdt. No. 4,On the Amendment S.Amdt. 4 to S. 316 (No short title on file),Amendment Rejected,32,63,0,5
+Senate,118,1,67,67,2023-03-23,Lee Amdt. No. 22,On the Amendment S.Amdt. 22 to S. 316 (No short title on file),Amendment Rejected,19,76,0,5
+Senate,118,1,69,69,2023-03-23,Risch Amdt. No. 43,On the Amendment S.Amdt. 43 to S. 316 (No short title on file),Amendment Rejected,41,52,0,7
+Senate,118,1,70,70,2023-03-27,Motion to Invoke Cloture: Re: S. 316,On the Cloture Motion S. 316,Cloture Motion Agreed to,65,28,0,7
+Senate,118,1,71,71,2023-03-28,Johnson Amdt. No. 11,On the Amendment S. 316,Amendment Rejected,47,49,0,4
+Senate,118,1,72,72,2023-03-28,Ricketts Amdt. No. 30,On the Amendment S. 316,Amendment Rejected,31,65,0,4
+Senate,118,1,73,73,2023-03-28,Cruz Amdt. No. 9,On the Amendment S. 316,Amendment Rejected,41,55,0,4
+Senate,118,1,74,74,2023-03-28,Sullivan Amdt. No. 33,On the Amendment S. 316,Amendment Rejected,38,57,0,5
+Senate,118,1,75,75,2023-03-28,Scott (FL) Amdt. No. 13,On the Amendment S. 316,Amendment Rejected,33,62,0,5
+Senate,118,1,76,76,2023-03-28,Hawley Amdt. No. 40,On the Amendment S. 316,Amendment Rejected,26,68,0,6
+Senate,118,1,77,77,2023-03-29,S. 316,On Passage of the Bill S. 316,Bill Passed,66,30,0,4
+Senate,118,1,78,78,2023-03-29,Motion to Invoke Cloture: Motion to Proceed to S. 870,On Cloture on the Motion to Proceed S. 870,Cloture on the Motion to Proceed Agreed to,96,0,0,4
+Senate,118,1,79,79,2023-03-29,H.J. Res. 27,On the Joint Resolution H.J.Res. 27,Joint Resolution Passed,53,43,0,4
+Senate,118,1,80,80,2023-03-29,H.J. Res. 7,On the Joint Resolution H.J.Res. 7,Joint Resolution Passed,68,23,0,9
+Senate,118,1,81,81,2023-03-30,"Confirmation: Richard R. Verma, of Maryland, to be Deputy Secretary of State for Management and Resources",On the Nomination PN44,Nomination Confirmed,67,26,0,7
+Senate,118,1,82,82,2023-03-30,"Confirmation: Laura Taylor-Kale, of California, to be an Assistant Secretary of Defense",On the Nomination PN2,Nomination Confirmed,63,27,0,10
+Senate,118,1,83,83,2023-04-17,Motion to Invoke Cloture: Radha Iyengar Plumb to be a Deputy Under Secretary of Defense.,On the Cloture Motion PN5,Cloture Motion Agreed to,61,26,0,13
+Senate,118,1,84,84,2023-04-18,"Confirmation: Radha Iyengar Plumb, of New York, to be a Deputy Under Secretary of Defense",On the Nomination PN5,Nomination Confirmed,68,30,0,2
+Senate,118,1,85,85,2023-04-18,Motion to Invoke Cloture: Amy Lefkowitz Solomon to be an Assistant Attorney General,On the Cloture Motion PN69,Cloture Motion Agreed to,58,40,0,2
+Senate,118,1,86,86,2023-04-18,"Confirmation: Amy Lefkowitz Solomon, of the District of Columbia, to be an Assistant Attorney General",On the Nomination PN69,Nomination Confirmed,59,40,0,1
+Senate,118,1,87,87,2023-04-18,Lee Amdt. No. 80,On the Amendment S.Amdt. 80 to S. 870 (No short title on file),Amendment Rejected,49,50,0,1
+Senate,118,1,88,88,2023-04-19,Paul Amdt. No. 79,On the Amendment S.Amdt. 79 to S. 870 (No short title on file),Amendment Rejected,45,54,0,1
+Senate,118,1,89,89,2023-04-19,"Hagerty Amdt. No. 72, as modified",On the Amendment S.Amdt. 72 to S. 870 (No short title on file),Amendment Rejected,45,54,0,1
+Senate,118,1,90,90,2023-04-19,Motion to Proceed to S.J.Res. 10,On the Motion (Motion to Proceed to S.J.Res. 10),Motion Rejected,48,51,0,1
+Senate,118,1,91,91,2023-04-19,Scott (FL) Amdt. No. 81,On the Amendment S.Amdt. 81 to S. 870 (No short title on file),Amendment Rejected,47,49,0,4
+Senate,118,1,92,92,2023-04-20,Van Hollen Amdt. No. 85,On the Amendment S.Amdt. 85 to S. 870 (No short title on file),Amendment Rejected,46,51,0,3
+Senate,118,1,93,93,2023-04-20,Sullivan Amdt. No. 83,On the Amendment S.Amdt. 83 to S. 870 (No short title on file),Amendment Rejected,42,56,0,2
+Senate,118,1,94,94,2023-04-20,S. 870,On Passage of the Bill S. 870,Bill Passed,95,2,0,3
+Senate,118,1,95,95,2023-04-25,Motion to Invoke Cloture: Joshua David Jacobs to be Under Secretary for Benefits of the Department of Veterans Affairs.,On the Cloture Motion PN195,Cloture Motion Agreed to,72,22,0,6
+Senate,118,1,96,96,2023-04-26,"Confirmation: Joshua David Jacobs, of Washington, to be Under Secretary for Benefits of the Department of Veterans Affairs",On the Nomination PN195,Nomination Confirmed,74,25,0,1
+Senate,118,1,97,97,2023-04-26,Motion to Invoke Cloture: Motion to Proceed to S. 326,On Cloture on the Motion to Proceed S. 326,Cloture on the Motion to Proceed Rejected,57,42,0,1
+Senate,118,1,98,98,2023-04-26,S. J. Res. 11,On the Joint Resolution S.J.Res. 11,Joint Resolution Passed,50,49,0,1
+Senate,118,1,99,99,2023-04-27,Motion to Invoke Cloture: Motion to Proceed to S. J. Res. 4,On Cloture on the Motion to Proceed S.J.Res. 4,Cloture on the Motion to Proceed Rejected,51,47,0,2
+Senate,118,1,100,100,2023-04-27,Motion to Invoke Cloture: Anthony Devos Johnstone to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN89,Cloture Motion Agreed to,50,45,0,5
+Senate,118,1,101,101,2023-05-01,"Confirmation: Anthony Devos Johnstone, of Montana, to be United States Circuit Judge for the Ninth Circuit",On the Nomination PN89,Nomination Confirmed,49,45,0,6
+Senate,118,1,102,102,2023-05-02,Motion to Invoke Cloture: Michael Farbiarz to be U.S. District Judge for the District of New Jersey,On the Cloture Motion PN97,Cloture Motion Agreed to,65,34,0,1
+Senate,118,1,103,103,2023-05-02,Motion to Invoke Cloture: Robert Kirsch to be U.S. District Judge for the District of New Jersey,On the Cloture Motion PN96,Cloture Motion Agreed to,57,42,0,1
+Senate,118,1,104,104,2023-05-02,"Confirmation: Michael Farbiarz, of New Jersey, to be U.S. District Judge for the District of New Jersey",On the Nomination PN97,Nomination Confirmed,65,34,0,1
+Senate,118,1,105,105,2023-05-02,"Confirmation: Robert Kirsch, of New Jersey, to be United States District Judge for the District of New Jersey",On the Nomination PN96,Nomination Confirmed,57,42,0,1
+Senate,118,1,106,106,2023-05-02,Motion to Invoke Cloture: Orelia Eleta Merchant to be U.S. District Judge for the Eastern District of New York,On the Cloture Motion PN180,Cloture Motion Agreed to,51,48,0,1
+Senate,118,1,108,108,2023-05-03,Motion to Invoke Cloture: Wesley L. Hsu to be U.S. District Judge for the Central District of California,On the Cloture Motion PN163,Cloture Motion Agreed to,54,45,0,1
+Senate,118,1,107,107,2023-05-03,"Confirmation: Orelia Eleta Merchant, of New York, to be United States District Judge for the Eastern District of New York",On the Nomination PN180,Nomination Confirmed,51,48,0,1
+Senate,118,1,109,109,2023-05-03,H.J.Res. 39,On the Joint Resolution H.J.Res. 39,Joint Resolution Passed,56,41,0,3
+Senate,118,1,110,110,2023-05-03,S.J.Res. 9,On the Joint Resolution S.J.Res. 9,Joint Resolution Passed,50,48,0,2
+Senate,118,1,111,111,2023-05-03,"Confirmation: Wesley L. Hsu, of California, to be United States District Judge for the Central District of California",On the Nomination PN163,Nomination Confirmed,53,43,0,4
+Senate,118,1,112,112,2023-05-03,Motion to Invoke Cloture: LaShonda A. Hunt to be U.S. District Judge for the Northern District of Illinois,On the Cloture Motion PN289,Cloture Motion Agreed to,54,42,0,4
+Senate,118,1,114,114,2023-05-04,Motion to Invoke Cloture: Colleen Joy Shogan to be Archivist of the United States,On the Cloture Motion PN68,Cloture Motion Agreed to,53,44,0,3
+Senate,118,1,113,113,2023-05-04,"Confirmation: LaShonda A. Hunt, of Illinois, to be U.S. District Judge for the Northern District of Illinois",On the Nomination PN289,Nomination Confirmed,56,41,0,3
+Senate,118,1,115,115,2023-05-04,Motion to Invoke Cloture: Geeta Rao Gupta to be Ambassador at Large for Global Women's Issues,On the Cloture Motion PN39,Cloture Motion Agreed to,50,44,0,6
+Senate,118,1,117,117,2023-05-10,"Confirmation: L. Felice Gorordo, of Florida, to be U.S. Alternate Executive Director of the International Bank for Reconstruction and Development",On the Nomination PN148,Nomination Confirmed,52,45,0,3
+Senate,118,1,116,116,2023-05-09,Motion to Invoke Cloture: L. Felice Gorordo to be U.S. Alternate Executive Director of the International Bank for Reconstruction and Development,On the Cloture Motion PN148,Cloture Motion Agreed to,53,42,0,5
+Senate,118,1,118,118,2023-05-10,"Motion to Invoke Cloture: Glenna Laureen Wright-Gallo to be Assistant Secretary for Special Education and Rehabilitative Services, Department of Education",On the Cloture Motion PN156,Cloture Motion Agreed to,52,45,0,3
+Senate,118,1,119,119,2023-05-10,"Confirmation: Glenna Laureen Wright-Gallo, of Nevada, to be Assistant Secretary for Special Education and Rehabilitation Services, Department of Education",On the Nomination PN156,Nomination Confirmed,52,44,0,4
+Senate,118,1,120,120,2023-05-10,"Confirmation: Colleen Joy Shogan, of Pennsylvania, to be Archivist of the United States",On the Nomination PN68,Nomination Confirmed,52,45,0,3
+Senate,118,1,121,121,2023-05-10,"Confirmation: Geeta Rao Gupta, of Virginia, to be Ambassador at Large for Global Women's Issues",On the Nomination PN39,Nomination Confirmed,51,47,0,2
+Senate,118,1,122,122,2023-05-11,S.J.Res. 23,On the Joint Resolution S.J.Res. 23,Joint Resolution Passed,51,49,0,0
+Senate,118,1,123,123,2023-05-11,S. J. Res. 24,On the Joint Resolution S.J.Res. 24,Joint Resolution Passed,51,49,0,0
+Senate,118,1,124,124,2023-05-11,Motion to Invoke Cloture: Bradley N. Garcia to be U.S. Circuit Judge for the District of Columbia Circuit,On the Cloture Motion PN93,Cloture Motion Agreed to,54,41,0,5
+Senate,118,1,125,125,2023-05-15,"Confirmation: Bradley N. Garcia, of Maryland, to be U.S. Circuit Judge for the District of Columbia Circuit",On the Nomination PN93,Nomination Confirmed,53,40,0,7
+Senate,118,1,126,126,2023-05-16,H. J. Res. 42,On the Joint Resolution H.J.Res. 42,Joint Resolution Passed,56,43,0,1
+Senate,118,1,127,127,2023-05-17,Motion to Invoke Cloture: Jeremy C. Daniel to be U.S. District Judge for the Northern District of Illinois,On the Cloture Motion PN450,Cloture Motion Agreed to,57,39,0,4
+Senate,118,1,129,129,2023-05-17,Motion to Invoke Cloture: Darrel James Papillion to be U.S. District Judge for the Eastern District of Louisiana,On the Cloture Motion PN455,Cloture Motion Agreed to,63,33,0,4
+Senate,118,1,128,128,2023-05-17,"Confirmation: Jeremy C. Daniel, of Illinois, to be U.S. District Judge for the Northern District of Illinois",On the Nomination PN450,Nomination Confirmed,56,40,0,4
+Senate,118,1,130,130,2023-05-17,S. J. Res 18,On the Joint Resolution S.J.Res. 18,Joint Resolution Passed,50,47,0,3
+Senate,118,1,131,131,2023-05-17,Motion to Invoke Cloture: Nancy G. Abudu to be U.S. Circuit Judge for the Eleventh Circuit,On the Cloture Motion PN95,Cloture Motion Agreed to,50,48,0,2
+Senate,118,1,132,132,2023-05-18,"Confirmation: Nancy G. Abudu, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit",On the Nomination PN95,Nomination Confirmed,49,47,0,4
+Senate,118,1,133,133,2023-05-30,"Confirmation: Darrel James Papillion, of Louisiana, to be U.S. District Judge for the Eastern District of Louisiana",On the Nomination PN455,Nomination Confirmed,59,31,0,10
+Senate,118,1,134,134,2023-05-31,Motion to Proceed to H.J. Res. 45,On the Motion (Motion to Proceed to H.J. Res. 45),Motion Agreed to,51,46,0,3
+Senate,118,1,135,135,2023-06-01,H.J.Res. 45,On the Joint Resolution H.J.Res. 45,Joint Resolution Passed,52,46,0,2
+Senate,118,1,136,136,2023-06-01,Paul Amdt. No. 107,On the Amendment S.Amdt. 107 to H.R. 3746 (No short title on file),Amendment Rejected,21,75,0,4
+Senate,118,1,137,137,2023-06-01,Braun Amdt. No. 91,On the Amendment S.Amdt. 91 to H.R. 3746 (No short title on file),Amendment Rejected,35,62,0,3
+Senate,118,1,138,138,2023-06-01,Marshall Amdt. No. 110,On the Amendment S.Amdt. 110 to H.R. 3746 (No short title on file),Amendment Rejected,46,51,0,3
+Senate,118,1,139,139,2023-06-01,Sullivan Amdt. No. 125,On the Amendment S.Amdt. 125 to H.R. 3746 (No short title on file),Amendment Rejected,49,48,0,3
+Senate,118,1,140,140,2023-06-01,Hawley Amdt. No. 93,On the Amendment S.Amdt. 93 to H.R. 3746 (No short title on file),Amendment Rejected,17,81,0,2
+Senate,118,1,141,141,2023-06-01,Kennedy Amdt. No. 104,On the Amendment S.Amdt. 104 to H.R. 3746 (No short title on file),Amendment Rejected,46,51,0,3
+Senate,118,1,142,142,2023-06-01,Cotton Amdt. No. 106,On the Amendment S.Amdt. 106 to H.R. 3746 (No short title on file),Amendment Rejected,48,51,0,1
+Senate,118,1,143,143,2023-06-01,Budd Amdt No. 134,On the Amendment S.Amdt. 134 to H.R. 3746 (No short title on file),Amendment Rejected,47,52,0,1
+Senate,118,1,144,144,2023-06-01,Lee Amdt. No. 98,On the Amendment S.Amdt. 98 to H.R. 3746 (No short title on file),Amendment Rejected,48,51,0,1
+Senate,118,1,145,145,2023-06-01,Kaine Amdt. No. 101,On the Amendment S.Amdt. 101 to H.R. 3746 (No short title on file),Amendment Rejected,30,69,0,1
+Senate,118,1,146,146,2023-06-01,H.R. 3746,On Passage of the Bill H.R. 3746,Bill Passed,63,36,0,1
+Senate,118,1,147,147,2023-06-06,Motion to Invoke Cloture: David Crane to be Under Secretary of Energy,On the Cloture Motion PN18,Cloture Motion Agreed to,54,40,0,6
+Senate,118,1,148,148,2023-06-07,"Confirmation: David Crane, of New Jersey, to be Under Secretary of Energy",On the Nomination PN18,Nomination Confirmed,56,43,0,1
+Senate,118,1,150,150,2023-06-08,"Confirmation: Dilawar Syed, of California, to be Deputy Administrator of the Small Business Administration",On the Nomination PN99,Nomination Confirmed,54,42,0,4
+Senate,118,1,149,149,2023-06-07,Motion to Invoke Cloture: Dilawar Syed to be Deputy Administrator of the Small Business Administration,On the Cloture Motion PN99,Cloture Motion Agreed to,54,44,0,2
+Senate,118,1,151,151,2023-06-08,Motion to Invoke Cloture: Molly R. Silfen to be a Judge of the United States Court of Federal Claims,On the Cloture Motion PN377,Cloture Motion Agreed to,55,41,0,4
+Senate,118,1,152,152,2023-06-08,"Confirmation: Molly R. Silfen, of the District of Columbia, to be a Judge of the United States Court of Federal Claims",On the Nomination PN377,Nomination Confirmed,55,39,0,6
+Senate,118,1,153,153,2023-06-12,Motion to Invoke Cloture: Elizabeth Allen to be Under Secretary of State for Public Diplomacy,On the Cloture Motion PN138,Cloture Motion Agreed to,66,29,0,5
+Senate,118,1,154,154,2023-06-13,"Confirmation: Elizabeth Allen, of New York, to be Under Secretary of State for Public Diplomacy",On the Nomination PN138,Nomination Confirmed,66,33,0,1
+Senate,118,1,155,155,2023-06-13,Motion to Invoke Cloture: Hernan D. Vera to be U.S. District Judge for the Central District of California,On the Cloture Motion PN87,Cloture Motion Agreed to,51,48,0,1
+Senate,118,1,156,156,2023-06-13,Motion to Invoke Cloture: Jared Bernstein to be Chairman of the Council of Economic Advisers,On the Cloture Motion PN383,Cloture Motion Agreed to,50,49,0,1
+Senate,118,1,157,157,2023-06-13,"Confirmation: Hernan D. Vera, of California, to be U.S. District Judge for the Central District of California",On the Nomination PN87,Nomination Confirmed,51,48,0,1
+Senate,118,1,158,158,2023-06-13,"Confirmation: Jared Bernstein, of Virginia, to be Chairman of the Council of Economic Advisors",On the Nomination PN383,Nomination Confirmed,50,49,0,1
+Senate,118,1,159,159,2023-06-14,Motion to Invoke Cloture: P. Casey Pitts to be U.S. District Judge for the Northern District of California,On the Cloture Motion PN177,Cloture Motion Agreed to,53,46,0,1
+Senate,118,1,160,160,2023-06-14,Motion to Invoke Cloture: Dale E. Ho to be U.S. District Judge for the Southern District of New York,On the Cloture Motion PN86,Cloture Motion Agreed to,50,49,0,1
+Senate,118,1,161,161,2023-06-14,"Confirmation: P. Casey Pitts, of California, to be U.S. District Judge for the Northern District of California",On the Nomination PN177,Nomination Confirmed,53,46,0,1
+Senate,118,1,162,162,2023-06-14,"Confirmation: Dale E. Ho, of New York, to be U.S. District Judge for the Southern District of New York",On the Nomination PN86,Nomination Confirmed,50,49,0,1
+Senate,118,1,163,163,2023-06-14,Motion to Invoke Cloture: Nusrat Jahan Choudhury to be U.S. District Judge for the Eastern District of New York,On the Cloture Motion PN83,Cloture Motion Agreed to,50,47,0,3
+Senate,118,1,164,164,2023-06-15,"Confirmation: Nusrat Jahan Choudhury, of New York, to be U.S. District Judge for the Eastern District of New York",On the Nomination PN83,Nomination Confirmed,50,49,0,1
+Senate,118,1,165,165,2023-06-15,Motion to Invoke Cloture: Julie Rikelman to be U.S. Circuit Judge for the First Circuit,On the Cloture Motion PN90,Cloture Motion Agreed to,53,45,0,2
+Senate,118,1,166,166,2023-06-20,"Confirmation: Julie Rikelman, of Massachusetts, to be U.S. Circuit Judge for the First Circuit",On the Nomination PN90,Nomination Confirmed,51,43,0,6
+Senate,118,1,167,167,2023-06-21,"Shall the Joint Resolution Pass, the Objections of the President of the United States to the Contrary Notwithstanding?",On Overriding the Veto S.J.Res. 11,Veto Sustained,50,50,0,0
+Senate,118,1,168,168,2023-06-21,Motion to Invoke Cloture: Natasha C. Merle to be U.S. District Judge for the Eastern District of New York,On the Cloture Motion PN82,Cloture Motion Agreed to,50,50,0,0
+Senate,118,1,169,169,2023-06-21,"Confirmation: Natasha C. Merle, of New York, to be U.S. District Judge for the Eastern District of New York",On the Nomination PN82,Nomination Confirmed,50,49,0,1
+Senate,118,1,171,171,2023-06-22,H.J. Res. 44,On the Joint Resolution H.J.Res. 44,Joint Resolution Defeated,49,50,0,1
+Senate,118,1,170,170,2023-06-21,"Motion to Invoke Cloture: Treaty Doc. 112-8, Tax Convention with Chile",On the Cloture Motion Treaty Doc. 112-8,Cloture Motion Agreed to,97,2,0,1
+Senate,118,1,172,172,2023-06-22,Resolution of Ratification for Treaty Document No. 112-8,On the Resolution of Ratification Treaty Doc. 112-8,Resolution of Ratification Agreed to,95,2,0,3
+Senate,118,1,174,174,2023-07-11,"Confirmation: Xochitl Torres Small, of New Mexico, to be Deputy Secretary of Agriculture",On the Nomination PN382,Nomination Confirmed,84,8,0,8
+Senate,118,1,173,173,2023-07-10,Motion to Invoke Cloture: Xochitl Torres Small to be Deputy Secretary of Agriculture,On the Cloture Motion PN382,Cloture Motion Agreed to,79,8,0,13
+Senate,118,1,175,175,2023-07-11,"Motion to Invoke Cloture: Rosemarie Hidalgo to be Director of the Violence Against Women Office, Department of Justice",On the Cloture Motion PN70,Cloture Motion Agreed to,50,42,0,8
+Senate,118,1,177,177,2023-07-11,"Confirmation: Rosemarie Hidalgo, of the District of Columbia, to be Director of the Violence Against Women Office, Department of Justice",On the Nomination PN70,Nomination Confirmed,51,42,0,7
+Senate,118,1,176,176,2023-07-11,Motion to Invoke Cloture: Kymberly Kathryn Evanson to be U.S. District Judge for the Western District of Washington,On the Cloture Motion PN168,Cloture Motion Agreed to,51,42,0,7
+Senate,118,1,178,178,2023-07-11,"Confirmation: Kymberly Kathryn Evanson, of Washington, to be U.S. District Judge for the Western District of Washington",On the Nomination PN168,Nomination Confirmed,50,42,0,8
+Senate,118,1,179,179,2023-07-11,Motion to Invoke Cloture: Tiffany M. Cartwright to be U.S. District Judge for the Western District of Washington,On the Cloture Motion PN81,Cloture Motion Agreed to,49,42,0,9
+Senate,118,1,180,180,2023-07-12,"Confirmation: Tiffany M. Cartwright, of Washington, to be U.S. District Judge for the Western District of Washington",On the Nomination PN81,Nomination Confirmed,50,47,0,3
+Senate,118,1,181,181,2023-07-12,Motion to Invoke Cloture: Myong J. Joun to be U.S. District Judge for the District of Massachusetts,On the Cloture Motion PN169,Cloture Motion Agreed to,51,46,0,3
+Senate,118,1,182,182,2023-07-12,"Confirmation: Myong J. Joun, of Massachusetts, to be U.S. District Judge for the District of Massachusetts",On the Nomination PN169,Nomination Confirmed,52,46,0,2
+Senate,118,1,183,183,2023-07-12,Motion to Invoke Cloture: Kalpana Kotagal to be a Member of the Equal Employment Opportunity Commission,On the Cloture Motion PN64,Cloture Motion Agreed to,50,50,0,0
+Senate,118,1,184,184,2023-07-13,"Confirmation: Kalpana Kotagal, of Ohio, to be a Member of the Equal Employment Opportunity Commission",On the Nomination PN64,Nomination Confirmed,49,47,0,4
+Senate,118,1,185,185,2023-07-13,Motion to Invoke Cloture: David M. Uhlmann to be an Assistant Administrator of the Environmental Protection Agency,On the Cloture Motion PN118,Cloture Motion Agreed to,51,44,0,5
+Senate,118,1,186,186,2023-07-13,Motion to Invoke Cloture: Rachel Bloomekatz to be U.S. Circuit Judge for the Sixth Circuit,On the Cloture Motion PN94,Cloture Motion Agreed to,50,45,0,5
+Senate,118,1,187,187,2023-07-18,"Confirmation: Rachel Bloomekatz, of Ohio, to be U.S. Circuit Judge for the Sixth Circuit",On the Nomination PN94,Nomination Confirmed,50,48,0,2
+Senate,118,1,188,188,2023-07-18,Motion to Invoke Cloture: Motion to Proceed to S. 2226,On the Cloture Motion S. 2226,Cloture Motion Agreed to,72,25,0,3
+Senate,118,1,189,189,2023-07-19,Murray Amdt. No. 300,On the Amendment S.Amdt. 300 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,96,2,0,2
+Senate,118,1,190,190,2023-07-19,Kaine Amdt. No. 429,On the Amendment S.Amdt. 429 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,65,28,0,7
+Senate,118,1,192,192,2023-07-19,Hawley Amdt. No. 838,On the Amendment S.Amdt. 838 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,39,60,0,1
+Senate,118,1,191,191,2023-07-19,Paul Amdt. No. 222,On the Amendment S.Amdt. 222 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,16,83,0,1
+Senate,118,1,193,193,2023-07-20,"Confirmation: David M. Uhlmann, of Michigan, to be an Assistant Administrator of the Environmental Protection Agency",On the Nomination PN118,Nomination Confirmed,53,46,0,1
+Senate,118,1,194,194,2023-07-20,Cruz Amdt. No. 926,On the Amendment S.Amdt. 926 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,85,14,0,1
+Senate,118,1,195,195,2023-07-20,Lee Amdt. No. 376,On the Amendment S.Amdt. 376 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,13,71,0,16
+Senate,118,1,196,196,2023-07-25,Cornyn Amdt. No. 931,On the Amendment S.Amdt. 931 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,91,6,0,3
+Senate,118,1,197,197,2023-07-25,Rounds Amdt. No. 813,On the Amendment S.Amdt. 813 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,91,7,0,2
+Senate,118,1,198,198,2023-07-26,Warnock Amdt. No. 199,On the Amendment S.Amdt. 199 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,95,2,0,3
+Senate,118,1,199,199,2023-07-26,Cruz Amdt. No. 421,On the Amendment S.Amdt. 421 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,46,53,0,1
+Senate,118,1,200,200,2023-07-26,Wicker Amdt. No. 1055,On the Amendment S.Amdt. 1055 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,51,48,0,1
+Senate,118,1,201,201,2023-07-26,Paul Amdt. No. 438,On the Amendment S.Amdt. 438 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,20,78,0,2
+Senate,118,1,202,202,2023-07-27,Barrasso Amdt. No. 999,On the Amendment S.Amdt. 999 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,96,3,0,1
+Senate,118,1,203,203,2023-07-27,Sanders Amdt. No. 1030,On the Amendment S.Amdt. 1030 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,11,88,0,1
+Senate,118,1,204,204,2023-07-27,Marshall Amdt. No. 874,On the Amendment S.Amdt. 874 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,50,49,0,1
+Senate,118,1,205,205,2023-07-27,Kennedy Amdt. No. 1034,On the Amendment S.Amdt. 1034 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,51,47,0,2
+Senate,118,1,206,206,2023-07-27,Gillibrand Amdt. No. 1065,On the Amendment S.Amdt. 1065 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,94,4,0,2
+Senate,118,1,207,207,2023-07-27,Hawley Amdt. No. 1058,On the Amendment S.Amdt. 1058 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,61,37,0,2
+Senate,118,1,208,208,2023-07-27,Menendez Amdt. No. 638,On the Amendment S.Amdt. 638 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,96,2,0,2
+Senate,118,1,209,209,2023-07-27,Schatz Amdt. No. 1078,On the Amendment S.Amdt. 1078 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,86,11,0,3
+Senate,118,1,210,210,2023-07-27,Rubio Amdt. No. 523,On the Amendment S.Amdt. 523 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Rejected,55,42,0,3
+Senate,118,1,211,211,2023-07-27,Reed Amdt. No. 1087,On the Amendment S.Amdt. 1087 to S.Amdt. 935 to S. 2226 (No short title on file),Amendment Agreed to,94,3,0,3
+Senate,118,1,213,213,2023-09-05,Motion to Invoke Cloture: Philip Nathan Jefferson to be Vice Chairman of the Board of Governors of the Federal Reserve System,On the Cloture Motion PN645,Cloture Motion Agreed to,83,10,0,7
+Senate,118,1,212,212,2023-07-27,"S. 2226, As Amended",On Passage of the Bill S. 2226,Bill Passed,86,11,0,3
+Senate,118,1,215,215,2023-09-06,Motion to Invoke Cloture: Gwynne A. Wilcox to be a Member of the National Labor Relations Board,On the Cloture Motion PN743,Cloture Motion Agreed to,50,49,0,1
+Senate,118,1,216,216,2023-09-06,"Confirmation: Gwynne A. Wilcox, of New York, to be a Member of the National Labor Relations Board",On the Nomination PN743,Nomination Confirmed,51,48,0,1
+Senate,118,1,214,214,2023-09-06,"Confirmation: Philip Nathan Jefferson, of North Carolina, to be Vice Chairman of the Board of Governors of the Federal Reserve System",On the Nomination PN645,Nomination Confirmed,88,10,0,2
+Senate,118,1,217,217,2023-09-06,Motion to Invoke Cloture: Lisa DeNell Cook to be a Member of the Board of Governors of the Federal Reserve System,On the Cloture Motion PN644,Cloture Motion Agreed to,52,47,0,1
+Senate,118,1,218,218,2023-09-06,"Confirmation: Lisa DeNell Cook, of Michigan, to be a Member of the Board of Governors of the Federal Reserve System",On the Nomination PN644,Nomination Confirmed,51,47,0,2
+Senate,118,1,219,219,2023-09-06,Motion to Invoke Cloture: Adriana Debora Kugler to be a Member of the Board of Governors of the Federal Reserve System,On the Cloture Motion PN646,Cloture Motion Agreed to,52,45,0,3
+Senate,118,1,220,220,2023-09-07,"Confirmation: Adriana Debora Kugler, of Maryland, to be a Member of the Board of Governors of the Federal Reserve System",On the Nomination PN646,Nomination Confirmed,53,45,0,2
+Senate,118,1,221,221,2023-09-07,Motion to Invoke Cloture: Anna M. Gomez to be a Member of the Federal Communications Commission,On the Cloture Motion PN673,Cloture Motion Agreed to,55,43,0,2
+Senate,118,1,222,222,2023-09-07,"Confirmation: Anna M. Gomez, of Virginia, to be a Member of the Federal Communications Commission",On the Nomination PN673,Nomination Confirmed,55,43,0,2
+Senate,118,1,223,223,2023-09-11,Motion to Invoke Cloture: Tanya J. Bradsher to be Deputy Secretary of Veterans Affairs,On the Cloture Motion PN551,Cloture Motion Agreed to,49,44,0,7
+Senate,118,1,224,224,2023-09-12,"Confirmation: Tanya J. Bradsher, of Virginia, to be Deputy Secretary of Veterans Affairs",On the Nomination PN551,Nomination Confirmed,50,46,0,4
+Senate,118,1,225,225,2023-09-12,Motion to Invoke Cloture: Jeffrey Irvine Cummings to be U.S. District Judge for the Northern District of Illinois,On the Cloture Motion PN287,Cloture Motion Agreed to,51,44,0,5
+Senate,118,1,226,226,2023-09-12,"Confirmation: Jeffrey Irvine Cummings, of Illinois, to be U.S. District Judge for the Northern District of Illinois",On the Nomination PN287,Nomination Confirmed,50,45,0,5
+Senate,118,1,227,227,2023-09-12,Motion to Invoke Cloture: Motion to Proceed to H.R. 4366,On the Cloture Motion H.R. 4366,Cloture Motion Agreed to,85,12,0,3
+Senate,118,1,228,228,2023-09-14,Motion to Proceed to H.R. 4366,On the Motion to Proceed H.R. 4366,Motion to Proceed Agreed to,91,7,0,2
+Senate,118,1,229,229,2023-09-18,Motion to Invoke Cloture: Vernon D. Oliver to be U.S. District Judge for the District of Connecticut,On the Cloture Motion PN591,Cloture Motion Agreed to,54,40,0,6
+Senate,118,1,230,230,2023-09-19,"Confirmation: Vernon D. Oliver, of Connecticut, to be U.S. District Judge for the District of Connecticut",On the Nomination PN591,Nomination Confirmed,53,44,0,3
+Senate,118,1,231,231,2023-09-19,Motion to Invoke Cloture: Rita F. Lin to be U.S. District Judge for the Northern District of California,On the Cloture Motion PN173,Cloture Motion Agreed to,52,45,0,3
+Senate,118,1,232,232,2023-09-19,"Confirmation: Rita F. Lin, of California, to be U.S. District Judge for the Northern District of California",On the Nomination PN173,Nomination Confirmed,52,45,0,3
+Senate,118,1,233,233,2023-09-20,Motion to Invoke Cloture: Motion to Suspend the rules under Rule V Re: Amdt No 1092,On the Cloture Motion S.Amdt. 1092 to H.R. 4366 (No short title on file),Cloture Motion Rejected,49,48,0,3
+Senate,118,1,234,234,2023-09-20,Motion to Invoke Cloture: Gen. Charles Q. Brown Jr. for reappointment as Chairman of the Joint Chiefs of Staff and appointment in the U.S. Air Force: to be General,On the Cloture Motion PN677,Cloture Motion Agreed to,89,8,0,3
+Senate,118,1,235,235,2023-09-20,"Confirmation: General Charles Q. Brown, Jr., for reappointment as Chairman of the Joint Chiefs of Staff and appointment in the U.S. Air Force: to be General",On the Nomination PN677,Nomination Confirmed,83,11,0,6
+Senate,118,1,236,236,2023-09-20,Motion to Invoke Cloture: Gen. Randy A. George for appointment as Chief of Staff of the Army and appointment in the U.S. Army to be General,On the Cloture Motion PN537,Cloture Motion Agreed to,92,1,0,7
+Senate,118,1,237,237,2023-09-21,Confirmation: General Randy A. George for appointment as Chief of Staff of the Army and appointment in the U.S. Army: to be General,On the Nomination PN537,Nomination Confirmed,96,1,0,3
+Senate,118,1,238,238,2023-09-21,Motion to Invoke Cloture: Gen. Eric M. Smith for appointment as Commandant of the Marine Corps and appointment in the U.S. Marine Corps: to be General,On the Cloture Motion PN691,Cloture Motion Agreed to,96,0,0,4
+Senate,118,1,239,239,2023-09-21,Confirmation: General Eric M. Smith for appointment as Commandant of the Marine Corps and appointment in the U.S. Marine Corps: to be General,On the Nomination PN691,Nomination Confirmed,96,0,0,4
+Senate,118,1,240,240,2023-09-26,Motion to Invoke Cloture: Motion to Proceed to H.R. 3935,On the Cloture Motion H.R. 3935,Cloture Motion Agreed to,77,19,0,4
+Senate,118,1,241,241,2023-09-28,Motion to Proceed to H.R. 3935,On the Motion to Proceed H.R. 3935,Motion to Proceed Agreed to,76,22,0,2
+Senate,118,1,242,242,2023-09-28,"Shall the Joint Resolution S.J.Res.9 Pass, the Objections of the President of the United States to the Contrary Notwithstanding",On Overriding the Veto S.J.Res. 9,Veto Sustained,47,46,0,7
+Senate,118,1,243,243,2023-09-28,"Shall the Joint Resolution S.J.Res.24 Pass, the Objections of the President of the United States to the Contrary Notwithstanding",On Overriding the Veto S.J.Res. 24,Veto Sustained,47,45,0,8
+Senate,118,1,244,244,2023-09-29,"Confirmation: Todd Gee, of D.C., to be U.S. Attorney for the Southern District of Mississippi",On the Nomination PN183,Nomination Confirmed,82,8,0,9
+Senate,118,1,245,245,2023-09-29,"Confirmation: Tara K. McGrath, of California, to be U.S. Attorney for the Southern District of California",On the Nomination PN453,Nomination Confirmed,52,37,0,10
+Senate,118,1,246,246,2023-09-30,Motion to Instruct the Sergeant-at-Arms to Request the Attendance of Absentee Senators,On the Motion for Attendance H.R. 3935,Motion for Attendance Agreed to,49,48,0,2
+Senate,118,1,247,247,2023-09-30,H.R. 5860,On Passage of the Bill H.R. 5860,Bill Passed,88,9,0,2
+Senate,118,1,248,248,2023-10-03,Motion to Invoke Cloture: James C. O'Brien to be Assistant Secretary of State (European and Eurasian Affairs),On the Cloture Motion PN676,Cloture Motion Agreed to,63,32,0,5
+Senate,118,1,249,249,2023-10-04,"Confirmation: James C. O'Brien, of Nebraska, to be an Assistant Secretary of State (European and Eurasian Affairs)",On the Nomination PN676,Nomination Confirmed,67,31,0,2
+Senate,118,1,250,250,2023-10-04,Motion to Invoke Cloture: Brendan Abell Hurson to be U.S. District Judge for the District of Maryland,On the Cloture Motion PN451,Cloture Motion Agreed to,54,44,0,2
+Senate,118,1,251,251,2023-10-04,"Confirmation: Brendan Abell Hurson, of Maryland, to be to be U.S. District Judge for the District of Maryland",On the Nomination PN451,Nomination Confirmed,53,44,0,3
+Senate,118,1,252,252,2023-10-04,Motion to Invoke Cloture: Susan Kim DeClercq to be U.S. District Judge for the Eastern District of Michigan,On the Cloture Motion PN589,Cloture Motion Agreed to,54,44,0,2
+Senate,118,1,253,253,2023-10-04,"Confirmation: Susan Kim DeClercq, of Michigan, to be U.S. District Judge for the Eastern District of Michigan",On the Nomination PN589,Nomination Confirmed,52,42,0,6
+Senate,118,1,254,254,2023-10-16,Motion to Invoke Cloture: Jennifer L. Hill to be U.S. District Judge for the District of Delaware,On the Cloture Motion PN812,Cloture Motion Agreed to,63,26,0,11
+Senate,118,1,255,255,2023-10-17,"Confirmation: Jennifer L. Hall, of Pennsylvania, to be U.S. District Judge for the District of Delaware",On the Nomination PN812,Nomination Confirmed,67,29,0,4
+Senate,118,1,256,256,2023-10-17,Motion to Invoke Cloture: Julia Kathleen Munley to be U.S. District Judge for the Middle District of Pennsylvania,On the Cloture Motion PN590,Cloture Motion Agreed to,52,43,0,5
+Senate,118,1,257,257,2023-10-17,"Confirmation: Julia Kathleen Munley, of Pennsylvania, to be U.S. District Judge for the Middle District of Pennsylvania",On the Nomination PN590,Nomination Confirmed,52,45,0,3
+Senate,118,1,258,258,2023-10-17,Motion to Invoke Cloture: Karla Ann Gilbride to be General Counsel of the Equal Employment Opportunity Commission,On the Cloture Motion PN65,Cloture Motion Agreed to,50,47,0,3
+Senate,118,1,259,259,2023-10-17,"Confirmation: Karla Ann Gilbride, of Maryland, to be General Counsel of the Equal Employment Opportunity Commission",On the Nomination PN65,Nomination Confirmed,50,46,0,4
+Senate,118,1,260,260,2023-10-18,S.J.Res. 32,On the Joint Resolution S.J.Res. 32,Joint Resolution Passed,53,44,0,3
+Senate,118,1,261,261,2023-10-19,S.Res. 417,On the Resolution S.Res. 417,Resolution Agreed to,97,0,0,3
+Senate,118,1,262,262,2023-10-24,Motion to Invoke Cloture: Michael G. Whitaker to be Administrator of the Federal Aviation Administration,On the Cloture Motion PN980,Cloture Motion Agreed to,94,0,0,6
+Senate,118,1,263,263,2023-10-24,"Confirmation: Michael G. Whitaker, of Vermont, to be Administrator of the Federal Aviation Administration",On the Nomination PN980,Nomination Confirmed,98,0,0,2
+Senate,118,1,264,264,2023-10-24,"Motion to Invoke Cloture: Jessica Looman to be Administrator of the Wage and Hour Division, Department of Labor",On the Cloture Motion PN155,Cloture Motion Agreed to,51,47,0,2
+Senate,118,1,265,265,2023-10-25,"Confirmation: Jessica Looman, of Minnesota, to be Administrator of the Wage and Hour Division, Department of Labor",On the Nomination PN155,Nomination Confirmed,51,46,0,3
+Senate,118,1,266,266,2023-10-25,Vance Amdt. No. 1210,On the Amendment S.Amdt. 1210 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Agreed to,59,38,0,3
+Senate,118,1,267,267,2023-10-25,Rubio Amdt. No. 1237,On the Amendment S.Amdt. 1237 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Rejected,47,51,0,2
+Senate,118,1,268,268,2023-10-25,Kennedy Amdt. No. 1354,On the Amendment S.Amdt. 1354 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Agreed to,53,45,0,2
+Senate,118,1,269,269,2023-10-25,Lankford Amdt. No. 1232,On the Amendment S.Amdt. 1232 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Rejected,56,42,0,2
+Senate,118,1,270,270,2023-10-26,Motion to Discharge S.J. Res. 44,On the Motion to Discharge S.J.Res. 44,Motion to Discharge Rejected,11,86,0,3
+Senate,118,1,271,271,2023-10-26,Braun Amdt. No. 1182,On the Amendment S.Amdt. 1182 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Rejected,35,62,0,3
+Senate,118,1,272,272,2023-10-26,S.J. Res. 42,On the Joint Resolution S.J.Res. 42,Joint Resolution Defeated,47,50,0,3
+Senate,118,1,273,273,2023-10-30,Motion to Invoke Cloture: Matthew James Maddox to be U.S. District Judge for the District of Maryland,On the Cloture Motion PN452,Cloture Motion Agreed to,54,40,0,6
+Senate,118,1,274,274,2023-10-31,"Confirmation: Matthew James Maddox, of Maryland, to be U.S. District Judge for the District of Maryland",On the Nomination PN452,Nomination Confirmed,55,42,0,3
+Senate,118,1,275,275,2023-10-31,Motion to Invoke Cloture: Jacob J. Lew to be Ambassador of the United States of America to the State of Israel,On the Cloture Motion PN1062,Cloture Motion Agreed to,53,44,0,3
+Senate,118,1,276,276,2023-10-31,"Confirmation: Jacob J. Lew, of New York, to be Ambassador of the United States of America to the State of Israel",On the Nomination PN1062,Nomination Confirmed,53,43,0,4
+Senate,118,1,277,277,2023-10-31,Hawley Amdt. No. 1200,On the Amendment S.Amdt. 1200 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Agreed to,61,36,0,3
+Senate,118,1,278,278,2023-10-31,Cruz Amdt. No. 1296,On the Amendment S.Amdt. 1296 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Rejected,47,49,0,4
+Senate,118,1,279,279,2023-10-31,Budd Amdt. No. 1243,On the Amendment S.Amdt. 1243 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Rejected,45,50,0,5
+Senate,118,1,280,280,2023-11-01,Paul Amdt. No. 1217,On the Amendment S.Amdt. 1217 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Rejected,46,51,0,3
+Senate,118,1,281,281,2023-11-01,Paul Amdt. No. 1347,On the Amendment S.Amdt. 1347 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Rejected,23,74,0,3
+Senate,118,1,282,282,2023-11-01,Cruz Amdt. No. 1249,On the Amendment S.Amdt. 1249 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Rejected,52,45,0,3
+Senate,118,1,283,283,2023-11-01,Lee Amdt. No. 1121,On the Amendment S.Amdt. 1121 to S.Amdt. 1092 to H.R. 4366 (No short title on file),Amendment Rejected,46,51,0,3
+Senate,118,1,284,284,2023-11-01,"H.R. 4366, as amended",On Passage of the Bill H.R. 4366,Bill Passed,82,15,0,3
+Senate,118,1,285,285,2023-11-01,"H.R. 662, as amended",On Passage of the Bill H.R. 662,Bill Defeated,43,53,0,4
+Senate,118,1,286,286,2023-11-02,Motion to Invoke Cloture: Adm. Lisa M. Franchetti for Appointment as Chief of Naval Operations and to be Admiral,On the Cloture Motion PN882,Cloture Motion Agreed to,95,1,0,4
+Senate,118,1,287,287,2023-11-02,Confirmation: Adm. Lisa M. Franchetti for appointment as Chief of Naval Operations and to be Admiral,On the Nomination PN882,Nomination Confirmed,95,1,0,4
+Senate,118,1,288,288,2023-11-02,"Motion to Invoke Cloture: Gen. David W. Allvin for appointment as Chief of Staff, U.S. Air Force, and to be General",On the Cloture Motion PN877,Cloture Motion Agreed to,95,1,0,4
+Senate,118,1,289,289,2023-11-02,"Confirmation: Gen. David W. Allvin for appointment as Chief of Staff, U.S. Air Force, and to be General",On the Nomination PN877,Nomination Confirmed,95,1,0,4
+Senate,118,1,290,290,2023-11-02,"Motion to Invoke Cloture: Lt. Gen. Christopher J. Mahoney for appointment as Asst. Commandant of the Marine Corps, and to be General",On the Cloture Motion PN881,Cloture Motion Agreed to,91,0,0,9
+Senate,118,1,291,291,2023-11-02,"Confirmation: Lt. Gen. Christopher J. Mahoney for appointment as Asst. Commandant of the Marine Corps, and to be General",On the Nomination PN881,Nomination Confirmed,86,0,0,14
+Senate,118,1,292,292,2023-11-06,Motion to Invoke Cloture: Monica M. Bertagnolli to be Director of the National Institutes of Health,On the Cloture Motion PN649,Cloture Motion Agreed to,59,32,0,9
+Senate,118,1,293,293,2023-11-07,"Confirmation: Monica M. Bertagnolli, of Massachusetts, to be Director of the National Institutes of Health, Department of Health and Human Services",On the Nomination PN649,Nomination Confirmed,62,36,0,2
+Senate,118,1,294,294,2023-11-07,Motion to Invoke Cloture: Kenly Kiya Kato to be U.S. District Judge for the Central District of California,On the Cloture Motion PN84,Cloture Motion Agreed to,50,47,0,3
+Senate,118,1,295,295,2023-11-07,"Confirmation: Kenly Kiya Kato, of California, to be U.S. District Judge for the Central District of California",On the Nomination PN84,Nomination Confirmed,51,46,0,3
+Senate,118,1,296,296,2023-11-07,Motion to Invoke Cloture: Julia E. Kobick to be U.S. District Judge for the District of Massachusetts,On the Cloture Motion PN172,Cloture Motion Agreed to,52,46,0,2
+Senate,118,1,297,297,2023-11-07,"Confirmation: Julia E. Kobick, of Massachusetts, to be U.S. District Judge for the District of Massachusetts",On the Nomination PN172,Nomination Confirmed,52,46,0,2
+Senate,118,1,298,298,2023-11-07,"Motion to Invoke Cloture: Ramon Ernesto Reyes, Jr. to be U.S. District Judge for the Eastern District of New York",On the Cloture Motion PN174,Cloture Motion Agreed to,50,46,0,4
+Senate,118,1,299,299,2023-11-08,"Confirmation: Ramon Ernesto Reyes, Jr., of New York, to be U.S. District Judge for the Eastern District of New York",On the Nomination PN174,Nomination Confirmed,51,48,0,1
+Senate,118,1,300,300,2023-11-08,Motion to Invoke Cloture: Charlotte A. Burrows to be a Member of the Equal Employment Opportunity Commission,On the Cloture Motion PN786,Cloture Motion Agreed to,51,47,0,2
+Senate,118,1,301,301,2023-11-08,"Confirmation: Charlotte A. Burrows, of the District of Columbia, to be a Member of the Equal Employment Opportunity Commission",On the Nomination PN786,Nomination Confirmed,51,47,0,2
+Senate,118,1,302,302,2023-11-08,Motion to Invoke Cloture: Brandy R. McMillion to be U.S. District Judge for the Eastern District of Michigan,On the Cloture Motion PN813,Cloture Motion Agreed to,54,44,0,2
+Senate,118,1,303,303,2023-11-08,S.J.Res. 38,On the Joint Resolution S.J.Res. 38,Joint Resolution Passed,50,48,0,2
+Senate,118,1,304,304,2023-11-08,Motion to Invoke Cloture: Monica Ramirez Almadani to be U.S. District Judge for the Central District of California,On the Cloture Motion PN165,Cloture Motion Agreed to,52,46,0,2
+Senate,118,1,305,305,2023-11-09,"Confirmation: Monica Ramirez Almadani, of California, to be U.S. District Judge for the District of California",On the Nomination PN165,Nomination Confirmed,51,44,0,5
+Senate,118,1,306,306,2023-11-09,"Confirmation: Brandy R. McMillion, of Michigan, to be U.S. District Judge for the Eastern District of Michigan",On the Nomination PN813,Nomination Confirmed,53,42,0,5
+Senate,118,1,307,307,2023-11-09,Motion to Invoke Cloture: Ana de Alba to be U.S. Circuit Judge for the Ninth Circuit,On the Cloture Motion PN499,Cloture Motion Agreed to,49,42,0,9
+Senate,118,1,308,308,2023-11-13,"Confirmation: Ana de Alba, of California, to be United States Circuit Judge for the Ninth Circuit",On the Nomination PN499,Nomination Confirmed,48,43,0,9
+Senate,118,1,309,309,2023-11-14,Motion to Table Motion to Proceed to H.R. 6126,On the Motion to Table H.R. 6126,Motion to Table Agreed to,51,48,0,1
+Senate,118,1,310,310,2023-11-15,S.J.Res. 43,On the Joint Resolution S.J.Res. 43,Joint Resolution Defeated,49,50,0,1
+Senate,118,1,311,311,2023-11-15,Paul Amdt. No. 1366,On the Amendment S.Amdt. 1366 to H.R. 6363 (No short title on file),Amendment Rejected,32,65,0,3
+Senate,118,1,312,312,2023-11-15,H.R. 6363,On Passage of the Bill H.R. 6363,Bill Passed,87,11,0,2
+Senate,118,1,313,313,2023-11-15,"Motion to Insist on the Senate Amendment to H.R. 2670, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees","On the Motion (Motion to Insist on the Senate Amendment to H.R. 2670, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees)",Motion Agreed to,90,8,0,2
+Senate,118,1,314,314,2023-11-27,Motion to Invoke Cloture: Jeffrey M. Bryan to be U.S. District Judge for the District of Minnesota,On the Cloture Motion PN903,Cloture Motion Agreed to,47,42,0,11
+Senate,118,1,315,315,2023-11-28,"Confirmation: Jeffrey M. Bryan, of Minnesota, to be U.S. District Judge for the District of Minnesota",On the Nomination PN903,Nomination Confirmed,49,46,0,5
+Senate,118,1,316,316,2023-11-28,Motion to Invoke Cloture: Margaret M. Garnett to be U.S. District Judge for the Southern District of New York,On the Cloture Motion PN817,Cloture Motion Agreed to,49,46,0,5
+Senate,118,1,317,317,2023-11-28,"Confirmation: Margaret M. Garnett, of New York, to be U.S. District Judge for the Southern District of New York",On the Nomination PN817,Nomination Confirmed,49,46,0,5
+Senate,118,1,319,319,2023-11-29,Motion to Invoke Cloture: Micah W.J. Smith to be U.S. District Judge for the District of Hawaii,On the Cloture Motion PN1022,Cloture Motion Agreed to,57,42,0,1
+Senate,118,1,318,318,2023-11-28,Motion to Invoke Cloture: Jose Javier Rodriguez to be an Assistant Secretary of Labor,On the Cloture Motion PN157,Cloture Motion Rejected,44,51,0,5
+Senate,118,1,320,320,2023-11-29,"Confirmation: Micah W.J. Smith, of Hawaii, to be U.S. District Judge for the District of Hawaii",On the Nomination PN1022,Nomination Confirmed,57,41,0,2
+Senate,118,1,321,321,2023-11-29,Motion to Invoke Cloture: Jamel Semper to be U.S. District Judge for the District of New Jersey,On the Cloture Motion PN1023,Cloture Motion Agreed to,54,44,0,2
+Senate,118,1,322,322,2023-11-29,"Confirmation: Jamel Semper, of New Jersey, to be U.S. District Judge for the District of New Jersey",On the Nomination PN1023,Nomination Confirmed,54,44,0,2
+Senate,118,1,323,323,2023-11-29,Motion to Invoke Cloture: Shanlyn A.S. Park to be U.S. District Judge for the District of Hawaii,On the Cloture Motion PN1053,Cloture Motion Agreed to,53,44,0,3
+Senate,118,1,324,324,2023-11-30,"Confirmation: Shanlyn A.S. Park, of Hawaii, to be U.S. District Judge for the District of Hawaii",On the Nomination PN1053,Nomination Confirmed,53,45,0,2
+Senate,118,1,325,325,2023-11-30,Motion to Invoke Cloture: Irma Carrillo Ramirez to be U.S. Circuit Judge for the Fifth Circuit,On the Cloture Motion PN500,Cloture Motion Agreed to,80,17,0,3
+Senate,118,1,326,326,2023-12-04,"Confirmation: Irma Carrillo Ramirez, of Texas, to be United States Circuit Judge for the Fifth Circuit",On the Nomination PN500,Nomination Confirmed,80,12,0,8
+Senate,118,1,327,327,2023-12-05,Motion to Invoke Cloture: Loren L. AliKhan to be U.S. District Judge for the District of Columbia,On the Cloture Motion PN588,Cloture Motion Agreed to,50,50,0,0
+Senate,118,1,328,328,2023-12-05,"Confirmation: Loren L. AliKhan, of the District of Columbia, to be U.S. District Judge for the District of Columbia",On the Nomination PN588,Nomination Confirmed,50,50,0,0
+Senate,118,1,329,329,2023-12-05,Motion to Invoke Cloture: Elizabeth H. Richard to be Coordinator for Counterterrorism,On the Cloture Motion PN36,Cloture Motion Agreed to,63,37,0,0
+Senate,118,1,330,330,2023-12-06,"Motion to Invoke Cloture: Nathalie Rayes, of Massachusetts, to be Ambassador to the Republic of Croatia",On the Cloture Motion PN648,Cloture Motion Agreed to,53,47,0,0
+Senate,118,1,331,331,2023-12-06,"Confirmation: Nathalie Rayes, of Massachusetts, to be Ambassador to the Republic of Croatia",On the Nomination PN648,Nomination Confirmed,53,47,0,0
+Senate,118,1,332,332,2023-12-06,Motion to Invoke Cloture: Motion to Proceed to H.R. 815,On Cloture on the Motion to Proceed H.R. 815,Cloture on the Motion to Proceed Rejected,49,51,0,0
+Senate,118,1,333,333,2023-12-07,Motion to Discharge S.J.Res. 51,On the Motion to Discharge S.J.Res. 51,Motion to Discharge Rejected,13,84,0,3
+Senate,118,1,334,334,2023-12-07,Motion to Proceed to the Conference Report to Accompany H.R. 2670,On the Motion to Proceed H.R. 2670,Motion to Proceed Agreed to,82,15,0,3
+Senate,118,1,335,335,2023-12-07,Motion to Invoke Cloture: Richard E. N. Federico to be U.S. Circuit Judge for the Tenth Circuit,On the Cloture Motion PN904,Cloture Motion Agreed to,63,32,0,5
+Senate,118,1,336,336,2023-12-11,"Confirmation: Richard E.N. Federico, of Kansas, to be United States Circuit Judge for the Tenth Circuit",On the Nomination PN904,Nomination Confirmed,61,29,0,10
+Senate,118,1,337,337,2023-12-12,Motion to Invoke Cloture: Harry Coker Jr. to be National Cyber Director,On the Cloture Motion PN876,Cloture Motion Agreed to,59,40,0,1
+Senate,118,1,338,338,2023-12-12,"Confirmation: Harry Coker, Jr., of Kansas, to be National Cyber Director",On the Nomination PN876,Nomination Confirmed,59,40,0,1
+Senate,118,1,339,339,2023-12-12,Motion to Table Schumer Amdt. No. 1373,On the Motion to Table S.Amdt. 1373 to H.R. 2670 (National Defense Authorization Act for Fiscal Year 2024),Motion to Table Failed,47,53,0,0
+Senate,118,1,340,340,2023-12-12,Motion to Table Schumer Motion to Recommit Conference Report to Accompany H.R. 2670,On the Motion to Table H.R. 2670,Motion to Table Failed,26,73,0,1
+Senate,118,1,341,341,2023-12-12,Motion to Invoke Cloture: Conference Report to Accompany H.R. 2670,On the Cloture Motion H.R. 2670,Cloture Motion Agreed to,85,15,0,0
+Senate,118,1,342,342,2023-12-13,Motion to Waive the Rule 28 Point of Order Re: Section 7902 of the Conference Report to Accompany H.R. 2670,On the Motion (Motion to Waive the Rule 28 Point of Order Re: Section 7902 of the Conference Report to Accompany H.R. 2670),Motion Agreed to,65,35,0,0
+Senate,118,1,343,343,2023-12-13,Conference Report to Accompany H.R. 2670,On the Conference Report H.R. 2670,Conference Report Agreed to,87,13,0,0
+Senate,118,1,344,344,2023-12-14,"Motion to Invoke Cloture: Jerry Edwards, Jr. to be U.S. District Judge for the Western District of Louisiana",On the Cloture Motion PN769,Cloture Motion Agreed to,66,31,0,3
+Senate,118,1,345,345,2023-12-14,"Confirmation: Jerry Edwards, Jr., of Louisiana, to be U.S. District Judge for the Western District of Louisiana",On the Nomination PN769,Nomination Confirmed,66,24,0,10
+Senate,118,1,346,346,2023-12-14,"Confirmation: Brandon S. Long, of Louisiana, to be U.S. District Judge for the Eastern District of Louisiana",On the Nomination PN771,Nomination Confirmed,64,22,0,14
+Senate,118,1,347,347,2023-12-18,"Confirmation: Martin O'Malley, of Maryland, to be Commissioner of the Social Security Administration",On the Nomination PN900,Nomination Confirmed,50,11,0,39
+Senate,118,1,348,348,2023-12-19,Motion to Invoke Cloture: Christopher Charles Fonzone to be an Assistant Attorney General,On the Cloture Motion PN981,Cloture Motion Agreed to,49,18,0,33
+Senate,118,1,349,349,2023-12-19,"Confirmation: Christopher Charles Fonzone, of Pennsylvania, to be an Assistant Attorney General",On the Nomination PN981,Nomination Confirmed,50,17,0,33
+Senate,118,1,350,350,2023-12-19,Motion to Invoke Cloture: Sara E. Hill to be U.S. District Judge for the Northern District of Oklahoma,On the Cloture Motion PN1103,Cloture Motion Agreed to,52,14,0,34
+Senate,118,1,351,351,2023-12-19,"Confirmation: Sara E. Hill, of Oklahoma, to be U.S. District Judge for the Northern District of Oklahoma",On the Nomination PN1103,Nomination Confirmed,52,14,0,34
+Senate,118,1,352,352,2023-12-19,"Confirmation: Elizabeth H. Richard, of Virginia, to be Coordinator for Counterterrorism",On the Nomination PN36,Nomination Confirmed,49,15,0,36
