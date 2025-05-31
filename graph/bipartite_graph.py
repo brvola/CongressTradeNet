@@ -29,7 +29,6 @@ def create_bipartite_graph_from_csv(csv_path):
     return G, senators, tickers
 
 
-
 def filter_by_degree(G, df, senator_nodes, ticker_nodes, min_degree, min_tx):
     member_counts = df['member'].value_counts()
     active_members = set(member_counts[member_counts >= min_tx].index)
@@ -102,7 +101,6 @@ def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
     plt.title(title)
     plt.axis("off")
     plt.tight_layout()
-    plt.show()
     filename = title.lower().replace(" ", "_") + ".png"
     filepath = IMAGES_DIR / filename
     plt.savefig(filepath, dpi=300)
@@ -142,7 +140,6 @@ def visualize_community_meta_graph(P, communities, membership, title):
     plt.title(title)
     plt.axis('off')
     plt.tight_layout()
-    plt.show()
     filename = title.lower().replace(" ", "_") + ".png"
     filepath = IMAGES_DIR / filename
     plt.savefig(filepath, dpi=300)
@@ -183,7 +180,6 @@ def plot_industry_by_community(csv_path, communities, title):
     ax.set_title("Industry Purchases by Louvain Community")
     ax.legend(title="Industry", bbox_to_anchor=(1.02, 1), loc='upper left')
     plt.tight_layout()
-    plt.show()
     filename = title.lower().replace(" ", "_") + ".png"
     filepath = IMAGES_DIR / filename
     plt.savefig(filepath, dpi=300)
@@ -200,7 +196,6 @@ def visualize_projection_graph(P, membership, title):
     plt.title(title)
     plt.axis('off')
     plt.tight_layout()
-    plt.show()
     filename = title.lower().replace(" ", "_") + ".png"
     filepath = IMAGES_DIR / filename
     plt.savefig(filepath, dpi=300)
@@ -215,11 +210,6 @@ def main():
     H, senators, tickers = create_bipartite_graph_from_csv(csv_path)
     print(f"Original graph: {len(senators)} members, {len(tickers)} tickers, {H.number_of_edges()} edges")
     
-    visualize_bipartite_graph(
-        H, senators, tickers,
-        title="Bipartite Graph-Members and Tickers"
-    )
-
     G, filtered_senators, filtered_tickers = filter_by_degree(H, df, senators, tickers, min_degree=15, min_tx=100)
     print(f"Filtered graph: {len(filtered_senators)} members, {len(filtered_tickers)} tickers, {G.number_of_edges()} edges")
 
