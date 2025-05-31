@@ -236,6 +236,29 @@ def main():
     visualize_projection_graph(P, membership, "Member-Member Projection")
     visualize_community_meta_graph(P, communities, membership, "Community-Level Trading Graph")
 
+    # Centrality metrics
+    deg_cent = nx.degree_centrality(P)
+    btw_cent = nx.betweenness_centrality(P, normalized=True)
+    eig_cent = nx.eigenvector_centrality_numpy(P, weight='weight')
+    cls_cent = nx.closeness_centrality(P)
+
+    # Combine into DataFrame
+    df_centrality = pd.DataFrame({
+        'ticker': list(P.nodes()),
+        'degree': [deg_cent[n] for n in P.nodes()],
+        'betweenness': [btw_cent[n] for n in P.nodes()],
+        'eigenvector': [eig_cent[n] for n in P.nodes()],
+        'closeness': [cls_cent[n] for n in P.nodes()],
+    })
+
+    # Sort and show top results
+    print("\nSenators by centrality (sorted by betweenness):")
+    print(
+        df_centrality
+        .sort_values('betweenness', ascending=False)
+        .to_string(index=False)
+    )
+
     plot_industry_by_community(csv_path, communities, 
                                title="Industry Purchases by Community")
 
