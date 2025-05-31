@@ -16,7 +16,7 @@ def create_bipartite_graph_from_csv(csv_path):
 
     # Filter: only include members with at least 100 transactions
     member_counts = df['member'].value_counts()
-    active_members = member_counts[member_counts >= 100].index
+    active_members = member_counts[member_counts >= 5].index
     df = df[df['member'].isin(active_members)]
 
     G = nx.Graph()
@@ -187,7 +187,7 @@ def main():
     print(f"Original graph: {len(senators)} members, {len(tickers)} tickers, {G.number_of_edges()} edges")
 
     # min_degree = 15
-    H, filtered_senators, filtered_tickers = filter_by_degree(G, senators, tickers, min_degree=15)
+    H, filtered_senators, filtered_tickers = filter_by_degree(G, senators, tickers, min_degree=5)
     print(f"Filtered graph: {len(filtered_senators)} members, {len(filtered_tickers)} tickers, {H.number_of_edges()} edges")
     
     visualize_bipartite_graph(H, filtered_senators, filtered_tickers,
