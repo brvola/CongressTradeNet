@@ -5,6 +5,7 @@ from networkx.algorithms.bipartite.projection import generic_weighted_projected_
 import matplotlib.pyplot as plt
 from pathlib import Path
 from matplotlib.lines import Line2D
+import community as community_louvain 
 
 IMAGES_DIR = Path("../results/images")
 IMAGES_DIR.mkdir(parents=True, exist_ok=True)
@@ -200,6 +201,12 @@ def visualize_projection_graph(P, membership, title):
     filepath = IMAGES_DIR / filename
     plt.savefig(filepath, dpi=300)
     plt.close()
+    
+def compute_modularity(P, node_to_comm):
+    """
+    Compute the Louvain modularity of the given partition (node_to_comm) on graph P.
+    """
+    return community_louvain.modularity(node_to_comm, P, weight="weight")
 
 
 def main():
@@ -210,7 +217,7 @@ def main():
     H, senators, tickers = create_bipartite_graph_from_csv(csv_path)
     print(f"Original graph: {len(senators)} members, {len(tickers)} tickers, {H.number_of_edges()} edges")
     
-    G, filtered_senators, filtered_tickers = filter_by_degree(H, df, senators, tickers, min_degree=15, min_tx=100)
+    G, filtered_senators, filtered_tickers = filter_by_degree(H, df, senators, tickers, min_degree=15, min_tx=150)
     print(f"Filtered graph: {len(filtered_senators)} members, {len(filtered_tickers)} tickers, {G.number_of_edges()} edges")
 
     visualize_bipartite_graph(
@@ -222,6 +229,10 @@ def main():
 
     for i, comm in enumerate(communities):
         print(f"Community {i} (size={len(comm)}): {comm}")
+        
+    # Compute and print the Louvain modularity score
+    modularity_score = compute_modularity(P, membership)
+    print(f"\nLouvain modularity (member-member projection): {modularity_score:.4f}")
 
     visualize_projection_graph(P, membership, "Member-Member Projection")
     visualize_community_meta_graph(P, communities, membership, "Community-Level Trading Graph")
@@ -234,7 +245,7 @@ def main():
 
     # Combine into DataFrame
     df_centrality = pd.DataFrame({
-        'ticker': list(P.nodes()),
+        'name': list(P.nodes()),
         'degree': [deg_cent[n] for n in P.nodes()],
         'betweenness': [btw_cent[n] for n in P.nodes()],
         'eigenvector': [eig_cent[n] for n in P.nodes()],
@@ -242,16 +253,38 @@ def main():
     })
 
     # Sort and show top results
-    print("\nSenators by centrality (sorted by betweenness):")
+    print("\nSenators by centrality (sorted by closeness):")
     print(
         df_centrality
-        .sort_values('betweenness', ascending=False)
+        .sort_values('closeness', ascending=False)
+        .to_string(index=False)
+    )
+    
+    P_ticker = weighted_projected_graph(G, filtered_tickers)
+
+    # Compute four centralities on P_ticker
+    deg_cent_tic = nx.degree_centrality(P_ticker)
+    btw_cent_tic = nx.betweenness_centrality(P_ticker, normalized=True)
+    eig_cent_tic = nx.eigenvector_centrality_numpy(P_ticker, weight='weight')
+    cls_cent_tic = nx.closeness_centrality(P_ticker)
+
+    df_centrality_tic = pd.DataFrame({
+        'ticker':     list(P_ticker.nodes()),
+        'degree':     [deg_cent_tic[n] for n in P_ticker.nodes()],
+        'betweenness':[btw_cent_tic[n] for n in P_ticker.nodes()],
+        'eigenvector':[eig_cent_tic[n] for n in P_ticker.nodes()],
+        'closeness':  [cls_cent_tic[n] for n in P_ticker.nodes()],
+    })
+
+    print("\nStocks by centrality (sorted by eigenvector):")
+    print(
+        df_centrality_tic
+        .sort_values('eigenvector', ascending=False)
         .to_string(index=False)
     )
 
     plot_industry_by_community(csv_path, communities, 
                                title="Industry Purchases by Community")
-
 
 if __name__ == '__main__':
     main()
