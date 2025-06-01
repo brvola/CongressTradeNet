@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 from matplotlib.lines import Line2D
 
+IMAGES_DIR = Path("../results/images")
+IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
 def create_bipartite_graph_from_csv(csv_path):
     df = pd.read_csv(csv_path)
@@ -13,11 +15,6 @@ def create_bipartite_graph_from_csv(csv_path):
     df['type'] = df['type'].str.lower()
     df['type'] = df['type'].replace({'sale_partial': 'sale', 'sale_full': 'sale'})
     df = df[df['type'].isin(['purchase', 'sale'])]
-
-    # Filter: only include members with at least 100 transactions
-    member_counts = df['member'].value_counts()
-    active_members = member_counts[member_counts >= 100].index
-    df = df[df['member'].isin(active_members)]
 
     G = nx.Graph()
     senators = set(df['member'])
@@ -32,19 +29,32 @@ def create_bipartite_graph_from_csv(csv_path):
     return G, senators, tickers
 
 
+def filter_by_degree(G, df, senator_nodes, ticker_nodes, min_degree, min_tx):
+    member_counts = df['member'].value_counts()
+    active_members = set(member_counts[member_counts >= min_tx].index)
 
-def filter_by_degree(G, senator_nodes, ticker_nodes, min_degree):
-    ticker_deg = {t: G.degree(t) for t in ticker_nodes}
+    senator_nodes_filtered = {s for s in senator_nodes if s in active_members}
+
+    G_pruned = G.subgraph(senator_nodes_filtered.union(ticker_nodes)).copy()
+
+    ticker_nodes_pruned = {t for t in ticker_nodes if t in G_pruned.nodes()}
+    senator_nodes_pruned = senator_nodes_filtered  
+
+    ticker_deg = {t: G_pruned.degree(t) for t in ticker_nodes_pruned}
     filtered_tickers = {t for t, deg in ticker_deg.items() if deg >= min_degree}
 
     filtered_senators = {
-        nbr for t in filtered_tickers for nbr in G.neighbors(t)
-        if nbr in senator_nodes
+        nbr
+        for t in filtered_tickers
+        for nbr in G_pruned.neighbors(t)
+        if nbr in senator_nodes_pruned
     }
 
     sub_nodes = filtered_senators.union(filtered_tickers)
-    H = G.subgraph(sub_nodes).copy()
+    H = G_pruned.subgraph(sub_nodes).copy()
+
     return H, filtered_senators, filtered_tickers
+
 
 
 def get_communities(G, senator_nodes):
@@ -91,7 +101,10 @@ def visualize_bipartite_graph(G, senator_nodes, ticker_nodes, title):
     plt.title(title)
     plt.axis("off")
     plt.tight_layout()
-    plt.show()
+    filename = title.lower().replace(" ", "_") + ".png"
+    filepath = IMAGES_DIR / filename
+    plt.savefig(filepath, dpi=300)
+    plt.close()
     
 def visualize_community_meta_graph(P, communities, membership, title):
     # Build meta-graph
@@ -127,9 +140,12 @@ def visualize_community_meta_graph(P, communities, membership, title):
     plt.title(title)
     plt.axis('off')
     plt.tight_layout()
-    plt.show()
+    filename = title.lower().replace(" ", "_") + ".png"
+    filepath = IMAGES_DIR / filename
+    plt.savefig(filepath, dpi=300)
+    plt.close()
 
-def plot_industry_by_community(csv_path, communities, membership):
+def plot_industry_by_community(csv_path, communities, title):
     # 1) Load raw data
     df = pd.read_csv(csv_path)
     df = df[df['ticker'].notnull()]
@@ -164,7 +180,10 @@ def plot_industry_by_community(csv_path, communities, membership):
     ax.set_title("Industry Purchases by Louvain Community")
     ax.legend(title="Industry", bbox_to_anchor=(1.02, 1), loc='upper left')
     plt.tight_layout()
-    plt.show()
+    filename = title.lower().replace(" ", "_") + ".png"
+    filepath = IMAGES_DIR / filename
+    plt.savefig(filepath, dpi=300)
+    plt.close()
 
 
 def visualize_projection_graph(P, membership, title):
@@ -177,34 +196,39 @@ def visualize_projection_graph(P, membership, title):
     plt.title(title)
     plt.axis('off')
     plt.tight_layout()
-    plt.show()
+    filename = title.lower().replace(" ", "_") + ".png"
+    filepath = IMAGES_DIR / filename
+    plt.savefig(filepath, dpi=300)
+    plt.close()
 
 
 def main():
     # Plot trades.csv graph
     csv_path = Path("../data/cleaned/2014-2023/stocks.csv")
-    G, senators, tickers = create_bipartite_graph_from_csv(csv_path)
-    print(f"Original graph: {len(senators)} members, {len(tickers)} tickers, {G.number_of_edges()} edges")
-
-    # min_degree = 15
-    H, filtered_senators, filtered_tickers = filter_by_degree(G, senators, tickers, min_degree=15)
-    print(f"Filtered graph: {len(filtered_senators)} members, {len(filtered_tickers)} tickers, {H.number_of_edges()} edges")
+    df = pd.read_csv(csv_path)
     
-    visualize_bipartite_graph(H, filtered_senators, filtered_tickers,
-                          title="Bipartite Graph: Members vs. Stocks")
+    H, senators, tickers = create_bipartite_graph_from_csv(csv_path)
+    print(f"Original graph: {len(senators)} members, {len(tickers)} tickers, {H.number_of_edges()} edges")
+    
+    G, filtered_senators, filtered_tickers = filter_by_degree(H, df, senators, tickers, min_degree=15, min_tx=100)
+    print(f"Filtered graph: {len(filtered_senators)} members, {len(filtered_tickers)} tickers, {G.number_of_edges()} edges")
+
+    visualize_bipartite_graph(
+        G, filtered_senators, filtered_tickers,
+        title="Filtered Graph-Members and Tickers"
+    )
 
     P, communities, membership = get_communities(H, filtered_senators)
 
     for i, comm in enumerate(communities):
         print(f"Community {i} (size={len(comm)}): {comm}")
 
-    visualize_projection_graph(P, membership, "Trades: Member-Member Projection")
-    
+    visualize_projection_graph(P, membership, "Member-Member Projection")
     visualize_community_meta_graph(P, communities, membership, "Community-Level Trading Graph")
-    
+
     # Centrality metrics
     deg_cent = nx.degree_centrality(P)
-    btw_cent = nx.betweenness_centrality(P, weight='weight')
+    btw_cent = nx.betweenness_centrality(P, normalized=True)
     eig_cent = nx.eigenvector_centrality_numpy(P, weight='weight')
     cls_cent = nx.closeness_centrality(P)
 
@@ -218,14 +242,15 @@ def main():
     })
 
     # Sort and show top results
-    print("\nSenators by centrality (sorted by eigenvector):")
+    print("\nSenators by centrality (sorted by betweenness):")
     print(
         df_centrality
-        .sort_values('eigenvector', ascending=False)
+        .sort_values('betweenness', ascending=False)
         .to_string(index=False)
     )
-    
-    plot_industry_by_community(csv_path, communities, membership)
+
+    plot_industry_by_community(csv_path, communities, 
+                               title="Industry Purchases by Community")
 
 
 if __name__ == '__main__':
