@@ -23,7 +23,7 @@ def create_bipartite_graph_from_csv(csv_path):
     df = pd.read_csv(csv_path)
     df = df[df['ticker'].notnull()]
     df['type'] = df['type'].str.lower()
-    df['type'] = df['type'].replace({'sale_partial': 'sale', 'sale_full': 'sale'})
+    df['type'] = df['type'].apply(lambda x: 'sale' if isinstance(x, str) and x.startswith('sale') else x)
     df = df[df['type'].isin(['purchase', 'sale'])]
 
     G = nx.Graph()
